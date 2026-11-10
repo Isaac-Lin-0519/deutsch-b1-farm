@@ -1,0 +1,986 @@
+{
+ "aller": {
+  "senses": [
+   {
+    "zh": "（加在最高級前）最最…；…不過",
+    "en": "(before a superlative) the very …",
+    "ex": {
+     "de": "Am {aller}liebsten esse ich Pizza mit viel Käse.",
+     "zh": "我最最喜歡吃起司很多的披薩。",
+     "en": "Most of all I love pizza with lots of cheese.",
+     "distractors": [
+      "alle",
+      "allem",
+      "alles"
+     ]
+    }
+   }
+  ]
+ },
+ "allerdings": {
+  "senses": [
+   {
+    "zh": "不過；然而",
+    "en": "however, though",
+    "ex": {
+     "de": "Die Wohnung ist schön, {allerdings} ist die Miete ziemlich hoch.",
+     "zh": "這間公寓很漂亮，不過房租相當貴。",
+     "en": "The flat is nice; however, the rent is quite high.",
+     "distractors": [
+      "deshalb",
+      "nämlich",
+      "also"
+     ]
+    }
+   }
+  ]
+ },
+ "allgemein": {
+  "senses": [
+   {
+    "zh": "一般的；普遍的（im Allgemeinen：一般來說）",
+    "en": "general (im Allgemeinen: in general)",
+    "ex": {
+     "de": "Der Arzt hat mir ein paar {allgemeine} Tipps für einen besseren Schlaf gegeben.",
+     "zh": "醫生給了我幾個改善睡眠的一般建議。",
+     "en": "The doctor gave me a few general tips for better sleep.",
+     "distractors": [
+      "abhängige",
+      "abwesende",
+      "ängstliche"
+     ]
+    }
+   }
+  ]
+ },
+ "alltag": {
+  "senses": [
+   {
+    "zh": "日常生活",
+    "en": "everyday life",
+    "ex": {
+     "de": "Im {Alltag} benutze ich mein Fahrrad mehr als das Auto.",
+     "zh": "日常生活中，我騎腳踏車比開車多。",
+     "en": "In everyday life I use my bike more than the car.",
+     "distractors": [
+      "Alarm",
+      "Abfall",
+      "Anfang"
+     ]
+    }
+   }
+  ]
+ },
+ "alltaeglich": {
+  "senses": [
+   {
+    "zh": "日常的；平凡的",
+    "en": "everyday, ordinary",
+    "ex": {
+     "de": "Einkaufen und Kochen sind {alltägliche} Aufgaben.",
+     "zh": "買菜和煮飯是日常的工作。",
+     "en": "Shopping and cooking are everyday tasks.",
+     "distractors": [
+      "abhängige",
+      "abwesende",
+      "absolute"
+     ]
+    }
+   }
+  ]
+ },
+ "alphabet": {
+  "senses": [
+   {
+    "zh": "字母表",
+    "en": "alphabet",
+    "ex": {
+     "de": "Kinder lernen das {Alphabet} oft mit einem Lied.",
+     "zh": "小孩常常透過一首歌學字母。",
+     "en": "Children often learn the alphabet with a song.",
+     "distractors": [
+      "Abenteuer",
+      "Amt",
+      "Alter"
+     ]
+    }
+   }
+  ]
+ },
+ "als": {
+  "senses": [
+   {
+    "zh": "比（用在比較級後）",
+    "en": "than",
+    "ex": {
+     "de": "Mein Bruder ist zwei Jahre jünger {als} ich.",
+     "zh": "我弟弟比我小兩歲。",
+     "en": "My brother is two years younger than me.",
+     "distractors": [
+      "dass",
+      "wenn",
+      "ob"
+     ]
+    }
+   },
+   {
+    "zh": "當…的時候（過去發生一次的事）",
+    "en": "when (a single event in the past)",
+    "ex": {
+     "de": "{Als} ich klein war, wohnten wir auf dem Land.",
+     "zh": "我小時候，我們住在鄉下。",
+     "en": "When I was little, we lived in the countryside.",
+     "distractors": [
+      "Wenn",
+      "Ob",
+      "Dass"
+     ]
+    }
+   },
+   {
+    "zh": "作為；以…身分",
+    "en": "as (in the role of)",
+    "ex": {
+     "de": "Im Sommer jobbt er {als} Kellner in einem Café.",
+     "zh": "夏天他在一家咖啡館當服務生打工。",
+     "en": "In summer he works as a waiter in a café.",
+     "distractors": [
+      "wie",
+      "für",
+      "ob"
+     ]
+    }
+   }
+  ]
+ },
+ "als-ob": {
+  "senses": [
+   {
+    "zh": "好像；彷彿",
+    "en": "as if",
+    "ex": {
+     "de": "Es sieht so aus, {als ob} es gleich regnen würde.",
+     "zh": "看起來好像快要下雨了。",
+     "en": "It looks as if it's going to rain soon.",
+     "distractors": [
+      "sodass",
+      "damit",
+      "obwohl"
+     ]
+    }
+   }
+  ]
+ },
+ "also": {
+  "senses": [
+   {
+    "zh": "所以；因此",
+    "en": "so, therefore",
+    "ex": {
+     "de": "Der Laden ist schon zu, wir müssen {also} morgen einkaufen.",
+     "zh": "店已經關了，所以我們得明天再去買。",
+     "en": "The shop is already closed, so we'll have to shop tomorrow.",
+     "distractors": [
+      "denn",
+      "oder",
+      "sondern"
+     ]
+    }
+   },
+   {
+    "zh": "（開頭語）那麼；好",
+    "en": "(opening a statement) well, so",
+    "ex": {
+     "de": "{Also}, ich fasse noch einmal zusammen: Wir treffen uns um acht.",
+     "zh": "那麼，我再總結一次：我們八點見。",
+     "en": "So, let me sum up once more: we'll meet at eight.",
+     "distractors": [
+      "Aber",
+      "Denn",
+      "Oder"
+     ]
+    }
+   }
+  ]
+ },
+ "alt": {
+  "senses": [
+   {
+    "zh": "老的；舊的；…歲",
+    "en": "old; … years old",
+    "ex": {
+     "de": "Wie {alt} ist eure Katze? – Schon fünfzehn Jahre!",
+     "zh": "你們的貓幾歲了？——已經十五歲了！",
+     "en": "How old is your cat? – Fifteen already!",
+     "distractors": [
+      "teuer",
+      "viel",
+      "spät"
+     ]
+    }
+   }
+  ]
+ },
+ "alter": {
+  "senses": [
+   {
+    "zh": "年齡；老年",
+    "en": "age; old age",
+    "ex": {
+     "de": "In meinem {Alter} lernt man nicht mehr so schnell.",
+     "zh": "到了我這個年紀，學東西沒那麼快了。",
+     "en": "At my age you don't learn as quickly anymore.",
+     "distractors": [
+      "Abenteuer",
+      "Amt",
+      "Alphabet"
+     ]
+    }
+   }
+  ]
+ },
+ "altenheim": {
+  "senses": [
+   {
+    "zh": "養老院",
+    "en": "retirement home",
+    "ex": {
+     "de": "Meine Großmutter lebt seit einem Jahr im {Altenheim}.",
+     "zh": "我奶奶住在養老院已經一年了。",
+     "en": "My grandmother has been living in a retirement home for a year.",
+     "distractors": [
+      "Amt",
+      "Alter",
+      "Abitur"
+     ]
+    }
+   }
+  ]
+ },
+ "altersheim": {
+  "senses": [
+   {
+    "zh": "養老院（同 Altenheim）",
+    "en": "old people's home",
+    "ex": {
+     "de": "Jeden Sonntag besuchen die Kinder ihren Opa im {Altersheim}.",
+     "zh": "孩子們每個星期天都去養老院看爺爺。",
+     "en": "Every Sunday the children visit their grandpa in the old people's home.",
+     "distractors": [
+      "Amt",
+      "Abitur",
+      "Alphabet"
+     ]
+    }
+   }
+  ]
+ },
+ "alternativ": {
+  "senses": [
+   {
+    "zh": "替代的；另類的",
+    "en": "alternative",
+    "ex": {
+     "de": "Wegen der Baustelle gibt es eine {alternative} Route durch das Dorf.",
+     "zh": "因為施工，有一條穿過村子的替代路線。",
+     "en": "Because of the roadworks, there's an alternative route through the village.",
+     "distractors": [
+      "abhängige",
+      "ängstliche",
+      "abwesende"
+     ]
+    }
+   }
+  ]
+ },
+ "alternative": {
+  "senses": [
+   {
+    "zh": "替代方案；其他選擇",
+    "en": "alternative, option",
+    "ex": {
+     "de": "Wenn die Bahn streikt, ist das Fahrrad eine gute {Alternative}.",
+     "zh": "鐵路罷工的時候，腳踏車是個不錯的替代選擇。",
+     "en": "When the trains are on strike, the bike is a good alternative.",
+     "distractors": [
+      "Ahnung",
+      "Absicht",
+      "Aktion"
+     ]
+    }
+   }
+  ]
+ },
+ "ampel": {
+  "senses": [
+   {
+    "zh": "紅綠燈",
+    "en": "traffic light",
+    "ex": {
+     "de": "Bei Rot musst du an der {Ampel} warten.",
+     "zh": "紅燈時你必須在紅綠燈前等。",
+     "en": "When it's red, you have to wait at the traffic light.",
+     "distractors": [
+      "Abfahrt",
+      "Adresse",
+      "Abteilung"
+     ]
+    }
+   }
+  ]
+ },
+ "amt": {
+  "senses": [
+   {
+    "zh": "政府機關；局處；職位",
+    "en": "(public) office, authority",
+    "ex": {
+     "de": "Für den neuen Pass müssen Sie persönlich zum {Amt} kommen.",
+     "zh": "辦新護照您必須親自到機關辦理。",
+     "en": "For the new passport you have to come to the office in person.",
+     "distractors": [
+      "Alter",
+      "Alphabet",
+      "Abenteuer"
+     ]
+    }
+   }
+  ]
+ },
+ "amuesieren": {
+  "senses": [
+   {
+    "zh": "（sich）玩得開心；（über）覺得好笑",
+    "en": "(sich) to have fun; to be amused (by)",
+    "ex": {
+     "de": "Die Kinder {amüsieren} sich über den lustigen Clown.",
+     "zh": "孩子們被那個滑稽的小丑逗得很開心。",
+     "en": "The children are amused by the funny clown.",
+     "distractors": [
+      "akzeptieren",
+      "analysieren",
+      "abonnieren"
+     ]
+    }
+   }
+  ]
+ },
+ "an": {
+  "senses": [
+   {
+    "zh": "在…旁邊；貼在…上（地點）",
+    "en": "at, on (next to or touching)",
+    "ex": {
+     "de": "Das Bild hängt {an} der Wand über dem Sofa.",
+     "zh": "那幅畫掛在沙發上方的牆上。",
+     "en": "The picture hangs on the wall above the sofa.",
+     "distractors": [
+      "auf",
+      "unter",
+      "in"
+     ]
+    }
+   },
+   {
+    "zh": "在（某天、日期、週末）",
+    "en": "on, at (days, dates, the weekend)",
+    "ex": {
+     "de": "{Am} Wochenende besuchen wir meine Eltern.",
+     "zh": "週末我們去看我爸媽。",
+     "en": "At the weekend we visit my parents.",
+     "distractors": [
+      "Im",
+      "Um",
+      "Beim"
+     ]
+    }
+   }
+  ]
+ },
+ "analysieren": {
+  "senses": [
+   {
+    "zh": "分析；化驗",
+    "en": "to analyse",
+    "ex": {
+     "de": "Im Labor wird das Blut genau {analysiert}.",
+     "zh": "血液會在實驗室裡仔細化驗。",
+     "en": "The blood is analysed carefully in the lab.",
+     "distractors": [
+      "akzeptiert",
+      "abonniert",
+      "amüsiert"
+     ]
+    }
+   }
+  ]
+ },
+ "anbieten": {
+  "senses": [
+   {
+    "zh": "提供；（請客人）吃喝；主動提出",
+    "en": "to offer",
+    "ex": {
+     "de": "Mein Nachbar hat mir {angeboten}, beim Umzug zu helfen.",
+     "zh": "我鄰居主動提出要幫我搬家。",
+     "en": "My neighbour offered to help me with the move.",
+     "distractors": [
+      "abgeholt",
+      "abgeschrieben",
+      "abgenommen"
+     ]
+    }
+   }
+  ]
+ },
+ "anbieter": {
+  "senses": [
+   {
+    "zh": "供應商；業者",
+    "en": "provider, supplier",
+    "ex": {
+     "de": "Ich möchte meinen Handyvertrag kündigen und zu einem billigeren {Anbieter} wechseln.",
+     "zh": "我想解約，換到比較便宜的電信業者。",
+     "en": "I want to cancel my mobile contract and switch to a cheaper provider.",
+     "distractors": [
+      "Absender",
+      "Abschnitt",
+      "Alltag"
+     ]
+    }
+   }
+  ]
+ },
+ "angebot": {
+  "senses": [
+   {
+    "zh": "提議；報價；特價（im Angebot：特價中）",
+    "en": "offer (im Angebot: on special offer)",
+    "ex": {
+     "de": "Vielen Dank für Ihr {Angebot}, aber ich habe schon eine andere Stelle gefunden.",
+     "zh": "謝謝您的提議，不過我已經找到別的工作了。",
+     "en": "Thank you for your offer, but I've already found another job.",
+     "distractors": [
+      "Abenteuer",
+      "Alter",
+      "Amt"
+     ]
+    }
+   }
+  ]
+ },
+ "ander": {
+  "senses": [
+   {
+    "zh": "其他的；另一個",
+    "en": "other, different",
+    "ex": {
+     "de": "Dieser Pullover ist zu klein. Haben Sie ihn auch in einer {anderen} Größe?",
+     "zh": "這件毛衣太小了。有其他尺寸嗎？",
+     "en": "This jumper is too small. Do you have it in another size?",
+     "distractors": [
+      "allen",
+      "alten",
+      "aktuellen"
+     ]
+    }
+   }
+  ]
+ },
+ "andererseits": {
+  "senses": [
+   {
+    "zh": "另一方面",
+    "en": "on the other hand",
+    "ex": {
+     "de": "Einerseits ist das Leben in der Stadt praktisch, {andererseits} ist es sehr laut.",
+     "zh": "一方面住在城市很方便，另一方面又很吵。",
+     "en": "On the one hand, city life is convenient; on the other hand, it's very noisy.",
+     "distractors": [
+      "deshalb",
+      "also",
+      "nämlich"
+     ]
+    }
+   }
+  ]
+ },
+ "aendern": {
+  "senses": [
+   {
+    "zh": "改變；更改",
+    "en": "to change, alter",
+    "ex": {
+     "de": "Wir mussten unsere Pläne wegen des Wetters {ändern}.",
+     "zh": "因為天氣，我們不得不改變計畫。",
+     "en": "We had to change our plans because of the weather.",
+     "distractors": [
+      "anbieten",
+      "anklicken",
+      "anmelden"
+     ]
+    }
+   }
+  ]
+ },
+ "aenderung": {
+  "senses": [
+   {
+    "zh": "變更；修改",
+    "en": "change, alteration",
+    "ex": {
+     "de": "Bitte beachten Sie die {Änderung} im Fahrplan ab Montag.",
+     "zh": "請注意從星期一起時刻表的變更。",
+     "en": "Please note the change to the timetable from Monday.",
+     "distractors": [
+      "Ahnung",
+      "Ampel",
+      "Absicht"
+     ]
+    }
+   }
+  ]
+ },
+ "anders": {
+  "senses": [
+   {
+    "zh": "不同地；用別的方式",
+    "en": "differently, different",
+    "ex": {
+     "de": "Ich habe mir die Stadt ganz {anders} vorgestellt.",
+     "zh": "我原本想像的這座城市完全不一樣。",
+     "en": "I had imagined the city completely differently.",
+     "distractors": [
+      "abwärts",
+      "abhängig",
+      "anfangs"
+     ]
+    }
+   }
+  ]
+ },
+ "anerkennen": {
+  "senses": [
+   {
+    "zh": "承認；認可",
+    "en": "to recognize, acknowledge",
+    "ex": {
+     "de": "Mein Diplom aus Brasilien wurde in Deutschland {anerkannt}.",
+     "zh": "我在巴西拿的文憑在德國獲得了承認。",
+     "en": "My diploma from Brazil was recognized in Germany.",
+     "distractors": [
+      "angeboten",
+      "angekündigt",
+      "angeklickt"
+     ]
+    }
+   }
+  ]
+ },
+ "anfangen": {
+  "senses": [
+   {
+    "zh": "開始",
+    "en": "to begin, start",
+    "ex": {
+     "de": "Der Film hat schon {angefangen}, wir sind zu spät!",
+     "zh": "電影已經開始了，我們遲到了！",
+     "en": "The film has already started, we're late!",
+     "distractors": [
+      "angeboten",
+      "angegeben",
+      "angeklickt"
+     ]
+    }
+   }
+  ]
+ },
+ "anfang": {
+  "senses": [
+   {
+    "zh": "開始；開頭；（月、年）初",
+    "en": "beginning, start",
+    "ex": {
+     "de": "Der {Anfang} des Buches ist langweilig, aber dann wird es spannend.",
+     "zh": "這本書的開頭很無聊，但後來就變得很精彩。",
+     "en": "The beginning of the book is boring, but then it gets exciting.",
+     "distractors": [
+      "Alltag",
+      "Alarm",
+      "Absender"
+     ]
+    }
+   }
+  ]
+ },
+ "anfangs": {
+  "senses": [
+   {
+    "zh": "起初；一開始",
+    "en": "at first, initially",
+    "ex": {
+     "de": "{Anfangs} hatte ich Heimweh, aber jetzt fühle ich mich hier wohl.",
+     "zh": "起初我很想家，但現在我在這裡過得很好。",
+     "en": "At first I was homesick, but now I feel at home here.",
+     "distractors": [
+      "Abwärts",
+      "Anders",
+      "Absolut"
+     ]
+    }
+   }
+  ]
+ },
+ "angeben": {
+  "senses": [
+   {
+    "zh": "填寫；說明；提供（資料）",
+    "en": "to state, give (information)",
+    "ex": {
+     "de": "Im Formular müssen Sie Ihr Geburtsdatum {angeben}.",
+     "zh": "您必須在表格裡填寫出生日期。",
+     "en": "You have to state your date of birth in the form.",
+     "distractors": [
+      "ankündigen",
+      "anerkennen",
+      "anbieten"
+     ]
+    }
+   }
+  ]
+ },
+ "angabe": {
+  "senses": [
+   {
+    "zh": "資料；說明（常用複數）",
+    "en": "information, details (usually pl.)",
+    "ex": {
+     "de": "Bitte prüfen Sie, ob alle {Angaben} im Formular richtig sind.",
+     "zh": "請檢查表格裡的所有資料是否正確。",
+     "en": "Please check that all the details in the form are correct.",
+     "distractors": [
+      "Ampeln",
+      "Ahnungen",
+      "Abfahrten"
+     ]
+    }
+   }
+  ]
+ },
+ "angehoerige": {
+  "senses": [
+   {
+    "zh": "家屬；親屬（男性）",
+    "en": "relative, family member (male)",
+    "ex": {
+     "de": "Ein {Angehöriger} des Patienten wartet draußen.",
+     "zh": "病人的一位家屬在外面等。",
+     "en": "A relative of the patient is waiting outside.",
+     "distractors": [
+      "Absender",
+      "Anbieter",
+      "Alarm"
+     ]
+    }
+   }
+  ]
+ },
+ "angehoerige-2": {
+  "senses": [
+   {
+    "zh": "家屬；親屬（女性）",
+    "en": "relative, family member (female)",
+    "ex": {
+     "de": "Als nächste {Angehörige} muss die Tochter das Formular unterschreiben.",
+     "zh": "女兒作為最近的親屬，必須在表格上簽名。",
+     "en": "As the next of kin, the daughter has to sign the form.",
+     "distractors": [
+      "Absenderin",
+      "Alternative",
+      "Abteilung"
+     ]
+    }
+   }
+  ]
+ },
+ "angenehm": {
+  "senses": [
+   {
+    "zh": "舒適的；令人愉快的",
+    "en": "pleasant, comfortable",
+    "ex": {
+     "de": "Heute ist es nicht zu heiß und nicht zu kalt – sehr {angenehm}.",
+     "zh": "今天不會太熱也不會太冷——很舒服。",
+     "en": "Today it's neither too hot nor too cold – very pleasant.",
+     "distractors": [
+      "ängstlich",
+      "abhängig",
+      "abwesend"
+     ]
+    }
+   }
+  ]
+ },
+ "angst": {
+  "senses": [
+   {
+    "zh": "害怕；恐懼（Angst haben vor：怕…）",
+    "en": "fear (Angst haben vor: to be afraid of)",
+    "ex": {
+     "de": "Mein kleiner Bruder hat {Angst} vor großen Hunden.",
+     "zh": "我弟弟很怕大狗。",
+     "en": "My little brother is afraid of big dogs.",
+     "distractors": [
+      "Ahnung",
+      "Absicht",
+      "Alarm"
+     ]
+    }
+   }
+  ]
+ },
+ "aengstlich": {
+  "senses": [
+   {
+    "zh": "膽小的；焦慮的",
+    "en": "anxious, timid",
+    "ex": {
+     "de": "Der Hund ist sehr {ängstlich} und versteckt sich bei Gewitter unter dem Bett.",
+     "zh": "這隻狗很膽小，打雷時就躲到床底下。",
+     "en": "The dog is very timid and hides under the bed during thunderstorms.",
+     "distractors": [
+      "angenehm",
+      "aktuell",
+      "allgemein"
+     ]
+    }
+   }
+  ]
+ },
+ "anhaben": {
+  "senses": [
+   {
+    "zh": "穿著",
+    "en": "to have on, wear",
+    "ex": {
+     "de": "Was soll ich morgen zur Hochzeit {anhaben}?",
+     "zh": "我明天參加婚禮要穿什麼？",
+     "en": "What should I wear to the wedding tomorrow?",
+     "distractors": [
+      "angeben",
+      "anklicken",
+      "ankündigen"
+     ]
+    }
+   }
+  ]
+ },
+ "anklicken": {
+  "senses": [
+   {
+    "zh": "點擊（滑鼠）",
+    "en": "to click (on)",
+    "ex": {
+     "de": "Sie müssen nur das Symbol oben rechts {anklicken}.",
+     "zh": "您只要點右上角的圖示就好。",
+     "en": "You just have to click on the icon at the top right.",
+     "distractors": [
+      "anhaben",
+      "anerkennen",
+      "ankündigen"
+     ]
+    }
+   }
+  ]
+ },
+ "ankommen": {
+  "senses": [
+   {
+    "zh": "抵達；到達",
+    "en": "to arrive",
+    "ex": {
+     "de": "Wir sind erst um Mitternacht in Berlin {angekommen}.",
+     "zh": "我們直到半夜才抵達柏林。",
+     "en": "We didn't arrive in Berlin until midnight.",
+     "distractors": [
+      "abgebogen",
+      "angefangen",
+      "angeboten"
+     ]
+    }
+   }
+  ]
+ },
+ "ankunft": {
+  "senses": [
+   {
+    "zh": "抵達；到站",
+    "en": "arrival",
+    "ex": {
+     "de": "Nach der {Ankunft} am Hotel haben wir zuerst geschlafen.",
+     "zh": "抵達飯店之後，我們先睡了一覺。",
+     "en": "After arriving at the hotel, we slept first.",
+     "distractors": [
+      "Abfahrt",
+      "Ahnung",
+      "Ampel"
+     ]
+    }
+   }
+  ]
+ },
+ "ankuendigen": {
+  "senses": [
+   {
+    "zh": "宣布；預告",
+    "en": "to announce",
+    "ex": {
+     "de": "Die Firma hat {angekündigt}, dass sie 200 neue Stellen schafft.",
+     "zh": "公司宣布將新增 200 個職位。",
+     "en": "The company has announced that it will create 200 new jobs.",
+     "distractors": [
+      "angeklickt",
+      "angehabt",
+      "angemeldet"
+     ]
+    }
+   }
+  ]
+ },
+ "anlage": {
+  "senses": [
+   {
+    "zh": "設備；音響",
+    "en": "system, equipment (e.g. a stereo)",
+    "ex": {
+     "de": "Die neue {Anlage} im Wohnzimmer hat einen super Sound.",
+     "zh": "客廳的新音響音質超棒。",
+     "en": "The new sound system in the living room sounds great.",
+     "distractors": [
+      "Anleitung",
+      "Ankunft",
+      "Anmeldung"
+     ]
+    }
+   },
+   {
+    "zh": "（信件、郵件的）附件",
+    "en": "attachment, enclosure",
+    "ex": {
+     "de": "Die Rechnung schicke ich Ihnen als {Anlage} mit dieser E-Mail.",
+     "zh": "我把帳單作為附件隨這封郵件寄給您。",
+     "en": "I'm sending you the invoice as an attachment to this e-mail.",
+     "distractors": [
+      "Anleitung",
+      "Anmeldung",
+      "Ankunft"
+     ]
+    }
+   }
+  ]
+ },
+ "anleitung": {
+  "senses": [
+   {
+    "zh": "說明書；指導",
+    "en": "instructions, manual",
+    "ex": {
+     "de": "Ohne {Anleitung} kann ich das Regal nicht aufbauen.",
+     "zh": "沒有說明書我組不起這個架子。",
+     "en": "I can't assemble the shelf without instructions.",
+     "distractors": [
+      "Ankunft",
+      "Ampel",
+      "Abfahrt"
+     ]
+    }
+   }
+  ]
+ },
+ "anmelden": {
+  "senses": [
+   {
+    "zh": "（sich）報名；登記；登入",
+    "en": "(sich) to register, sign up; to log in",
+    "ex": {
+     "de": "Hast du dich schon für den Yogakurs {angemeldet}?",
+     "zh": "你已經報名瑜伽課了嗎？",
+     "en": "Have you signed up for the yoga class yet?",
+     "distractors": [
+      "angehabt",
+      "angeklickt",
+      "anerkannt"
+     ]
+    }
+   }
+  ]
+ },
+ "anmeldung": {
+  "senses": [
+   {
+    "zh": "報名；登記；掛號處",
+    "en": "registration; reception desk",
+    "ex": {
+     "de": "Die {Anmeldung} für den Marathon ist nur online möglich.",
+     "zh": "馬拉松只能線上報名。",
+     "en": "Registration for the marathon is only possible online.",
+     "distractors": [
+      "Ankunft",
+      "Ampel",
+      "Anleitung"
+     ]
+    }
+   }
+  ]
+ },
+ "annehmen": {
+  "senses": [
+   {
+    "zh": "接受；收下",
+    "en": "to accept",
+    "ex": {
+     "de": "Sie hat das Geschenk nicht {angenommen}, weil es zu teuer war.",
+     "zh": "她沒有收下那份禮物，因為太貴重了。",
+     "en": "She didn't accept the present because it was too expensive.",
+     "distractors": [
+      "angekündigt",
+      "angeklickt",
+      "anerkannt"
+     ]
+    }
+   },
+   {
+    "zh": "假設；認為",
+    "en": "to assume, suppose",
+    "ex": {
+     "de": "Wir können {annehmen}, dass die Preise weiter steigen.",
+     "zh": "我們可以假設物價會繼續上漲。",
+     "en": "We can assume that prices will keep rising.",
+     "distractors": [
+      "anklicken",
+      "anhaben",
+      "anmelden"
+     ]
+    }
+   }
+  ]
+ },
+ "annonce": {
+  "senses": [
+   {
+    "zh": "（報紙上的）廣告；啟事",
+    "en": "advertisement, classified ad",
+    "ex": {
+     "de": "Wir haben unser altes Sofa über eine {Annonce} in der Zeitung verkauft.",
+     "zh": "我們透過報紙上的廣告把舊沙發賣掉了。",
+     "en": "We sold our old sofa through an ad in the newspaper.",
+     "distractors": [
+      "Ankunft",
+      "Ahnung",
+      "Ampel"
+     ]
+    }
+   }
+  ]
+ }
+}

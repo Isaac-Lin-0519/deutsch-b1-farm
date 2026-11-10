@@ -1,0 +1,944 @@
+{
+ "ab": {
+  "senses": [
+   {
+    "zh": "從…起（時間、地點、價格）",
+    "en": "from (time, place, price)",
+    "ex": {
+     "de": "Das Hotelzimmer gibt es schon {ab} 60 Euro pro Nacht.",
+     "zh": "飯店房間每晚 60 歐元起。",
+     "en": "Hotel rooms start from 60 euros a night.",
+     "distractors": [
+      "seit",
+      "während",
+      "wegen"
+     ]
+    }
+   },
+   {
+    "zh": "ab und zu：偶爾",
+    "en": "ab und zu: now and then",
+    "ex": {
+     "de": "Wir gehen nicht oft ins Kino, nur {ab} und zu.",
+     "zh": "我們不常去看電影，只是偶爾去。",
+     "en": "We don't go to the cinema often, just now and then.",
+     "distractors": [
+      "bis",
+      "mit",
+      "aus"
+     ]
+    }
+   }
+  ]
+ },
+ "abbiegen": {
+  "senses": [
+   {
+    "zh": "轉彎",
+    "en": "to turn (off)",
+    "ex": {
+     "de": "Nach der Brücke müssen Sie rechts {abbiegen}.",
+     "zh": "過了橋之後您要右轉。",
+     "en": "After the bridge you have to turn right.",
+     "distractors": [
+      "abgeben",
+      "abholen",
+      "absagen"
+     ]
+    }
+   }
+  ]
+ },
+ "abbildung": {
+  "senses": [
+   {
+    "zh": "圖片；插圖",
+    "en": "illustration, figure",
+    "ex": {
+     "de": "Die {Abbildung} auf Seite 12 zeigt, wie man das Zelt aufbaut.",
+     "zh": "第 12 頁的插圖說明怎麼搭帳篷。",
+     "en": "The illustration on page 12 shows how to put up the tent.",
+     "distractors": [
+      "Abteilung",
+      "Absicht",
+      "Abfahrt"
+     ]
+    }
+   }
+  ]
+ },
+ "abenteuer": {
+  "senses": [
+   {
+    "zh": "冒險；奇遇",
+    "en": "adventure",
+    "ex": {
+     "de": "Die Reise durch Island war ein echtes {Abenteuer}.",
+     "zh": "這趟冰島之旅真是一場冒險。",
+     "en": "The trip through Iceland was a real adventure.",
+     "distractors": [
+      "Abonnement",
+      "Alphabet",
+      "Alter"
+     ]
+    }
+   }
+  ]
+ },
+ "aber": {
+  "senses": [
+   {
+    "zh": "但是；可是",
+    "en": "but",
+    "ex": {
+     "de": "Das Kleid ist schön, {aber} leider zu teuer.",
+     "zh": "這件洋裝很漂亮，可惜太貴了。",
+     "en": "The dress is nice, but unfortunately too expensive.",
+     "distractors": [
+      "oder",
+      "denn",
+      "weil"
+     ]
+    }
+   },
+   {
+    "zh": "（語氣詞，表驚訝或強調）真是、可真",
+    "en": "(particle of surprise or emphasis) really",
+    "ex": {
+     "de": "Das ist {aber} ein schöner Garten!",
+     "zh": "這花園真漂亮！",
+     "en": "What a lovely garden!",
+     "distractors": [
+      "oder",
+      "denn",
+      "sondern"
+     ]
+    }
+   }
+  ]
+ },
+ "abfahren": {
+  "senses": [
+   {
+    "zh": "（車、人）出發；開走",
+    "en": "to depart, leave",
+    "ex": {
+     "de": "Der Bus ist schon {abgefahren}, wir müssen auf den nächsten warten.",
+     "zh": "公車已經開走了，我們得等下一班。",
+     "en": "The bus has already left; we have to wait for the next one.",
+     "distractors": [
+      "abgebogen",
+      "angekommen",
+      "aufgestanden"
+     ]
+    }
+   }
+  ]
+ },
+ "abfahrt": {
+  "senses": [
+   {
+    "zh": "出發；發車",
+    "en": "departure",
+    "ex": {
+     "de": "Bitte seien Sie zehn Minuten vor der {Abfahrt} am Bus.",
+     "zh": "請在發車前十分鐘到巴士這裡集合。",
+     "en": "Please be at the bus ten minutes before departure.",
+     "distractors": [
+      "Abbildung",
+      "Adresse",
+      "Absicht"
+     ]
+    }
+   }
+  ]
+ },
+ "abfall": {
+  "senses": [
+   {
+    "zh": "垃圾；廢棄物",
+    "en": "waste, rubbish",
+    "ex": {
+     "de": "In Deutschland trennt man den {Abfall} in verschiedene Tonnen.",
+     "zh": "在德國，垃圾要分類丟進不同的垃圾桶。",
+     "en": "In Germany, people sort their waste into different bins.",
+     "distractors": [
+      "Alltag",
+      "Anfang",
+      "Alarm"
+     ]
+    }
+   }
+  ]
+ },
+ "abfalleimer": {
+  "senses": [
+   {
+    "zh": "垃圾桶",
+    "en": "rubbish bin, trash can",
+    "ex": {
+     "de": "Der {Abfalleimer} in der Küche ist schon wieder voll.",
+     "zh": "廚房的垃圾桶又滿了。",
+     "en": "The bin in the kitchen is full again.",
+     "distractors": [
+      "Absender",
+      "Abschnitt",
+      "Anbieter"
+     ]
+    }
+   }
+  ]
+ },
+ "abgase": {
+  "senses": [
+   {
+    "zh": "廢氣（複數）",
+    "en": "exhaust fumes (pl.)",
+    "ex": {
+     "de": "Die {Abgase} der Autos machen die Luft in der Stadt schmutzig.",
+     "zh": "汽車的廢氣讓城市的空氣變髒。",
+     "en": "Car exhaust fumes make the air in the city dirty.",
+     "distractors": [
+      "Abteilungen",
+      "Angebote",
+      "Abschnitte"
+     ]
+    }
+   }
+  ]
+ },
+ "abgeben": {
+  "senses": [
+   {
+    "zh": "交出；繳交；寄放",
+    "en": "to hand in, hand over",
+    "ex": {
+     "de": "Die Hausaufgaben müsst ihr bis Freitag {abgeben}.",
+     "zh": "你們要在星期五之前交作業。",
+     "en": "You have to hand in your homework by Friday.",
+     "distractors": [
+      "abholen",
+      "abbiegen",
+      "abnehmen"
+     ]
+    }
+   }
+  ]
+ },
+ "abhaengen": {
+  "senses": [
+   {
+    "zh": "取決於（von + 第三格）",
+    "en": "to depend (on)",
+    "ex": {
+     "de": "Ob wir grillen, wird vom Wetter {abhängen}.",
+     "zh": "我們要不要烤肉，要看天氣而定。",
+     "en": "Whether we have a barbecue will depend on the weather.",
+     "distractors": [
+      "abnehmen",
+      "abholen",
+      "absagen"
+     ]
+    }
+   }
+  ]
+ },
+ "abhaengig": {
+  "senses": [
+   {
+    "zh": "依賴的；取決於…的",
+    "en": "dependent",
+    "ex": {
+     "de": "Viele Menschen sind heute vom Smartphone {abhängig}.",
+     "zh": "現在很多人都離不開智慧型手機。",
+     "en": "Many people today are dependent on their smartphones.",
+     "distractors": [
+      "abwesend",
+      "ähnlich",
+      "allgemein"
+     ]
+    }
+   }
+  ]
+ },
+ "abheben": {
+  "senses": [
+   {
+    "zh": "提（款）；領（錢）",
+    "en": "to withdraw (money)",
+    "ex": {
+     "de": "Ich muss noch schnell Geld am Automaten {abheben}.",
+     "zh": "我得趕快去提款機領錢。",
+     "en": "I still need to quickly withdraw money from the ATM.",
+     "distractors": [
+      "abgeben",
+      "abnehmen",
+      "abschreiben"
+     ]
+    }
+   }
+  ]
+ },
+ "abholen": {
+  "senses": [
+   {
+    "zh": "接（人）；領取",
+    "en": "to pick up, collect",
+    "ex": {
+     "de": "Kannst du mich um sechs vom Flughafen {abholen}?",
+     "zh": "你可以六點來機場接我嗎？",
+     "en": "Can you pick me up from the airport at six?",
+     "distractors": [
+      "abgeben",
+      "abbiegen",
+      "ablehnen"
+     ]
+    }
+   }
+  ]
+ },
+ "abschreiben": {
+  "senses": [
+   {
+    "zh": "抄寫；抄襲",
+    "en": "to copy (out); to crib",
+    "ex": {
+     "de": "Im Test darf man nicht vom Nachbarn {abschreiben}.",
+     "zh": "考試時不能抄隔壁同學的答案。",
+     "en": "You're not allowed to copy from your neighbour in the test.",
+     "distractors": [
+      "abheben",
+      "abstimmen",
+      "abwaschen"
+     ]
+    }
+   }
+  ]
+ },
+ "abitur": {
+  "senses": [
+   {
+    "zh": "（德國）高中畢業會考",
+    "en": "Abitur (German school-leaving exam)",
+    "ex": {
+     "de": "Nach dem {Abitur} möchte meine Schwester ein Jahr in Kanada arbeiten.",
+     "zh": "高中畢業會考之後，我姊姊想去加拿大工作一年。",
+     "en": "After her Abitur, my sister wants to work in Canada for a year.",
+     "distractors": [
+      "Alphabet",
+      "Alter",
+      "Amt"
+     ]
+    }
+   }
+  ]
+ },
+ "ablehnen": {
+  "senses": [
+   {
+    "zh": "拒絕",
+    "en": "to reject, turn down",
+    "ex": {
+     "de": "Sie hat das Jobangebot {abgelehnt}, weil sie umziehen müsste.",
+     "zh": "她拒絕了那份工作，因為那樣她就得搬家。",
+     "en": "She turned down the job offer because she would have to move.",
+     "distractors": [
+      "abgeholt",
+      "abgewaschen",
+      "abgehoben"
+     ]
+    }
+   }
+  ]
+ },
+ "abmachen": {
+  "senses": [
+   {
+    "zh": "約定；說好",
+    "en": "to agree, arrange",
+    "ex": {
+     "de": "Für Samstag haben wir einen Termin um zehn Uhr {abgemacht}.",
+     "zh": "我們約了星期六十點見面。",
+     "en": "We arranged an appointment for Saturday at ten.",
+     "distractors": [
+      "abgeschrieben",
+      "abgewaschen",
+      "abgehoben"
+     ]
+    }
+   }
+  ]
+ },
+ "abnehmen": {
+  "senses": [
+   {
+    "zh": "減重；變瘦",
+    "en": "to lose weight",
+    "ex": {
+     "de": "Seit er jeden Tag joggt, hat er fünf Kilo {abgenommen}.",
+     "zh": "自從他每天慢跑，已經瘦了五公斤。",
+     "en": "Since he started jogging every day, he has lost five kilos.",
+     "distractors": [
+      "abgehoben",
+      "abgegeben",
+      "abgeholt"
+     ]
+    }
+   },
+   {
+    "zh": "取下；拿掉；接（電話）",
+    "en": "to take off, remove; to answer (the phone)",
+    "ex": {
+     "de": "Kannst du bitte das Telefon {abnehmen}? Ich habe gerade keine Hand frei.",
+     "zh": "你可以接一下電話嗎？我現在手沒空。",
+     "en": "Can you answer the phone, please? My hands are full right now.",
+     "distractors": [
+      "abschreiben",
+      "abwaschen",
+      "abbiegen"
+     ]
+    }
+   }
+  ]
+ },
+ "abonnieren": {
+  "senses": [
+   {
+    "zh": "訂閱",
+    "en": "to subscribe (to)",
+    "ex": {
+     "de": "Wenn dir das Video gefällt, kannst du meinen Kanal {abonnieren}.",
+     "zh": "如果你喜歡這部影片，可以訂閱我的頻道。",
+     "en": "If you like the video, you can subscribe to my channel.",
+     "distractors": [
+      "akzeptieren",
+      "analysieren",
+      "abschreiben"
+     ]
+    }
+   }
+  ]
+ },
+ "abonnement": {
+  "senses": [
+   {
+    "zh": "訂閱；定期票（簡稱 Abo）",
+    "en": "subscription",
+    "ex": {
+     "de": "Mit dem {Abonnement} bekommen Sie die Zeitung jeden Morgen nach Hause.",
+     "zh": "訂閱之後，您每天早上都會收到送到家的報紙。",
+     "en": "With the subscription, you get the newspaper delivered to your home every morning.",
+     "distractors": [
+      "Abenteuer",
+      "Alphabet",
+      "Amt"
+     ]
+    }
+   }
+  ]
+ },
+ "absagen": {
+  "senses": [
+   {
+    "zh": "取消（約會、活動）",
+    "en": "to cancel, call off",
+    "ex": {
+     "de": "Das Konzert wurde wegen des Sturms {abgesagt}.",
+     "zh": "音樂會因為暴風雨取消了。",
+     "en": "The concert was cancelled because of the storm.",
+     "distractors": [
+      "abgeholt",
+      "abgeschrieben",
+      "abgewaschen"
+     ]
+    }
+   }
+  ]
+ },
+ "abschluss": {
+  "senses": [
+   {
+    "zh": "結束；畢業；學歷",
+    "en": "end; degree, qualification",
+    "ex": {
+     "de": "Nach ihrem {Abschluss} an der Uni hat sie sofort eine Stelle gefunden.",
+     "zh": "她大學畢業後馬上就找到工作了。",
+     "en": "After graduating from university, she found a job right away.",
+     "distractors": [
+      "Abschnitt",
+      "Alltag",
+      "Anbieter"
+     ]
+    }
+   }
+  ]
+ },
+ "abschnitt": {
+  "senses": [
+   {
+    "zh": "段落；部分；階段",
+    "en": "section, paragraph; stage",
+    "ex": {
+     "de": "Lies zuerst den ersten {Abschnitt} und beantworte dann die Fragen.",
+     "zh": "先讀第一段，再回答問題。",
+     "en": "Read the first section first and then answer the questions.",
+     "distractors": [
+      "Abschluss",
+      "Absender",
+      "Alarm"
+     ]
+    }
+   }
+  ]
+ },
+ "absender": {
+  "senses": [
+   {
+    "zh": "寄件人",
+    "en": "sender",
+    "ex": {
+     "de": "Auf dem Brief steht kein {Absender}, ich weiß nicht, von wem er ist.",
+     "zh": "信上沒寫寄件人，我不知道是誰寄的。",
+     "en": "There's no sender on the letter; I don't know who it's from.",
+     "distractors": [
+      "Abschnitt",
+      "Anfang",
+      "Alltag"
+     ]
+    }
+   }
+  ]
+ },
+ "absenderin": {
+  "senses": [
+   {
+    "zh": "寄件人（女性）",
+    "en": "sender (female)",
+    "ex": {
+     "de": "Die {Absenderin} des Pakets ist meine Tante aus Wien.",
+     "zh": "這個包裹的寄件人是我住在維也納的阿姨。",
+     "en": "The sender of the parcel is my aunt from Vienna.",
+     "distractors": [
+      "Abteilung",
+      "Abbildung",
+      "Absicht"
+     ]
+    }
+   }
+  ]
+ },
+ "absicht": {
+  "senses": [
+   {
+    "zh": "意圖；打算（mit Absicht：故意）",
+    "en": "intention (mit Absicht: on purpose)",
+    "ex": {
+     "de": "Entschuldigung, ich habe dich nicht mit {Absicht} gestoßen!",
+     "zh": "對不起，我不是故意撞到你的！",
+     "en": "Sorry, I didn't bump into you on purpose!",
+     "distractors": [
+      "Abfahrt",
+      "Ahnung",
+      "Aktion"
+     ]
+    }
+   }
+  ]
+ },
+ "absolut": {
+  "senses": [
+   {
+    "zh": "完全；絕對",
+    "en": "absolutely, completely",
+    "ex": {
+     "de": "Der Film war {absolut} langweilig, ich bin fast eingeschlafen.",
+     "zh": "這部電影無聊透頂，我差點睡著。",
+     "en": "The film was absolutely boring; I almost fell asleep.",
+     "distractors": [
+      "abhängig",
+      "abwesend",
+      "ähnlich"
+     ]
+    }
+   }
+  ]
+ },
+ "abstimmen": {
+  "senses": [
+   {
+    "zh": "投票表決",
+    "en": "to vote",
+    "ex": {
+     "de": "Die Klasse will darüber {abstimmen}, wohin der Ausflug geht.",
+     "zh": "全班想投票決定校外教學要去哪裡。",
+     "en": "The class wants to vote on where the trip will go.",
+     "distractors": [
+      "abschreiben",
+      "abheben",
+      "abwaschen"
+     ]
+    }
+   }
+  ]
+ },
+ "abteilung": {
+  "senses": [
+   {
+    "zh": "部門；（百貨公司的）賣場區",
+    "en": "department",
+    "ex": {
+     "de": "Kinderkleidung finden Sie in der {Abteilung} im Erdgeschoss.",
+     "zh": "童裝在一樓的賣場。",
+     "en": "You'll find children's clothing in the department on the ground floor.",
+     "distractors": [
+      "Abbildung",
+      "Absicht",
+      "Abfahrt"
+     ]
+    }
+   }
+  ]
+ },
+ "abwart": {
+  "senses": [
+   {
+    "zh": "（瑞士）大樓管理員",
+    "en": "(Swiss) caretaker, janitor",
+    "ex": {
+     "de": "Wenn die Heizung nicht funktioniert, rufen Sie bitte den {Abwart} an.",
+     "zh": "如果暖氣壞了，請打電話給管理員。",
+     "en": "If the heating doesn't work, please call the caretaker.",
+     "distractors": [
+      "Absender",
+      "Abfall",
+      "Alarm"
+     ]
+    }
+   }
+  ]
+ },
+ "abwartin": {
+  "senses": [
+   {
+    "zh": "（瑞士）大樓管理員（女性）",
+    "en": "(Swiss) caretaker (female)",
+    "ex": {
+     "de": "Die {Abwartin} putzt jeden Montag das Treppenhaus.",
+     "zh": "管理員每週一都會打掃樓梯間。",
+     "en": "The caretaker cleans the stairwell every Monday.",
+     "distractors": [
+      "Abbildung",
+      "Abteilung",
+      "Ampel"
+     ]
+    }
+   }
+  ]
+ },
+ "abwaerts": {
+  "senses": [
+   {
+    "zh": "向下；往下坡",
+    "en": "downwards, downhill",
+    "ex": {
+     "de": "Ab hier geht der Weg nur noch {abwärts}, das ist viel leichter.",
+     "zh": "從這裡開始路都是下坡，輕鬆多了。",
+     "en": "From here the path only goes downhill, which is much easier.",
+     "distractors": [
+      "allein",
+      "anders",
+      "absolut"
+     ]
+    }
+   }
+  ]
+ },
+ "abwaschen": {
+  "senses": [
+   {
+    "zh": "洗（碗盤）",
+    "en": "to wash up, do the dishes",
+    "ex": {
+     "de": "Wer kocht, muss nicht {abwaschen} – das ist bei uns die Regel.",
+     "zh": "煮飯的人不用洗碗——這是我們家的規矩。",
+     "en": "Whoever cooks doesn't have to do the dishes – that's the rule in our house.",
+     "distractors": [
+      "abschreiben",
+      "abstimmen",
+      "abheben"
+     ]
+    }
+   }
+  ]
+ },
+ "abwesend": {
+  "senses": [
+   {
+    "zh": "缺席的；不在的",
+    "en": "absent",
+    "ex": {
+     "de": "Drei Schüler waren heute wegen einer Grippe {abwesend}.",
+     "zh": "今天有三個學生因為流感缺席。",
+     "en": "Three pupils were absent today because of the flu.",
+     "distractors": [
+      "abhängig",
+      "absolut",
+      "aktuell"
+     ]
+    }
+   }
+  ]
+ },
+ "achten": {
+  "senses": [
+   {
+    "zh": "注意；留意（auf + 第四格）",
+    "en": "to pay attention (to)",
+    "ex": {
+     "de": "Beim Fahrradfahren musst du immer auf die Autos {achten}.",
+     "zh": "騎腳踏車時一定要注意汽車。",
+     "en": "When cycling, you always have to watch out for cars.",
+     "distractors": [
+      "abbiegen",
+      "abholen",
+      "absagen"
+     ]
+    }
+   }
+  ]
+ },
+ "achtung": {
+  "senses": [
+   {
+    "zh": "注意！小心！",
+    "en": "Attention! Watch out!",
+    "ex": {
+     "de": "{Achtung}, der Boden ist nass!",
+     "zh": "小心，地板是濕的！",
+     "en": "Careful, the floor is wet!",
+     "distractors": [
+      "Ahnung",
+      "Absicht",
+      "Abfahrt"
+     ]
+    }
+   }
+  ]
+ },
+ "adresse": {
+  "senses": [
+   {
+    "zh": "地址",
+    "en": "address",
+    "ex": {
+     "de": "Schick mir bitte deine {Adresse}, dann komme ich mit dem Taxi.",
+     "zh": "請把你的地址傳給我，我搭計程車過去。",
+     "en": "Please send me your address, then I'll come by taxi.",
+     "distractors": [
+      "Ahnung",
+      "Abteilung",
+      "Absicht"
+     ]
+    }
+   }
+  ]
+ },
+ "aehnlich": {
+  "senses": [
+   {
+    "zh": "相似的；差不多的",
+    "en": "similar",
+    "ex": {
+     "de": "Mein neues Handy ist {ähnlich} wie das alte, nur schneller.",
+     "zh": "我的新手機跟舊的差不多，只是比較快。",
+     "en": "My new phone is similar to the old one, just faster.",
+     "distractors": [
+      "abhängig",
+      "abwesend",
+      "absolut"
+     ]
+    }
+   }
+  ]
+ },
+ "ahnung": {
+  "senses": [
+   {
+    "zh": "預感；概念（keine Ahnung：不知道）",
+    "en": "idea, notion (keine Ahnung: no idea)",
+    "ex": {
+     "de": "Wo ist meine Brille? – Keine {Ahnung}, vielleicht im Bad?",
+     "zh": "我的眼鏡在哪裡？——不知道，也許在浴室？",
+     "en": "Where are my glasses? – No idea, maybe in the bathroom?",
+     "distractors": [
+      "Absicht",
+      "Adresse",
+      "Aktion"
+     ]
+    }
+   }
+  ]
+ },
+ "aktion": {
+  "senses": [
+   {
+    "zh": "活動；行動；促銷",
+    "en": "campaign, event; special offer",
+    "ex": {
+     "de": "Bei der {Aktion} „Saubere Stadt“ sammeln Schüler Müll im Park.",
+     "zh": "在「乾淨城市」活動中，學生們在公園撿垃圾。",
+     "en": "In the 'Clean City' campaign, students collect litter in the park.",
+     "distractors": [
+      "Ahnung",
+      "Absicht",
+      "Alternative"
+     ]
+    }
+   }
+  ]
+ },
+ "aktiv": {
+  "senses": [
+   {
+    "zh": "積極的；活躍的",
+    "en": "active",
+    "ex": {
+     "de": "Meine Oma ist mit 80 noch sehr {aktiv} und geht jeden Tag schwimmen.",
+     "zh": "我奶奶 80 歲了還很活躍，每天都去游泳。",
+     "en": "My grandma is still very active at 80 and goes swimming every day.",
+     "distractors": [
+      "abwesend",
+      "ähnlich",
+      "allgemein"
+     ]
+    }
+   }
+  ]
+ },
+ "aktivitaet": {
+  "senses": [
+   {
+    "zh": "活動",
+    "en": "activity",
+    "ex": {
+     "de": "Im Feriencamp gibt es jeden Tag eine andere {Aktivität}, zum Beispiel Klettern.",
+     "zh": "夏令營每天都有不同的活動，例如攀岩。",
+     "en": "At the holiday camp there's a different activity every day, for example climbing.",
+     "distractors": [
+      "Ahnung",
+      "Abteilung",
+      "Adresse"
+     ]
+    }
+   }
+  ]
+ },
+ "aktuell": {
+  "senses": [
+   {
+    "zh": "目前的；最新的",
+    "en": "current, latest",
+    "ex": {
+     "de": "Die {aktuellen} Nachrichten lese ich meistens auf dem Handy.",
+     "zh": "最新消息我大多用手機看。",
+     "en": "I usually read the latest news on my phone.",
+     "distractors": [
+      "ähnlichen",
+      "abhängigen",
+      "abwesenden"
+     ]
+    }
+   }
+  ]
+ },
+ "akzeptieren": {
+  "senses": [
+   {
+    "zh": "接受；認可",
+    "en": "to accept",
+    "ex": {
+     "de": "Dieses Geschäft {akzeptiert} nur Barzahlung, keine Karten.",
+     "zh": "這家店只收現金，不能刷卡。",
+     "en": "This shop only accepts cash, no cards.",
+     "distractors": [
+      "analysiert",
+      "abonniert",
+      "amüsiert"
+     ]
+    }
+   }
+  ]
+ },
+ "alarm": {
+  "senses": [
+   {
+    "zh": "警報",
+    "en": "alarm",
+    "ex": {
+     "de": "Als der {Alarm} losging, mussten alle das Gebäude verlassen.",
+     "zh": "警報響起時，所有人都必須離開大樓。",
+     "en": "When the alarm went off, everyone had to leave the building.",
+     "distractors": [
+      "Alltag",
+      "Abschluss",
+      "Anfang"
+     ]
+    }
+   }
+  ]
+ },
+ "alkohol": {
+  "senses": [
+   {
+    "zh": "酒精；酒",
+    "en": "alcohol",
+    "ex": {
+     "de": "Wer Auto fährt, sollte keinen {Alkohol} trinken.",
+     "zh": "要開車的人不應該喝酒。",
+     "en": "Anyone who is driving shouldn't drink alcohol.",
+     "distractors": [
+      "Alarm",
+      "Abfall",
+      "Alltag"
+     ]
+    }
+   }
+  ]
+ },
+ "all": {
+  "senses": [
+   {
+    "zh": "所有的；全部",
+    "en": "all, every",
+    "ex": {
+     "de": "{Alle} Gäste haben das Essen gelobt.",
+     "zh": "所有客人都稱讚了這頓飯。",
+     "en": "All the guests praised the food.",
+     "distractors": [
+      "Jeder",
+      "Allein",
+      "Alles"
+     ]
+    }
+   }
+  ]
+ },
+ "allein": {
+  "senses": [
+   {
+    "zh": "獨自；單獨",
+    "en": "alone, on one's own",
+    "ex": {
+     "de": "Mein Sohn ist erst sechs, er darf noch nicht {allein} zur Schule gehen.",
+     "zh": "我兒子才六歲，還不能自己去上學。",
+     "en": "My son is only six; he's not allowed to go to school alone yet.",
+     "distractors": [
+      "anders",
+      "abwärts",
+      "absolut"
+     ]
+    }
+   }
+  ]
+ }
+}

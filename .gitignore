@@ -1,0 +1,16 @@
+# Goethe 原始 PDF 與從中抽出的原文（含受版權保護的例句），不可推上 GitHub
+source_pdfs/
+data/raw/
+
+node_modules/
+dist/
+.DS_Store
+
+# 由 scripts/build-data.mjs 產生
+public/data/
+
+# 本機開發工具設定
+.claude/
+
+# Python 快取
+__pycache__/
