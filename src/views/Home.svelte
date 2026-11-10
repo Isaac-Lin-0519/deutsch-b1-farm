@@ -435,7 +435,7 @@
       }}
     >
       <h2>幫你的邊牧取名字</h2>
-      <input bind:value={nameDraft} maxlength="10" placeholder="名字" aria-label="邊牧的名字" />
+      <input bind:value={nameDraft} maxlength="10" size="10" placeholder="名字" aria-label="邊牧的名字" />
       <button class="btn green" disabled={!nameDraft.trim()}>好了</button>
     </form>
   </div>

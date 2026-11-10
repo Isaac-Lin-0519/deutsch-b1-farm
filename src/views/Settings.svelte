@@ -106,7 +106,7 @@
     <div class="row">
       <DogPortrait />
       <div class="stack">
-        <label class="row">名字 <input bind:value={dogName} maxlength="10" onchange={saveName} aria-label="邊牧的名字" /></label>
+        <label class="row">名字 <input bind:value={dogName} maxlength="10" size="10" onchange={saveName} aria-label="邊牧的名字" /></label>
         <p class="hearts" aria-label="好感度 {heartN} 顆心">
           {#each Array(MAX_HEARTS) as _, i (i)}<span class:on={i < heartN}>♥</span>{/each}
         </p>

@@ -40,7 +40,7 @@
     <h2>幫你的邊牧取名字</h2>
     <div class="row">
       <DogPortrait />
-      <input bind:value={dogName} maxlength="10" placeholder="名字" aria-label="邊牧的名字" />
+      <input bind:value={dogName} maxlength="10" size="10" placeholder="名字" aria-label="邊牧的名字" />
     </div>
     <p class="soft">牠會在家裡等你。之後可以在設定裡改名字。</p>
   </div>
@@ -68,7 +68,7 @@
   </div>
 
   <button class="btn green go" disabled={!valid} onclick={start}>開始種田</button>
-  {#if !dogName.trim()}<p class="soft center">先幫邊牧取個名字</p>{/if}
+  {#if !dogName.trim()}<p class="label center hint">先幫邊牧取個名字</p>{/if}
 </div>
 
 <style>
@@ -77,7 +77,10 @@
   }
   .go {
     width: calc(100% - var(--u) * 2);
-    margin: 0 var(--u);
+    margin: calc(var(--u) * 6) var(--u) 0;
     padding: calc(var(--u) * 4);
+  }
+  .hint {
+    margin-top: calc(var(--u) * 5);
   }
 </style>

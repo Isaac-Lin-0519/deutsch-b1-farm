@@ -185,6 +185,9 @@ body {
 
 input,
 select {
+  /* iPhone 上輸入框預設很寬，不限制會超出木框 */
+  max-width: 100%;
+  min-width: 0;
   font: inherit;
   color: var(--ink);
   background: var(--paper-hi);
