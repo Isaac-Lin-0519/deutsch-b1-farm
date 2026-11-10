@@ -170,7 +170,8 @@ export function plotState(r: CardRecord, now = app.now) {
   };
 }
 
-function maxInterval(now: Date): number | undefined {
+/** 設了考試日期時，複習間隔不超過考試日（文法練習也用同一條規則） */
+export function maxInterval(now: Date): number | undefined {
   const s = app.settings;
   if (s.planMode !== 'exam' || !s.examDate) return undefined;
   return Math.max(1, daysBetween(dayKey(now), s.examDate));

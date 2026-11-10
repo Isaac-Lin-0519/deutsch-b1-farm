@@ -1,16 +1,19 @@
 <script lang="ts">
   import { onMount } from 'svelte';
   import { addDays, dayKey, formatDay } from '../lib/day';
-  import { logsSince } from '../lib/db';
+  import { grammarLogsSince, logsSince } from '../lib/db';
+  import { GROUPS, mastered, type GLog } from '../lib/grammar';
+  import { grammar, grammarSummary } from '../lib/grammar.svelte';
   import { app, today, word } from '../lib/store.svelte';
   import { LEVELS, type ReviewLog } from '../lib/types';
   import Headword from '../components/Headword.svelte';
 
   let logs = $state.raw<ReviewLog[]>([]);
+  let glogs = $state.raw<GLog[]>([]);
   let loaded = $state(false);
 
   onMount(async () => {
-    logs = await logsSince(Date.now() - 400 * 86_400_000);
+    [logs, glogs] = await Promise.all([logsSince(Date.now() - 400 * 86_400_000), grammarLogsSince(Date.now() - 2 * 86_400_000)]);
     loaded = true;
   });
 
@@ -83,6 +86,33 @@
       .slice(0, 10),
   );
   const WEEK = ['一', '二', '三', '四', '五', '六', '日'];
+
+  // ---- 連接詞與文法（自己一套排程，和上面的單字分開算） ----
+  const gSum = $derived(grammarSummary());
+  const gToday = $derived.by(() => {
+    const ls = glogs.filter((l) => dayKey(new Date(l.ts)) === t);
+    return { n: ls.length, ok: ls.filter((l) => l.rating >= 3).length };
+  });
+  const gGroups = $derived(
+    GROUPS.map((g) => {
+      const pts = grammar.points.filter((p) => p.group === g.id);
+      let done = 0;
+      let learning = 0;
+      for (const p of pts) {
+        const r = grammar.recs[p.id];
+        if (!r) continue;
+        if (mastered(r)) done++;
+        else learning++;
+      }
+      return { ...g, total: pts.length, done, learning, none: pts.length - done - learning };
+    }),
+  );
+  const gMissed = $derived(
+    Object.values(grammar.recs)
+      .filter((r) => r.wrong > 0 && grammar.byId.has(r.id))
+      .sort((a, b) => b.wrong - a.wrong)
+      .slice(0, 5),
+  );
 </script>
 
 <div class="screen stack">
@@ -157,6 +187,42 @@
       <p class="soft">還沒有答錯的字。</p>
     {/if}
   </div>
+
+  {#if grammar.ready}
+    <div class="panel">
+      <h2>連接詞與文法</h2>
+      <div class="tiles">
+        <div><div class="num">{gSum.started}/{gSum.total}</div><div class="soft">已學文法點</div></div>
+        <div><div class="num">{loaded ? gToday.n : '—'}</div><div class="soft">今天練習</div></div>
+        <div>
+          <div class="num">{gToday.n ? Math.round((gToday.ok / gToday.n) * 100) + '%' : '—'}</div>
+          <div class="soft">今天正確率</div>
+        </div>
+      </div>
+      <p class="soft due">{gSum.due ? `今天還有 ${gSum.due} 個要複習` : '今天沒有要複習的'}{gSum.fresh ? `・可以新學 ${gSum.fresh} 個` : ''}</p>
+      {#each gGroups as g}
+        <div class="lv">
+          <div class="row between">
+            <span>{g.zh}</span>
+            <span class="soft">{g.total ? `熟練 ${g.done}・練習中 ${g.learning}・未學 ${g.none}` : '內容準備中'}</span>
+          </div>
+          <div class="bar">
+            {#if g.total}
+              <div class="b-bush" style="width:{(g.done / g.total) * 100}%"></div>
+              <div class="b-grow" style="width:{(g.learning / g.total) * 100}%"></div>
+            {/if}
+          </div>
+        </div>
+      {/each}
+      {#if gMissed.length}
+        <h3 class="sub">最常答錯的文法</h3>
+        {#each gMissed as r}
+          {@const p = grammar.byId.get(r.id)!}
+          <div class="miss"><span>{p.de}</span> <span class="soft">{p.zh}・答錯 {r.wrong} 次</span></div>
+        {/each}
+      {/if}
+    </div>
+  {/if}
 </div>
 
 <style>
@@ -255,6 +321,13 @@
     margin-top: calc(var(--u) * 3);
     padding-top: calc(var(--u) * 3);
     border-top: var(--u) dashed var(--paper-lo);
+  }
+  .due {
+    margin: calc(var(--u) * 3) 0 calc(var(--u) * 4);
+    text-align: center;
+  }
+  .sub {
+    margin-top: calc(var(--u) * 5);
   }
   .miss :global(.big) {
     font-size: var(--fs);

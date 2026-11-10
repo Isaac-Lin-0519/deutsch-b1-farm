@@ -1,0 +1,669 @@
+[
+  {
+    "id": "weil",
+    "group": "sub",
+    "de": "weil",
+    "pattern": "weil ＋ …動詞",
+    "zh": "因為",
+    "en": "because",
+    "rule": "weil 帶出子句，變位動詞放到子句最後。",
+    "ex": {
+      "de": "Ich bleibe heute zu Hause, {weil} ich krank [bin].",
+      "zh": "我今天待在家，因為我生病了。",
+      "en": "I'm staying home today because I'm ill."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Wir nehmen den Bus, {weil} unser Auto kaputt [ist].",
+        "zh": "我們搭公車，因為我們的車壞了。",
+        "en": "We're taking the bus because our car is broken.",
+        "options": ["deshalb", "wegen", "denn"],
+        "why": "動詞 ist 在句尾，所以是從屬連接詞 weil。denn 和 deshalb 後面的動詞不會放最後；wegen 後面只能接名詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Lena geht früh ins Bett, {weil}",
+        "tokens": ["sie", "morgen eine Prüfung", "[hat]"],
+        "zh": "Lena 很早上床睡覺，因為她明天有考試。",
+        "en": "Lena goes to bed early because she has an exam tomorrow.",
+        "why": "weil 子句：主詞 sie 在前，變位動詞 hat 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Weil} es stark [regnet], bleiben wir heute drinnen.",
+        "zh": "因為雨下得很大，我們今天待在室內。",
+        "en": "Because it's raining heavily, we're staying inside today.",
+        "options": ["Deshalb", "Wegen", "Denn"],
+        "why": "子句放在前面時，動詞 regnet 一樣在子句最後，逗號後面緊接主句的動詞 bleiben。Wegen 要接名詞（Wegen des Regens）。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich kann nicht kommen, {weil}",
+        "tokens": ["ich", "arbeiten", "[muss]"],
+        "zh": "我不能來，因為我得工作。",
+        "en": "I can't come because I have to work.",
+        "why": "有情態動詞時，變位的 muss 放最後，不定式 arbeiten 在它前面。"
+      },
+      {
+        "type": "choice",
+        "de": "Er ist müde, {weil} er schlecht geschlafen [hat].",
+        "zh": "他很累，因為他沒睡好。",
+        "en": "He is tired because he slept badly.",
+        "options": ["darum", "wegen", "denn"],
+        "why": "完成式在子句裡：分詞 geschlafen 在前，變位的 hat 放最後。darum 和 deshalb 一樣是副詞，動詞要緊接在後。"
+      }
+    ]
+  },
+  {
+    "id": "deshalb",
+    "group": "adv",
+    "de": "deshalb",
+    "pattern": "deshalb ＋ 動詞 ＋ 主詞",
+    "zh": "所以、因此",
+    "en": "therefore, that's why",
+    "rule": "deshalb 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。",
+    "ex": {
+      "de": "Ich bin krank, {deshalb} [bleibe] ich heute zu Hause.",
+      "zh": "我生病了，所以今天待在家。",
+      "en": "I'm ill, so I'm staying home today."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Unser Auto ist kaputt, {deshalb} [nehmen] wir den Bus.",
+        "zh": "我們的車壞了，所以我們搭公車。",
+        "en": "Our car is broken, so we're taking the bus.",
+        "options": ["weil", "wegen", "denn"],
+        "why": "空格後面緊接動詞 nehmen，再來才是主詞 wir，所以是副詞 deshalb。weil 的動詞要放最後；denn 後面是「主詞＋動詞」；wegen 接名詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Es regnet stark, {deshalb}",
+        "tokens": ["[bleiben]", "wir", "heute drinnen"],
+        "zh": "雨下得很大，所以我們今天待在室內。",
+        "en": "It's raining heavily, so we're staying inside today.",
+        "why": "deshalb 佔第一位，動詞 bleiben 緊接在後，主詞 wir 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich habe morgen eine Prüfung, {deshalb} [gehe] ich früh ins Bett.",
+        "zh": "我明天有考試，所以我早點上床睡覺。",
+        "en": "I have an exam tomorrow, so I'm going to bed early.",
+        "options": ["weil", "obwohl", "wegen"],
+        "why": "後面是「動詞 gehe ＋ 主詞 ich」的順序，只有副詞 deshalb 可以。weil、obwohl 的動詞都要放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Der Zug hatte Verspätung, {deshalb}",
+        "tokens": ["[bin]", "ich", "zu spät", "gekommen"],
+        "zh": "火車誤點，所以我遲到了。",
+        "en": "The train was delayed, so I arrived late.",
+        "why": "deshalb 後面先放變位的 bin，主詞 ich 跟在後面，分詞 gekommen 留在句尾。"
+      },
+      {
+        "type": "choice",
+        "de": "Er hat schlecht geschlafen. {Deshalb} [ist] er heute müde.",
+        "zh": "他沒睡好，所以今天很累。",
+        "en": "He slept badly. That's why he is tired today.",
+        "options": ["Weil", "Wegen", "Denn"],
+        "why": "新的一句用 Deshalb 開頭，動詞 ist 緊接在後。Denn 後面要先放主詞（Denn er ist …）；Weil 的動詞放最後。"
+      }
+    ]
+  },
+  {
+    "id": "wegen",
+    "group": "gen",
+    "de": "wegen",
+    "pattern": "wegen ＋ 屬格",
+    "zh": "因為、由於（＋名詞）",
+    "en": "because of",
+    "ask": "後面接什麼格？名詞怎麼變？",
+    "forms": [
+      ["陽性 der", "wegen des Regens"],
+      ["中性 das", "wegen des Wetters"],
+      ["陰性 die", "wegen der Arbeit"],
+      ["複數 die", "wegen der Kinder"]
+    ],
+    "rule": "wegen 是介系詞，後面接屬格的名詞，不接句子。陽性、中性名詞字尾加 -(e)s。",
+    "ex": {
+      "de": "{Wegen} des schlechten Wetters [bleiben] wir zu Hause.",
+      "zh": "因為天氣不好，我們待在家。",
+      "en": "We're staying home because of the bad weather."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "{Wegen} des Regens [fällt] das Fest heute aus.",
+        "zh": "因為下雨，今天的慶祝活動取消了。",
+        "en": "The party is cancelled today because of the rain.",
+        "options": ["Weil", "Deshalb", "Denn"],
+        "why": "後面是名詞 des Regens（屬格），所以用介系詞 wegen。weil 後面要接有主詞和動詞的句子。"
+      },
+      {
+        "type": "choice",
+        "de": "Wegen {des} Wetters fahren wir nicht ans Meer.",
+        "zh": "因為天氣的關係，我們不去海邊。",
+        "en": "Because of the weather we're not going to the seaside.",
+        "options": ["dem", "den", "das"],
+        "why": "wegen ＋ 屬格：中性 das Wetter → des Wetters。名詞已經加了 -s，冠詞一定是 des。"
+      },
+      {
+        "type": "order",
+        "lead": "{Wegen} des Regens",
+        "tokens": ["[bleiben]", "wir", "heute zu Hause"],
+        "zh": "因為下雨，我們今天待在家。",
+        "en": "Because of the rain we're staying home today.",
+        "why": "「Wegen des Regens」整組佔第一位，動詞 bleiben 緊接在後，主詞 wir 在動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Wegen des {Staus} kommen wir etwas später.",
+        "zh": "因為塞車，我們會晚一點到。",
+        "en": "We'll arrive a bit later because of the traffic jam.",
+        "options": ["Stau", "Staue", "Stauen"],
+        "why": "陽性 der Stau 的屬格要加 -s：des Staus。"
+      },
+      {
+        "type": "choice",
+        "de": "Wegen {der} Prüfung kann Lena heute nicht ausgehen.",
+        "zh": "因為考試，Lena 今天不能出去玩。",
+        "en": "Because of the exam, Lena can't go out today.",
+        "options": ["des", "dem", "die"],
+        "why": "陰性 die Prüfung 的屬格是 der Prüfung，名詞不加字尾。"
+      }
+    ]
+  },
+  {
+    "id": "obwohl",
+    "group": "sub",
+    "de": "obwohl",
+    "pattern": "obwohl ＋ …動詞",
+    "zh": "雖然、儘管",
+    "en": "although",
+    "rule": "obwohl 帶出子句，變位動詞放到子句最後。",
+    "ex": {
+      "de": "Er geht zur Arbeit, {obwohl} er Fieber [hat].",
+      "zh": "他雖然發燒，還是去上班。",
+      "en": "He goes to work although he has a fever."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Wir gehen spazieren, {obwohl} es [regnet].",
+        "zh": "雖然在下雨，我們還是去散步。",
+        "en": "We're going for a walk although it's raining.",
+        "options": ["trotzdem", "trotz", "deshalb"],
+        "why": "動詞 regnet 在句尾，所以是從屬連接詞 obwohl。trotzdem 後面動詞要緊接；trotz 後面接名詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Sie kauft das Kleid, {obwohl}",
+        "tokens": ["es", "sehr teuer", "[ist]"],
+        "zh": "雖然那件洋裝很貴，她還是買了。",
+        "en": "She buys the dress although it is very expensive.",
+        "why": "obwohl 子句：主詞 es 在前，變位動詞 ist 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Obwohl} ich wenig Zeit [habe], helfe ich dir gern.",
+        "zh": "雖然我時間不多，還是很樂意幫你。",
+        "en": "Although I have little time, I'm happy to help you.",
+        "options": ["Trotzdem", "Trotz", "Aber"],
+        "why": "子句放前面，動詞 habe 在子句最後，逗號後面緊接主句的動詞 helfe。Trotz 要接名詞；Trotzdem 後面要緊接動詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich bin noch müde, {obwohl}",
+        "tokens": ["ich", "lange", "geschlafen", "[habe]"],
+        "zh": "我雖然睡了很久，還是很累。",
+        "en": "I'm still tired although I slept for a long time.",
+        "why": "完成式在子句裡：分詞 geschlafen 在前，變位的 habe 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Er fährt mit dem Fahrrad, {obwohl} es heute sehr kalt [ist].",
+        "zh": "雖然今天很冷，他還是騎腳踏車。",
+        "en": "He goes by bike although it's very cold today.",
+        "options": ["trotzdem", "trotz", "wegen"],
+        "why": "後面是完整的句子，而且動詞 ist 在最後 → obwohl。trotz 和 wegen 是介系詞，只能接名詞。"
+      }
+    ]
+  },
+  {
+    "id": "trotzdem",
+    "group": "adv",
+    "de": "trotzdem",
+    "pattern": "trotzdem ＋ 動詞 ＋ 主詞",
+    "zh": "儘管如此、還是",
+    "en": "nevertheless, still",
+    "rule": "trotzdem 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。",
+    "ex": {
+      "de": "Es regnet, {trotzdem} [gehen] wir spazieren.",
+      "zh": "下雨了，我們還是去散步。",
+      "en": "It's raining; we're going for a walk anyway."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Er hat Fieber, {trotzdem} [geht] er zur Arbeit.",
+        "zh": "他發燒了，卻還是去上班。",
+        "en": "He has a fever; nevertheless he goes to work.",
+        "options": ["obwohl", "trotz", "weil"],
+        "why": "空格後面緊接動詞 geht，再來才是主詞 er，所以是副詞 trotzdem。obwohl 的動詞要放最後；trotz 接名詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich habe wenig Zeit, {trotzdem}",
+        "tokens": ["[helfe]", "ich", "dir", "gern"],
+        "zh": "我時間不多，但還是很樂意幫你。",
+        "en": "I have little time, but I'm still happy to help you.",
+        "why": "trotzdem 佔第一位，動詞 helfe 緊接在後，主詞 ich 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich habe lange geschlafen. {Trotzdem} [bin] ich noch müde.",
+        "zh": "我睡了很久，卻還是很累。",
+        "en": "I slept for a long time. I'm still tired, though.",
+        "options": ["Obwohl", "Trotz", "Aber"],
+        "why": "新的一句用 Trotzdem 開頭，動詞 bin 緊接在後。Aber 後面要先放主詞（Aber ich bin …）；Obwohl 的動詞放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Es ist heute sehr kalt, {trotzdem}",
+        "tokens": ["[fährt]", "er", "mit dem Fahrrad"],
+        "zh": "今天很冷，他還是騎腳踏車。",
+        "en": "It's very cold today; he still goes by bike.",
+        "why": "trotzdem 後面先放動詞 fährt，主詞 er 跟在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Der Film war langweilig, {trotzdem} [sind] wir bis zum Ende geblieben.",
+        "zh": "電影很無聊，我們還是待到最後。",
+        "en": "The film was boring; we still stayed until the end.",
+        "options": ["obwohl", "trotz", "denn"],
+        "why": "後面是「動詞 sind ＋ 主詞 wir」，只有副詞 trotzdem 可以。obwohl 的話，sind 要放到句尾。"
+      }
+    ]
+  },
+  {
+    "id": "trotz",
+    "group": "gen",
+    "de": "trotz",
+    "pattern": "trotz ＋ 屬格",
+    "zh": "儘管、雖然有（＋名詞）",
+    "en": "despite, in spite of",
+    "ask": "後面接什麼格？名詞怎麼變？",
+    "forms": [
+      ["陽性 der", "trotz des Regens"],
+      ["中性 das", "trotz des Fiebers"],
+      ["陰性 die", "trotz der Kälte"],
+      ["複數 die", "trotz der Probleme"]
+    ],
+    "rule": "trotz 是介系詞，後面接屬格的名詞，不接句子。陽性、中性名詞字尾加 -(e)s。",
+    "ex": {
+      "de": "{Trotz} des Regens [gehen] wir spazieren.",
+      "zh": "儘管下雨，我們還是去散步。",
+      "en": "Despite the rain, we're going for a walk."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "{Trotz} des schlechten Wetters [machen] wir einen Ausflug.",
+        "zh": "儘管天氣不好，我們還是去郊遊。",
+        "en": "Despite the bad weather, we're going on a trip.",
+        "options": ["Obwohl", "Trotzdem", "Aber"],
+        "why": "後面是名詞 des schlechten Wetters（屬格），所以用介系詞 trotz。obwohl 後面要接有主詞和動詞的句子。"
+      },
+      {
+        "type": "choice",
+        "de": "Trotz {des} Fiebers geht er zur Arbeit.",
+        "zh": "儘管發燒，他還是去上班。",
+        "en": "Despite the fever, he goes to work.",
+        "options": ["dem", "den", "das"],
+        "why": "trotz ＋ 屬格：中性 das Fieber → des Fiebers。名詞已經加了 -s，冠詞一定是 des。"
+      },
+      {
+        "type": "order",
+        "lead": "{Trotz} des Staus",
+        "tokens": ["[sind]", "wir", "pünktlich", "angekommen"],
+        "zh": "儘管塞車，我們還是準時到了。",
+        "en": "Despite the traffic jam, we arrived on time.",
+        "why": "「Trotz des Staus」整組佔第一位，變位的 sind 緊接在後，分詞 angekommen 留在句尾。"
+      },
+      {
+        "type": "choice",
+        "de": "Trotz des {Lärms} konnte ich gut schlafen.",
+        "zh": "儘管很吵，我還是睡得很好。",
+        "en": "Despite the noise, I was able to sleep well.",
+        "options": ["Lärm", "Lärme", "Lärmen"],
+        "why": "陽性 der Lärm 的屬格要加 -s：des Lärms。"
+      },
+      {
+        "type": "choice",
+        "de": "Trotz {der} Kälte fährt er mit dem Fahrrad.",
+        "zh": "儘管很冷，他還是騎腳踏車。",
+        "en": "Despite the cold, he goes by bike.",
+        "options": ["des", "dem", "die"],
+        "why": "陰性 die Kälte 的屬格是 der Kälte，名詞不加字尾。"
+      }
+    ]
+  },
+  {
+    "id": "um-zu",
+    "group": "zu",
+    "de": "um … zu",
+    "pattern": "um … zu ＋ 不定式",
+    "zh": "為了（做某事）",
+    "en": "in order to",
+    "rule": "um … zu 表示目的，只能在兩邊主詞相同時用：子句裡不再寫主詞，zu ＋ 不定式放最後。",
+    "ex": {
+      "de": "Ich lerne Deutsch, {um} in Berlin [zu studieren].",
+      "zh": "我學德文是為了在柏林念大學。",
+      "en": "I'm learning German in order to study in Berlin."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Sie spart Geld, {um} ein neues Fahrrad [zu kaufen].",
+        "zh": "她存錢是為了買一台新的腳踏車。",
+        "en": "She is saving money in order to buy a new bike.",
+        "options": ["damit", "weil", "dass"],
+        "why": "後面沒有主詞，句尾是 zu ＋ 不定式，所以用 um。damit、weil、dass 後面都要有主詞和變位動詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Er geht in die Stadt, {um}",
+        "tokens": ["ein Geschenk", "[zu]", "[kaufen]"],
+        "zh": "他進城去買禮物。",
+        "en": "He is going into town to buy a present.",
+        "why": "um 後面不寫主詞，受詞 ein Geschenk 在前，zu ＋ 不定式放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich stehe früh auf, {um den Zug nicht zu verpassen}.",
+        "zh": "我很早起床，才不會錯過火車。",
+        "en": "I get up early so as not to miss the train.",
+        "options": ["damit den Zug nicht zu verpassen", "um ich den Zug nicht verpasse", "um den Zug nicht verpassen"],
+        "why": "兩邊的主詞都是 ich，用 um … zu：不寫主詞，zu ＋ 不定式放最後。damit 後面要有主詞和變位動詞（damit ich den Zug nicht verpasse）。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich rufe dich an, {um}",
+        "tokens": ["dir", "zum Geburtstag", "[zu]", "[gratulieren]"],
+        "zh": "我打電話給你，是要祝你生日快樂。",
+        "en": "I'm calling to wish you a happy birthday.",
+        "why": "um … zu：其他成分都放在中間，zu gratulieren 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich gehe in den Supermarkt, um für das Wochenende {einzukaufen}.",
+        "zh": "我去超市採買週末要用的東西。",
+        "en": "I'm going to the supermarket to do the shopping for the weekend.",
+        "options": ["zu einkaufen", "einkaufen zu", "einkaufen"],
+        "why": "可分動詞的 zu 夾在前綴和動詞中間，寫成一個字：ein-zu-kaufen。"
+      }
+    ]
+  },
+  {
+    "id": "damit",
+    "group": "sub",
+    "de": "damit",
+    "pattern": "damit ＋ …動詞",
+    "zh": "為了讓、好讓",
+    "en": "so that",
+    "rule": "damit 表示目的，帶出子句，變位動詞放最後。兩邊主詞不同時只能用 damit，不能用 um … zu。",
+    "ex": {
+      "de": "Ich spreche langsam, {damit} du mich gut [verstehst].",
+      "zh": "我說慢一點，好讓你聽得懂。",
+      "en": "I speak slowly so that you understand me well."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Die Mutter macht das Licht aus, {damit} das Kind schlafen [kann].",
+        "zh": "媽媽把燈關掉，好讓孩子睡覺。",
+        "en": "The mother turns off the light so that the child can sleep.",
+        "options": ["um", "deshalb", "wegen"],
+        "why": "後面有自己的主詞 das Kind，句尾是變位動詞 kann，所以用 damit。um 後面不能有主詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich schreibe dir die Adresse auf, {damit}",
+        "tokens": ["du", "den Weg", "[findest]"],
+        "zh": "我把地址寫給你，這樣你才找得到路。",
+        "en": "I'll write down the address for you so that you find the way.",
+        "why": "damit 子句：主詞 du 在前，變位動詞 findest 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich gebe dir meine Nummer, {damit du mich anrufen kannst}.",
+        "zh": "我把我的號碼給你，這樣你就可以打給我。",
+        "en": "I'll give you my number so that you can call me.",
+        "options": ["um mich anrufen zu können", "um du mich anrufen kannst", "damit mich anrufen zu können"],
+        "why": "主詞不同（ich → du）只能用 damit，子句要有主詞 du 和句尾的變位動詞 kannst。um … zu 只能在兩邊主詞相同時用。"
+      },
+      {
+        "type": "order",
+        "lead": "Mach bitte das Fenster zu, {damit}",
+        "tokens": ["es", "nicht", "so kalt", "[wird]"],
+        "zh": "請把窗戶關上，才不會那麼冷。",
+        "en": "Please close the window so that it doesn't get so cold.",
+        "why": "damit 子句：主詞 es 在前，nicht 放在要否定的 so kalt 前面，變位動詞 wird 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Er erklärt alles zweimal, {damit} die Schüler es [verstehen].",
+        "zh": "他每件事都解釋兩次，好讓學生聽懂。",
+        "en": "He explains everything twice so that the students understand it.",
+        "options": ["um", "deshalb", "trotz"],
+        "why": "主詞從 er 換成 die Schüler，句尾是變位動詞 verstehen，所以用 damit。"
+      }
+    ]
+  },
+  {
+    "id": "rel-nom",
+    "group": "rel",
+    "de": "Relativpronomen: Nominativ",
+    "pattern": "der／die／das ＋ …動詞",
+    "zh": "關係代名詞：主格",
+    "en": "relative pronouns: nominative",
+    "ask": "陽性、陰性、中性、複數各是什麼？",
+    "forms": [
+      ["陽性", "der"],
+      ["陰性", "die"],
+      ["中性", "das"],
+      ["複數", "die"]
+    ],
+    "rule": "性別和單複數看前面的名詞，格位看關代在子句裡的角色：當主詞就用主格。動詞放子句最後。",
+    "ex": {
+      "de": "Das ist der Nachbar, {der} über uns [wohnt].",
+      "zh": "那位是住在我們樓上的鄰居。",
+      "en": "That's the neighbour who lives above us."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Das ist der Mann, {der} im Supermarkt [arbeitet].",
+        "zh": "那位是在超市工作的男士。",
+        "en": "That's the man who works at the supermarket.",
+        "options": ["den", "dem", "die"],
+        "why": "前面是陽性 der Mann；在子句裡他是主詞（他工作）→ 主格 der。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich habe eine Freundin, {die} sehr gut Deutsch [spricht].",
+        "zh": "我有一個德文說得很好的朋友。",
+        "en": "I have a friend who speaks German very well.",
+        "options": ["der", "den", "das"],
+        "why": "前面是陰性 eine Freundin；在子句裡她是主詞（她說德文）→ 主格 die。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich suche jemanden, {der}",
+        "tokens": ["mir", "beim Umzug", "helfen", "[kann]"],
+        "zh": "我在找可以幫我搬家的人。",
+        "en": "I'm looking for someone who can help me move.",
+        "why": "關係子句也是動詞放最後：不定式 helfen 在前，變位的 kann 在句尾。"
+      },
+      {
+        "type": "choice",
+        "de": "Wo ist das Buch, {das} gestern auf dem Tisch [lag]?",
+        "zh": "昨天放在桌上的那本書在哪裡？",
+        "en": "Where is the book that was on the table yesterday?",
+        "options": ["der", "die", "dem"],
+        "why": "前面是中性 das Buch；在子句裡書是主詞（書放在桌上）→ 主格 das。"
+      },
+      {
+        "type": "choice",
+        "de": "Die Kinder, {die} im Garten [spielen], sind sehr laut.",
+        "zh": "在花園裡玩的那些小孩很吵。",
+        "en": "The children who are playing in the garden are very loud.",
+        "options": ["der", "den", "denen"],
+        "why": "前面是複數 die Kinder；在子句裡他們是主詞 → 複數主格 die。"
+      }
+    ]
+  },
+  {
+    "id": "rel-akk",
+    "group": "rel",
+    "de": "Relativpronomen: Akkusativ",
+    "pattern": "den／die／das ＋ …動詞",
+    "zh": "關係代名詞：受格",
+    "en": "relative pronouns: accusative",
+    "ask": "陽性、陰性、中性、複數各是什麼？",
+    "forms": [
+      ["陽性", "den"],
+      ["陰性", "die"],
+      ["中性", "das"],
+      ["複數", "die"]
+    ],
+    "rule": "關代在子句裡是直接受詞（或接在 für、ohne 這類受格介系詞後面）就用受格。只有陽性和主格不一樣：der → den。",
+    "ex": {
+      "de": "Der Film, {den} wir gestern gesehen [haben], war sehr spannend.",
+      "zh": "我們昨天看的那部電影很精彩。",
+      "en": "The film we saw yesterday was very exciting."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Das ist der Kuchen, {den} ich selbst gebacken [habe].",
+        "zh": "這是我自己烤的蛋糕。",
+        "en": "This is the cake that I baked myself.",
+        "options": ["der", "dem", "das"],
+        "why": "前面是陽性 der Kuchen；子句的主詞是 ich，蛋糕是被烤的東西（受詞）→ 受格 den。"
+      },
+      {
+        "type": "order",
+        "lead": "Das ist der Film, {den}",
+        "tokens": ["ich", "gestern", "gesehen", "[habe]"],
+        "zh": "這就是我昨天看的那部電影。",
+        "en": "That's the film I saw yesterday.",
+        "why": "關係子句：主詞 ich 在前，分詞 gesehen 在變位的 habe 前面，habe 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Wie heißt die Kollegin, {die} du gestern getroffen [hast]?",
+        "zh": "你昨天遇到的那位女同事叫什麼名字？",
+        "en": "What's the name of the colleague you met yesterday?",
+        "options": ["der", "den", "dem"],
+        "why": "前面是陰性 die Kollegin；子句的主詞是 du，她是受詞 → 受格 die（陰性的主格和受格一樣）。"
+      },
+      {
+        "type": "choice",
+        "de": "Der Mantel, {den} sie im Internet bestellt [hat], ist zu klein.",
+        "zh": "她在網路上訂的那件大衣太小了。",
+        "en": "The coat she ordered online is too small.",
+        "options": ["der", "dem", "die"],
+        "why": "前面是陽性 der Mantel；子句的主詞是 sie，大衣是被訂的東西 → 受格 den。"
+      },
+      {
+        "type": "choice",
+        "de": "Das Handy, {das} ich letzte Woche gekauft [habe], ist schon kaputt.",
+        "zh": "我上星期買的手機已經壞了。",
+        "en": "The mobile phone I bought last week is already broken.",
+        "options": ["den", "dem", "der"],
+        "why": "前面是中性 das Handy；在子句裡是受詞 → 受格 das（中性的主格和受格一樣）。"
+      },
+      {
+        "type": "choice",
+        "de": "Das ist der Freund, für {den} ich das Geschenk gekauft [habe].",
+        "zh": "這位就是我買禮物要送的那個朋友。",
+        "en": "That's the friend I bought the present for.",
+        "options": ["dem", "der", "denen"],
+        "why": "für 一定接受格；前面是陽性 der Freund → für den。介系詞要放在關代前面。"
+      }
+    ]
+  },
+  {
+    "id": "rel-dat",
+    "group": "rel",
+    "de": "Relativpronomen: Dativ",
+    "pattern": "dem／der／denen ＋ …動詞",
+    "zh": "關係代名詞：與格",
+    "en": "relative pronouns: dative",
+    "ask": "陽性、陰性、中性、複數各是什麼？",
+    "forms": [
+      ["陽性", "dem"],
+      ["陰性", "der"],
+      ["中性", "dem"],
+      ["複數", "denen"]
+    ],
+    "rule": "關代在子句裡是與格（helfen、gehören、geben 的對象，或接在 mit、bei、von 這類與格介系詞後面）就用與格。複數是 denen。",
+    "ex": {
+      "de": "Die Frau, {der} ich geholfen [habe], ist meine Nachbarin.",
+      "zh": "我幫忙的那位女士是我的鄰居。",
+      "en": "The woman I helped is my neighbour."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Das ist der Kollege, {dem} ich mein Fahrrad geliehen [habe].",
+        "zh": "這位就是我把腳踏車借給他的同事。",
+        "en": "That's the colleague I lent my bike to.",
+        "options": ["den", "der", "denen"],
+        "why": "前面是陽性 der Kollege；leihen 的對象（借給誰）是與格 → dem。"
+      },
+      {
+        "type": "order",
+        "lead": "Das ist die Nachbarin, {der}",
+        "tokens": ["ich", "die Schlüssel", "gegeben", "[habe]"],
+        "zh": "這位就是我把鑰匙交給她的鄰居。",
+        "en": "That's the neighbour I gave the keys to.",
+        "why": "關係子句：主詞 ich 在前，受詞 die Schlüssel 在中間，分詞 gegeben 和變位的 habe 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Die Kinder, {denen} wir die Geschichte vorgelesen [haben], schlafen jetzt.",
+        "zh": "我們唸故事給他們聽的那些孩子現在睡了。",
+        "en": "The children we read the story to are sleeping now.",
+        "options": ["den", "die", "dem"],
+        "why": "前面是複數 die Kinder；vorlesen 的對象是與格，複數與格的關代是 denen（不是 den）。"
+      },
+      {
+        "type": "choice",
+        "de": "Das ist der Freund, mit {dem} ich nach Wien [fahre].",
+        "zh": "這位就是要跟我一起去維也納的朋友。",
+        "en": "That's the friend I'm going to Vienna with.",
+        "options": ["den", "der", "denen"],
+        "why": "mit 一定接與格；前面是陽性 der Freund → mit dem。"
+      },
+      {
+        "type": "choice",
+        "de": "Die Firma, bei {der} mein Bruder [arbeitet], ist sehr groß.",
+        "zh": "我哥哥工作的那家公司很大。",
+        "en": "The company my brother works for is very big.",
+        "options": ["die", "dem", "den"],
+        "why": "bei 一定接與格；前面是陰性 die Firma → bei der。"
+      },
+      {
+        "type": "choice",
+        "de": "Das Kind, {dem} der Ball [gehört], sucht ihn überall.",
+        "zh": "那顆球的主人（那個孩子）到處在找它。",
+        "en": "The child the ball belongs to is looking for it everywhere.",
+        "options": ["das", "den", "der"],
+        "why": "前面是中性 das Kind；gehören 的對象（屬於誰）是與格 → dem。"
+      }
+    ]
+  }
+]

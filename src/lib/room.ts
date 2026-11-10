@@ -7,6 +7,7 @@ export const BED = { x: 85, y: 125, w: 34 };
 export const BASKET_AT = { x: 4, y: 186 };
 export const BOWL_AT = { x: 36, y: 191 };
 export const WATER_BTN = { x: 62, y: 184, w: 54, h: 22 };
+export const BOARD = { x: 4, y: 36, w: 25, h: 20 };
 
 export function wall(c: Ctx) {
   rect(c, 0, 0, 120, 121, '#b47a44');
@@ -50,6 +51,37 @@ export function calendar(c: Ctx, x: number, y: number) {
     rect(c, x + 2 + (i % 6) * 3, y + 8 + Math.floor(i / 6) * 4, 2, 2, done.includes(i) ? '#5c9634' : '#e2c38a');
   }
   rect(c, x + 11, y + 16, 2, 2, '#c8352e');
+}
+
+const WEIL = ['W.W.W.WWW.W.W..', 'W.W.W.W...W.W..', 'W.W.W.WW..W.W..', 'W.W.W.W...W.W..', '.W.W..WWW.W.WWW'];
+const BADGE = ['.YYY.', 'YYrYY', 'YYrYY', 'YYYYY', 'YYrYY', '.YYY.'];
+
+/** 黑板＝連接詞與文法練習的入口：寫著 WEIL，下面那句話的動詞（紫色那塊）在最後 */
+export function blackboard(c: Ctx) {
+  const { x, y, w, h } = BOARD;
+  box(c, x, y, w, h, '#8a5428');
+  rect(c, x + 1, y + 1, w - 2, 1, '#c48d56');
+  rect(c, x + 2, y + 2, w - 4, h - 7, '#2f5a44');
+  rect(c, x + 2, y + 2, w - 4, 1, '#234636');
+  rect(c, x + 2, y + 2, 1, h - 7, '#234636');
+  sprite(c, WEIL, x + 5, y + 4, { W: '#fff3b0' });
+  rect(c, x + 5, y + 12, 4, 1, '#dfe8d8');
+  rect(c, x + 10, y + 12, 3, 1, '#dfe8d8');
+  rect(c, x + 14, y + 11, 5, 2, '#d59af0');
+  px(c, x + 20, y + 12, '#dfe8d8');
+  // 粉筆槽：粉筆和板擦
+  rect(c, x + 1, y + h - 5, w - 2, 1, '#5a3214');
+  rect(c, x + 1, y + h - 4, w - 2, 2, '#a8703f');
+  rect(c, x + 1, y + h - 2, w - 2, 1, '#6e3c18');
+  rect(c, x + 5, y + h - 4, 3, 1, '#fffbe8');
+  rect(c, x + 10, y + h - 4, 2, 1, '#f8a8c8');
+  rect(c, x + 16, y + h - 5, 5, 2, '#3a2414');
+  rect(c, x + 16, y + h - 5, 5, 1, '#c8483c');
+}
+
+/** 有文法該複習時，黑板右上角貼一張黃色提醒 */
+export function boardBadge(c: Ctx) {
+  blit(c, cached('boardBadge', BADGE, { Y: '#f2c14a', r: '#b8352e' }, OUT), BOARD.x + BOARD.w - 4, BOARD.y - 2);
 }
 
 export function bookshelf(c: Ctx, x: number, y: number, w: number, h: number) {
@@ -170,6 +202,7 @@ export function room(c: Ctx) {
   wall(c);
   floor(c);
   calendar(c, 93, 38);
+  blackboard(c);
   door(c, 6, 74, 20, 42);
   bookshelf(c, 88, 68, 28, 49);
   plant(c, 28, 106);
@@ -308,7 +341,7 @@ export function windowView(c: Ctx, env: Env, t: number, dryPlots: number) {
 
 /** 整個房間的光線：早上偏暖、傍晚偏橘、晚上偏暗藍；下雨下雪白天也暗一點 */
 export function lighting(c: Ctx, env: Env) {
-  const tint = { morning: 'rgba(255,226,170,0.07)', noon: '', dusk: 'rgba(255,130,60,0.12)', night: 'rgba(22,26,70,0.30)' }[env.tod];
+  const tint = { morning: 'rgba(255,226,170,0.07)', noon: '', dusk: 'rgba(255,130,60,0.08)', night: 'rgba(22,26,70,0.16)' }[env.tod];
   if (tint) {
     c.fillStyle = tint;
     c.fillRect(0, 0, 240, 420);

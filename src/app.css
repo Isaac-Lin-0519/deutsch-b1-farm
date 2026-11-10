@@ -22,6 +22,7 @@
   --red: #e46a52;
   --yellow: #f2c14a;
   --green: #7cc552;
+  --verb: #8a3fb0;
   color-scheme: light;
 }
 
@@ -203,6 +204,23 @@ mark {
   color: inherit;
   padding: 0 2px;
   box-shadow: inset 0 -2px 0 var(--wood-hi);
+}
+
+/* 文法練習：例句裡標出動詞的位置 */
+.verb {
+  color: var(--verb);
+  font-weight: 600;
+  box-shadow: inset 0 -2px 0 var(--verb);
+}
+
+/* 語序小標記，例如「obwohl ＋ …動詞」 */
+.pat {
+  display: inline-block;
+  padding: 0 calc(var(--u) * 2);
+  background: var(--paper-hi);
+  border: var(--u) solid var(--verb);
+  color: var(--verb);
+  line-height: 1.4;
 }
 
 h1,

@@ -89,7 +89,11 @@
     if (!f) return;
     try {
       const data = JSON.parse(await f.text()) as Backup;
-      if (!confirm(`匯入 ${data.cards?.length ?? 0} 株作物的進度，會取代目前所有進度。確定嗎？`)) return;
+      // 上一版匯出的備份沒有文法進度，匯入時目前的文法進度會留著
+      const gram = Array.isArray(data.grammar)
+        ? `和 ${data.grammar.length} 個文法點的進度，會取代目前所有進度。`
+        : '的進度，會取代目前的單字進度。\n這份備份沒有文法進度，目前的文法進度會保留。';
+      if (!confirm(`匯入 ${data.cards?.length ?? 0} 株作物${gram}確定嗎？`)) return;
       await importAll(data);
       location.reload();
     } catch (err) {

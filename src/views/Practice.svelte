@@ -1,7 +1,11 @@
 <script lang="ts">
+  import { grammar, grammarSummary } from '../lib/grammar.svelte';
   import { app } from '../lib/store.svelte';
   import { LEVELS, type Level } from '../lib/types';
   import WordCard from '../components/WordCard.svelte';
+
+  let { ongrammar }: { ongrammar: () => void } = $props();
+  const g = $derived(grammarSummary());
 
   let lvl = $state<'all' | Level>('all');
   let scope = $state<'planted' | 'all'>('planted');
@@ -33,6 +37,17 @@
 </script>
 
 <div class="screen stack">
+  {#if grammar.ready}
+    <div class="panel stack">
+      <h2>連接詞與文法</h2>
+      <p class="soft">weil、deshalb、wegen 這些怎麼分？閃卡、四選一、排語序混著練，有自己的複習排程，不影響農場。</p>
+      <div class="row gram">
+        <span>{g.due || g.fresh ? `今天：複習 ${g.due} 個・新的 ${g.fresh} 個` : '今天的練完了'}</span>
+        <button class="btn green" onclick={ongrammar}>{g.due || g.fresh ? '開始練習' : '進去看看'}</button>
+      </div>
+    </div>
+  {/if}
+
   <div class="panel stack">
     <h2>自由翻卡</h2>
     <p class="soft">隨意翻，不會影響農場的澆水排程。</p>
@@ -72,6 +87,9 @@
 </div>
 
 <style>
+  .gram {
+    justify-content: space-between;
+  }
   .tap {
     cursor: pointer;
   }

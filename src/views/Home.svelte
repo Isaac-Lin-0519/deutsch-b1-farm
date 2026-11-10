@@ -4,6 +4,7 @@
   import * as C from '../lib/collie';
   import { BALL_AREA, Dog, FLOOR } from '../lib/dog';
   import { envAt, envLabel } from '../lib/env';
+  import { grammar, grammarQueue } from '../lib/grammar.svelte';
   import * as P from '../lib/pixel';
   import * as R from '../lib/room';
   import { fitStage } from '../lib/stage';
@@ -24,9 +25,17 @@
     onwater,
     onfarm,
     onpractice,
+    ongrammar,
     onstats,
     onsettings,
-  }: { onwater: () => void; onfarm: () => void; onpractice: () => void; onstats: () => void; onsettings: () => void } = $props();
+  }: {
+    onwater: () => void;
+    onfarm: () => void;
+    onpractice: () => void;
+    ongrammar: () => void;
+    onstats: () => void;
+    onsettings: () => void;
+  } = $props();
 
   const W = 120;
   const H = 210;
@@ -47,6 +56,12 @@
   const fruits = $derived(fruitCount());
   const name = $derived(app.settings.dogName || '邊牧');
   const env = $derived(envAt(app.now));
+  /** 黑板：今天要複習、可以新學的文法點 */
+  const gram = $derived.by(() => {
+    if (!grammar.ready) return { due: 0, fresh: 0 };
+    const q = grammarQueue(app.now);
+    return { due: q.reviews.length, fresh: q.fresh.length };
+  });
 
   // ---- 不會動的部分先畫好 ----
   let roomImg: HTMLCanvasElement | null = null;
@@ -55,12 +70,14 @@
     const seeds = queue.seeds.length;
     const line2 = examDays === null ? '今天的種子' : examDays >= 0 ? `離考試 ${examDays} 天・種子` : '考試日已過';
     const label = waterLabel;
+    const gramDue = gram.due;
     const o = document.createElement('canvas');
     o.width = W * P.S;
     o.height = H * P.S;
     const c = o.getContext('2d')!;
     c.imageSmoothingEnabled = false;
     R.room(c);
+    if (gramDue) R.boardBadge(c);
     P.panel(c, 4, 4, 100, 27);
     P.ptext(c, '今天要澆水', 18, 17, P.INK);
     P.ptext(c, `${water} 株`, 198, 17, water ? P.RED_INK : P.INK, null, 'right');
@@ -110,6 +127,17 @@
     { id: 'farm', x: 3, y: 71, w: 26, h: 47, label: () => '農場', ax: 16, ay: 61, act: () => onfarm() },
     { id: 'cards', x: 87, y: 67, w: 30, h: 51, label: () => '翻卡', ax: 102, ay: 57, act: () => onpractice() },
     { id: 'stats', x: 92, y: 34, w: 23, h: 26, label: () => '紀錄', ax: 103, ay: 60, act: () => onstats() },
+    {
+      id: 'grammar',
+      x: 3,
+      y: 34,
+      w: 27,
+      h: 23,
+      label: () => (gram.due ? `文法（複習 ${gram.due}）` : gram.fresh ? `文法（新的 ${gram.fresh}）` : '文法練習'),
+      ax: 17,
+      ay: 58,
+      act: () => ongrammar(),
+    },
     { id: 'settings', x: 106, y: 6, w: 13, h: 14, label: () => '設定', ax: 111, ay: 20, act: () => onsettings() },
     { id: 'feed', x: 2, y: 183, w: 48, h: 14, label: () => `餵食（果實 ×${fruits}）`, ax: 28, ay: 172, act: feed },
     { id: 'window', x: 36, y: 34, w: 44, h: 44, label: () => envLabel(env), ax: 58, ay: 79, act: () => showFlash('window') },

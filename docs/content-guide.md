@@ -40,3 +40,52 @@
 - **翻譯**：`zh`、`en` 翻譯整句意思，自然通順即可，不必逐字對應。
 
 寫完後執行 `python3 -I tools/content/validate.py` 檢查格式。
+
+## 連接詞與文法練習
+
+`data/grammar/gNNN.json` 是文法點的陣列，新文法點照檔名和檔案裡的順序帶出來，成對比的要排在一起。
+
+```json
+{
+  "id": "weil",
+  "group": "sub",
+  "de": "weil",
+  "pattern": "weil ＋ …動詞",
+  "zh": "因為",
+  "en": "because",
+  "rule": "weil 帶出子句，變位動詞放到子句最後。",
+  "ex": { "de": "Ich bleibe heute zu Hause, {weil} ich krank [bin].", "zh": "…", "en": "…" },
+  "items": [
+    {
+      "type": "choice",
+      "de": "Wir nehmen den Bus, {weil} unser Auto kaputt [ist].",
+      "zh": "…",
+      "en": "…",
+      "options": ["deshalb", "wegen", "denn"],
+      "why": "動詞 ist 在句尾，所以是從屬連接詞 weil。…"
+    },
+    {
+      "type": "order",
+      "lead": "Lena geht früh ins Bett, {weil}",
+      "tokens": ["sie", "morgen eine Prüfung", "[hat]"],
+      "zh": "…",
+      "en": "…",
+      "why": "weil 子句：主詞 sie 在前，變位動詞 hat 放最後。"
+    }
+  ]
+}
+```
+
+- **group**：`sub` 動詞放最後的連接詞、`adv` 連接副詞、`pair` 雙連接詞、`zu` zu＋不定式、`rel` 關係代名詞、`gen` 屬格介系詞。
+- **標記**：`{}` 是這題的重點，每句剛好一組；`[]` 標出動詞，可以有好幾組。
+- **看規則的卡片**（關代、屬格介系詞）多兩欄：`ask`（正面的提問）和 `forms`（背面的表，每列兩格）。
+- **四選一 `choice`**：`{}` 就是空格，`options` 剛好 3 個。干擾選項故意放意思相近、語法不同的
+  （weil／denn／deshalb／wegen），但填進去**文法上一定要錯**；只是意思怪、文法卻通的不能用
+  （例如 wegen 的題目不能放 trotz）。句首的選項要大寫開頭。
+- **排語序 `order`**：`lead` 是固定的前半句（連接詞放在這裡），`tokens` 是正確順序的字塊，至少 3 塊。
+  正確順序要只有一種：容易有兩種排法的字（heute、gern 這類副詞）跟旁邊的字併成一塊；真的有兩種就用 `alt` 列出來。
+  句尾不是句點時用 `tail`。
+- **`why`**：一兩句話講這題為什麼，要提到句子裡實際的字（哪個動詞、在哪裡）。
+- 每個文法點至少各有一題四選一和排語序，題目照「四選一、排語序交錯」排，複習時會照順序輪流出。
+
+寫完後執行 `npm test` 檢查格式。
