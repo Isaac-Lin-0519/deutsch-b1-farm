@@ -1,0 +1,902 @@
+{
+  "rolle": {
+    "senses": [
+      {
+        "zh": "角色",
+        "en": "role",
+        "ex": {
+          "de": "Im neuen Film spielt sie die wichtigste {Rolle}.",
+          "zh": "她在新電影中飾演最重要的角色。",
+          "en": "She plays the most important role in the new film.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "roman": {
+    "senses": [
+      {
+        "zh": "小說",
+        "en": "novel",
+        "ex": {
+          "de": "Der spannende {Roman} erzählt von einer Reise nach Afrika.",
+          "zh": "這本精彩的小說講述一趟非洲之旅。",
+          "en": "The exciting novel tells of a journey to Africa.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "rose": {
+    "senses": [
+      {
+        "zh": "玫瑰",
+        "en": "rose",
+        "ex": {
+          "de": "Im Garten meiner Mutter blüht eine rote {Rose}.",
+          "zh": "我媽媽的花園裡開了一朵紅玫瑰。",
+          "en": "A red rose is blooming in my mother's garden.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "rucksack": {
+    "senses": [
+      {
+        "zh": "後背包",
+        "en": "backpack",
+        "ex": {
+          "de": "Für die Wanderung packe ich Wasser in meinen {Rucksack}.",
+          "zh": "健行時我把水裝進後背包。",
+          "en": "I pack water in my backpack for the hike.",
+          "distractors": [
+            "Schal",
+            "Hut",
+            "Schuh"
+          ]
+        }
+      }
+    ]
+  },
+  "rueckkehr": {
+    "senses": [
+      {
+        "zh": "返回",
+        "en": "return",
+        "ex": {
+          "de": "Nach seiner {Rückkehr} aus dem Urlaub besucht er uns.",
+          "zh": "他度假回來後會來看我們。",
+          "en": "He visits us after his return from holiday.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "rueckwaerts": {
+    "senses": [
+      {
+        "zh": "向後",
+        "en": "backwards",
+        "ex": {
+          "de": "Das Auto fährt langsam {rückwärts} aus der Garage.",
+          "zh": "汽車慢慢倒退出車庫。",
+          "en": "The car backs slowly out of the garage.",
+          "distractors": [
+            "gestern",
+            "niemals",
+            "morgen"
+          ]
+        }
+      }
+    ]
+  },
+  "ruecken": {
+    "senses": [
+      {
+        "zh": "背部",
+        "en": "back",
+        "ex": {
+          "de": "Nach dem Tragen der schweren Kisten tut mein {Rücken} weh.",
+          "zh": "搬完重箱子後我的背很痛。",
+          "en": "My back hurts after carrying the heavy boxes.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "rueebli": {
+    "senses": [
+      {
+        "zh": "紅蘿蔔（瑞士）",
+        "en": "carrot (Switzerland)",
+        "ex": {
+          "de": "Für die Suppe schneidet sie ein {Rüebli} in Stücke.",
+          "zh": "她為了煮湯把一根紅蘿蔔切成小塊。",
+          "en": "She cuts a carrot into pieces for the soup.",
+          "distractors": [
+            "Fenster",
+            "Kissen",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "rufen": {
+    "senses": [
+      {
+        "zh": "呼喊",
+        "en": "to call, shout",
+        "ex": {
+          "de": "Wenn du Hilfe brauchst, kannst du laut nach mir {rufen}.",
+          "zh": "如果你需要幫忙，可以大聲叫我。",
+          "en": "If you need help, you can call out to me.",
+          "distractors": [
+            "schlafen",
+            "kochen",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "rufnummer": {
+    "senses": [
+      {
+        "zh": "電話號碼",
+        "en": "telephone number",
+        "ex": {
+          "de": "Bitte hinterlassen Sie Ihre {Rufnummer} nach dem Signalton.",
+          "zh": "提示音之後請留下您的電話號碼。",
+          "en": "Please leave your phone number after the beep.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "ruhe": {
+    "senses": [
+      {
+        "zh": "安靜；休息",
+        "en": "peace, rest",
+        "ex": {
+          "de": "Nach dem langen Tag möchte er etwas {Ruhe} haben.",
+          "zh": "漫長的一天之後，他想安靜休息一下。",
+          "en": "After the long day he wants some peace and quiet.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "ruhig": {
+    "senses": [
+      {
+        "zh": "安靜的；平靜的",
+        "en": "quiet, calm",
+        "ex": {
+          "de": "Nach dem Sturm wurde das Meer langsam wieder {ruhig}.",
+          "zh": "暴風雨過後，海面慢慢恢復平靜。",
+          "en": "After the storm the sea gradually became calm again.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "rund": {
+    "senses": [
+      {
+        "zh": "圓形的",
+        "en": "round",
+        "ex": {
+          "de": "Der Tisch im Esszimmer ist {rund} und aus Holz.",
+          "zh": "餐廳裡的桌子是圓形的，用木頭製成。",
+          "en": "The dining room table is round and made of wood.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "runde": {
+    "senses": [
+      {
+        "zh": "一圈",
+        "en": "round, lap",
+        "ex": {
+          "de": "Nach dem Essen gehen wir eine {Runde} im Park spazieren.",
+          "zh": "飯後我們在公園散步一圈。",
+          "en": "After eating we take a walk around the park.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "rundfahrt": {
+    "senses": [
+      {
+        "zh": "環繞之旅",
+        "en": "tour",
+        "ex": {
+          "de": "Während der {Rundfahrt} zeigt uns die Reiseleiterin die Altstadt.",
+          "zh": "導遊在環城之旅中帶我們參觀舊城區。",
+          "en": "During the tour the guide shows us the old town.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "saal": {
+    "senses": [
+      {
+        "zh": "大廳",
+        "en": "hall",
+        "ex": {
+          "de": "Im großen {Saal} warten die Gäste auf das Konzert.",
+          "zh": "客人在大廳等待音樂會開始。",
+          "en": "The guests wait for the concert in the large hall.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "sache": {
+    "senses": [
+      {
+        "zh": "事情；物品",
+        "en": "thing, matter",
+        "ex": {
+          "de": "Diese {Sache} müssen wir morgen gemeinsam besprechen.",
+          "zh": "我們明天必須一起討論這件事。",
+          "en": "We have to discuss this matter together tomorrow.",
+          "distractors": [
+            "Tasche",
+            "Brille",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "sack": {
+    "senses": [
+      {
+        "zh": "袋子",
+        "en": "sack",
+        "ex": {
+          "de": "Der Bauer trägt einen schweren {Sack} mit Kartoffeln.",
+          "zh": "農夫背著一袋沉重的馬鈴薯。",
+          "en": "The farmer carries a heavy sack of potatoes.",
+          "distractors": [
+            "Teppich",
+            "Schal",
+            "Hut"
+          ]
+        }
+      }
+    ]
+  },
+  "saft": {
+    "senses": [
+      {
+        "zh": "果汁",
+        "en": "juice",
+        "ex": {
+          "de": "Zum Frühstück trinkt er ein Glas frischen {Saft}.",
+          "zh": "早餐時他喝了一杯新鮮果汁。",
+          "en": "He drinks a glass of fresh juice for breakfast.",
+          "distractors": [
+            "Schnee",
+            "Lärm",
+            "Regen"
+          ]
+        }
+      }
+    ]
+  },
+  "sagen": {
+    "senses": [
+      {
+        "zh": "說",
+        "en": "to say",
+        "ex": {
+          "de": "Bitte kannst du mir deinen Namen noch einmal {sagen}?",
+          "zh": "請問你可以再說一次你的名字嗎？",
+          "en": "Could you please tell me your name again?",
+          "distractors": [
+            "waschen",
+            "kochen",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "die-sahne": {
+    "senses": [
+      {
+        "zh": "鮮奶油",
+        "en": "cream",
+        "ex": {
+          "de": "Für den Kuchen schlägt sie frische {Sahne} mit Zucker.",
+          "zh": "她為蛋糕把新鮮鮮奶油和糖打發。",
+          "en": "She whips fresh cream with sugar for the cake.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "salat": {
+    "senses": [
+      {
+        "zh": "沙拉",
+        "en": "salad",
+        "ex": {
+          "de": "Zum Mittagessen bereitet er einen frischen {Salat} zu.",
+          "zh": "午餐他準備了一份新鮮沙拉。",
+          "en": "He prepares a fresh salad for lunch.",
+          "distractors": [
+            "Schrank",
+            "Koffer",
+            "Teppich"
+          ]
+        }
+      }
+    ]
+  },
+  "salbe": {
+    "senses": [
+      {
+        "zh": "藥膏",
+        "en": "ointment",
+        "ex": {
+          "de": "Gegen den Juckreiz trägt sie eine {Salbe} auf die Haut auf.",
+          "zh": "她在皮膚上塗藥膏止癢。",
+          "en": "She applies an ointment to her skin for the itching.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "salon": {
+    "senses": [
+      {
+        "zh": "沙龍；美髮店",
+        "en": "salon",
+        "ex": {
+          "de": "Im {Salon} lässt sie sich die Haare schneiden.",
+          "zh": "她在美髮店剪頭髮。",
+          "en": "She has her hair cut at the salon.",
+          "distractors": [
+            "Koffer",
+            "Schrank",
+            "Teppich"
+          ]
+        }
+      }
+    ]
+  },
+  "salz": {
+    "senses": [
+      {
+        "zh": "鹽",
+        "en": "salt",
+        "ex": {
+          "de": "Für die Suppe brauchen wir noch etwas {Salz}.",
+          "zh": "我們還需要一些鹽來煮湯。",
+          "en": "We need some more salt for the soup.",
+          "distractors": [
+            "Wetter",
+            "Kissen",
+            "Fahrrad"
+          ]
+        }
+      }
+    ]
+  },
+  "salzig": {
+    "senses": [
+      {
+        "zh": "鹹的",
+        "en": "salty",
+        "ex": {
+          "de": "Die Soße ist zu {salzig}, gib bitte mehr Wasser dazu.",
+          "zh": "醬汁太鹹了，請再加點水。",
+          "en": "The sauce is too salty; please add more water.",
+          "distractors": [
+            "hungrig",
+            "müde",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "sammeln": {
+    "senses": [
+      {
+        "zh": "收集",
+        "en": "to collect",
+        "ex": {
+          "de": "Die Kinder möchten am Strand schöne Muscheln {sammeln}.",
+          "zh": "孩子們想在海灘上收集漂亮的貝殼。",
+          "en": "The children want to collect beautiful shells on the beach.",
+          "distractors": [
+            "schlafen",
+            "niesen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "saemtliche": {
+    "senses": [
+      {
+        "zh": "全部的",
+        "en": "all",
+        "ex": {
+          "de": "Bei dem Umzug wurden {sämtliche} Bücher in Kisten gepackt.",
+          "zh": "搬家時所有的書都裝進了箱子。",
+          "en": "During the move all the books were packed in boxes.",
+          "distractors": [
+            "hungrige",
+            "müde",
+            "durstige"
+          ]
+        }
+      }
+    ]
+  },
+  "sand": {
+    "senses": [
+      {
+        "zh": "沙子",
+        "en": "sand",
+        "ex": {
+          "de": "Nach dem Strandtag haben wir überall {Sand} in den Schuhen.",
+          "zh": "去海邊一整天後，我們的鞋裡到處都是沙子。",
+          "en": "After a day at the beach we have sand all through our shoes.",
+          "distractors": [
+            "Lärm",
+            "Regen",
+            "Schnee"
+          ]
+        }
+      }
+    ]
+  },
+  "saenger": {
+    "senses": [
+      {
+        "zh": "男歌手",
+        "en": "male singer",
+        "ex": {
+          "de": "Der {Sänger} bekommt nach dem Konzert großen Applaus.",
+          "zh": "演唱會後這位男歌手獲得熱烈掌聲。",
+          "en": "The singer receives loud applause after the concert.",
+          "distractors": [
+            "Koffer",
+            "Schrank",
+            "Teppich"
+          ]
+        }
+      }
+    ]
+  },
+  "saengerin": {
+    "senses": [
+      {
+        "zh": "女歌手",
+        "en": "female singer",
+        "ex": {
+          "de": "Die {Sängerin} steht mit ihrer Band auf der Bühne.",
+          "zh": "這位女歌手與樂團站在舞台上。",
+          "en": "The singer stands on stage with her band.",
+          "distractors": [
+            "Tasche",
+            "Brille",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "satt": {
+    "senses": [
+      {
+        "zh": "吃飽的",
+        "en": "full",
+        "ex": {
+          "de": "Nach dem großen Mittagessen bin ich schon {satt}.",
+          "zh": "吃過豐盛午餐後我已經飽了。",
+          "en": "After the big lunch I am already full.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "krank"
+          ]
+        }
+      }
+    ]
+  },
+  "satz": {
+    "senses": [
+      {
+        "zh": "句子",
+        "en": "sentence",
+        "ex": {
+          "de": "Schreib bitte einen vollständigen {Satz} in dein Heft.",
+          "zh": "請在筆記本裡寫一個完整的句子。",
+          "en": "Please write a complete sentence in your notebook.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "sauber": {
+    "senses": [
+      {
+        "zh": "乾淨的",
+        "en": "clean",
+        "ex": {
+          "de": "Nach dem Putzen ist die Küche wieder {sauber}.",
+          "zh": "打掃後廚房又乾淨了。",
+          "en": "After cleaning, the kitchen is clean again.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "sauer": {
+    "senses": [
+      {
+        "zh": "酸的",
+        "en": "sour",
+        "ex": {
+          "de": "Diese Zitrone ist viel zu {sauer} für mich.",
+          "zh": "這顆檸檬對我來說太酸了。",
+          "en": "This lemon is much too sour for me.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "schachtel": {
+    "senses": [
+      {
+        "zh": "盒子",
+        "en": "box",
+        "ex": {
+          "de": "In der kleinen {Schachtel} liegen alte Fotos.",
+          "zh": "小盒子裡放著舊照片。",
+          "en": "There are old photos in the small box.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "schade": {
+    "senses": [
+      {
+        "zh": "可惜的",
+        "en": "a pity",
+        "ex": {
+          "de": "Wie {schade}, das kleine Café hat schon geschlossen!",
+          "zh": "真可惜，那家小咖啡館已經關門了！",
+          "en": "What a pity, the little café has already closed!",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "schaden": {
+    "senses": [
+      {
+        "zh": "傷害；損害",
+        "en": "to harm",
+        "ex": {
+          "de": "Zu viel Sonne kann der Haut {schaden}.",
+          "zh": "過多陽光可能傷害皮膚。",
+          "en": "Too much sun can harm the skin.",
+          "distractors": [
+            "schlafen",
+            "rennen",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "schaden-2": {
+    "senses": [
+      {
+        "zh": "損壞；損失",
+        "en": "damage",
+        "ex": {
+          "de": "Der Sturm hat am Dach großen {Schaden} angerichtet.",
+          "zh": "暴風雨對屋頂造成重大損壞。",
+          "en": "The storm caused major damage to the roof.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "schaedlich": {
+    "senses": [
+      {
+        "zh": "有害的",
+        "en": "harmful",
+        "ex": {
+          "de": "Zu wenig Schlaf ist auf Dauer {schädlich} für die Gesundheit.",
+          "zh": "長期睡眠不足對健康有害。",
+          "en": "Too little sleep is harmful to health in the long run.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "schaffen": {
+    "senses": [
+      {
+        "zh": "完成；做到",
+        "en": "to manage, achieve",
+        "ex": {
+          "de": "Mit etwas Hilfe kann ich die Aufgabe heute noch {schaffen}.",
+          "zh": "有一點幫助的話，我今天還能完成任務。",
+          "en": "With some help I can still finish the task today.",
+          "distractors": [
+            "schlafen",
+            "niesen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schalten": {
+    "senses": [
+      {
+        "zh": "切換；開關",
+        "en": "to switch",
+        "ex": {
+          "de": "Kannst du den Fernseher bitte auf Kanal drei {schalten}?",
+          "zh": "你可以把電視轉到第三台嗎？",
+          "en": "Can you please switch the television to channel three?",
+          "distractors": [
+            "schlafen",
+            "husten",
+            "niesen"
+          ]
+        }
+      }
+    ]
+  },
+  "schalter": {
+    "senses": [
+      {
+        "zh": "開關",
+        "en": "switch",
+        "ex": {
+          "de": "Mit diesem {Schalter} kannst du das Licht ausschalten.",
+          "zh": "你可以用這個開關關燈。",
+          "en": "You can turn off the light with this switch.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "scharf": {
+    "senses": [
+      {
+        "zh": "辣的",
+        "en": "spicy",
+        "ex": {
+          "de": "Die Suppe ist so {scharf}, dass ich Wasser brauche.",
+          "zh": "湯太辣了，我需要喝水。",
+          "en": "The soup is so spicy that I need water.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "schatten": {
+    "senses": [
+      {
+        "zh": "陰影；陰涼處",
+        "en": "shade, shadow",
+        "ex": {
+          "de": "Im Sommer sitzen wir gern im {Schatten} des Baumes.",
+          "zh": "夏天我們喜歡坐在樹蔭下。",
+          "en": "In summer we like sitting in the shade of the tree.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "schauen": {
+    "senses": [
+      {
+        "zh": "看",
+        "en": "to look",
+        "ex": {
+          "de": "Vom Fenster aus kann man auf den Garten {schauen}.",
+          "zh": "從窗戶可以看到花園。",
+          "en": "You can look out over the garden from the window.",
+          "distractors": [
+            "schlafen",
+            "kochen",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "zuschauen": {
+    "senses": [
+      {
+        "zh": "觀看",
+        "en": "to watch",
+        "ex": {
+          "de": "Die Eltern möchten dem Spiel ihrer Kinder {zuschauen}.",
+          "zh": "父母想看孩子們的比賽。",
+          "en": "The parents want to watch their children's game.",
+          "distractors": [
+            "schlafen",
+            "kochen",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "schauspieler": {
+    "senses": [
+      {
+        "zh": "男演員",
+        "en": "male actor",
+        "ex": {
+          "de": "Der {Schauspieler} lernt seinen Text für das Theaterstück.",
+          "zh": "這位男演員為戲劇背台詞。",
+          "en": "The actor learns his lines for the play.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "schauspielerin": {
+    "senses": [
+      {
+        "zh": "女演員",
+        "en": "female actor",
+        "ex": {
+          "de": "Die {Schauspielerin} spielt eine Ärztin im neuen Film.",
+          "zh": "這位女演員在新電影中飾演一名醫師。",
+          "en": "The actor plays a doctor in the new film.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "scheiden-lassen": {
+    "senses": [
+      {
+        "zh": "離婚",
+        "en": "to get divorced",
+        "ex": {
+          "de": "Nach vielen Jahren wollte sich das Paar {scheiden lassen}.",
+          "zh": "多年以後，這對夫妻想離婚。",
+          "en": "After many years the couple wanted to get divorced.",
+          "distractors": [
+            "verschlucken",
+            "erkälten",
+            "verlaufen"
+          ]
+        }
+      }
+    ]
+  }
+}

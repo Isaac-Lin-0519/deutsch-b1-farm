@@ -1,0 +1,110 @@
+{
+  "aufschreiben": {
+    "senses": [
+      {
+        "zh": "記下來",
+        "en": "to write down",
+        "ex": {
+          "de": "Ich werde die Adresse sofort auf einen Zettel {aufschreiben}.",
+          "zh": "我會立刻把地址寫在一張紙條上。",
+          "en": "I will write the address on a piece of paper right away.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schreiben-2": {
+    "senses": [
+      {
+        "zh": "信函；書面通知",
+        "en": "letter; written notice",
+        "ex": {
+          "de": "Das {Schreiben} der Bank kam gestern mit der Post.",
+          "zh": "銀行的書面通知昨天寄到了。",
+          "en": "The letter from the bank arrived in the post yesterday.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "schreien": {
+    "senses": [
+      {
+        "zh": "大叫；尖叫",
+        "en": "to shout; scream",
+        "ex": {
+          "de": "Vor Freude musste das Kind laut {schreien}.",
+          "zh": "孩子高興得大聲尖叫。",
+          "en": "The child had to shout loudly with joy.",
+          "distractors": [
+            "bügeln",
+            "kochen",
+            "schlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "schrift": {
+    "senses": [
+      {
+        "zh": "字跡；文字",
+        "en": "handwriting; script",
+        "ex": {
+          "de": "Deine {Schrift} ist sehr deutlich, ich kann alles lesen.",
+          "zh": "你的字跡很清楚，我都看得懂。",
+          "en": "Your handwriting is very clear; I can read everything.",
+          "distractors": [
+            "Zahnbürste",
+            "Wolke",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "schriftlich": {
+    "senses": [
+      {
+        "zh": "書面的；以書面",
+        "en": "written; in writing",
+        "ex": {
+          "de": "Bitte bestätigen Sie den Termin bis Freitag {schriftlich}.",
+          "zh": "請在星期五以前以書面確認預約。",
+          "en": "Please confirm the appointment in writing by Friday.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "schriftsteller": {
+    "senses": [
+      {
+        "zh": "作家",
+        "en": "writer; author",
+        "ex": {
+          "de": "Der {Schriftsteller} liest heute Abend aus seinem neuen Buch.",
+          "zh": "這位作家今晚朗讀他的新書。",
+          "en": "The writer is reading from his new book tonight.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  }
+}

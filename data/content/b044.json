@@ -1,0 +1,866 @@
+{
+  "geschieden-2": {
+    "senses": [
+      {
+        "zh": "離婚的",
+        "en": "divorced",
+        "ex": {
+          "de": "Auf dem Formular hat er angegeben, dass er {geschieden} ist.",
+          "zh": "他在表格上註明自己已離婚。",
+          "en": "On the form he indicated that he is divorced.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "scheidung": {
+    "senses": [
+      {
+        "zh": "離婚",
+        "en": "divorce",
+        "ex": {
+          "de": "Nach der {Scheidung} wohnen beide Eltern weiterhin in derselben Stadt.",
+          "zh": "離婚後，父母雙方仍住在同一個城市。",
+          "en": "After the divorce, both parents continue living in the same city.",
+          "distractors": [
+            "Zahnbürste",
+            "Karotte",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "schein": {
+    "senses": [
+      {
+        "zh": "紙幣",
+        "en": "banknote",
+        "ex": {
+          "de": "Der Automat nimmt nur kleine {Scheine} und Münzen.",
+          "zh": "這台機器只收小額紙鈔和硬幣。",
+          "en": "The machine only accepts small banknotes and coins.",
+          "distractors": [
+            "Regenschirme",
+            "Kühlschränke",
+            "Bleistifte"
+          ]
+        }
+      }
+    ]
+  },
+  "scheinen": {
+    "senses": [
+      {
+        "zh": "照耀；似乎",
+        "en": "to shine; seem",
+        "ex": {
+          "de": "Nach dem Regen beginnt die Sonne wieder zu {scheinen}.",
+          "zh": "雨過之後，太陽又開始照耀。",
+          "en": "After the rain the sun begins to shine again.",
+          "distractors": [
+            "frieren",
+            "bügeln",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schenken": {
+    "senses": [
+      {
+        "zh": "贈送",
+        "en": "to give as a gift",
+        "ex": {
+          "de": "Was möchtest du deiner Schwester zum Geburtstag {schenken}?",
+          "zh": "你想送妹妹什麼生日禮物？",
+          "en": "What would you like to give your sister for her birthday?",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schere": {
+    "senses": [
+      {
+        "zh": "剪刀",
+        "en": "scissors",
+        "ex": {
+          "de": "Mit dieser {Schere} kannst du das Papier schneiden.",
+          "zh": "你可以用這把剪刀剪紙。",
+          "en": "You can cut the paper with these scissors.",
+          "distractors": [
+            "Wolke",
+            "Marmelade",
+            "Zahnpasta"
+          ]
+        }
+      }
+    ]
+  },
+  "schicken": {
+    "senses": [
+      {
+        "zh": "寄送",
+        "en": "to send",
+        "ex": {
+          "de": "Ich werde dir die Fotos heute Abend per E-Mail {schicken}.",
+          "zh": "我今晚會用電子郵件把照片寄給你。",
+          "en": "I will send you the photos by email tonight.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schieben": {
+    "senses": [
+      {
+        "zh": "推",
+        "en": "to push",
+        "ex": {
+          "de": "Wir müssen das schwere Sofa zusammen ins Zimmer {schieben}.",
+          "zh": "我們必須一起把沉重的沙發推進房間。",
+          "en": "We have to push the heavy sofa into the room together.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schief": {
+    "senses": [
+      {
+        "zh": "歪斜的",
+        "en": "crooked; slanted",
+        "ex": {
+          "de": "Das Bild hängt etwas {schief}, bitte richte es gerade.",
+          "zh": "這幅畫掛得有點歪，請把它擺正。",
+          "en": "The picture is hanging a little crooked; please straighten it.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "schiessen": {
+    "senses": [
+      {
+        "zh": "射擊",
+        "en": "to shoot",
+        "ex": {
+          "de": "Beim Fußball versucht er, den Ball ins Tor zu {schießen}.",
+          "zh": "踢足球時他試著把球射進球門。",
+          "en": "When playing football he tries to shoot the ball into the goal.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schiff": {
+    "senses": [
+      {
+        "zh": "船",
+        "en": "ship",
+        "ex": {
+          "de": "Das große {Schiff} fährt morgen früh aus dem Hafen.",
+          "zh": "那艘大船明天早上駛離港口。",
+          "en": "The large ship leaves the harbor tomorrow morning.",
+          "distractors": [
+            "Kissen",
+            "Frühstück",
+            "Wetter"
+          ]
+        }
+      }
+    ]
+  },
+  "schild": {
+    "senses": [
+      {
+        "zh": "標誌；牌子",
+        "en": "sign",
+        "ex": {
+          "de": "Auf dem {Schild} steht, dass man hier nicht parken darf.",
+          "zh": "牌子上寫著這裡禁止停車。",
+          "en": "The sign says that parking is not allowed here.",
+          "distractors": [
+            "Kissen",
+            "Fahrrad",
+            "Frühstück"
+          ]
+        }
+      }
+    ]
+  },
+  "schimpfen": {
+    "senses": [
+      {
+        "zh": "責罵",
+        "en": "to scold",
+        "ex": {
+          "de": "Der Vater will nicht mit seinem Kind {schimpfen}.",
+          "zh": "父親不想責罵自己的孩子。",
+          "en": "The father does not want to scold his child.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schinken": {
+    "senses": [
+      {
+        "zh": "火腿",
+        "en": "ham",
+        "ex": {
+          "de": "Für das Frühstück kaufe ich Käse und {Schinken}.",
+          "zh": "我買了乳酪和火腿當早餐。",
+          "en": "I buy cheese and ham for breakfast.",
+          "distractors": [
+            "Regenschirm",
+            "Kühlschrank",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "schirm": {
+    "senses": [
+      {
+        "zh": "傘",
+        "en": "umbrella",
+        "ex": {
+          "de": "Nimm deinen {Schirm} mit, es könnte später regnen.",
+          "zh": "帶上你的傘，等一下可能會下雨。",
+          "en": "Take your umbrella; it might rain later.",
+          "distractors": [
+            "Kühlschrank",
+            "Bleistift",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "schlafen": {
+    "senses": [
+      {
+        "zh": "睡覺",
+        "en": "to sleep",
+        "ex": {
+          "de": "Das Baby kann bei diesem Lärm nicht {schlafen}.",
+          "zh": "這麼吵，寶寶睡不著。",
+          "en": "The baby cannot sleep with this noise.",
+          "distractors": [
+            "bügeln",
+            "telefonieren",
+            "schreiben"
+          ]
+        }
+      }
+    ]
+  },
+  "schlaf": {
+    "senses": [
+      {
+        "zh": "睡眠",
+        "en": "sleep",
+        "ex": {
+          "de": "Nach einer langen Reise brauche ich etwas {Schlaf}.",
+          "zh": "長途旅行後我需要睡一會兒。",
+          "en": "After a long journey I need some sleep.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "schlagen": {
+    "senses": [
+      {
+        "zh": "打；敲",
+        "en": "to hit; strike",
+        "ex": {
+          "de": "Bitte nicht mit der Hand gegen das Fenster {schlagen}.",
+          "zh": "請不要用手敲打窗戶。",
+          "en": "Please do not hit the window with your hand.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schlange": {
+    "senses": [
+      {
+        "zh": "隊伍；蛇",
+        "en": "queue; snake",
+        "ex": {
+          "de": "Vor der Kasse stehen wir in einer langen {Schlange}.",
+          "zh": "我們在收銀台前排著長隊。",
+          "en": "We are standing in a long queue at the checkout.",
+          "distractors": [
+            "Zahnbürste",
+            "Gabel",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "schlank": {
+    "senses": [
+      {
+        "zh": "苗條的",
+        "en": "slim",
+        "ex": {
+          "de": "Der Läufer ist groß und {schlank}.",
+          "zh": "那位跑者高高瘦瘦的。",
+          "en": "The runner is tall and slim.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "schlecht": {
+    "senses": [
+      {
+        "zh": "不好的；差的",
+        "en": "bad; poor",
+        "ex": {
+          "de": "Bei {schlechtem} Wetter bleiben wir lieber zu Hause.",
+          "zh": "天氣不好的時候，我們寧可待在家。",
+          "en": "We prefer to stay at home in bad weather.",
+          "distractors": [
+            "durstigem",
+            "hungrigem",
+            "schwangerem"
+          ]
+        }
+      }
+    ]
+  },
+  "schliessen": {
+    "senses": [
+      {
+        "zh": "關閉",
+        "en": "to close",
+        "ex": {
+          "de": "Wegen des starken Windes müssen wir alle Fenster {schließen}.",
+          "zh": "因為風很大，我們必須把所有窗戶關起來。",
+          "en": "Because of the strong wind, we have to close all the windows.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schlimm": {
+    "senses": [
+      {
+        "zh": "嚴重的；糟糕的",
+        "en": "bad; serious",
+        "ex": {
+          "de": "Der Unfall war zum Glück nicht so {schlimm}.",
+          "zh": "幸好這場事故沒有那麼嚴重。",
+          "en": "Fortunately the accident was not so serious.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "schloss": {
+    "senses": [
+      {
+        "zh": "城堡",
+        "en": "castle",
+        "ex": {
+          "de": "Auf dem Hügel steht ein altes {Schloss}.",
+          "zh": "山丘上有一座古老的城堡。",
+          "en": "An old castle stands on the hill.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Frühstück"
+          ]
+        }
+      }
+    ]
+  },
+  "schluss": {
+    "senses": [
+      {
+        "zh": "結束",
+        "en": "end",
+        "ex": {
+          "de": "Nach acht Stunden Arbeit ist endlich {Schluss} für heute.",
+          "zh": "工作八小時後，今天終於結束了。",
+          "en": "After eight hours of work, the day is finally over.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "schluessel": {
+    "senses": [
+      {
+        "zh": "鑰匙",
+        "en": "key",
+        "ex": {
+          "de": "Ohne {Schlüssel} kann ich die Wohnungstür nicht öffnen.",
+          "zh": "沒有鑰匙我打不開公寓大門。",
+          "en": "Without a key I cannot open the apartment door.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "schmal": {
+    "senses": [
+      {
+        "zh": "狹窄的",
+        "en": "narrow",
+        "ex": {
+          "de": "Die Straße durch das alte Dorf ist sehr {schmal}.",
+          "zh": "穿過老村莊的道路非常狹窄。",
+          "en": "The road through the old village is very narrow.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "schmecken": {
+    "senses": [
+      {
+        "zh": "嚐起來",
+        "en": "to taste",
+        "ex": {
+          "de": "Die selbst gekochte Suppe wird dir bestimmt {schmecken}.",
+          "zh": "這碗自己煮的湯你一定會喜歡。",
+          "en": "You will definitely like the taste of the homemade soup.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schmerz": {
+    "senses": [
+      {
+        "zh": "疼痛",
+        "en": "pain",
+        "ex": {
+          "de": "Bei starken {Schmerzen} sollte man eine Ärztin aufsuchen.",
+          "zh": "疼痛劇烈時應該去看醫師。",
+          "en": "If you have severe pain, you should see a doctor.",
+          "distractors": [
+            "Kühlschränken",
+            "Regenschirmen",
+            "Bleistiften"
+          ]
+        }
+      }
+    ]
+  },
+  "schmerzmittel": {
+    "senses": [
+      {
+        "zh": "止痛藥",
+        "en": "painkiller",
+        "ex": {
+          "de": "Der Arzt empfiehlt ein {Schmerzmittel} gegen die Kopfschmerzen.",
+          "zh": "醫師建議服用止痛藥緩解頭痛。",
+          "en": "The doctor recommends a painkiller for the headache.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "schminken": {
+    "senses": [
+      {
+        "zh": "化妝",
+        "en": "to put on makeup",
+        "ex": {
+          "de": "Vor dem Fest möchte sie sich noch {schminken}.",
+          "zh": "派對前她還想化妝。",
+          "en": "Before the party she still wants to put on makeup.",
+          "distractors": [
+            "langweilen",
+            "verirren",
+            "erkälten"
+          ]
+        }
+      }
+    ]
+  },
+  "schmuck": {
+    "senses": [
+      {
+        "zh": "首飾",
+        "en": "jewelry",
+        "ex": {
+          "de": "Ihren goldenen {Schmuck} bewahrt sie in einer kleinen Schachtel auf.",
+          "zh": "她把金飾放在一個小盒子裡。",
+          "en": "She keeps her gold jewelry in a small box.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "schmutz": {
+    "senses": [
+      {
+        "zh": "髒污",
+        "en": "dirt",
+        "ex": {
+          "de": "Mit Wasser entfernen wir den {Schmutz} von den Schuhen.",
+          "zh": "我們用水去除鞋子上的髒污。",
+          "en": "We use water to remove the dirt from the shoes.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "schmutzig": {
+    "senses": [
+      {
+        "zh": "髒的",
+        "en": "dirty",
+        "ex": {
+          "de": "Nach dem Spielen im Garten sind die Hände {schmutzig}.",
+          "zh": "在花園玩過之後，手髒了。",
+          "en": "After playing in the garden, the hands are dirty.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "verschmutzen": {
+    "senses": [
+      {
+        "zh": "弄髒；污染",
+        "en": "to pollute; make dirty",
+        "ex": {
+          "de": "Abfälle können das Wasser im Fluss {verschmutzen}.",
+          "zh": "廢棄物可能污染河水。",
+          "en": "Waste can pollute the water in the river.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schnee": {
+    "senses": [
+      {
+        "zh": "雪",
+        "en": "snow",
+        "ex": {
+          "de": "Im Winter liegt oft viel {Schnee} auf den Bergen.",
+          "zh": "冬天山上常常積著很多雪。",
+          "en": "In winter there is often a lot of snow on the mountains.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "schneien": {
+    "senses": [
+      {
+        "zh": "下雪",
+        "en": "to snow",
+        "ex": {
+          "de": "In den Bergen soll es heute Nacht wieder {schneien}.",
+          "zh": "山區今晚預計會再下雪。",
+          "en": "It is supposed to snow again in the mountains tonight.",
+          "distractors": [
+            "niesen",
+            "bügeln",
+            "telefonieren"
+          ]
+        }
+      }
+    ]
+  },
+  "schneiden": {
+    "senses": [
+      {
+        "zh": "切；割傷",
+        "en": "to cut",
+        "ex": {
+          "de": "Kannst du bitte das Brot in dünne Scheiben {schneiden}?",
+          "zh": "你可以把麵包切成薄片嗎？",
+          "en": "Can you please cut the bread into thin slices?",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "schnell": {
+    "senses": [
+      {
+        "zh": "快的；迅速地",
+        "en": "fast; quickly",
+        "ex": {
+          "de": "Der Zug fährt sehr {schnell} durch die Landschaft.",
+          "zh": "火車快速地行駛過鄉間。",
+          "en": "The train travels very quickly through the countryside.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "schnitzel": {
+    "senses": [
+      {
+        "zh": "炸肉排",
+        "en": "schnitzel",
+        "ex": {
+          "de": "Zum Mittagessen bestellt er ein {Schnitzel} mit Kartoffeln.",
+          "zh": "午餐他點了一份炸肉排配馬鈴薯。",
+          "en": "For lunch he orders a schnitzel with potatoes.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "schnupfen": {
+    "senses": [
+      {
+        "zh": "流鼻水；鼻炎",
+        "en": "runny nose; cold",
+        "ex": {
+          "de": "Wegen des {Schnupfens} hat sie immer Taschentücher dabei.",
+          "zh": "因為流鼻水，她總是帶著衛生紙。",
+          "en": "Because of her runny nose she always carries tissues.",
+          "distractors": [
+            "Kühlschranks",
+            "Regenschirms",
+            "Bleistifts"
+          ]
+        }
+      }
+    ]
+  },
+  "schokolade": {
+    "senses": [
+      {
+        "zh": "巧克力",
+        "en": "chocolate",
+        "ex": {
+          "de": "Zum Kaffee esse ich ein kleines Stück {Schokolade}.",
+          "zh": "喝咖啡的時候我吃一小塊巧克力。",
+          "en": "I eat a small piece of chocolate with my coffee.",
+          "distractors": [
+            "Zahnbürste",
+            "Treppe",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "schon": {
+    "senses": [
+      {
+        "zh": "已經",
+        "en": "already",
+        "ex": {
+          "de": "Hast du die Eintrittskarten für morgen {schon} gekauft?",
+          "zh": "你已經買好明天的入場券了嗎？",
+          "en": "Have you already bought the tickets for tomorrow?",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "schoen": {
+    "senses": [
+      {
+        "zh": "美麗的；好的",
+        "en": "beautiful; nice",
+        "ex": {
+          "de": "Von unserem Balkon haben wir eine {schöne} Aussicht auf die Berge.",
+          "zh": "從我們的陽台可以看到美麗的山景。",
+          "en": "From our balcony we have a beautiful view of the mountains.",
+          "distractors": [
+            "durstige",
+            "hungrige",
+            "schwangere"
+          ]
+        }
+      }
+    ]
+  },
+  "schrank": {
+    "senses": [
+      {
+        "zh": "櫃子",
+        "en": "cupboard; wardrobe",
+        "ex": {
+          "de": "Im alten {Schrank} entdeckten wir eine Schachtel voller Briefe.",
+          "zh": "我們在舊櫃子裡發現一個裝滿信的盒子。",
+          "en": "In the old cupboard we discovered a box full of letters.",
+          "distractors": [
+            "Regenschirm",
+            "Bleistift",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "schreck": {
+    "senses": [
+      {
+        "zh": "驚嚇",
+        "en": "fright",
+        "ex": {
+          "de": "Der laute Knall hat mir einen großen {Schreck} eingejagt.",
+          "zh": "巨大的爆響嚇了我一大跳。",
+          "en": "The loud bang gave me a big fright.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "schrecklich": {
+    "senses": [
+      {
+        "zh": "可怕的；糟糕的",
+        "en": "terrible",
+        "ex": {
+          "de": "Das Wetter war so {schrecklich}, dass wir zu Hause blieben.",
+          "zh": "天氣太糟了，所以我們待在家。",
+          "en": "The weather was so terrible that we stayed home.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "schreiben": {
+    "senses": [
+      {
+        "zh": "寫",
+        "en": "to write",
+        "ex": {
+          "de": "Ich möchte meiner Freundin einen langen Brief {schreiben}.",
+          "zh": "我想寫一封長信給我的朋友。",
+          "en": "I want to write a long letter to my friend.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  }
+}
