@@ -1,0 +1,972 @@
+{
+  "anrede": {
+    "senses": [
+      {
+        "zh": "稱呼；（信的）開頭問候",
+        "en": "form of address, salutation",
+        "ex": {
+          "de": "Im Brief steht oben die {Anrede}: „Sehr geehrte Frau Weber“.",
+          "zh": "信的最上面是稱呼：「敬愛的韋伯女士」。",
+          "en": "At the top of the letter is the salutation: \"Dear Ms Weber\".",
+          "distractors": [
+            "Reise",
+            "Brille",
+            "Zeitung"
+          ]
+        }
+      }
+    ]
+  },
+  "anrufen": {
+    "senses": [
+      {
+        "zh": "打電話給",
+        "en": "to call, phone",
+        "ex": {
+          "de": "Ich muss heute Abend noch meine Oma {anrufen}.",
+          "zh": "我今天晚上還得打電話給奶奶。",
+          "en": "I still have to call my grandma tonight.",
+          "distractors": [
+            "anziehen",
+            "anbauen",
+            "anbraten"
+          ]
+        }
+      }
+    ]
+  },
+  "anruf": {
+    "senses": [
+      {
+        "zh": "電話；來電",
+        "en": "phone call",
+        "ex": {
+          "de": "Der {Anruf} dauerte nur zwei Minuten.",
+          "zh": "那通電話只講了兩分鐘。",
+          "en": "The call only lasted two minutes.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Besen"
+          ]
+        }
+      }
+    ]
+  },
+  "anrufbeantworter": {
+    "senses": [
+      {
+        "zh": "答錄機",
+        "en": "answering machine",
+        "ex": {
+          "de": "Wenn niemand abnimmt, sprich bitte auf den {Anrufbeantworter}.",
+          "zh": "如果沒人接，請留言在答錄機上。",
+          "en": "If nobody picks up, please speak onto the answering machine.",
+          "distractors": [
+            "Tisch",
+            "Balkon",
+            "Bahnhof"
+          ]
+        }
+      }
+    ]
+  },
+  "ansage": {
+    "senses": [
+      {
+        "zh": "廣播；（錄音）通知",
+        "en": "announcement",
+        "ex": {
+          "de": "Die {Ansage} im Bahnhof war so leise, dass niemand sie verstand.",
+          "zh": "車站的廣播太小聲，沒有人聽得懂。",
+          "en": "The announcement at the station was so quiet that nobody understood it.",
+          "distractors": [
+            "Tasche",
+            "Flasche",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "anschaffen": {
+    "senses": [
+      {
+        "zh": "購置；添購",
+        "en": "to buy, acquire",
+        "ex": {
+          "de": "Wir wollen uns bald einen Hund {anschaffen}.",
+          "zh": "我們打算很快養一隻狗。",
+          "en": "We want to get a dog soon.",
+          "distractors": [
+            "anzünden",
+            "anbraten",
+            "anbauen"
+          ]
+        }
+      }
+    ]
+  },
+  "anschliessen": {
+    "senses": [
+      {
+        "zh": "連接；接上（電源、網路）",
+        "en": "to connect, plug in",
+        "ex": {
+          "de": "Du musst das Ladekabel an die Steckdose {anschließen}.",
+          "zh": "你得把充電線接到插座上。",
+          "en": "You have to plug the charging cable into the socket.",
+          "distractors": [
+            "anziehen",
+            "anbraten",
+            "anrufen"
+          ]
+        }
+      }
+    ]
+  },
+  "anschluss": {
+    "senses": [
+      {
+        "zh": "（交通、網路、電話的）銜接；連線",
+        "en": "connection",
+        "ex": {
+          "de": "Wegen der Verspätung haben wir den {Anschluss} nach Hamburg verpasst.",
+          "zh": "因為誤點，我們錯過了去漢堡的轉乘班次。",
+          "en": "Because of the delay we missed the connection to Hamburg.",
+          "distractors": [
+            "Regenschirm",
+            "Geburtstag",
+            "Kühlschrank"
+          ]
+        }
+      }
+    ]
+  },
+  "anschnallen": {
+    "senses": [
+      {
+        "zh": "繫上安全帶",
+        "en": "to fasten (one's seat belt)",
+        "ex": {
+          "de": "Im Auto muss man sich immer {anschnallen}.",
+          "zh": "在車上一定要繫好安全帶。",
+          "en": "In a car you always have to buckle up.",
+          "distractors": [
+            "anzünden",
+            "anbraten",
+            "anbauen"
+          ]
+        }
+      }
+    ]
+  },
+  "ansehen": {
+    "senses": [
+      {
+        "zh": "看；觀賞",
+        "en": "to look at, watch",
+        "ex": {
+          "de": "Willst du dir mit mir den neuen Film {ansehen}?",
+          "zh": "你要不要跟我一起看這部新電影？",
+          "en": "Do you want to watch the new film with me?",
+          "distractors": [
+            "anrufen",
+            "anzünden",
+            "anbauen"
+          ]
+        }
+      }
+    ]
+  },
+  "ansprechen": {
+    "senses": [
+      {
+        "zh": "搭話；向…攀談",
+        "en": "to speak to, approach",
+        "ex": {
+          "de": "Beim Sport hat mich gestern ein Fremder auf der Straße {angesprochen}.",
+          "zh": "昨天運動的時候，有個陌生人在街上跟我搭話。",
+          "en": "A stranger came up and spoke to me in the street yesterday.",
+          "distractors": [
+            "angebaut",
+            "angezündet",
+            "angebraten"
+          ]
+        }
+      }
+    ]
+  },
+  "anspruch": {
+    "senses": [
+      {
+        "zh": "（權利上的）要求；請求權",
+        "en": "claim, right",
+        "ex": {
+          "de": "Nach einem Jahr hat man einen {Anspruch} auf bezahlten Urlaub.",
+          "zh": "工作滿一年之後，就有權享有帶薪假。",
+          "en": "After one year you are entitled to paid holiday.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Besen"
+          ]
+        }
+      }
+    ]
+  },
+  "anstellen": {
+    "senses": [
+      {
+        "zh": "僱用",
+        "en": "to hire, employ",
+        "ex": {
+          "de": "Die Firma will nächstes Jahr drei neue Mitarbeiter {anstellen}.",
+          "zh": "這間公司明年想僱用三名新員工。",
+          "en": "The company wants to hire three new employees next year.",
+          "distractors": [
+            "anzünden",
+            "anbraten",
+            "anbauen"
+          ]
+        }
+      },
+      {
+        "zh": "打開（電器、水）",
+        "en": "to switch on, turn on",
+        "ex": {
+          "de": "Kannst du bitte das Radio {anstellen}?",
+          "zh": "你可以把收音機打開嗎？",
+          "en": "Can you please turn on the radio?",
+          "distractors": [
+            "anziehen",
+            "anbauen",
+            "anbraten"
+          ]
+        }
+      }
+    ]
+  },
+  "angestellte": {
+    "senses": [
+      {
+        "zh": "（男）職員；受僱者",
+        "en": "employee (male)",
+        "ex": {
+          "de": "Der {Angestellte} am Schalter hat mir sehr freundlich geholfen.",
+          "zh": "櫃檯的職員很親切地幫了我。",
+          "en": "The employee at the counter helped me very kindly.",
+          "distractors": [
+            "Kugelschreiber",
+            "Computer",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "angestellte-2": {
+    "senses": [
+      {
+        "zh": "（女）職員；受僱者",
+        "en": "employee (female)",
+        "ex": {
+          "de": "Die {Angestellte} im Reisebüro hat uns viele Tipps gegeben.",
+          "zh": "旅行社的職員給了我們很多建議。",
+          "en": "The employee at the travel agency gave us lots of tips.",
+          "distractors": [
+            "Brille",
+            "Flasche",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "anstrengen": {
+    "senses": [
+      {
+        "zh": "努力；費力",
+        "en": "to make an effort",
+        "ex": {
+          "de": "Du musst dich in der Schule mehr {anstrengen}.",
+          "zh": "你在學校得更努力一點。",
+          "en": "You have to make more of an effort at school.",
+          "distractors": [
+            "anzünden",
+            "anbraten",
+            "anbauen"
+          ]
+        }
+      }
+    ]
+  },
+  "anstrengend": {
+    "senses": [
+      {
+        "zh": "累人的；費力的",
+        "en": "tiring, exhausting",
+        "ex": {
+          "de": "Nach einem langen Arbeitstag ist der Weg nach Hause oft sehr {anstrengend}.",
+          "zh": "忙了一整天之後，回家的路常常讓人很累。",
+          "en": "After a long working day the way home is often very tiring.",
+          "distractors": [
+            "ledig",
+            "pünktlich",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "antrag": {
+    "senses": [
+      {
+        "zh": "申請（書）",
+        "en": "application, request",
+        "ex": {
+          "de": "Für den neuen Pass muss ich einen {Antrag} beim Amt ausfüllen.",
+          "zh": "為了辦新護照，我得在機關填一份申請書。",
+          "en": "For the new passport I have to fill out an application at the office.",
+          "distractors": [
+            "Teppich",
+            "Regenschirm",
+            "Kühlschrank"
+          ]
+        }
+      }
+    ]
+  },
+  "anwenden": {
+    "senses": [
+      {
+        "zh": "應用；使用",
+        "en": "to apply, use",
+        "ex": {
+          "de": "Wie kann man diese Regel richtig {anwenden}?",
+          "zh": "這條規則要怎麼用才正確？",
+          "en": "How can you apply this rule correctly?",
+          "distractors": [
+            "anzünden",
+            "anbraten",
+            "anbauen"
+          ]
+        }
+      }
+    ]
+  },
+  "antworten": {
+    "senses": [
+      {
+        "zh": "回答；回覆",
+        "en": "to answer, reply",
+        "ex": {
+          "de": "Warum {antwortest} du mir nie auf meine Nachrichten?",
+          "zh": "你為什麼從來不回我的訊息？",
+          "en": "Why do you never reply to my messages?",
+          "distractors": [
+            "kochst",
+            "badest",
+            "fährst"
+          ]
+        }
+      }
+    ]
+  },
+  "antwort": {
+    "senses": [
+      {
+        "zh": "回答；回覆",
+        "en": "answer, reply",
+        "ex": {
+          "de": "Ich warte seit Tagen auf eine {Antwort} von der Firma.",
+          "zh": "我已經等那間公司回覆好幾天了。",
+          "en": "I have been waiting for days for a reply from the company.",
+          "distractors": [
+            "Kreuzung",
+            "Gabel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "anwalt": {
+    "senses": [
+      {
+        "zh": "律師",
+        "en": "lawyer (male)",
+        "ex": {
+          "de": "Wenn man Streit mit dem Vermieter hat, hilft ein {Anwalt}.",
+          "zh": "跟房東有糾紛的時候，律師可以幫上忙。",
+          "en": "If you have a dispute with your landlord, a lawyer can help.",
+          "distractors": [
+            "Besen",
+            "Fahrplan",
+            "Kühlschrank"
+          ]
+        }
+      }
+    ]
+  },
+  "anwaeltin": {
+    "senses": [
+      {
+        "zh": "女律師",
+        "en": "lawyer (female)",
+        "ex": {
+          "de": "Meine {Anwältin} hat den Vertrag genau gelesen.",
+          "zh": "我的律師把合約仔細讀過了。",
+          "en": "My lawyer read the contract carefully.",
+          "distractors": [
+            "Brücke",
+            "Gabel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "anzeigen": {
+    "senses": [
+      {
+        "zh": "向警方舉報",
+        "en": "to report (to the police)",
+        "ex": {
+          "de": "Die Nachbarin hat ihn bei der Polizei {angezeigt}.",
+          "zh": "鄰居向警方舉報了他。",
+          "en": "The neighbour reported him to the police.",
+          "distractors": [
+            "angebraten",
+            "angebaut",
+            "angezündet"
+          ]
+        }
+      },
+      {
+        "zh": "顯示",
+        "en": "to display, show",
+        "ex": {
+          "de": "Das Handy kann das Wetter für die ganze Woche {anzeigen}.",
+          "zh": "這支手機可以顯示整個星期的天氣。",
+          "en": "The phone can display the weather for the whole week.",
+          "distractors": [
+            "anzünden",
+            "anbraten",
+            "anbauen"
+          ]
+        }
+      }
+    ]
+  },
+  "anzeige": {
+    "senses": [
+      {
+        "zh": "廣告（刊登）",
+        "en": "advertisement, ad",
+        "ex": {
+          "de": "Ich habe die Wohnung durch eine {Anzeige} in der Zeitung gefunden.",
+          "zh": "我是透過報紙上的廣告找到這間公寓的。",
+          "en": "I found the flat through an ad in the newspaper.",
+          "distractors": [
+            "Brücke",
+            "Gabel",
+            "Wolke"
+          ]
+        }
+      },
+      {
+        "zh": "向警方的舉報；告發",
+        "en": "report (to the police)",
+        "ex": {
+          "de": "Nach dem Unfall hat er eine {Anzeige} bei der Polizei bekommen.",
+          "zh": "出事故之後，他被人向警方告發了。",
+          "en": "After the accident a complaint was filed against him with the police.",
+          "distractors": [
+            "Kreuzung",
+            "Wolke",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "anziehen": {
+    "senses": [
+      {
+        "zh": "穿上（衣服）",
+        "en": "to put on, get dressed",
+        "ex": {
+          "de": "Ich weiß nicht, was ich heute {anziehen} soll.",
+          "zh": "我不知道今天該穿什麼。",
+          "en": "I don't know what to wear today.",
+          "distractors": [
+            "anzünden",
+            "anbraten",
+            "anbauen"
+          ]
+        }
+      }
+    ]
+  },
+  "anzug": {
+    "senses": [
+      {
+        "zh": "西裝",
+        "en": "suit",
+        "ex": {
+          "de": "Zur Hochzeit trägt er einen dunklen {Anzug} mit Krawatte.",
+          "zh": "他穿著深色西裝、打著領帶去參加婚禮。",
+          "en": "He is wearing a dark suit with a tie to the wedding.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Teppich"
+          ]
+        }
+      }
+    ]
+  },
+  "apartment": {
+    "senses": [
+      {
+        "zh": "小公寓；套房",
+        "en": "apartment, flat",
+        "ex": {
+          "de": "Sie wohnt in einem kleinen {Apartment} in der Stadtmitte.",
+          "zh": "她住在市中心的一間小公寓裡。",
+          "en": "She lives in a small apartment in the city centre.",
+          "distractors": [
+            "Messer",
+            "Handy",
+            "Fahrrad"
+          ]
+        }
+      }
+    ]
+  },
+  "apfel": {
+    "senses": [
+      {
+        "zh": "蘋果",
+        "en": "apple",
+        "ex": {
+          "de": "Auf dem Markt kaufe ich jede Woche ein Kilo {Äpfel}.",
+          "zh": "我每個星期都在市場買一公斤蘋果。",
+          "en": "At the market I buy a kilo of apples every week.",
+          "distractors": [
+            "Teppiche",
+            "Schränke",
+            "Besen"
+          ]
+        }
+      }
+    ]
+  },
+  "aprikose": {
+    "senses": [
+      {
+        "zh": "杏桃",
+        "en": "apricot",
+        "ex": {
+          "de": "Im Sommer esse ich gern frische {Aprikosen} direkt vom Baum.",
+          "zh": "夏天我喜歡直接從樹上摘新鮮的杏桃來吃。",
+          "en": "In summer I like to eat fresh apricots straight from the tree.",
+          "distractors": [
+            "Brücken",
+            "Gabeln",
+            "Wolken"
+          ]
+        }
+      }
+    ]
+  },
+  "apotheke": {
+    "senses": [
+      {
+        "zh": "藥局",
+        "en": "pharmacy",
+        "ex": {
+          "de": "Die {Apotheke} an der Ecke hat auch am Sonntag geöffnet.",
+          "zh": "轉角的那間藥局星期天也有開。",
+          "en": "The pharmacy on the corner is also open on Sundays.",
+          "distractors": [
+            "Brücke",
+            "Gabel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "apparat": {
+    "senses": [
+      {
+        "zh": "機器；裝置",
+        "en": "device, machine",
+        "ex": {
+          "de": "Bei diesem {Apparat} muss man erst eine Münze einwerfen.",
+          "zh": "這台機器要先投一枚硬幣。",
+          "en": "With this machine you first have to insert a coin.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Besen"
+          ]
+        }
+      },
+      {
+        "zh": "電話（機）",
+        "en": "telephone (on the line)",
+        "ex": {
+          "de": "Guten Tag, hier Meier. Wer ist denn am {Apparat}?",
+          "zh": "您好，我是邁爾。請問是哪位接電話？",
+          "en": "Hello, this is Meier. Who is on the line?",
+          "distractors": [
+            "Besen",
+            "Teppich",
+            "Fahrplan"
+          ]
+        }
+      }
+    ]
+  },
+  "appetit": {
+    "senses": [
+      {
+        "zh": "食慾；胃口",
+        "en": "appetite",
+        "ex": {
+          "de": "Du hast kaum etwas gegessen – hast du keinen {Appetit}?",
+          "zh": "你幾乎沒吃東西——是不是沒胃口？",
+          "en": "You've hardly eaten anything – don't you have an appetite?",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Besen"
+          ]
+        }
+      }
+    ]
+  },
+  "arbeiten": {
+    "senses": [
+      {
+        "zh": "工作",
+        "en": "to work",
+        "ex": {
+          "de": "Meine Mutter {arbeitet} seit zehn Jahren in einem Krankenhaus.",
+          "zh": "我媽媽在一家醫院工作十年了。",
+          "en": "My mother has worked in a hospital for ten years.",
+          "distractors": [
+            "schmeckt",
+            "regnet",
+            "blüht"
+          ]
+        }
+      }
+    ]
+  },
+  "arbeit": {
+    "senses": [
+      {
+        "zh": "工作；上班",
+        "en": "work, job",
+        "ex": {
+          "de": "Nach der {Arbeit} gehe ich oft noch eine Stunde schwimmen.",
+          "zh": "下班後我常常還會去游一個小時的泳。",
+          "en": "After work I often go swimming for another hour.",
+          "distractors": [
+            "Gabel",
+            "Brille",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "arbeiter": {
+    "senses": [
+      {
+        "zh": "工人",
+        "en": "worker",
+        "ex": {
+          "de": "Die {Arbeiter} in der Fabrik bekommen am Freitag ihren Lohn.",
+          "zh": "工廠的工人星期五領薪水。",
+          "en": "The workers in the factory get their wages on Friday.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Besen"
+          ]
+        }
+      }
+    ]
+  },
+  "arbeitserlaubnis": {
+    "senses": [
+      {
+        "zh": "工作許可",
+        "en": "work permit",
+        "ex": {
+          "de": "Mit einer {Arbeitserlaubnis} darf er hier arbeiten.",
+          "zh": "有了工作許可，他就可以在這裡工作。",
+          "en": "With a work permit he is allowed to work here.",
+          "distractors": [
+            "Wolke",
+            "Gabel",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "arbeitslos": {
+    "senses": [
+      {
+        "zh": "失業的",
+        "en": "unemployed",
+        "ex": {
+          "de": "Seit der Firmenpleite ist mein Onkel leider {arbeitslos}.",
+          "zh": "自從公司倒閉後，我叔叔很不幸地失業了。",
+          "en": "Since the company went bankrupt my uncle has unfortunately been unemployed.",
+          "distractors": [
+            "bunt",
+            "eckig",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "arbeitslosigkeit": {
+    "senses": [
+      {
+        "zh": "失業（率）",
+        "en": "unemployment",
+        "ex": {
+          "de": "Die {Arbeitslosigkeit} ist in unserer Stadt in diesem Jahr gesunken.",
+          "zh": "今年我們城市的失業率下降了。",
+          "en": "Unemployment in our town has fallen this year.",
+          "distractors": [
+            "Brille",
+            "Gabel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "arbeitsplatz": {
+    "senses": [
+      {
+        "zh": "工作地點；職位",
+        "en": "workplace, job",
+        "ex": {
+          "de": "Mein {Arbeitsplatz} ist nur zehn Minuten von meiner Wohnung entfernt.",
+          "zh": "我的工作地點離我家只有十分鐘。",
+          "en": "My workplace is only ten minutes from my flat.",
+          "distractors": [
+            "Humor",
+            "Streit",
+            "Wunsch"
+          ]
+        }
+      }
+    ]
+  },
+  "arbeitsstelle": {
+    "senses": [
+      {
+        "zh": "工作；職缺",
+        "en": "job, position",
+        "ex": {
+          "de": "Er hat endlich eine neue {Arbeitsstelle} in einer Bäckerei gefunden.",
+          "zh": "他終於在一家麵包店找到了新工作。",
+          "en": "He has finally found a new job in a bakery.",
+          "distractors": [
+            "Brücke",
+            "Gabel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "architekt": {
+    "senses": [
+      {
+        "zh": "建築師",
+        "en": "architect (male)",
+        "ex": {
+          "de": "Der {Architekt} hat das Haus mit vielen Fenstern geplant.",
+          "zh": "這位建築師設計了這棟有很多窗戶的房子。",
+          "en": "The architect designed the house with lots of windows.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Besen"
+          ]
+        }
+      }
+    ]
+  },
+  "architektin": {
+    "senses": [
+      {
+        "zh": "女建築師",
+        "en": "architect (female)",
+        "ex": {
+          "de": "Meine Schwester ist {Architektin} und baut moderne Häuser.",
+          "zh": "我姊姊是建築師，蓋現代的房子。",
+          "en": "My sister is an architect and builds modern houses.",
+          "distractors": [
+            "Bäckerin",
+            "Friseurin",
+            "Verkäuferin"
+          ]
+        }
+      }
+    ]
+  },
+  "aergern": {
+    "senses": [
+      {
+        "zh": "生氣；惱火",
+        "en": "to be annoyed",
+        "ex": {
+          "de": "Ich {ärgere} mich oft über den Lärm in unserem Haus.",
+          "zh": "我常常為了我們大樓的噪音感到生氣。",
+          "en": "I often get annoyed about the noise in our building.",
+          "distractors": [
+            "beeile",
+            "setze",
+            "erkälte"
+          ]
+        }
+      }
+    ]
+  },
+  "aergerlich": {
+    "senses": [
+      {
+        "zh": "令人生氣的；惱人的",
+        "en": "annoying, vexing",
+        "ex": {
+          "de": "Wie {ärgerlich}, jetzt habe ich meinen Schlüssel schon wieder vergessen!",
+          "zh": "真氣人，我又忘了帶鑰匙！",
+          "en": "How annoying, I have forgotten my key again!",
+          "distractors": [
+            "bunt",
+            "eckig",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "arm": {
+    "senses": [
+      {
+        "zh": "貧窮的",
+        "en": "poor",
+        "ex": {
+          "de": "Der Mann ist so {arm}, dass er kaum Geld für Essen hat.",
+          "zh": "這個人窮到幾乎沒錢買吃的。",
+          "en": "The man is so poor that he hardly has money for food.",
+          "distractors": [
+            "reich",
+            "blond",
+            "dick"
+          ]
+        }
+      }
+    ]
+  },
+  "arm-2": {
+    "senses": [
+      {
+        "zh": "手臂",
+        "en": "arm",
+        "ex": {
+          "de": "Ich habe mir den {Arm} gebrochen, deshalb kann ich nicht schreiben.",
+          "zh": "我的手臂骨折了，所以沒辦法寫字。",
+          "en": "I broke my arm, so I can't write.",
+          "distractors": [
+            "Teppich",
+            "Besen",
+            "Kühlschrank"
+          ]
+        }
+      }
+    ]
+  },
+  "artikel": {
+    "senses": [
+      {
+        "zh": "（報章）文章",
+        "en": "article",
+        "ex": {
+          "de": "Beim Frühstück lese ich gern einen kurzen {Artikel} über Sport.",
+          "zh": "吃早餐時我喜歡讀一篇關於運動的短文章。",
+          "en": "At breakfast I like to read a short article about sports.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Besen"
+          ]
+        }
+      },
+      {
+        "zh": "冠詞",
+        "en": "article (grammar)",
+        "ex": {
+          "de": "Das Wort „Haus“ hat den {Artikel} „das“.",
+          "zh": "「Haus」這個字的冠詞是 das。",
+          "en": "The word \"Haus\" has the article \"das\".",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Besen"
+          ]
+        }
+      }
+    ]
+  },
+  "arzt": {
+    "senses": [
+      {
+        "zh": "醫生",
+        "en": "doctor (male)",
+        "ex": {
+          "de": "Mein {Arzt} hat mir Tabletten gegen die Kopfschmerzen verschrieben.",
+          "zh": "我的醫生開了治頭痛的藥給我。",
+          "en": "My doctor prescribed me tablets for the headache.",
+          "distractors": [
+            "Kühlschrank",
+            "Fahrplan",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "aerztin": {
+    "senses": [
+      {
+        "zh": "女醫生",
+        "en": "doctor (female)",
+        "ex": {
+          "de": "Die {Ärztin} hat mir gesagt, dass ich viel Wasser trinken soll.",
+          "zh": "醫生告訴我要多喝水。",
+          "en": "The doctor told me that I should drink a lot of water.",
+          "distractors": [
+            "Brücke",
+            "Gabel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  }
+}

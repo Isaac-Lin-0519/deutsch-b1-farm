@@ -1,0 +1,986 @@
+{
+  "loesen": {
+    "senses": [
+      {
+        "zh": "解決；解開",
+        "en": "to solve",
+        "ex": {
+          "de": "Zusammen konnten wir das Rätsel in fünf Minuten {lösen}.",
+          "zh": "我們一起在五分鐘內解開了那個謎題。",
+          "en": "Together we managed to solve the puzzle in five minutes.",
+          "distractors": [
+            "kochen",
+            "anziehen",
+            "parken"
+          ]
+        }
+      },
+      {
+        "zh": "買（車票、門票）",
+        "en": "to buy (a ticket)",
+        "ex": {
+          "de": "Für die Seilbahn müssen Sie an der Kasse ein Ticket {lösen}.",
+          "zh": "搭纜車必須先在售票處買票。",
+          "en": "For the cable car you have to buy a ticket at the ticket office.",
+          "distractors": [
+            "trinken",
+            "reparieren",
+            "waschen"
+          ]
+        }
+      }
+    ]
+  },
+  "brieftasche": {
+    "senses": [
+      {
+        "zh": "皮夾；錢包",
+        "en": "wallet",
+        "ex": {
+          "de": "Im Bus hat mir jemand die {Brieftasche} aus dem Rucksack gestohlen.",
+          "zh": "在公車上有人從我的背包裡偷走了皮夾。",
+          "en": "On the bus someone stole the wallet out of my backpack.",
+          "distractors": [
+            "Jahreszeit",
+            "Erkältung",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "testen": {
+    "senses": [
+      {
+        "zh": "測試；試用",
+        "en": "to test, try out",
+        "ex": {
+          "de": "Vor dem Kauf möchte ich das Fahrrad erst einmal {testen}.",
+          "zh": "買之前我想先試騎一下這台腳踏車。",
+          "en": "Before buying it, I'd like to try out the bike first.",
+          "distractors": [
+            "heiraten",
+            "trinken",
+            "buchstabieren"
+          ]
+        }
+      }
+    ]
+  },
+  "vase": {
+    "senses": [
+      {
+        "zh": "花瓶",
+        "en": "vase",
+        "ex": {
+          "de": "Stell die Rosen bitte in die {Vase} auf dem Tisch.",
+          "zh": "請把玫瑰插進桌上的花瓶裡。",
+          "en": "Please put the roses in the vase on the table.",
+          "distractors": [
+            "Zeitung",
+            "Rechnung",
+            "Ampel"
+          ]
+        }
+      }
+    ]
+  },
+  "tat": {
+    "senses": [
+      {
+        "zh": "行為；作為",
+        "en": "deed, act",
+        "ex": {
+          "de": "Dem alten Mann über die Straße zu helfen war eine gute {Tat}.",
+          "zh": "扶那位老先生過馬路是一件善行。",
+          "en": "Helping the old man across the street was a good deed.",
+          "distractors": [
+            "Farbe",
+            "Suppe",
+            "Nase"
+          ]
+        }
+      }
+    ]
+  },
+  "ruecksicht": {
+    "senses": [
+      {
+        "zh": "體諒；顧慮（Rücksicht nehmen auf：體諒、顧及）",
+        "en": "consideration (Rücksicht nehmen auf: to be considerate of)",
+        "ex": {
+          "de": "Im Zug sollte man {Rücksicht} auf andere nehmen und leise telefonieren.",
+          "zh": "在火車上應該體諒別人，講電話要小聲。",
+          "en": "On the train you should be considerate of others and talk quietly on the phone.",
+          "distractors": [
+            "Ahnung",
+            "Werbung",
+            "Heizung"
+          ]
+        }
+      }
+    ]
+  },
+  "quartier": {
+    "senses": [
+      {
+        "zh": "（瑞士）街區；社區",
+        "en": "(Swiss) neighbourhood, district",
+        "ex": {
+          "de": "In unserem {Quartier} gibt es viele kleine Läden und einen Park.",
+          "zh": "我們這個街區有很多小店和一座公園。",
+          "en": "In our neighbourhood there are lots of small shops and a park.",
+          "distractors": [
+            "Frühstück",
+            "Gewitter",
+            "Gepäck"
+          ]
+        }
+      }
+    ]
+  },
+  "urkunde": {
+    "senses": [
+      {
+        "zh": "證書；獎狀",
+        "en": "certificate",
+        "ex": {
+          "de": "Nach dem Schwimmkurs hat jedes Kind eine {Urkunde} bekommen.",
+          "zh": "游泳課結束後，每個孩子都拿到了一張證書。",
+          "en": "After the swimming course every child got a certificate.",
+          "distractors": [
+            "Kreuzung",
+            "Jahreszeit",
+            "Autobahn"
+          ]
+        }
+      }
+    ]
+  },
+  "verpflichtet": {
+    "senses": [
+      {
+        "zh": "有義務的；必須（做某事）",
+        "en": "obliged, required",
+        "ex": {
+          "de": "In Deutschland ist jeder Autofahrer {verpflichtet}, eine Versicherung zu haben.",
+          "zh": "在德國，每個汽車駕駛都有義務投保。",
+          "en": "In Germany every driver is required to have insurance.",
+          "distractors": [
+            "verheiratet",
+            "verletzt",
+            "verliebt"
+          ]
+        }
+      }
+    ]
+  },
+  "verrueckt": {
+    "senses": [
+      {
+        "zh": "瘋狂的；瘋了",
+        "en": "crazy, mad",
+        "ex": {
+          "de": "Bei diesem Regen ohne Jacke joggen? Du bist doch {verrückt}!",
+          "zh": "下這麼大的雨不穿外套去慢跑？你瘋了吧！",
+          "en": "Jogging in this rain without a jacket? You must be crazy!",
+          "distractors": [
+            "bewölkt",
+            "kostenlos",
+            "ausgebucht"
+          ]
+        }
+      }
+    ]
+  },
+  "stufe": {
+    "senses": [
+      {
+        "zh": "台階；階梯",
+        "en": "step, stair",
+        "ex": {
+          "de": "Pass auf, die letzte {Stufe} der Treppe ist etwas höher.",
+          "zh": "小心，樓梯的最後一階比較高。",
+          "en": "Watch out, the last step of the stairs is a bit higher.",
+          "distractors": [
+            "Woche",
+            "Suppe",
+            "Nase"
+          ]
+        }
+      },
+      {
+        "zh": "級別；程度",
+        "en": "level",
+        "ex": {
+          "de": "Nach der Prüfung darfst du den Kurs auf der nächsten {Stufe} besuchen.",
+          "zh": "通過考試之後，你就可以上下一個級別的課。",
+          "en": "After the exam you can take the course at the next level.",
+          "distractors": [
+            "Gabel",
+            "Wolke",
+            "Bluse"
+          ]
+        }
+      }
+    ]
+  },
+  "ersetzen": {
+    "senses": [
+      {
+        "zh": "賠償；補償（費用、損失）",
+        "en": "to reimburse, compensate for",
+        "ex": {
+          "de": "Die Versicherung hat uns den Schaden am Auto {ersetzt}.",
+          "zh": "保險公司賠償了我們車子的損失。",
+          "en": "The insurance company compensated us for the damage to the car.",
+          "distractors": [
+            "gekocht",
+            "unterrichtet",
+            "geduscht"
+          ]
+        }
+      },
+      {
+        "zh": "取代；代替",
+        "en": "to replace",
+        "ex": {
+          "de": "Kein Computer kann eine gute Lehrerin {ersetzen}.",
+          "zh": "沒有任何電腦能取代一位好老師。",
+          "en": "No computer can replace a good teacher.",
+          "distractors": [
+            "parken",
+            "backen",
+            "anziehen"
+          ]
+        }
+      }
+    ]
+  },
+  "spezialistin": {
+    "senses": [
+      {
+        "zh": "專家；專科醫師（女性）",
+        "en": "specialist (female)",
+        "ex": {
+          "de": "Frau Dr. Weber ist {Spezialistin} für Hautkrankheiten.",
+          "zh": "韋伯醫師是皮膚病的專科醫師。",
+          "en": "Dr Weber is a specialist in skin diseases.",
+          "distractors": [
+            "Mieterin",
+            "Kundin",
+            "Zuschauerin"
+          ]
+        }
+      }
+    ]
+  },
+  "besorgen": {
+    "senses": [
+      {
+        "zh": "買來；弄到；張羅",
+        "en": "to get, buy",
+        "ex": {
+          "de": "Kannst du auf dem Heimweg noch Brot und Milch {besorgen}?",
+          "zh": "你回家路上可以順便買麵包和牛奶嗎？",
+          "en": "Can you get some bread and milk on your way home?",
+          "distractors": [
+            "besuchen",
+            "begrüßen",
+            "beantworten"
+          ]
+        }
+      }
+    ]
+  },
+  "gemuetlich": {
+    "senses": [
+      {
+        "zh": "舒適的；溫馨的；悠閒的",
+        "en": "cosy, comfortable",
+        "ex": {
+          "de": "Am Sonntag machen wir uns einen {gemütlichen} Abend auf dem Sofa.",
+          "zh": "星期天我們要窩在沙發上度過一個悠閒的晚上。",
+          "en": "On Sunday we're going to have a cosy evening on the sofa.",
+          "distractors": [
+            "schriftlichen",
+            "salzigen",
+            "steilen"
+          ]
+        }
+      }
+    ]
+  },
+  "besserung": {
+    "senses": [
+      {
+        "zh": "康復；好轉（Gute Besserung!：祝早日康復）",
+        "en": "recovery (Gute Besserung!: get well soon)",
+        "ex": {
+          "de": "Du bist krank? Dann wünsche ich dir gute {Besserung}!",
+          "zh": "你生病了？那祝你早日康復！",
+          "en": "You're ill? Then I wish you a speedy recovery!",
+          "distractors": [
+            "Heizung",
+            "Kreuzung",
+            "Rechnung"
+          ]
+        }
+      }
+    ]
+  },
+  "einzahlung": {
+    "senses": [
+      {
+        "zh": "存款；繳款",
+        "en": "deposit, payment (into an account)",
+        "ex": {
+          "de": "Nach der {Einzahlung} von 500 Euro war mein Konto wieder im Plus.",
+          "zh": "存入 500 歐元之後，我的帳戶又變回正數了。",
+          "en": "After the deposit of 500 euros my account was in credit again.",
+          "distractors": [
+            "Erkältung",
+            "Einladung",
+            "Erfahrung"
+          ]
+        }
+      }
+    ]
+  },
+  "beeinflussen": {
+    "senses": [
+      {
+        "zh": "影響",
+        "en": "to influence",
+        "ex": {
+          "de": "Meine Eltern haben meine Berufswahl stark {beeinflusst}.",
+          "zh": "我爸媽對我的職業選擇影響很大。",
+          "en": "My parents strongly influenced my choice of career.",
+          "distractors": [
+            "bestellt",
+            "gebacken",
+            "geparkt"
+          ]
+        }
+      }
+    ]
+  },
+  "zivilstand-personenstand-d": {
+    "senses": [
+      {
+        "zh": "（瑞士）婚姻狀況",
+        "en": "(Swiss) marital status",
+        "ex": {
+          "de": "Seit der Hochzeit hat sich mein {Zivilstand} geändert: Ich bin jetzt verheiratet.",
+          "zh": "婚禮之後我的婚姻狀況變了：我現在是已婚。",
+          "en": "Since the wedding my marital status has changed: I'm married now.",
+          "distractors": [
+            "Regenschirm",
+            "Kühlschrank",
+            "Bahnsteig"
+          ]
+        }
+      }
+    ]
+  },
+  "locker": {
+    "senses": [
+      {
+        "zh": "放鬆的；鬆的",
+        "en": "loose, relaxed",
+        "ex": {
+          "de": "Beim Yoga sollen die Schultern ganz {locker} bleiben.",
+          "zh": "做瑜伽時肩膀要保持完全放鬆。",
+          "en": "In yoga your shoulders should stay completely relaxed.",
+          "distractors": [
+            "pünktlich",
+            "teuer",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "girokonto": {
+    "senses": [
+      {
+        "zh": "活期存款帳戶",
+        "en": "current account",
+        "ex": {
+          "de": "Mein Gehalt kommt jeden Monat auf mein {Girokonto}.",
+          "zh": "我的薪水每個月都匯進我的活期帳戶。",
+          "en": "My salary goes into my current account every month.",
+          "distractors": [
+            "Frühstück",
+            "Gewitter",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "fleischhauer": {
+    "senses": [
+      {
+        "zh": "（奧地利）肉販；肉店老闆",
+        "en": "(Austrian) butcher",
+        "ex": {
+          "de": "Das Fleisch für das Grillfest kaufe ich beim {Fleischhauer} um die Ecke.",
+          "zh": "烤肉會要用的肉，我都在轉角的肉店買。",
+          "en": "I buy the meat for the barbecue at the butcher's round the corner.",
+          "distractors": [
+            "Zahnarzt",
+            "Busfahrer",
+            "Friseur"
+          ]
+        }
+      }
+    ]
+  },
+  "bereits": {
+    "senses": [
+      {
+        "zh": "已經",
+        "en": "already",
+        "ex": {
+          "de": "Als wir am Bahnhof ankamen, war der Zug {bereits} abgefahren.",
+          "zh": "我們到火車站的時候，火車已經開走了。",
+          "en": "When we got to the station, the train had already left.",
+          "distractors": [
+            "morgen",
+            "gern",
+            "bald"
+          ]
+        }
+      }
+    ]
+  },
+  "operation": {
+    "senses": [
+      {
+        "zh": "手術",
+        "en": "operation, surgery",
+        "ex": {
+          "de": "Nach der {Operation} musste mein Vater noch eine Woche im Krankenhaus bleiben.",
+          "zh": "手術後我爸爸還得在醫院住一個星期。",
+          "en": "After the operation my father had to stay in hospital for another week.",
+          "distractors": [
+            "Speisekarte",
+            "Jahreszeit",
+            "Tankstelle"
+          ]
+        }
+      }
+    ]
+  },
+  "versichern": {
+    "senses": [
+      {
+        "zh": "投保；為…保險",
+        "en": "to insure",
+        "ex": {
+          "de": "Vor der Reise haben wir unser Auto gegen Diebstahl {versichert}.",
+          "zh": "出發旅行前，我們幫車子保了竊盜險。",
+          "en": "Before the trip we insured our car against theft.",
+          "distractors": [
+            "verdient",
+            "verpasst",
+            "vergessen"
+          ]
+        }
+      }
+    ]
+  },
+  "zeug-zeug": {
+    "senses": [
+      {
+        "zh": "東西；玩意兒（-zeug：…用具，如 Spielzeug 玩具）",
+        "en": "stuff, things (-zeug: gear, e.g. Spielzeug = toys)",
+        "ex": {
+          "de": "Räum bitte dein {Zeug} vom Küchentisch, wir wollen gleich essen.",
+          "zh": "請把你的東西從餐桌上收走，我們馬上要吃飯了。",
+          "en": "Please clear your stuff off the kitchen table, we're about to eat.",
+          "distractors": [
+            "Wetter",
+            "Alter",
+            "Glück"
+          ]
+        }
+      }
+    ]
+  },
+  "kursleiter-2": {
+    "senses": [
+      {
+        "zh": "課程老師；講師（女性）",
+        "en": "course instructor (female)",
+        "ex": {
+          "de": "Unsere {Kursleiterin} erklärt die Grammatik immer sehr geduldig.",
+          "zh": "我們的課程老師講解文法總是很有耐心。",
+          "en": "Our course instructor always explains the grammar very patiently.",
+          "distractors": [
+            "Speisekarte",
+            "Haltestelle",
+            "Wohnung"
+          ]
+        }
+      }
+    ]
+  },
+  "eintreten": {
+    "senses": [
+      {
+        "zh": "加入（社團、公司、政黨）；進入",
+        "en": "to join (a club, company, party); to enter",
+        "ex": {
+          "de": "Nach dem Studium ist er in die Firma seines Vaters {eingetreten}.",
+          "zh": "大學畢業後，他進了他父親的公司。",
+          "en": "After university he joined his father's company.",
+          "distractors": [
+            "eingeschlafen",
+            "aufgewacht",
+            "geschwommen"
+          ]
+        }
+      }
+    ]
+  },
+  "verpacken": {
+    "senses": [
+      {
+        "zh": "包裝；打包",
+        "en": "to pack, wrap up",
+        "ex": {
+          "de": "Können Sie das Buch bitte als Geschenk {verpacken}?",
+          "zh": "可以請您把這本書包裝成禮物嗎？",
+          "en": "Could you please gift-wrap the book?",
+          "distractors": [
+            "verpassen",
+            "verschlafen",
+            "verlaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "wunderschoen": {
+    "senses": [
+      {
+        "zh": "非常美麗的；美極了",
+        "en": "gorgeous, very beautiful",
+        "ex": {
+          "de": "Von unserem Balkon hat man einen {wunderschönen} Blick auf die Berge.",
+          "zh": "從我們的陽台可以看到美極了的山景。",
+          "en": "From our balcony you have a gorgeous view of the mountains.",
+          "distractors": [
+            "pünktlichen",
+            "salzigen",
+            "arbeitslosen"
+          ]
+        }
+      }
+    ]
+  },
+  "pflegerin": {
+    "senses": [
+      {
+        "zh": "看護；護理員（女性）",
+        "en": "carer, nurse (female)",
+        "ex": {
+          "de": "Die {Pflegerin} hilft meinem Opa jeden Morgen beim Anziehen.",
+          "zh": "看護每天早上幫我爺爺穿衣服。",
+          "en": "The carer helps my grandpa get dressed every morning.",
+          "distractors": [
+            "Ampel",
+            "Wolke",
+            "Rechnung"
+          ]
+        }
+      }
+    ]
+  },
+  "technisch": {
+    "senses": [
+      {
+        "zh": "技術的；技術上",
+        "en": "technical",
+        "ex": {
+          "de": "Wegen einer {technischen} Störung fährt die U-Bahn heute nicht.",
+          "zh": "因為技術故障，捷運今天停駛。",
+          "en": "Because of a technical fault, the underground isn't running today.",
+          "distractors": [
+            "leckeren",
+            "verheirateten",
+            "blonden"
+          ]
+        }
+      }
+    ]
+  },
+  "buergerin": {
+    "senses": [
+      {
+        "zh": "公民；市民（女性）",
+        "en": "citizen (female)",
+        "ex": {
+          "de": "Seit letztem Jahr ist meine Frau deutsche {Bürgerin} und darf wählen.",
+          "zh": "我太太從去年起成為德國公民，可以投票了。",
+          "en": "Since last year my wife has been a German citizen and is allowed to vote.",
+          "distractors": [
+            "Zeitung",
+            "Sprache",
+            "Grenze"
+          ]
+        }
+      }
+    ]
+  },
+  "art": {
+    "senses": [
+      {
+        "zh": "種類；類型",
+        "en": "kind, type, species",
+        "ex": {
+          "de": "Welche {Art} von Musik hörst du am liebsten?",
+          "zh": "你最喜歡聽哪一種音樂？",
+          "en": "What kind of music do you like listening to best?",
+          "distractors": [
+            "Uhr",
+            "Tür",
+            "Stadt"
+          ]
+        }
+      },
+      {
+        "zh": "（人的）作風；個性",
+        "en": "manner, nature (of a person)",
+        "ex": {
+          "de": "Mit ihrer ruhigen {Art} ist sie bei allen Kollegen beliebt.",
+          "zh": "她沉穩的個性讓她很受所有同事喜愛。",
+          "en": "With her calm manner she is popular with all her colleagues.",
+          "distractors": [
+            "Wand",
+            "Brücke",
+            "Tasche"
+          ]
+        }
+      },
+      {
+        "zh": "方式（Art und Weise：方式、方法）",
+        "en": "way (Art und Weise: way, manner)",
+        "ex": {
+          "de": "Jeder lernt Vokabeln auf seine eigene {Art} und Weise.",
+          "zh": "每個人都用自己的方式背單字。",
+          "en": "Everyone learns vocabulary in their own way.",
+          "distractors": [
+            "Zeit",
+            "Luft",
+            "Hand"
+          ]
+        }
+      }
+    ]
+  },
+  "neffe": {
+    "senses": [
+      {
+        "zh": "姪子；外甥",
+        "en": "nephew",
+        "ex": {
+          "de": "Mein {Neffe} ist der Sohn meiner Schwester.",
+          "zh": "我的外甥是我姊姊的兒子。",
+          "en": "My nephew is my sister's son.",
+          "distractors": [
+            "Onkel",
+            "Großvater",
+            "Schwiegervater"
+          ]
+        }
+      }
+    ]
+  },
+  "verpflegen": {
+    "senses": [
+      {
+        "zh": "供應伙食",
+        "en": "to cater for, feed",
+        "ex": {
+          "de": "Auf der Hütte wurden die Wanderer mit Suppe und Brot {verpflegt}.",
+          "zh": "山屋為登山客供應了湯和麵包。",
+          "en": "At the hut the hikers were fed with soup and bread.",
+          "distractors": [
+            "verheiratet",
+            "vermietet",
+            "verschrieben"
+          ]
+        }
+      }
+    ]
+  },
+  "patientin": {
+    "senses": [
+      {
+        "zh": "病人；患者（女性）",
+        "en": "patient (female)",
+        "ex": {
+          "de": "Die Ärztin untersucht gerade eine {Patientin}, bitte warten Sie kurz.",
+          "zh": "醫師正在為一位病人看診，請稍等一下。",
+          "en": "The doctor is examining a patient right now, please wait a moment.",
+          "distractors": [
+            "Jahreszeit",
+            "Tankstelle",
+            "Durchsage"
+          ]
+        }
+      }
+    ]
+  },
+  "rauf-rauf": {
+    "senses": [
+      {
+        "zh": "（口語）上去；上來（= herauf／hinauf）",
+        "en": "(colloquial) up, upwards",
+        "ex": {
+          "de": "Der Aufzug ist kaputt, wir müssen zu Fuß in den fünften Stock {rauf}gehen.",
+          "zh": "電梯壞了，我們得走樓梯上五樓。",
+          "en": "The lift is broken, we have to walk up to the fifth floor.",
+          "distractors": [
+            "unter",
+            "aus",
+            "zu"
+          ]
+        }
+      }
+    ]
+  },
+  "selten": {
+    "senses": [
+      {
+        "zh": "很少；罕見的",
+        "en": "rarely; rare",
+        "ex": {
+          "de": "In Taiwan schneit es nur sehr {selten}.",
+          "zh": "台灣很少下雪。",
+          "en": "It only snows very rarely in Taiwan.",
+          "distractors": [
+            "teuer",
+            "pünktlich",
+            "höflich"
+          ]
+        }
+      }
+    ]
+  },
+  "humor": {
+    "senses": [
+      {
+        "zh": "幽默；幽默感",
+        "en": "humour, sense of humour",
+        "ex": {
+          "de": "Mein Onkel hat viel {Humor} und bringt alle zum Lachen.",
+          "zh": "我叔叔很有幽默感，總是逗得大家哈哈大笑。",
+          "en": "My uncle has a great sense of humour and makes everyone laugh.",
+          "distractors": [
+            "Schnee",
+            "Verkehr",
+            "Nebel"
+          ]
+        }
+      }
+    ]
+  },
+  "beinahe": {
+    "senses": [
+      {
+        "zh": "差一點；幾乎",
+        "en": "almost, nearly",
+        "ex": {
+          "de": "Ich hätte {beinahe} meinen Pass zu Hause vergessen.",
+          "zh": "我差一點把護照忘在家裡。",
+          "en": "I almost left my passport at home.",
+          "distractors": [
+            "übermorgen",
+            "dorthin",
+            "abwärts"
+          ]
+        }
+      }
+    ]
+  },
+  "kauf": {
+    "senses": [
+      {
+        "zh": "購買；買的東西",
+        "en": "purchase",
+        "ex": {
+          "de": "Vor dem {Kauf} eines Autos sollte man die Preise vergleichen.",
+          "zh": "買車之前應該先比價。",
+          "en": "Before buying a car you should compare prices.",
+          "distractors": [
+            "Regen",
+            "Hunger",
+            "Schnee"
+          ]
+        }
+      }
+    ]
+  },
+  "blut": {
+    "senses": [
+      {
+        "zh": "血；血液",
+        "en": "blood",
+        "ex": {
+          "de": "Beim Arzt wurde mir heute {Blut} abgenommen.",
+          "zh": "我今天在診所抽了血。",
+          "en": "I had blood taken at the doctor's today.",
+          "distractors": [
+            "Wetter",
+            "Glück",
+            "Heimweh"
+          ]
+        }
+      }
+    ]
+  },
+  "brechen": {
+    "senses": [
+      {
+        "zh": "折斷；骨折；打破",
+        "en": "to break",
+        "ex": {
+          "de": "Beim Fußball hat sich mein Sohn den Arm {gebrochen}.",
+          "zh": "我兒子踢足球時摔斷了手臂。",
+          "en": "My son broke his arm playing football.",
+          "distractors": [
+            "gekocht",
+            "gebucht",
+            "geparkt"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberqueren": {
+    "senses": [
+      {
+        "zh": "穿越；橫越",
+        "en": "to cross",
+        "ex": {
+          "de": "Mit der Fähre kann man den Fluss in zehn Minuten {überqueren}.",
+          "zh": "搭渡輪十分鐘就可以橫越這條河。",
+          "en": "By ferry you can cross the river in ten minutes.",
+          "distractors": [
+            "übernachten",
+            "überweisen",
+            "überraschen"
+          ]
+        }
+      }
+    ]
+  },
+  "behandeln": {
+    "senses": [
+      {
+        "zh": "治療",
+        "en": "to treat (medically)",
+        "ex": {
+          "de": "Die Wunde muss sofort von einer Ärztin {behandelt} werden.",
+          "zh": "這個傷口必須馬上由醫師治療。",
+          "en": "The wound has to be treated by a doctor immediately.",
+          "distractors": [
+            "bestellt",
+            "bezahlt",
+            "begrüßt"
+          ]
+        }
+      },
+      {
+        "zh": "對待",
+        "en": "to treat (behave towards)",
+        "ex": {
+          "de": "Der Chef {behandelt} alle Mitarbeiter freundlich und fair.",
+          "zh": "老闆對待所有員工都很親切、很公平。",
+          "en": "The boss treats all employees in a friendly and fair way.",
+          "distractors": [
+            "besichtigt",
+            "bestellt",
+            "beantragt"
+          ]
+        }
+      }
+    ]
+  },
+  "arbeiterin": {
+    "senses": [
+      {
+        "zh": "工人（女性）",
+        "en": "worker (female)",
+        "ex": {
+          "de": "Meine Oma war früher {Arbeiterin} in einer Schuhfabrik.",
+          "zh": "我奶奶以前是鞋廠的工人。",
+          "en": "My grandma used to be a worker in a shoe factory.",
+          "distractors": [
+            "Ampel",
+            "Erkältung",
+            "Bushaltestelle"
+          ]
+        }
+      }
+    ]
+  },
+  "spritze": {
+    "senses": [
+      {
+        "zh": "針；注射（打針）",
+        "en": "injection; syringe",
+        "ex": {
+          "de": "Die Krankenschwester gibt dem Patienten eine {Spritze} in den Arm.",
+          "zh": "護理師在病人的手臂上打了一針。",
+          "en": "The nurse gives the patient an injection in the arm.",
+          "distractors": [
+            "Kreuzung",
+            "Wohnung",
+            "Zeitung"
+          ]
+        }
+      }
+    ]
+  },
+  "gespannt": {
+    "senses": [
+      {
+        "zh": "好奇期待的；很想知道",
+        "en": "curious, eager (to find out)",
+        "ex": {
+          "de": "Wir sind alle sehr {gespannt} auf deinen neuen Freund.",
+          "zh": "我們都很好奇、很期待見到你的新男友。",
+          "en": "We're all very curious to meet your new boyfriend.",
+          "distractors": [
+            "bewölkt",
+            "geschlossen",
+            "verspätet"
+          ]
+        }
+      }
+    ]
+  },
+  "vorlaeufig": {
+    "senses": [
+      {
+        "zh": "暫時的；臨時的",
+        "en": "temporary; for the time being",
+        "ex": {
+          "de": "Die Brücke bleibt wegen Bauarbeiten {vorläufig} gesperrt.",
+          "zh": "這座橋因為施工暫時封閉。",
+          "en": "The bridge remains closed for the time being because of construction work.",
+          "distractors": [
+            "höflich",
+            "lecker",
+            "neugierig"
+          ]
+        }
+      }
+    ]
+  }
+}
