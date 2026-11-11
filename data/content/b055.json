@@ -1,0 +1,902 @@
+{
+  "unterschrift": {
+    "senses": [
+      {
+        "zh": "簽名",
+        "en": "signature",
+        "ex": {
+          "de": "Ohne deine {Unterschrift} ist der Vertrag nicht gültig.",
+          "zh": "沒有你的簽名，合約就無效。",
+          "en": "Without your signature the contract is not valid.",
+          "distractors": [
+            "Kreuzung",
+            "Wiese",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "unterstreichen": {
+    "senses": [
+      {
+        "zh": "畫底線；強調",
+        "en": "to underline, emphasize",
+        "ex": {
+          "de": "Der Lehrer hat alle Verben im Text rot {unterstrichen}.",
+          "zh": "老師把課文裡所有的動詞都用紅色畫了底線。",
+          "en": "The teacher underlined all the verbs in the text in red.",
+          "distractors": [
+            "gekocht",
+            "gewaschen",
+            "verkauft"
+          ]
+        }
+      }
+    ]
+  },
+  "unterstuetzen": {
+    "senses": [
+      {
+        "zh": "支持；幫助",
+        "en": "to support, help",
+        "ex": {
+          "de": "Nachbarn wollen die Familie nach dem Brand {unterstützen}.",
+          "zh": "鄰居們想在火災後幫助這個家庭。",
+          "en": "Neighbors want to support the family after the fire.",
+          "distractors": [
+            "ernten",
+            "tapezieren",
+            "erben"
+          ]
+        }
+      }
+    ]
+  },
+  "unterstuetzung": {
+    "senses": [
+      {
+        "zh": "支持；援助",
+        "en": "support, assistance",
+        "ex": {
+          "de": "Für den Umzug brauche ich dringend deine {Unterstützung}.",
+          "zh": "搬家時我急需你的幫忙。",
+          "en": "I urgently need your support for the move.",
+          "distractors": [
+            "Wimper",
+            "Hüfte",
+            "Stirn"
+          ]
+        }
+      }
+    ]
+  },
+  "untersuchen": {
+    "senses": [
+      {
+        "zh": "檢查；調查",
+        "en": "to examine, investigate",
+        "ex": {
+          "de": "Der Arzt will morgen mein Knie genauer {untersuchen}.",
+          "zh": "醫生明天想更仔細地檢查我的膝蓋。",
+          "en": "The doctor wants to examine my knee more closely tomorrow.",
+          "distractors": [
+            "heiraten",
+            "buchstabieren",
+            "mähen"
+          ]
+        }
+      }
+    ]
+  },
+  "untersuchung": {
+    "senses": [
+      {
+        "zh": "檢查；調查",
+        "en": "examination, investigation",
+        "ex": {
+          "de": "Nach der {Untersuchung} darf ich wieder arbeiten gehen.",
+          "zh": "檢查結束後我就可以再去上班了。",
+          "en": "After the examination I may go back to work.",
+          "distractors": [
+            "Zwiebel",
+            "Brücke",
+            "Gardine"
+          ]
+        }
+      }
+    ]
+  },
+  "unterwegs": {
+    "senses": [
+      {
+        "zh": "在途中；在外面",
+        "en": "on the way, out and about",
+        "ex": {
+          "de": "Ich bin gerade {unterwegs} und rufe dich später zurück.",
+          "zh": "我現在在路上，晚點再回電給你。",
+          "en": "I'm on the road right now and will call you back later.",
+          "distractors": [
+            "blond",
+            "krumm",
+            "glatt"
+          ]
+        }
+      }
+    ]
+  },
+  "urlaub": {
+    "senses": [
+      {
+        "zh": "假期；休假",
+        "en": "vacation, holiday",
+        "ex": {
+          "de": "Im {Urlaub} schlafe ich jeden Morgen bis neun Uhr.",
+          "zh": "度假時我每天早上都睡到九點。",
+          "en": "On vacation I sleep until nine every morning.",
+          "distractors": [
+            "Bleistift",
+            "Aufzug",
+            "Kalender"
+          ]
+        }
+      }
+    ]
+  },
+  "ursache": {
+    "senses": [
+      {
+        "zh": "原因",
+        "en": "cause, reason",
+        "ex": {
+          "de": "Die {Ursache} für den Stromausfall war ein Blitz.",
+          "zh": "這次停電的原因是一道閃電。",
+          "en": "The cause of the power outage was a bolt of lightning.",
+          "distractors": [
+            "Gießkanne",
+            "Mütze",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "verursachen": {
+    "senses": [
+      {
+        "zh": "造成；引起",
+        "en": "to cause",
+        "ex": {
+          "de": "Ein umgefallener Baum kann auf der Straße große Probleme {verursachen}.",
+          "zh": "倒下的樹會在路上造成很大的問題。",
+          "en": "A fallen tree can cause big problems on the road.",
+          "distractors": [
+            "schälen",
+            "lüften",
+            "falten"
+          ]
+        }
+      }
+    ]
+  },
+  "urspruenglich": {
+    "senses": [
+      {
+        "zh": "原本的；起初",
+        "en": "originally, at first",
+        "ex": {
+          "de": "Das Haus war {ursprünglich} ein kleiner Bauernhof.",
+          "zh": "這棟房子原本是一座小農場。",
+          "en": "The house was originally a small farm.",
+          "distractors": [
+            "mutig",
+            "salzig",
+            "kostenlos"
+          ]
+        }
+      }
+    ]
+  },
+  "urteil": {
+    "senses": [
+      {
+        "zh": "判決；評價",
+        "en": "verdict, judgment",
+        "ex": {
+          "de": "Das {Urteil} des Richters kam für alle überraschend.",
+          "zh": "法官的判決讓所有人都很意外。",
+          "en": "The judge's verdict came as a surprise to everyone.",
+          "distractors": [
+            "Handtuch",
+            "Gemüse",
+            "Feuerzeug"
+          ]
+        }
+      }
+    ]
+  },
+  "vater": {
+    "senses": [
+      {
+        "zh": "父親；爸爸",
+        "en": "father",
+        "ex": {
+          "de": "Mein {Vater} repariert am Wochenende gern alte Radios.",
+          "zh": "我爸爸週末喜歡修理老收音機。",
+          "en": "My father likes to repair old radios on the weekend.",
+          "distractors": [
+            "Löffel",
+            "Apfel",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "vegetarisch": {
+    "senses": [
+      {
+        "zh": "素食的",
+        "en": "vegetarian",
+        "ex": {
+          "de": "Gibt es im Restaurant auch ein {vegetarisches} Gericht?",
+          "zh": "這家餐廳也有素食的菜嗎？",
+          "en": "Does the restaurant also have a vegetarian dish?",
+          "distractors": [
+            "blondes",
+            "schwangeres",
+            "glattes"
+          ]
+        }
+      }
+    ]
+  },
+  "velo": {
+    "senses": [
+      {
+        "zh": "腳踏車（瑞士用語）",
+        "en": "bicycle (Swiss)",
+        "ex": {
+          "de": "Mein {Velo} steht vor dem Bahnhof in Bern.",
+          "zh": "我的腳踏車停在伯恩火車站前面。",
+          "en": "My bike is parked in front of the station in Bern.",
+          "distractors": [
+            "Besteck",
+            "Wörterbuch",
+            "Gewitter"
+          ]
+        }
+      }
+    ]
+  },
+  "verabreden": {
+    "senses": [
+      {
+        "zh": "約定；約好見面",
+        "en": "to arrange to meet",
+        "ex": {
+          "de": "Ich möchte mich am Samstag mit Anna {verabreden}.",
+          "zh": "我想和安娜約週六見面。",
+          "en": "I would like to arrange to meet Anna on Saturday.",
+          "distractors": [
+            "übersetzen",
+            "tapezieren",
+            "falten"
+          ]
+        }
+      }
+    ]
+  },
+  "verabredet": {
+    "senses": [
+      {
+        "zh": "有約的",
+        "en": "having an appointment",
+        "ex": {
+          "de": "Ich kann leider nicht kommen, ich bin schon {verabredet}.",
+          "zh": "很可惜我不能去，我已經有約了。",
+          "en": "Unfortunately I can't come, I already have plans.",
+          "distractors": [
+            "geschält",
+            "gefaltet",
+            "gepflanzt"
+          ]
+        }
+      }
+    ]
+  },
+  "verabredung": {
+    "senses": [
+      {
+        "zh": "約會；約定",
+        "en": "appointment, date",
+        "ex": {
+          "de": "Ich habe heute Abend leider eine {Verabredung} mit meiner Schwester.",
+          "zh": "我今晚很可惜已經和姊姊有約了。",
+          "en": "Unfortunately I have a date with my sister tonight.",
+          "distractors": [
+            "Narbe",
+            "Kreide",
+            "Fliege"
+          ]
+        }
+      }
+    ]
+  },
+  "verabschieden": {
+    "senses": [
+      {
+        "zh": "道別",
+        "en": "to say goodbye",
+        "ex": {
+          "de": "Am Bahnhof wollen wir uns kurz von Oma {verabschieden}.",
+          "zh": "我們想在火車站和奶奶簡短道別。",
+          "en": "At the station we want to say a quick goodbye to Grandma.",
+          "distractors": [
+            "bewerben",
+            "rasieren",
+            "beeilen"
+          ]
+        }
+      }
+    ]
+  },
+  "abschied": {
+    "senses": [
+      {
+        "zh": "告別；離別",
+        "en": "farewell, parting",
+        "ex": {
+          "de": "Nach dem {Abschied} am Flughafen musste meine Tante lange weinen.",
+          "zh": "在機場道別之後，我阿姨哭了很久。",
+          "en": "After the farewell at the airport my aunt had to cry for a long time.",
+          "distractors": [
+            "Schornstein",
+            "Rasen",
+            "Gürtel"
+          ]
+        }
+      }
+    ]
+  },
+  "veraendern": {
+    "senses": [
+      {
+        "zh": "改變",
+        "en": "to change",
+        "ex": {
+          "de": "Das Internet hat unser Leben stark {verändert}.",
+          "zh": "網路大大改變了我們的生活。",
+          "en": "The internet has changed our lives a lot.",
+          "distractors": [
+            "gepflückt",
+            "gebohrt",
+            "geputzt"
+          ]
+        }
+      }
+    ]
+  },
+  "veranstaltung": {
+    "senses": [
+      {
+        "zh": "活動；演出",
+        "en": "event",
+        "ex": {
+          "de": "Die {Veranstaltung} beginnt um acht Uhr im Rathaus.",
+          "zh": "活動晚上八點在市政廳開始。",
+          "en": "The event starts at eight o'clock in the town hall.",
+          "distractors": [
+            "Zitrone",
+            "Gabel",
+            "Steckdose"
+          ]
+        }
+      }
+    ]
+  },
+  "verantwortlich": {
+    "senses": [
+      {
+        "zh": "負責的",
+        "en": "responsible",
+        "ex": {
+          "de": "Wer ist in dieser Firma für die Kasse {verantwortlich}?",
+          "zh": "這家公司誰負責收銀？",
+          "en": "Who is responsible for the cash register in this company?",
+          "distractors": [
+            "eckig",
+            "hungrig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "verantwortung": {
+    "senses": [
+      {
+        "zh": "責任",
+        "en": "responsibility",
+        "ex": {
+          "de": "Als Vater übernimmt er viel {Verantwortung} für die Kinder.",
+          "zh": "身為父親，他對孩子們負起很大的責任。",
+          "en": "As a father he takes on a lot of responsibility for the children.",
+          "distractors": [
+            "Butter",
+            "Sahne",
+            "Kreide"
+          ]
+        }
+      }
+    ]
+  },
+  "verbessern": {
+    "senses": [
+      {
+        "zh": "改善；改進",
+        "en": "to improve",
+        "ex": {
+          "de": "Mit etwas Übung kannst du deine Aussprache schnell {verbessern}.",
+          "zh": "稍微練習一下，你的發音就能很快進步。",
+          "en": "With a little practice you can quickly improve your pronunciation.",
+          "distractors": [
+            "mähen",
+            "gießen",
+            "schmelzen"
+          ]
+        }
+      }
+    ]
+  },
+  "verbieten": {
+    "senses": [
+      {
+        "zh": "禁止",
+        "en": "to forbid",
+        "ex": {
+          "de": "Mein Arzt hat mir {verboten}, Kaffee zu trinken.",
+          "zh": "我的醫生禁止我喝咖啡。",
+          "en": "My doctor has forbidden me to drink coffee.",
+          "distractors": [
+            "gesammelt",
+            "gepflanzt",
+            "gebaut"
+          ]
+        }
+      }
+    ]
+  },
+  "verbot": {
+    "senses": [
+      {
+        "zh": "禁令",
+        "en": "ban, prohibition",
+        "ex": {
+          "de": "In diesem Park gilt ein {Verbot} für Hunde ohne Leine.",
+          "zh": "這座公園禁止沒繫牽繩的狗進入。",
+          "en": "In this park there is a ban on dogs without a leash.",
+          "distractors": [
+            "Gewitter",
+            "Gemüse",
+            "Feuerzeug"
+          ]
+        }
+      }
+    ]
+  },
+  "verboten": {
+    "senses": [
+      {
+        "zh": "禁止的",
+        "en": "forbidden",
+        "ex": {
+          "de": "Parken ist hier von Montag bis Freitag streng {verboten}.",
+          "zh": "這裡週一到週五嚴禁停車。",
+          "en": "Parking here is strictly forbidden from Monday to Friday.",
+          "distractors": [
+            "gesund",
+            "bequem",
+            "lecker"
+          ]
+        }
+      }
+    ]
+  },
+  "verbinden": {
+    "senses": [
+      {
+        "zh": "連接；結合",
+        "en": "to connect, link",
+        "ex": {
+          "de": "Diese Brücke soll die beiden Stadtteile {verbinden}.",
+          "zh": "這座橋要把兩個市區連接起來。",
+          "en": "This bridge is supposed to connect the two districts.",
+          "distractors": [
+            "waschen",
+            "ernten",
+            "kochen"
+          ]
+        }
+      }
+    ]
+  },
+  "verbindung": {
+    "senses": [
+      {
+        "zh": "連接；交通連線",
+        "en": "connection, link",
+        "ex": {
+          "de": "Die {Verbindung} nach Hamburg ist mit dem Zug sehr gut.",
+          "zh": "搭火車去漢堡的班次很方便。",
+          "en": "The connection to Hamburg by train is very good.",
+          "distractors": [
+            "Kartoffel",
+            "Schere",
+            "Lampe"
+          ]
+        }
+      }
+    ]
+  },
+  "verbrecher": {
+    "senses": [
+      {
+        "zh": "罪犯",
+        "en": "criminal",
+        "ex": {
+          "de": "Der {Verbrecher} wurde vom Richter zu drei Jahren Haft verurteilt.",
+          "zh": "那名罪犯被法官判了三年徒刑。",
+          "en": "The criminal was sentenced to three years in prison by the judge.",
+          "distractors": [
+            "Schlüssel",
+            "Hammer",
+            "Kalender"
+          ]
+        }
+      }
+    ]
+  },
+  "verbrennen": {
+    "senses": [
+      {
+        "zh": "燒傷；燒毀",
+        "en": "to burn",
+        "ex": {
+          "de": "Vorsicht, am Ofen kannst du dir die Finger {verbrennen}.",
+          "zh": "小心，你在烤爐邊會燙傷手指。",
+          "en": "Careful, you can burn your fingers on the oven.",
+          "distractors": [
+            "pflücken",
+            "stricken",
+            "säen"
+          ]
+        }
+      }
+    ]
+  },
+  "verbringen": {
+    "senses": [
+      {
+        "zh": "度過",
+        "en": "to spend (time)",
+        "ex": {
+          "de": "Wir möchten unseren Urlaub am Meer {verbringen}.",
+          "zh": "我們想在海邊度過假期。",
+          "en": "We would like to spend our vacation by the sea.",
+          "distractors": [
+            "spülen",
+            "lackieren",
+            "kopieren"
+          ]
+        }
+      }
+    ]
+  },
+  "verdacht": {
+    "senses": [
+      {
+        "zh": "懷疑",
+        "en": "suspicion",
+        "ex": {
+          "de": "Die Polizei hat einen {Verdacht}, aber noch keine Beweise.",
+          "zh": "警方有所懷疑，但還沒有證據。",
+          "en": "The police have a suspicion but no evidence yet.",
+          "distractors": [
+            "Kamm",
+            "Ofen",
+            "Pinsel"
+          ]
+        }
+      }
+    ]
+  },
+  "verdaechtig": {
+    "senses": [
+      {
+        "zh": "可疑的",
+        "en": "suspicious",
+        "ex": {
+          "de": "Ein {verdächtiges} Paket lag vor der Tür des Rathauses.",
+          "zh": "市政廳門口放著一個可疑的包裹。",
+          "en": "A suspicious package lay in front of the door of the town hall.",
+          "distractors": [
+            "bequemes",
+            "durstiges",
+            "schwangeres"
+          ]
+        }
+      }
+    ]
+  },
+  "verdienen": {
+    "senses": [
+      {
+        "zh": "賺（錢）；值得",
+        "en": "to earn, deserve",
+        "ex": {
+          "de": "Meine Schwester möchte später als Ärztin viel Geld {verdienen}.",
+          "zh": "我姊姊以後想當醫生賺很多錢。",
+          "en": "My sister wants to earn a lot of money as a doctor later.",
+          "distractors": [
+            "schnitzen",
+            "kneten",
+            "tapezieren"
+          ]
+        }
+      }
+    ]
+  },
+  "verein": {
+    "senses": [
+      {
+        "zh": "協會；社團",
+        "en": "club, association",
+        "ex": {
+          "de": "Mein Bruder spielt seit zehn Jahren in einem {Verein} Fußball.",
+          "zh": "我弟弟已經在一個社團俱樂部踢了十年足球。",
+          "en": "My brother has played football in a club for ten years.",
+          "distractors": [
+            "Rucksack",
+            "Briefumschlag",
+            "Eimer"
+          ]
+        }
+      }
+    ]
+  },
+  "vereinbaren": {
+    "senses": [
+      {
+        "zh": "約定；商定",
+        "en": "to arrange, agree on",
+        "ex": {
+          "de": "Ich möchte gern einen Termin beim Zahnarzt {vereinbaren}.",
+          "zh": "我想跟牙醫約一個時間。",
+          "en": "I would like to arrange an appointment with the dentist.",
+          "distractors": [
+            "streicheln",
+            "füttern",
+            "tragen"
+          ]
+        }
+      }
+    ]
+  },
+  "vergangenheit": {
+    "senses": [
+      {
+        "zh": "過去",
+        "en": "past",
+        "ex": {
+          "de": "In der {Vergangenheit} gab es hier nur Felder und Wiesen.",
+          "zh": "過去這裡只有田野和草地。",
+          "en": "In the past there were only fields and meadows here.",
+          "distractors": [
+            "Küche",
+            "Pfanne",
+            "Garage"
+          ]
+        }
+      }
+    ]
+  },
+  "vergeblich": {
+    "senses": [
+      {
+        "zh": "徒勞的；白費力氣",
+        "en": "in vain",
+        "ex": {
+          "de": "Der Handwerker hat {vergeblich} auf den Ersatzteil-Lieferanten gewartet.",
+          "zh": "那位師傅白白等了零件供應商一場。",
+          "en": "The craftsman waited in vain for the parts supplier.",
+          "distractors": [
+            "kostenlos",
+            "salzig",
+            "blond"
+          ]
+        }
+      }
+    ]
+  },
+  "vergessen": {
+    "senses": [
+      {
+        "zh": "忘記",
+        "en": "to forget",
+        "ex": {
+          "de": "Ich habe leider meinen Schlüssel zu Hause {vergessen}.",
+          "zh": "我很不巧把鑰匙忘在家裡了。",
+          "en": "Unfortunately I forgot my key at home.",
+          "distractors": [
+            "geschlafen",
+            "geweint",
+            "gelacht"
+          ]
+        }
+      }
+    ]
+  },
+  "vergleichen": {
+    "senses": [
+      {
+        "zh": "比較",
+        "en": "to compare",
+        "ex": {
+          "de": "Bevor du das Handy kaufst, solltest du die Preise {vergleichen}.",
+          "zh": "買手機之前，你應該先比較一下價格。",
+          "en": "Before you buy the phone, you should compare the prices.",
+          "distractors": [
+            "gießen",
+            "bohren",
+            "streicheln"
+          ]
+        }
+      }
+    ]
+  },
+  "vergleich": {
+    "senses": [
+      {
+        "zh": "比較",
+        "en": "comparison",
+        "ex": {
+          "de": "Im {Vergleich} zu letztem Jahr ist es heute viel kälter.",
+          "zh": "和去年相比，今天冷多了。",
+          "en": "Compared to last year it is much colder today.",
+          "distractors": [
+            "Keller",
+            "Bahnhof",
+            "Flur"
+          ]
+        }
+      }
+    ]
+  },
+  "vergnuegen": {
+    "senses": [
+      {
+        "zh": "玩得開心；消遣",
+        "en": "to enjoy oneself",
+        "ex": {
+          "de": "Die Kinder {vergnügen} sich den ganzen Nachmittag mit Seifenblasen.",
+          "zh": "孩子們整個下午都在玩泡泡取樂。",
+          "en": "The children enjoy themselves all afternoon with soap bubbles.",
+          "distractors": [
+            "bewerben",
+            "rasieren",
+            "verlaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "vergnuegen-2": {
+    "senses": [
+      {
+        "zh": "樂趣；愉快",
+        "en": "pleasure",
+        "ex": {
+          "de": "Mit großem {Vergnügen} habe ich die Einladung angenommen.",
+          "zh": "我非常樂意地接受了這項邀請。",
+          "en": "I accepted the invitation with great pleasure.",
+          "distractors": [
+            "Gemüse",
+            "Gewitter",
+            "Fieber"
+          ]
+        }
+      }
+    ]
+  },
+  "vergnuegt": {
+    "senses": [
+      {
+        "zh": "開心的；愉快的",
+        "en": "cheerful, merry",
+        "ex": {
+          "de": "Die Kinder spielen {vergnügt} im Garten und singen laut.",
+          "zh": "孩子們開心地在花園裡玩，還大聲唱歌。",
+          "en": "The children play cheerfully in the garden and sing loudly.",
+          "distractors": [
+            "eckig",
+            "salzig",
+            "taub"
+          ]
+        }
+      }
+    ]
+  },
+  "vergroessern": {
+    "senses": [
+      {
+        "zh": "擴大；放大",
+        "en": "to enlarge",
+        "ex": {
+          "de": "Wir wollen unsere Küche um zwei Meter {vergrößern}.",
+          "zh": "我們想把廚房擴大兩公尺。",
+          "en": "We want to enlarge our kitchen by two meters.",
+          "distractors": [
+            "pflücken",
+            "schlachten",
+            "impfen"
+          ]
+        }
+      }
+    ]
+  },
+  "verhaften": {
+    "senses": [
+      {
+        "zh": "逮捕",
+        "en": "to arrest",
+        "ex": {
+          "de": "Die Polizei hat den Dieb am Bahnhof {verhaftet}.",
+          "zh": "警方在火車站逮捕了那名小偷。",
+          "en": "The police arrested the thief at the station.",
+          "distractors": [
+            "gesät",
+            "gepflückt",
+            "gestrickt"
+          ]
+        }
+      }
+    ]
+  },
+  "verhalten": {
+    "senses": [
+      {
+        "zh": "表現；舉止",
+        "en": "to behave",
+        "ex": {
+          "de": "Wie soll man sich bei einem Gespräch {verhalten}?",
+          "zh": "在談話時，人應該怎麼表現？",
+          "en": "How should one behave in a conversation?",
+          "distractors": [
+            "gießen",
+            "pflücken",
+            "mähen"
+          ]
+        }
+      }
+    ]
+  },
+  "verhalten-2": {
+    "senses": [
+      {
+        "zh": "行為；態度",
+        "en": "behavior",
+        "ex": {
+          "de": "Sein {Verhalten} gegenüber den Nachbarn ist unfreundlich.",
+          "zh": "他對鄰居的態度很不友善。",
+          "en": "His behavior toward the neighbors is unfriendly.",
+          "distractors": [
+            "Gemüse",
+            "Gewitter",
+            "Fieber"
+          ]
+        }
+      }
+    ]
+  }
+}

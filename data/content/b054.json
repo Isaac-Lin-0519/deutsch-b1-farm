@@ -1,0 +1,916 @@
+{
+  "uhr": {
+    "senses": [
+      {
+        "zh": "時鐘；鐘錶",
+        "en": "clock, watch",
+        "ex": {
+          "de": "Die {Uhr} in der Küche geht zehn Minuten vor.",
+          "zh": "廚房裡的鐘快了十分鐘。",
+          "en": "The clock in the kitchen is ten minutes fast.",
+          "distractors": [
+            "Lampe",
+            "Pfanne",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "um": {
+    "senses": [
+      {
+        "zh": "在（幾點）；圍繞",
+        "en": "at (a time); around",
+        "ex": {
+          "de": "Die Vorstellung beginnt {um} halb sieben.",
+          "zh": "表演六點半開始。",
+          "en": "The show starts at half past six.",
+          "distractors": [
+            "seit",
+            "durch",
+            "bei"
+          ]
+        }
+      }
+    ]
+  },
+  "umarmen": {
+    "senses": [
+      {
+        "zh": "擁抱",
+        "en": "to hug",
+        "ex": {
+          "de": "Zur Begrüßung wollte sie ihre Tante fest {umarmen}.",
+          "zh": "打招呼時她想緊緊擁抱她的阿姨。",
+          "en": "To say hello, she wanted to hug her aunt tightly.",
+          "distractors": [
+            "bezahlen",
+            "reparieren",
+            "übersetzen"
+          ]
+        }
+      }
+    ]
+  },
+  "um-zu": {
+    "senses": [
+      {
+        "zh": "為了（做某事）",
+        "en": "in order to",
+        "ex": {
+          "de": "Er spart jeden Monat Geld, {um} ein Auto zu kaufen.",
+          "zh": "他每個月存錢，為了買一輛車。",
+          "en": "He saves money every month in order to buy a car.",
+          "distractors": [
+            "damit",
+            "weil",
+            "dass"
+          ]
+        }
+      }
+    ]
+  },
+  "umdrehen": {
+    "senses": [
+      {
+        "zh": "轉身；回頭",
+        "en": "to turn around",
+        "ex": {
+          "de": "Auf der Straße hat sich ein Mann nach ihr {umgedreht}.",
+          "zh": "街上有個男人回頭看了她。",
+          "en": "On the street a man turned around to look at her.",
+          "distractors": [
+            "gesprochen",
+            "gewaschen",
+            "geliefert"
+          ]
+        }
+      }
+    ]
+  },
+  "umfrage": {
+    "senses": [
+      {
+        "zh": "問卷調查",
+        "en": "survey, poll",
+        "ex": {
+          "de": "Die {Umfrage} unter den Schülern dauert nur fünf Minuten.",
+          "zh": "學生間的問卷調查只要五分鐘。",
+          "en": "The survey among the students takes only five minutes.",
+          "distractors": [
+            "Lieferung",
+            "Kreuzung",
+            "Bewerbung"
+          ]
+        }
+      }
+    ]
+  },
+  "umgebung": {
+    "senses": [
+      {
+        "zh": "周圍；附近",
+        "en": "surroundings, area",
+        "ex": {
+          "de": "In der näheren {Umgebung} gibt es keinen einzigen Supermarkt.",
+          "zh": "附近一帶連一間超市都沒有。",
+          "en": "There is not a single supermarket in the immediate area.",
+          "distractors": [
+            "Garage",
+            "Speisekarte",
+            "Hochzeit"
+          ]
+        }
+      }
+    ]
+  },
+  "umgekehrt": {
+    "senses": [
+      {
+        "zh": "反過來；相反",
+        "en": "the other way round",
+        "ex": {
+          "de": "Sie mag ihn nicht, aber {umgekehrt} mag er sie sehr.",
+          "zh": "她不喜歡他，但反過來他很喜歡她。",
+          "en": "She doesn't like him, but the other way round he likes her a lot.",
+          "distractors": [
+            "morgens",
+            "rechts",
+            "dort"
+          ]
+        }
+      }
+    ]
+  },
+  "umleitung": {
+    "senses": [
+      {
+        "zh": "改道；繞行路線",
+        "en": "detour",
+        "ex": {
+          "de": "Wegen der {Umleitung} brauchen wir zwanzig Minuten länger.",
+          "zh": "因為改道，我們多花了二十分鐘。",
+          "en": "Because of the detour we need twenty minutes longer.",
+          "distractors": [
+            "Tapete",
+            "Kerze",
+            "Waage"
+          ]
+        }
+      }
+    ]
+  },
+  "umso": {
+    "senses": [
+      {
+        "zh": "（越…）就越",
+        "en": "all the more",
+        "ex": {
+          "de": "Je früher du anfängst, {umso} besser wird das Ergebnis.",
+          "zh": "你越早開始，結果就越好。",
+          "en": "The earlier you start, the better the result will be.",
+          "distractors": [
+            "sonst",
+            "gern",
+            "fast"
+          ]
+        }
+      }
+    ]
+  },
+  "umsonst": {
+    "senses": [
+      {
+        "zh": "免費的",
+        "en": "free of charge",
+        "ex": {
+          "de": "Das Konzert im Park war {umsonst}, wir mussten nichts bezahlen.",
+          "zh": "公園裡的音樂會是免費的，我們不用付錢。",
+          "en": "The concert in the park was free; we didn't have to pay anything.",
+          "distractors": [
+            "teuer",
+            "ausverkauft",
+            "pünktlich"
+          ]
+        }
+      },
+      {
+        "zh": "白白地；徒勞",
+        "en": "in vain",
+        "ex": {
+          "de": "Ich bin den ganzen Weg {umsonst} gefahren, der Laden war zu.",
+          "zh": "我白跑了一趟，店關門了。",
+          "en": "I drove all that way for nothing; the shop was closed.",
+          "distractors": [
+            "rechtzeitig",
+            "freiwillig",
+            "heimlich"
+          ]
+        }
+      }
+    ]
+  },
+  "umsteigen": {
+    "senses": [
+      {
+        "zh": "轉乘",
+        "en": "to change (trains)",
+        "ex": {
+          "de": "In Hannover müssen Sie in einen anderen Zug {umsteigen}.",
+          "zh": "您在漢諾威必須換搭另一班火車。",
+          "en": "In Hanover you have to change to another train.",
+          "distractors": [
+            "verhungern",
+            "ertrinken",
+            "einschlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "umtauschen": {
+    "senses": [
+      {
+        "zh": "換貨；兌換",
+        "en": "to exchange",
+        "ex": {
+          "de": "Die Hose ist zu eng, ich möchte sie {umtauschen}.",
+          "zh": "這條褲子太緊，我想換貨。",
+          "en": "The trousers are too tight; I'd like to exchange them.",
+          "distractors": [
+            "buchstabieren",
+            "begrüßen",
+            "einatmen"
+          ]
+        }
+      }
+    ]
+  },
+  "umtausch": {
+    "senses": [
+      {
+        "zh": "換貨；兌換",
+        "en": "exchange",
+        "ex": {
+          "de": "Für den {Umtausch} brauchen Sie den Kassenzettel.",
+          "zh": "換貨需要收據。",
+          "en": "For the exchange you need the receipt.",
+          "distractors": [
+            "Wasserhahn",
+            "Briefkasten",
+            "Spielplatz"
+          ]
+        }
+      }
+    ]
+  },
+  "umwelt": {
+    "senses": [
+      {
+        "zh": "環境",
+        "en": "environment",
+        "ex": {
+          "de": "Plastik im Meer ist schlecht für die {Umwelt}.",
+          "zh": "海裡的塑膠對環境不好。",
+          "en": "Plastic in the sea is bad for the environment.",
+          "distractors": [
+            "Zwiebel",
+            "Kreide",
+            "Nadel"
+          ]
+        }
+      }
+    ]
+  },
+  "umweltschutz": {
+    "senses": [
+      {
+        "zh": "環境保護",
+        "en": "environmental protection",
+        "ex": {
+          "de": "Unsere Schule engagiert sich seit Jahren für den {Umweltschutz}.",
+          "zh": "我們學校多年來一直投入環境保護。",
+          "en": "Our school has been committed to environmental protection for years.",
+          "distractors": [
+            "Fahrradschlauch",
+            "Regenmantel",
+            "Kochlöffel"
+          ]
+        }
+      }
+    ]
+  },
+  "umweltverschmutzung": {
+    "senses": [
+      {
+        "zh": "環境污染",
+        "en": "pollution",
+        "ex": {
+          "de": "Die {Umweltverschmutzung} in großen Städten macht viele Menschen krank.",
+          "zh": "大城市的環境污染讓很多人生病。",
+          "en": "Pollution in big cities makes many people ill.",
+          "distractors": [
+            "Zeitung",
+            "Kartoffel",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "umziehen": {
+    "senses": [
+      {
+        "zh": "搬家",
+        "en": "to move (house)",
+        "ex": {
+          "de": "Nächstes Jahr wollen wir in eine größere Wohnung {umziehen}.",
+          "zh": "明年我們想搬到更大的公寓。",
+          "en": "Next year we want to move into a bigger flat.",
+          "distractors": [
+            "aussterben",
+            "verblühen",
+            "auftauen"
+          ]
+        }
+      }
+    ]
+  },
+  "umzug": {
+    "senses": [
+      {
+        "zh": "搬家",
+        "en": "move, removal",
+        "ex": {
+          "de": "Beim {Umzug} haben uns drei Freunde die Möbel getragen.",
+          "zh": "搬家時有三個朋友幫我們搬家具。",
+          "en": "During the move three friends carried our furniture.",
+          "distractors": [
+            "Wecker",
+            "Schlüsselbund",
+            "Kugelschreiber"
+          ]
+        }
+      }
+    ]
+  },
+  "umziehen-2": {
+    "senses": [
+      {
+        "zh": "換衣服",
+        "en": "to change clothes",
+        "ex": {
+          "de": "Nach dem Sport möchte ich mich schnell {umziehen}.",
+          "zh": "運動完我想快點換衣服。",
+          "en": "After sports I'd like to change quickly.",
+          "distractors": [
+            "verlaufen",
+            "verlieben",
+            "verschlucken"
+          ]
+        }
+      }
+    ]
+  },
+  "umgezogen": {
+    "senses": [
+      {
+        "zh": "搬家了",
+        "en": "moved (house)",
+        "ex": {
+          "de": "Wir sind letzten Monat nach Köln {umgezogen}.",
+          "zh": "我們上個月搬到了科隆。",
+          "en": "We moved to Cologne last month.",
+          "distractors": [
+            "geblieben",
+            "gestorben",
+            "eingeschlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "un": {
+    "senses": [
+      {
+        "zh": "不、非（否定前綴）",
+        "en": "un- (negating prefix)",
+        "ex": {
+          "de": "Der Fahrer war sehr {un}höflich zu den Gästen.",
+          "zh": "司機對客人非常不禮貌。",
+          "en": "The driver was very impolite to the guests.",
+          "distractors": [
+            "ab",
+            "be",
+            "ent"
+          ]
+        }
+      }
+    ]
+  },
+  "unbedingt": {
+    "senses": [
+      {
+        "zh": "一定；務必",
+        "en": "absolutely, without fail",
+        "ex": {
+          "de": "Du musst den Kuchen {unbedingt} probieren, er ist fantastisch.",
+          "zh": "你一定要試試這個蛋糕，太棒了。",
+          "en": "You absolutely must try the cake; it's fantastic.",
+          "distractors": [
+            "gestern",
+            "vorhin",
+            "neulich"
+          ]
+        }
+      }
+    ]
+  },
+  "und": {
+    "senses": [
+      {
+        "zh": "和；而且",
+        "en": "and",
+        "ex": {
+          "de": "Zum Frühstück esse ich Brot {und} Käse.",
+          "zh": "早餐我吃麵包和起司。",
+          "en": "For breakfast I eat bread and cheese.",
+          "distractors": [
+            "weil",
+            "dass",
+            "obwohl"
+          ]
+        }
+      }
+    ]
+  },
+  "unfall": {
+    "senses": [
+      {
+        "zh": "意外；事故",
+        "en": "accident",
+        "ex": {
+          "de": "Auf der Autobahn gab es einen schweren {Unfall}.",
+          "zh": "高速公路上發生了嚴重的事故。",
+          "en": "There was a serious accident on the motorway.",
+          "distractors": [
+            "Kuchen",
+            "Ausweis",
+            "Ofen"
+          ]
+        }
+      }
+    ]
+  },
+  "ungefaehr": {
+    "senses": [
+      {
+        "zh": "大約",
+        "en": "approximately",
+        "ex": {
+          "de": "Der Weg zum Bahnhof dauert {ungefähr} zehn Minuten.",
+          "zh": "到火車站的路大約要十分鐘。",
+          "en": "The way to the station takes about ten minutes.",
+          "distractors": [
+            "nämlich",
+            "dorthin",
+            "bergab"
+          ]
+        }
+      }
+    ]
+  },
+  "ungewoehnlich": {
+    "senses": [
+      {
+        "zh": "不尋常的；罕見的",
+        "en": "unusual",
+        "ex": {
+          "de": "Es ist {ungewöhnlich} warm für Dezember.",
+          "zh": "以十二月來說，天氣暖得不尋常。",
+          "en": "It is unusually warm for December.",
+          "distractors": [
+            "freiwillig",
+            "sprachlos",
+            "hungrig"
+          ]
+        }
+      }
+    ]
+  },
+  "unglaublich": {
+    "senses": [
+      {
+        "zh": "難以置信的；非常",
+        "en": "unbelievable; incredibly",
+        "ex": {
+          "de": "Dieser Kuchen schmeckt {unglaublich} gut, ich nehme noch ein Stück.",
+          "zh": "這蛋糕好吃得不可思議，我再拿一塊。",
+          "en": "This cake tastes incredibly good; I'll take another piece.",
+          "distractors": [
+            "schriftlich",
+            "stündlich",
+            "jährlich"
+          ]
+        }
+      }
+    ]
+  },
+  "unglueck": {
+    "senses": [
+      {
+        "zh": "不幸；災難",
+        "en": "misfortune, accident",
+        "ex": {
+          "de": "Bei dem {Unglück} auf der Baustelle wurde zum Glück niemand verletzt.",
+          "zh": "工地的那場意外幸好沒有人受傷。",
+          "en": "Luckily nobody was hurt in the accident at the building site.",
+          "distractors": [
+            "Frühstück",
+            "Gemüse",
+            "Regal"
+          ]
+        }
+      }
+    ]
+  },
+  "unheimlich": {
+    "senses": [
+      {
+        "zh": "陰森的；令人毛骨悚然的",
+        "en": "eerie, creepy",
+        "ex": {
+          "de": "Im Keller war es dunkel und {unheimlich} still.",
+          "zh": "地下室又暗又陰森地安靜。",
+          "en": "In the cellar it was dark and eerily quiet.",
+          "distractors": [
+            "fröhlich",
+            "sonnig",
+            "mutig"
+          ]
+        }
+      }
+    ]
+  },
+  "uniform": {
+    "senses": [
+      {
+        "zh": "制服",
+        "en": "uniform",
+        "ex": {
+          "de": "Die Polizistin trägt eine dunkelblaue {Uniform}.",
+          "zh": "那位女警穿著深藍色制服。",
+          "en": "The policewoman wears a dark blue uniform.",
+          "distractors": [
+            "Straßenbahn",
+            "Wiese",
+            "Erdbeere"
+          ]
+        }
+      }
+    ]
+  },
+  "universitaet": {
+    "senses": [
+      {
+        "zh": "大學",
+        "en": "university",
+        "ex": {
+          "de": "Meine Schwester studiert Medizin an der {Universität} in Wien.",
+          "zh": "我姊姊在維也納的大學讀醫學。",
+          "en": "My sister studies medicine at the university in Vienna.",
+          "distractors": [
+            "Metzgerei",
+            "Bäckerei",
+            "Tankstelle"
+          ]
+        }
+      }
+    ]
+  },
+  "unten": {
+    "senses": [
+      {
+        "zh": "在下面",
+        "en": "below, downstairs",
+        "ex": {
+          "de": "Der Briefkasten ist {unten} im Hausflur, neben dem Eingang.",
+          "zh": "信箱在樓下玄關，就在入口旁邊。",
+          "en": "The mailbox is downstairs in the hallway, next to the entrance.",
+          "distractors": [
+            "gestern",
+            "damals",
+            "stündlich"
+          ]
+        }
+      }
+    ]
+  },
+  "unter": {
+    "senses": [
+      {
+        "zh": "在…下面",
+        "en": "under, below",
+        "ex": {
+          "de": "Die Schuhe stehen {unter} der Bank im Flur.",
+          "zh": "鞋子放在走廊長椅的下面。",
+          "en": "The shoes are under the bench in the hallway.",
+          "distractors": [
+            "gegen",
+            "seit",
+            "ohne"
+          ]
+        }
+      }
+    ]
+  },
+  "unter-2": {
+    "senses": [
+      {
+        "zh": "在下面（前綴）",
+        "en": "under- (prefix)",
+        "ex": {
+          "de": "Im Urlaub habe ich zum ersten Mal {unter}wasser fotografiert.",
+          "zh": "度假時我第一次拍了水下照片。",
+          "en": "On holiday I took underwater photos for the first time.",
+          "distractors": [
+            "hinter",
+            "neben",
+            "zwischen"
+          ]
+        }
+      }
+    ]
+  },
+  "unterbrechen": {
+    "senses": [
+      {
+        "zh": "打斷；中斷",
+        "en": "to interrupt",
+        "ex": {
+          "de": "Bitte entschuldigen Sie, wenn ich Sie kurz {unterbreche}.",
+          "zh": "不好意思，我打斷您一下。",
+          "en": "Excuse me if I interrupt you for a moment.",
+          "distractors": [
+            "verkaufe",
+            "zerreiße",
+            "tapeziere"
+          ]
+        }
+      }
+    ]
+  },
+  "unterhalten": {
+    "senses": [
+      {
+        "zh": "交談；使開心",
+        "en": "to talk; to entertain",
+        "ex": {
+          "de": "Nach dem Essen haben sich die Gäste noch stundenlang {unterhalten}.",
+          "zh": "飯後客人們又聊了好幾個小時。",
+          "en": "After dinner the guests chatted for hours.",
+          "distractors": [
+            "geschnitten",
+            "gestrichen",
+            "gekocht"
+          ]
+        }
+      }
+    ]
+  },
+  "unterkunft": {
+    "senses": [
+      {
+        "zh": "住處；住宿",
+        "en": "accommodation",
+        "ex": {
+          "de": "Wir suchen für den Sommer eine günstige {Unterkunft} am Meer.",
+          "zh": "我們為夏天找一個海邊便宜的住處。",
+          "en": "We're looking for a cheap place to stay by the sea for the summer.",
+          "distractors": [
+            "Spülmaschine",
+            "Hausaufgabe",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "unterlagen": {
+    "senses": [
+      {
+        "zh": "文件；資料",
+        "en": "documents, papers",
+        "ex": {
+          "de": "Haben Sie alle {Unterlagen} für die Anmeldung dabei?",
+          "zh": "您有帶齊報名需要的所有文件嗎？",
+          "en": "Do you have all the documents for the registration with you?",
+          "distractors": [
+            "Bananen",
+            "Nudeln",
+            "Kerzen"
+          ]
+        }
+      }
+    ]
+  },
+  "unterlassen": {
+    "senses": [
+      {
+        "zh": "不做；避免",
+        "en": "to refrain from",
+        "ex": {
+          "de": "Du solltest solche Bemerkungen besser {unterlassen}.",
+          "zh": "你最好別說這種話。",
+          "en": "You had better refrain from such remarks.",
+          "distractors": [
+            "verpacken",
+            "überholen",
+            "einfrieren"
+          ]
+        }
+      }
+    ]
+  },
+  "unternehmen": {
+    "senses": [
+      {
+        "zh": "做（活動）；採取",
+        "en": "to do, undertake",
+        "ex": {
+          "de": "Am Wochenende wollen wir etwas mit den Kindern {unternehmen}.",
+          "zh": "週末我們想和孩子們一起做點什麼。",
+          "en": "At the weekend we want to do something with the children.",
+          "distractors": [
+            "ausatmen",
+            "einparken",
+            "absägen"
+          ]
+        }
+      }
+    ]
+  },
+  "unternehmer": {
+    "senses": [
+      {
+        "zh": "企業家（男）",
+        "en": "entrepreneur",
+        "ex": {
+          "de": "Der {Unternehmer} hat in diesem Jahr zwanzig neue Leute eingestellt.",
+          "zh": "那位企業家今年僱了二十個新人。",
+          "en": "The entrepreneur hired twenty new people this year.",
+          "distractors": [
+            "Hubschrauber",
+            "Wasserkocher",
+            "Taschenrechner"
+          ]
+        }
+      }
+    ]
+  },
+  "unternehmerin": {
+    "senses": [
+      {
+        "zh": "企業家（女）",
+        "en": "entrepreneur (female)",
+        "ex": {
+          "de": "Die {Unternehmerin} hat ihre Firma vor zehn Jahren gegründet.",
+          "zh": "那位女企業家十年前創立了她的公司。",
+          "en": "The entrepreneur founded her company ten years ago.",
+          "distractors": [
+            "Kassette",
+            "Blume",
+            "Bohne"
+          ]
+        }
+      }
+    ]
+  },
+  "unterrichten": {
+    "senses": [
+      {
+        "zh": "教（課）",
+        "en": "to teach",
+        "ex": {
+          "de": "Er möchte später an einer Grundschule Musik {unterrichten}.",
+          "zh": "他以後想在小學教音樂。",
+          "en": "He wants to teach music at a primary school later.",
+          "distractors": [
+            "tapezieren",
+            "verreisen",
+            "gähnen"
+          ]
+        }
+      }
+    ]
+  },
+  "unterricht": {
+    "senses": [
+      {
+        "zh": "上課；課程",
+        "en": "lesson, class",
+        "ex": {
+          "de": "Der {Unterricht} beginnt jeden Morgen um acht Uhr.",
+          "zh": "每天早上八點開始上課。",
+          "en": "Class begins every morning at eight o'clock.",
+          "distractors": [
+            "Papierkorb",
+            "Rucksack",
+            "Aufzug"
+          ]
+        }
+      }
+    ]
+  },
+  "untersagt": {
+    "senses": [
+      {
+        "zh": "被禁止的",
+        "en": "prohibited",
+        "ex": {
+          "de": "Das Fotografieren ist in diesem Museum streng {untersagt}.",
+          "zh": "這間博物館嚴禁拍照。",
+          "en": "Taking photos is strictly prohibited in this museum.",
+          "distractors": [
+            "gewachsen",
+            "geschmolzen",
+            "gesunken"
+          ]
+        }
+      }
+    ]
+  },
+  "unterscheiden": {
+    "senses": [
+      {
+        "zh": "區分；分辨",
+        "en": "to distinguish",
+        "ex": {
+          "de": "Zwillinge kann man oft kaum {unterscheiden}.",
+          "zh": "雙胞胎常常幾乎無法分辨。",
+          "en": "Twins are often hard to tell apart.",
+          "distractors": [
+            "einatmen",
+            "verbrennen",
+            "gießen"
+          ]
+        }
+      }
+    ]
+  },
+  "unterschied": {
+    "senses": [
+      {
+        "zh": "差別；差異",
+        "en": "difference",
+        "ex": {
+          "de": "Zwischen den beiden Handys gibt es kaum einen {Unterschied}.",
+          "zh": "這兩支手機幾乎沒有差別。",
+          "en": "There is hardly any difference between the two phones.",
+          "distractors": [
+            "Kleiderbügel",
+            "Wasserhahn",
+            "Mülleimer"
+          ]
+        }
+      }
+    ]
+  },
+  "unterschiedlich": {
+    "senses": [
+      {
+        "zh": "不同的",
+        "en": "different, varying",
+        "ex": {
+          "de": "Die Kinder haben ganz {unterschiedliche} Hobbys: Tanzen, Schach und Angeln.",
+          "zh": "孩子們的嗜好完全不同：跳舞、下棋和釣魚。",
+          "en": "The children have very different hobbies: dancing, chess and fishing.",
+          "distractors": [
+            "kaputte",
+            "salzige",
+            "nasse"
+          ]
+        }
+      }
+    ]
+  },
+  "unterschreiben": {
+    "senses": [
+      {
+        "zh": "簽名",
+        "en": "to sign",
+        "ex": {
+          "de": "Bitte vergessen Sie nicht, den Vertrag zu {unterschreiben}.",
+          "zh": "請別忘了在合約上簽名。",
+          "en": "Please don't forget to sign the contract.",
+          "distractors": [
+            "gähnen",
+            "niesen",
+            "ertrinken"
+          ]
+        }
+      }
+    ]
+  }
+}

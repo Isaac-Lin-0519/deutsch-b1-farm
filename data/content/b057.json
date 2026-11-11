@@ -1,0 +1,944 @@
+{
+  "vertreten": {
+    "senses": [
+      {
+        "zh": "代表；代理",
+        "en": "to represent, stand in for",
+        "ex": {
+          "de": "Der Anwalt wird dich vor Gericht {vertreten}.",
+          "zh": "律師會在法庭上代表你。",
+          "en": "The lawyer will represent you in court.",
+          "distractors": [
+            "tapezieren",
+            "rasieren",
+            "wiegen"
+          ]
+        }
+      },
+      {
+        "zh": "持（觀點）；主張",
+        "en": "to hold (a view)",
+        "ex": {
+          "de": "Diese Meinung habe ich schon immer {vertreten}.",
+          "zh": "這個看法我一直都是這麼主張的。",
+          "en": "I have always held this opinion.",
+          "distractors": [
+            "gegossen",
+            "gewaschen",
+            "gepflückt"
+          ]
+        }
+      }
+    ]
+  },
+  "vertreter": {
+    "senses": [
+      {
+        "zh": "代表；業務員",
+        "en": "representative",
+        "ex": {
+          "de": "Ein {Vertreter} der Firma hat uns gestern besucht.",
+          "zh": "公司的一位代表昨天來拜訪了我們。",
+          "en": "A representative of the company visited us yesterday.",
+          "distractors": [
+            "Kürbis",
+            "Fußboden",
+            "Gürtel"
+          ]
+        }
+      }
+    ]
+  },
+  "vertretung": {
+    "senses": [
+      {
+        "zh": "代理；代班",
+        "en": "substitute, cover",
+        "ex": {
+          "de": "Während des Urlaubs übernimmt Frau Braun die {Vertretung} für mich.",
+          "zh": "我休假期間由布朗女士代理我的工作。",
+          "en": "While I'm on vacation, Ms. Braun is covering for me.",
+          "distractors": [
+            "Gabel",
+            "Birne",
+            "Windel"
+          ]
+        }
+      }
+    ]
+  },
+  "verurteilen": {
+    "senses": [
+      {
+        "zh": "判決；譴責",
+        "en": "to sentence, condemn",
+        "ex": {
+          "de": "Das Gericht wird den Dieb sicher zu einer Strafe {verurteilen}.",
+          "zh": "法院一定會判小偷受罰。",
+          "en": "The court will surely sentence the thief to a punishment.",
+          "distractors": [
+            "segeln",
+            "gießen",
+            "zeichnen"
+          ]
+        }
+      }
+    ]
+  },
+  "verwaltung": {
+    "senses": [
+      {
+        "zh": "行政機關；管理",
+        "en": "administration",
+        "ex": {
+          "de": "Die {Verwaltung} der Stadt ist montags bis freitags geöffnet.",
+          "zh": "市政府行政單位週一到週五開放。",
+          "en": "The city administration is open Monday to Friday.",
+          "distractors": [
+            "Zwiebel",
+            "Windel",
+            "Tapete"
+          ]
+        }
+      }
+    ]
+  },
+  "verwandt": {
+    "senses": [
+      {
+        "zh": "有親戚關係的",
+        "en": "related",
+        "ex": {
+          "de": "Wir sind nicht {verwandt}, aber wir kennen uns schon lange.",
+          "zh": "我們不是親戚，但已經認識很久了。",
+          "en": "We are not related, but we have known each other for a long time.",
+          "distractors": [
+            "kariert",
+            "salzig",
+            "eckig"
+          ]
+        }
+      }
+    ]
+  },
+  "verwandte": {
+    "senses": [
+      {
+        "zh": "親戚（男）",
+        "en": "relative (male)",
+        "ex": {
+          "de": "Ein {Verwandter} von mir wohnt jetzt in Wien.",
+          "zh": "我的一位親戚現在住在維也納。",
+          "en": "A relative of mine lives in Vienna now.",
+          "distractors": [
+            "Hammer",
+            "Schornstein",
+            "Pinsel"
+          ]
+        }
+      }
+    ]
+  },
+  "verwandte-2": {
+    "senses": [
+      {
+        "zh": "親戚（女）",
+        "en": "relative (female)",
+        "ex": {
+          "de": "Meine {Verwandte} aus Köln hat mir eine Karte geschickt.",
+          "zh": "我在科隆的女性親戚寄了一張卡片給我。",
+          "en": "My relative from Cologne sent me a card.",
+          "distractors": [
+            "Lampe",
+            "Kerze",
+            "Münze"
+          ]
+        }
+      }
+    ]
+  },
+  "verwenden": {
+    "senses": [
+      {
+        "zh": "使用；運用",
+        "en": "to use",
+        "ex": {
+          "de": "Du solltest für den Kuchen nur frische Eier {verwenden}.",
+          "zh": "做這個蛋糕你只該用新鮮的蛋。",
+          "en": "For the cake you should only use fresh eggs.",
+          "distractors": [
+            "winken",
+            "heiraten",
+            "parken"
+          ]
+        }
+      }
+    ]
+  },
+  "verzeihen": {
+    "senses": [
+      {
+        "zh": "原諒",
+        "en": "to forgive",
+        "ex": {
+          "de": "Kannst du mir diesen Fehler noch einmal {verzeihen}?",
+          "zh": "你可以再原諒我這個錯誤一次嗎？",
+          "en": "Can you forgive me this mistake once more?",
+          "distractors": [
+            "kämmen",
+            "einladen",
+            "verpacken"
+          ]
+        }
+      }
+    ]
+  },
+  "verzeihung": {
+    "senses": [
+      {
+        "zh": "對不起；不好意思",
+        "en": "excuse me, sorry",
+        "ex": {
+          "de": "{Verzeihung}, ist dieser Platz noch frei?",
+          "zh": "不好意思，這個位子還有人嗎？",
+          "en": "Excuse me, is this seat still free?",
+          "distractors": [
+            "Kartoffel",
+            "Dienstag",
+            "Rucksack"
+          ]
+        }
+      }
+    ]
+  },
+  "verzichten": {
+    "senses": [
+      {
+        "zh": "放棄；不要",
+        "en": "to do without",
+        "ex": {
+          "de": "Ich möchte im Urlaub auf mein Handy {verzichten}.",
+          "zh": "我想在假期中不用手機。",
+          "en": "I want to do without my phone on vacation.",
+          "distractors": [
+            "schneien",
+            "niesen",
+            "blühen"
+          ]
+        }
+      }
+    ]
+  },
+  "video": {
+    "senses": [
+      {
+        "zh": "影片",
+        "en": "video",
+        "ex": {
+          "de": "Auf dem Handy läuft gerade das {Video}, das du mir geschickt hast.",
+          "zh": "手機上正在播你傳給我的那支影片。",
+          "en": "The video you sent me is playing on the phone right now.",
+          "distractors": [
+            "Mehl",
+            "Salz",
+            "Gras"
+          ]
+        }
+      }
+    ]
+  },
+  "viel-viele": {
+    "senses": [
+      {
+        "zh": "很多",
+        "en": "many, much",
+        "ex": {
+          "de": "In unserer Straße gibt es {viele} Cafés.",
+          "zh": "我們這條街上有很多咖啡館。",
+          "en": "There are many cafés on our street.",
+          "distractors": [
+            "müde",
+            "hungrige",
+            "dreieckige"
+          ]
+        }
+      }
+    ]
+  },
+  "vielleicht": {
+    "senses": [
+      {
+        "zh": "也許；可能",
+        "en": "maybe, perhaps",
+        "ex": {
+          "de": "Wir gehen {vielleicht} am Sonntag an den See.",
+          "zh": "我們也許週日會去湖邊。",
+          "en": "We might go to the lake on Sunday.",
+          "distractors": [
+            "gestern",
+            "vorgestern",
+            "damals"
+          ]
+        }
+      }
+    ]
+  },
+  "viertel": {
+    "senses": [
+      {
+        "zh": "四分之一",
+        "en": "quarter",
+        "ex": {
+          "de": "Ich nehme nur ein {Viertel} von dem Kuchen.",
+          "zh": "我只拿那個蛋糕的四分之一。",
+          "en": "I'll only take a quarter of the cake.",
+          "distractors": [
+            "Radio",
+            "Fahrrad",
+            "Papier"
+          ]
+        }
+      },
+      {
+        "zh": "街區；住宅區",
+        "en": "district, neighborhood",
+        "ex": {
+          "de": "In diesem {Viertel} wohnen viele Studenten.",
+          "zh": "這一區住了很多學生。",
+          "en": "Many students live in this neighborhood.",
+          "distractors": [
+            "Kino",
+            "Rathaus",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "virtuell": {
+    "senses": [
+      {
+        "zh": "虛擬的；線上的",
+        "en": "virtual",
+        "ex": {
+          "de": "Das Treffen findet nicht im Büro, sondern {virtuell} statt.",
+          "zh": "這場會議不在辦公室，而是線上舉行。",
+          "en": "The meeting takes place virtually, not in the office.",
+          "distractors": [
+            "hungrig",
+            "eckig",
+            "gelb"
+          ]
+        }
+      }
+    ]
+  },
+  "virus": {
+    "senses": [
+      {
+        "zh": "病毒",
+        "en": "virus",
+        "ex": {
+          "de": "Der {Virus} hat sich schnell in der Schule verbreitet.",
+          "zh": "病毒在學校裡很快就傳開了。",
+          "en": "The virus spread quickly at school.",
+          "distractors": [
+            "Sessel",
+            "Kalender",
+            "Bahnsteig"
+          ]
+        }
+      }
+    ]
+  },
+  "visitenkarte": {
+    "senses": [
+      {
+        "zh": "名片",
+        "en": "business card",
+        "ex": {
+          "de": "Auf meiner {Visitenkarte} stehen mein Name und meine Telefonnummer.",
+          "zh": "我的名片上印著我的名字和電話號碼。",
+          "en": "My business card shows my name and phone number.",
+          "distractors": [
+            "Zitrone",
+            "Steckdose",
+            "Kartoffel"
+          ]
+        }
+      }
+    ]
+  },
+  "visum": {
+    "senses": [
+      {
+        "zh": "簽證",
+        "en": "visa",
+        "ex": {
+          "de": "Für die Reise nach Indien brauchst du ein {Visum}.",
+          "zh": "去印度旅行你需要簽證。",
+          "en": "For the trip to India you need a visa.",
+          "distractors": [
+            "Gewitter",
+            "Ei",
+            "Gras"
+          ]
+        }
+      }
+    ]
+  },
+  "vitamin": {
+    "senses": [
+      {
+        "zh": "維他命",
+        "en": "vitamin",
+        "ex": {
+          "de": "Dieses {Vitamin} ist wichtig für starke Knochen.",
+          "zh": "這種維他命對強健骨骼很重要。",
+          "en": "This vitamin is important for strong bones.",
+          "distractors": [
+            "Dach",
+            "Auto",
+            "Tor"
+          ]
+        }
+      }
+    ]
+  },
+  "voll": {
+    "senses": [
+      {
+        "zh": "擠滿的；滿的",
+        "en": "full, crowded",
+        "ex": {
+          "de": "Der Bus war heute Morgen so {voll}, dass ich stehen musste.",
+          "zh": "今天早上公車擠到我只能站著。",
+          "en": "The bus was so full this morning that I had to stand.",
+          "distractors": [
+            "leer",
+            "süß",
+            "blond"
+          ]
+        }
+      }
+    ]
+  },
+  "vollzeit": {
+    "senses": [
+      {
+        "zh": "全職",
+        "en": "full-time",
+        "ex": {
+          "de": "Seit Mai arbeite ich in {Vollzeit}.",
+          "zh": "從五月起我做全職工作。",
+          "en": "Since May I have been working full-time.",
+          "distractors": [
+            "Wäsche",
+            "Kälte",
+            "Hitze"
+          ]
+        }
+      }
+    ]
+  },
+  "volleyball": {
+    "senses": [
+      {
+        "zh": "排球",
+        "en": "volleyball",
+        "ex": {
+          "de": "Am Strand spielen wir oft {Volleyball}.",
+          "zh": "我們常在沙灘上打排球。",
+          "en": "We often play volleyball on the beach.",
+          "distractors": [
+            "Kuchen",
+            "Teller",
+            "Honig"
+          ]
+        }
+      }
+    ]
+  },
+  "von": {
+    "senses": [
+      {
+        "zh": "來自…；…的",
+        "en": "from, of",
+        "ex": {
+          "de": "Das Geschenk ist {von} meiner Schwester.",
+          "zh": "這份禮物是我姊姊送的。",
+          "en": "The gift is from my sister.",
+          "distractors": [
+            "seit",
+            "nach",
+            "zu"
+          ]
+        }
+      }
+    ]
+  },
+  "voneinander": {
+    "senses": [
+      {
+        "zh": "彼此（互相）",
+        "en": "from each other",
+        "ex": {
+          "de": "Wir haben viel {voneinander} gelernt.",
+          "zh": "我們從彼此身上學到很多。",
+          "en": "We have learned a lot from each other.",
+          "distractors": [
+            "hierher",
+            "bergab",
+            "kopfüber"
+          ]
+        }
+      }
+    ]
+  },
+  "vor": {
+    "senses": [
+      {
+        "zh": "…以前；在…之前",
+        "en": "ago, before",
+        "ex": {
+          "de": "Der Zug ist {vor} zehn Minuten abgefahren.",
+          "zh": "火車十分鐘前開走了。",
+          "en": "The train left ten minutes ago.",
+          "distractors": [
+            "ab",
+            "aus",
+            "seit"
+          ]
+        }
+      }
+    ]
+  },
+  "vor-allem": {
+    "senses": [
+      {
+        "zh": "尤其；最重要的是",
+        "en": "above all, especially",
+        "ex": {
+          "de": "Ich esse gern Obst, {vor allem} Erdbeeren.",
+          "zh": "我喜歡吃水果，尤其是草莓。",
+          "en": "I like eating fruit, especially strawberries.",
+          "distractors": [
+            "trotz allem",
+            "nach allem",
+            "ohne alles"
+          ]
+        }
+      }
+    ]
+  },
+  "voraus": {
+    "senses": [
+      {
+        "zh": "在前面；先行",
+        "en": "ahead",
+        "ex": {
+          "de": "Du gehst schon {voraus}, ich komme gleich nach.",
+          "zh": "你先走吧，我馬上跟上。",
+          "en": "You go ahead, I'll follow right away.",
+          "distractors": [
+            "gestern",
+            "kaputt",
+            "gratis"
+          ]
+        }
+      }
+    ]
+  },
+  "voraussetzung": {
+    "senses": [
+      {
+        "zh": "條件；前提",
+        "en": "requirement, prerequisite",
+        "ex": {
+          "de": "Eine gute {Voraussetzung} für den Job ist ein Führerschein.",
+          "zh": "這份工作的一個重要條件是要有駕照。",
+          "en": "A driver's license is a good requirement for the job.",
+          "distractors": [
+            "Tomate",
+            "Matratze",
+            "Salbe"
+          ]
+        }
+      }
+    ]
+  },
+  "voraussichtlich": {
+    "senses": [
+      {
+        "zh": "預計；大概",
+        "en": "expected, probably",
+        "ex": {
+          "de": "Der Zug kommt {voraussichtlich} um 18 Uhr an.",
+          "zh": "火車預計下午六點到。",
+          "en": "The train is expected to arrive at 6 p.m.",
+          "distractors": [
+            "früher",
+            "neulich",
+            "vorhin"
+          ]
+        }
+      }
+    ]
+  },
+  "vorbei-vorbei": {
+    "senses": [
+      {
+        "zh": "過去了；結束了",
+        "en": "over, past",
+        "ex": {
+          "de": "Die Pause ist leider schon {vorbei}.",
+          "zh": "休息時間很可惜已經結束了。",
+          "en": "The break is unfortunately already over.",
+          "distractors": [
+            "dort",
+            "oben",
+            "draußen"
+          ]
+        }
+      }
+    ]
+  },
+  "vorbereiten": {
+    "senses": [
+      {
+        "zh": "準備",
+        "en": "to prepare",
+        "ex": {
+          "de": "Meine Mutter will für Samstag ein großes Essen {vorbereiten}.",
+          "zh": "我媽媽想為週六準備一頓大餐。",
+          "en": "My mother wants to prepare a big meal for Saturday.",
+          "distractors": [
+            "zerreißen",
+            "schaukeln",
+            "bellen"
+          ]
+        }
+      }
+    ]
+  },
+  "vorbereitung": {
+    "senses": [
+      {
+        "zh": "準備",
+        "en": "preparation",
+        "ex": {
+          "de": "Die {Vorbereitung} auf das Fest hat drei Tage gedauert.",
+          "zh": "籌備這場慶典花了三天。",
+          "en": "The preparation for the party took three days.",
+          "distractors": [
+            "Bürste",
+            "Pfanne",
+            "Muschel"
+          ]
+        }
+      }
+    ]
+  },
+  "vorder": {
+    "senses": [
+      {
+        "zh": "前面的",
+        "en": "front",
+        "ex": {
+          "de": "Wir sitzen in der {vorderen} Reihe.",
+          "zh": "我們坐在前排。",
+          "en": "We are sitting in the front row.",
+          "distractors": [
+            "salzigen",
+            "verheirateten",
+            "hungrigen"
+          ]
+        }
+      }
+    ]
+  },
+  "vorfahrt": {
+    "senses": [
+      {
+        "zh": "優先通行權",
+        "en": "right of way",
+        "ex": {
+          "de": "Wer hier von rechts kommt, hat {Vorfahrt}.",
+          "zh": "從右邊來的車在這裡有優先權。",
+          "en": "Whoever comes from the right has the right of way here.",
+          "distractors": [
+            "Tapete",
+            "Zwiebel",
+            "Gitarre"
+          ]
+        }
+      }
+    ]
+  },
+  "vorgestern": {
+    "senses": [
+      {
+        "zh": "前天",
+        "en": "the day before yesterday",
+        "ex": {
+          "de": "Wir haben {vorgestern} noch zusammen im Park gesessen.",
+          "zh": "前天我們還一起坐在公園裡。",
+          "en": "The day before yesterday we were still sitting together in the park.",
+          "distractors": [
+            "morgen",
+            "übermorgen",
+            "nächstens"
+          ]
+        }
+      }
+    ]
+  },
+  "vorhaben": {
+    "senses": [
+      {
+        "zh": "打算；計畫",
+        "en": "to plan, intend",
+        "ex": {
+          "de": "Ich habe für Samstag leider schon etwas {vorgehabt}.",
+          "zh": "星期六我很遺憾已經有安排了。",
+          "en": "Unfortunately I already had plans for Saturday.",
+          "distractors": [
+            "geregnet",
+            "geblitzt",
+            "gedonnert"
+          ]
+        }
+      }
+    ]
+  },
+  "vorher": {
+    "senses": [
+      {
+        "zh": "之前；事先",
+        "en": "before, beforehand",
+        "ex": {
+          "de": "Wir waren {vorher} noch nie in Spanien gewesen.",
+          "zh": "在那之前我們從沒去過西班牙。",
+          "en": "Before that, we had never been to Spain.",
+          "distractors": [
+            "nachher",
+            "hierher",
+            "dorthin"
+          ]
+        }
+      }
+    ]
+  },
+  "vorhin": {
+    "senses": [
+      {
+        "zh": "剛才",
+        "en": "a moment ago",
+        "ex": {
+          "de": "Ich habe {vorhin} mit Tom telefoniert.",
+          "zh": "我剛才和湯姆通過電話。",
+          "en": "I talked to Tom on the phone a moment ago.",
+          "distractors": [
+            "bald",
+            "künftig",
+            "demnächst"
+          ]
+        }
+      }
+    ]
+  },
+  "vorkommen": {
+    "senses": [
+      {
+        "zh": "發生；出現",
+        "en": "to occur, happen",
+        "ex": {
+          "de": "Solche Fehler dürfen im Test nicht {vorkommen}.",
+          "zh": "這種錯誤不可以出現在測驗裡。",
+          "en": "Such mistakes must not occur in the test.",
+          "distractors": [
+            "fliegen",
+            "schmelzen",
+            "rosten"
+          ]
+        }
+      }
+    ]
+  },
+  "vorlesen": {
+    "senses": [
+      {
+        "zh": "朗讀；念給…聽",
+        "en": "to read aloud",
+        "ex": {
+          "de": "Mein Opa wollte uns abends immer ein Märchen {vorlesen}.",
+          "zh": "我爺爺晚上總愛念童話故事給我們聽。",
+          "en": "My grandpa always liked to read us a fairy tale in the evening.",
+          "distractors": [
+            "reiben",
+            "impfen",
+            "bohren"
+          ]
+        }
+      }
+    ]
+  },
+  "vorn": {
+    "senses": [
+      {
+        "zh": "在前面",
+        "en": "in front",
+        "ex": {
+          "de": "Setz dich ruhig {vorne} ins Auto, hinten ist es eng.",
+          "zh": "你就坐前面吧，後座很擠。",
+          "en": "Just sit in the front of the car, it's cramped in the back.",
+          "distractors": [
+            "gern",
+            "morgens",
+            "blau"
+          ]
+        }
+      }
+    ]
+  },
+  "vorort-2": {
+    "senses": [
+      {
+        "zh": "郊區",
+        "en": "suburb",
+        "ex": {
+          "de": "Der Bus fährt von der Stadtmitte in den nächsten {Vorort}.",
+          "zh": "公車從市中心開往最近的郊區。",
+          "en": "The bus goes from downtown to the nearest suburb.",
+          "distractors": [
+            "Brotkorb",
+            "Ordner",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "vorschlag": {
+    "senses": [
+      {
+        "zh": "提議；建議",
+        "en": "suggestion",
+        "ex": {
+          "de": "Dein {Vorschlag} für das Abendessen klingt wirklich gut.",
+          "zh": "你對晚餐的提議聽起來真不錯。",
+          "en": "Your suggestion for dinner sounds really good.",
+          "distractors": [
+            "Kamm",
+            "Reißverschluss",
+            "Lautsprecher"
+          ]
+        }
+      }
+    ]
+  },
+  "vorschrift": {
+    "senses": [
+      {
+        "zh": "規定；規則",
+        "en": "regulation, rule",
+        "ex": {
+          "de": "Nach den {Vorschriften} dürfen hier keine Hunde ins Gebäude.",
+          "zh": "依規定這裡的建築物不准帶狗進入。",
+          "en": "According to the regulations, no dogs are allowed in the building here.",
+          "distractors": [
+            "Kerzen",
+            "Rutschen",
+            "Muscheln"
+          ]
+        }
+      }
+    ]
+  },
+  "vorsicht": {
+    "senses": [
+      {
+        "zh": "小心；謹慎",
+        "en": "caution, careful",
+        "ex": {
+          "de": "{Vorsicht}, der Boden ist nass!",
+          "zh": "小心，地板是濕的！",
+          "en": "Careful, the floor is wet!",
+          "distractors": [
+            "Wolle",
+            "Hose",
+            "Rente"
+          ]
+        }
+      }
+    ]
+  },
+  "vorsichtig": {
+    "senses": [
+      {
+        "zh": "小心的；謹慎地",
+        "en": "careful, carefully",
+        "ex": {
+          "de": "Trag die Gläser bitte ganz {vorsichtig} in die Küche.",
+          "zh": "請非常小心地把杯子端進廚房。",
+          "en": "Please carry the glasses into the kitchen very carefully.",
+          "distractors": [
+            "salzig",
+            "blau",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "vorstellen": {
+    "senses": [
+      {
+        "zh": "介紹",
+        "en": "to introduce",
+        "ex": {
+          "de": "Ich möchte euch heute meinen neuen Freund {vorstellen}.",
+          "zh": "我今天想向大家介紹我的新朋友。",
+          "en": "Today I would like to introduce my new friend to you.",
+          "distractors": [
+            "löschen",
+            "tanken",
+            "füttern"
+          ]
+        }
+      },
+      {
+        "zh": "想像",
+        "en": "to imagine",
+        "ex": {
+          "de": "Das kann ich mir gar nicht {vorstellen}.",
+          "zh": "這個我完全無法想像。",
+          "en": "I can't imagine that at all.",
+          "distractors": [
+            "schälen",
+            "kochen",
+            "stricken"
+          ]
+        }
+      }
+    ]
+  },
+  "vorstellung": {
+    "senses": [
+      {
+        "zh": "演出；場次",
+        "en": "performance, show",
+        "ex": {
+          "de": "Die {Vorstellung} im Theater beginnt um acht Uhr.",
+          "zh": "劇院的演出八點開始。",
+          "en": "The performance at the theater starts at eight o'clock.",
+          "distractors": [
+            "Suppe",
+            "Treppe",
+            "Kirsche"
+          ]
+        }
+      }
+    ]
+  }
+}
