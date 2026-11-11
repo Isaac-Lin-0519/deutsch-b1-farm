@@ -90,6 +90,6 @@ describe('邊牧的行為', () => {
     w.ball = { x: 100, y: 160 };
     const dog = new Dog(w);
     dog.fx = 110;
-    expect(dog.ballTarget()).toEqual([92, 173]);
+    expect(dog.ballTarget()).toEqual([90, 174]);
   });
 });

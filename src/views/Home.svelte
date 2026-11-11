@@ -326,18 +326,22 @@
       return;
     }
     if (dog.pose === 'sleep') {
-      P.blit(c, P.cached('lie', C.LIE, pal, ol), dog.fx - C.LIE_W / 2, dog.fy - C.LIE_H);
+      P.blit(c, P.cached('lie', C.LIE, pal, ol, dog.dir < 0), dog.fx - C.LIE_W / 2, dog.fy - C.LIE_H);
       return;
     }
     const fast = t < dog.wagUntil;
     const wagging = fast || Math.floor(t / 3000) % 3 === 0;
     const tf = wagging && Math.floor(t / (fast ? 110 : 600)) % 2 === 1;
     const yo = t < dog.hopUntil ? -Math.round(3 * Math.sin(((dog.hopUntil - t) / 350) * Math.PI)) : 0;
-    P.blit(c, P.cached(tf ? 'tailB' : 'tailA', tf ? C.TAIL_B : C.TAIL_A, pal, ol), dog.fx + 8, dog.fy - 10 + yo);
+    const flip = dog.dir < 0;
+    const left = dog.fx - C.SIT_W / 2;
+    const top = dog.fy - C.SIT_H + yo;
+    const tx = flip ? left + C.SIT_W - C.TAIL_DX - C.TAIL_W : left + C.TAIL_DX;
+    P.blit(c, P.cached(tf ? 'tailB' : 'tailA', tf ? C.TAIL_B : C.TAIL_A, pal, ol, flip), tx, top + C.TAIL_DY);
     const blink = t % 4300 < 150;
     const isBall = dog.pose === 'ball';
     const rows = isBall ? (blink ? C.BALL_BLINK : C.BALL) : blink ? C.SIT_BLINK : C.SIT;
-    P.blit(c, P.cached(`${isBall ? 'ball' : 'sit'}${blink ? 'B' : ''}`, rows, pal, ol), dog.fx - C.SIT_W / 2, dog.fy - C.SIT_H + yo);
+    P.blit(c, P.cached(`${isBall ? 'ball' : 'sit'}${blink ? 'B' : ''}`, rows, pal, ol, flip), left, top);
   }
 
   function draw(t: number) {
@@ -374,8 +378,9 @@
     if (dog.pose === 'sleep') {
       const k = (t / 900) % 2;
       const z = P.cached('zz', C.ZZ, { Z: P.LABEL }, P.OUT);
-      P.blit(c, z, dog.fx + 9 + k * 2, dog.fy - 26 - k * 4);
-      if (k > 1) P.blit(c, z, dog.fx + 5, dog.fy - 24);
+      const zx = dog.fx + (dog.dir < 0 ? -12 : 9);
+      P.blit(c, z, zx + k * 2, dog.fy - 22 - k * 4);
+      if (k > 1) P.blit(c, z, zx - 4, dog.fy - 20);
     }
     if (dog.begging && dog.pose === 'sit') P.drop(c, dog.fx - 2, dog.fy - 38 - (Math.floor(t / 400) % 2));
     for (let i = pops.length - 1; i >= 0; i--) {

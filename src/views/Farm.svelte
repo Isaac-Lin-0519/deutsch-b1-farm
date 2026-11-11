@@ -122,8 +122,8 @@
     }
 
     // 邊牧、果實籃、去澆水
-    P.blit(c, P.cached('tailA', C.TAIL_A, C.DOG_PAL, C.DOG_OUTLINE), 25, 199);
-    P.blit(c, P.cached('sit', C.SIT, C.DOG_PAL, C.DOG_OUTLINE), 3, 181);
+    P.blit(c, P.cached('tailA', C.TAIL_A, C.DOG_PAL, C.DOG_OUTLINE), 6 + C.TAIL_DX, 181 + C.TAIL_DY);
+    P.blit(c, P.cached('sit', C.SIT, C.DOG_PAL, C.DOG_OUTLINE), 6, 181);
     P.sprite(c, P.BASKET, 36, 196, P.BPAL, P.OUT);
     P.ptext(c, `×${fruits}`, 96, 388, P.LABEL, P.LABEL_SHADOW);
     P.panel(c, 62, 184, 54, 22);

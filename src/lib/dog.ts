@@ -1,5 +1,5 @@
 // 邊牧在家裡的行為：一連串步驟（走到某處、維持某個姿勢、做一件事），做完再挑下一個活動
-import { LIE_H, LIE_W, SIT_H, SIT_W, WALK_H, WALK_W } from './collie';
+import { LIE_H, LIE_W, MOUTH_X, MOUTH_Y, SIT_H, SIT_W, TAIL_DX, WALK_H, WALK_W } from './collie';
 
 export type Pose = 'sit' | 'ball' | 'walk' | 'sleep';
 type Point = [number, number];
@@ -137,7 +137,7 @@ export class Dog {
   /** 走到網球旁邊，讓嘴巴剛好碰到球 */
   ballTarget(): Point {
     const b = this.world.ball;
-    const fromLeft = (right: boolean): Point => [right ? b.x - 8 : b.x + 12, b.y + 13];
+    const fromLeft = (right: boolean): Point => [right ? b.x - MOUTH_X + WALK_W / 2 : b.x + MOUTH_X + 4 - WALK_W / 2, b.y + WALK_H - MOUTH_Y];
     let right = this.fx < b.x;
     let p = fromLeft(right);
     if (p[0] > 104 || p[0] < 16) {
@@ -191,6 +191,7 @@ export class Dog {
   box() {
     if (this.pose === 'walk') return { x: this.fx - WALK_W / 2, y: this.fy - WALK_H, w: WALK_W, h: WALK_H };
     if (this.pose === 'sleep') return { x: this.fx - LIE_W / 2, y: this.fy - LIE_H, w: LIE_W, h: LIE_H };
-    return { x: this.fx - SIT_W / 2, y: this.fy - SIT_H, w: SIT_W + 2, h: SIT_H };
+    // 尾巴拖在身後，朝右時在左邊
+    return { x: this.fx - SIT_W / 2 + (this.dir < 0 ? 0 : TAIL_DX), y: this.fy - SIT_H, w: SIT_W - TAIL_DX, h: SIT_H };
   }
 }

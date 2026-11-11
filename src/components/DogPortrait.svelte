@@ -8,8 +8,8 @@
     const c = canvas.getContext('2d')!;
     c.imageSmoothingEnabled = false;
     c.clearRect(0, 0, canvas.width, canvas.height);
-    P.blit(c, P.cached('tailA', C.TAIL_A, C.DOG_PAL, C.DOG_OUTLINE), 23, 19);
-    P.blit(c, P.cached('sit', C.SIT, C.DOG_PAL, C.DOG_OUTLINE), 1, 1);
+    P.blit(c, P.cached('tailA', C.TAIL_A, C.DOG_PAL, C.DOG_OUTLINE), 1, 1 + C.TAIL_DY);
+    P.blit(c, P.cached('sit', C.SIT, C.DOG_PAL, C.DOG_OUTLINE), 1 - C.TAIL_DX, 1);
   });
 </script>
 
