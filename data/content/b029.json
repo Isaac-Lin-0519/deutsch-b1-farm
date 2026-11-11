@@ -1,0 +1,902 @@
+{
+  "kaese": {
+    "senses": [
+      {
+        "zh": "起司",
+        "en": "cheese",
+        "ex": {
+          "de": "Auf der Pizza ist heute viel {Käse}.",
+          "zh": "今天披薩上有很多起司。",
+          "en": "There is a lot of cheese on the pizza today.",
+          "distractors": [
+            "Hammer",
+            "Stuhl",
+            "Mantel"
+          ]
+        }
+      }
+    ]
+  },
+  "kasse": {
+    "senses": [
+      {
+        "zh": "收銀台；櫃檯",
+        "en": "cash register, checkout",
+        "ex": {
+          "de": "An der {Kasse} wartet eine lange Schlange von Kunden.",
+          "zh": "收銀台前排了一長串顧客。",
+          "en": "A long line of customers is waiting at the checkout.",
+          "distractors": [
+            "Lampe",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "kassette": {
+    "senses": [
+      {
+        "zh": "卡式錄音帶",
+        "en": "cassette",
+        "ex": {
+          "de": "Opa hört gern alte Lieder auf einer {Kassette}.",
+          "zh": "爺爺喜歡用卡帶聽老歌。",
+          "en": "Grandpa likes listening to old songs on a cassette.",
+          "distractors": [
+            "Pfanne",
+            "Tomate",
+            "Birne"
+          ]
+        }
+      }
+    ]
+  },
+  "kasten": {
+    "senses": [
+      {
+        "zh": "（一）箱",
+        "en": "crate, case",
+        "ex": {
+          "de": "Wir tragen einen schweren {Kasten} Bier in den Keller.",
+          "zh": "我們把一箱很重的啤酒搬進地下室。",
+          "en": "We carry a heavy crate of beer into the cellar.",
+          "distractors": [
+            "Mond",
+            "Hut",
+            "Zahn"
+          ]
+        }
+      }
+    ]
+  },
+  "kasten-2": {
+    "senses": [
+      {
+        "zh": "櫃子；衣櫃",
+        "en": "cupboard, wardrobe",
+        "ex": {
+          "de": "Meine Jacke hängt im {Kasten} im Flur.",
+          "zh": "我的外套掛在走廊的櫃子裡。",
+          "en": "My jacket hangs in the cupboard in the hallway.",
+          "distractors": [
+            "Bauch",
+            "Salat",
+            "Fluss"
+          ]
+        }
+      }
+    ]
+  },
+  "katalog": {
+    "senses": [
+      {
+        "zh": "目錄；型錄",
+        "en": "catalogue",
+        "ex": {
+          "de": "Im {Katalog} habe ich ein schönes Sofa gefunden.",
+          "zh": "我在型錄裡找到一張漂亮的沙發。",
+          "en": "I found a nice sofa in the catalogue.",
+          "distractors": [
+            "Mund",
+            "Bauch",
+            "Schuh"
+          ]
+        }
+      }
+    ]
+  },
+  "katastrophe": {
+    "senses": [
+      {
+        "zh": "災難；慘事",
+        "en": "disaster, catastrophe",
+        "ex": {
+          "de": "Das Erdbeben war eine große {Katastrophe} für die Stadt.",
+          "zh": "這場地震對城市來說是一場大災難。",
+          "en": "The earthquake was a huge disaster for the city.",
+          "distractors": [
+            "Tasse",
+            "Hose",
+            "Blume"
+          ]
+        }
+      }
+    ]
+  },
+  "kaufen": {
+    "senses": [
+      {
+        "zh": "買",
+        "en": "to buy",
+        "ex": {
+          "de": "Ich möchte mir ein neues Fahrrad {kaufen}.",
+          "zh": "我想幫自己買一輛新的腳踏車。",
+          "en": "I would like to buy myself a new bike.",
+          "distractors": [
+            "schlafen",
+            "singen",
+            "warten"
+          ]
+        }
+      }
+    ]
+  },
+  "kaeufer": {
+    "senses": [
+      {
+        "zh": "買家；買方",
+        "en": "buyer",
+        "ex": {
+          "de": "Der {Käufer} hat das Auto sofort bezahlt.",
+          "zh": "買家立刻付清了車款。",
+          "en": "The buyer paid for the car right away.",
+          "distractors": [
+            "Regen",
+            "Hunger",
+            "Schnee"
+          ]
+        }
+      }
+    ]
+  },
+  "kaeuferin": {
+    "senses": [
+      {
+        "zh": "女買家",
+        "en": "buyer (female)",
+        "ex": {
+          "de": "Die {Käuferin} prüft die Tasche genau, bevor sie zahlt.",
+          "zh": "女買家在付錢前仔細檢查那個包包。",
+          "en": "The buyer checks the bag carefully before she pays.",
+          "distractors": [
+            "Wiese",
+            "Birne",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "kaum": {
+    "senses": [
+      {
+        "zh": "幾乎不；勉強",
+        "en": "hardly, barely",
+        "ex": {
+          "de": "Es ist so laut, dass ich {kaum} etwas verstehe.",
+          "zh": "太吵了，我幾乎聽不懂什麼。",
+          "en": "It is so loud that I can hardly understand anything.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "links"
+          ]
+        }
+      }
+    ]
+  },
+  "kein": {
+    "senses": [
+      {
+        "zh": "沒有；不是（否定冠詞）",
+        "en": "no, not any",
+        "ex": {
+          "de": "Im Kühlschrank ist {kein} Saft mehr.",
+          "zh": "冰箱裡已經沒有果汁了。",
+          "en": "There is no more juice in the fridge.",
+          "distractors": [
+            "nicht",
+            "ohne",
+            "nie"
+          ]
+        }
+      }
+    ]
+  },
+  "keller": {
+    "senses": [
+      {
+        "zh": "地下室",
+        "en": "cellar, basement",
+        "ex": {
+          "de": "Die alten Fahrräder stehen unten im {Keller}.",
+          "zh": "舊腳踏車放在樓下的地下室。",
+          "en": "The old bikes are down in the cellar.",
+          "distractors": [
+            "Mond",
+            "Magen",
+            "Spiegel"
+          ]
+        }
+      }
+    ]
+  },
+  "kellner": {
+    "senses": [
+      {
+        "zh": "男服務生",
+        "en": "waiter",
+        "ex": {
+          "de": "Der {Kellner} bringt uns die Suppe und das Brot.",
+          "zh": "服務生幫我們送來湯和麵包。",
+          "en": "The waiter brings us the soup and the bread.",
+          "distractors": [
+            "Zahnarzt",
+            "Pilot",
+            "Busfahrer"
+          ]
+        }
+      }
+    ]
+  },
+  "kellnerin": {
+    "senses": [
+      {
+        "zh": "女服務生",
+        "en": "waitress",
+        "ex": {
+          "de": "Die {Kellnerin} fragt, ob wir noch etwas trinken möchten.",
+          "zh": "女服務生問我們還想不想再喝點什麼。",
+          "en": "The waitress asks whether we would like another drink.",
+          "distractors": [
+            "Sonne",
+            "Treppe",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "kennen": {
+    "senses": [
+      {
+        "zh": "認識；熟悉",
+        "en": "to know (a person or place)",
+        "ex": {
+          "de": "Woher {kennen} Sie meinen Bruder?",
+          "zh": "您是從哪裡認識我哥哥的？",
+          "en": "How do you know my brother?",
+          "distractors": [
+            "tragen",
+            "kochen",
+            "öffnen"
+          ]
+        }
+      }
+    ]
+  },
+  "kennenlernen": {
+    "senses": [
+      {
+        "zh": "認識（新朋友）",
+        "en": "to get to know, meet",
+        "ex": {
+          "de": "Ich würde gern deine Eltern {kennenlernen}.",
+          "zh": "我很想認識你的父母。",
+          "en": "I would like to meet your parents.",
+          "distractors": [
+            "reparieren",
+            "bezahlen",
+            "putzen"
+          ]
+        }
+      }
+    ]
+  },
+  "kenntnisse": {
+    "senses": [
+      {
+        "zh": "知識；技能",
+        "en": "knowledge, skills",
+        "ex": {
+          "de": "Für diese Stelle braucht man gute {Kenntnisse} in Englisch.",
+          "zh": "這個職位需要良好的英語能力。",
+          "en": "For this job you need good knowledge of English.",
+          "distractors": [
+            "Birnen",
+            "Jacken",
+            "Tassen"
+          ]
+        }
+      }
+    ]
+  },
+  "kennzeichen": {
+    "senses": [
+      {
+        "zh": "車牌；特徵",
+        "en": "license plate, mark",
+        "ex": {
+          "de": "Das {Kennzeichen} an dem Auto beginnt mit M.",
+          "zh": "那輛車的車牌以 M 開頭。",
+          "en": "The license plate on that car starts with M.",
+          "distractors": [
+            "Wetter",
+            "Gemüse",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "kerze": {
+    "senses": [
+      {
+        "zh": "蠟燭",
+        "en": "candle",
+        "ex": {
+          "de": "Zum Geburtstag stecken wir eine {Kerze} auf den Kuchen.",
+          "zh": "生日時我們在蛋糕上插一根蠟燭。",
+          "en": "For the birthday we put a candle on the cake.",
+          "distractors": [
+            "Tür",
+            "Zeitung",
+            "Uhr"
+          ]
+        }
+      }
+    ]
+  },
+  "kette": {
+    "senses": [
+      {
+        "zh": "項鍊；鏈子",
+        "en": "necklace, chain",
+        "ex": {
+          "de": "Sie trägt eine goldene {Kette} um den Hals.",
+          "zh": "她脖子上戴著一條金項鍊。",
+          "en": "She wears a golden necklace around her neck.",
+          "distractors": [
+            "Hose",
+            "Tasse",
+            "Zeitung"
+          ]
+        }
+      }
+    ]
+  },
+  "kind": {
+    "senses": [
+      {
+        "zh": "小孩；孩子",
+        "en": "child",
+        "ex": {
+          "de": "Das {Kind} spielt im Garten mit dem Ball.",
+          "zh": "小孩在花園裡玩球。",
+          "en": "The child is playing with the ball in the garden.",
+          "distractors": [
+            "Handy",
+            "Brot",
+            "Radio"
+          ]
+        }
+      }
+    ]
+  },
+  "kindergarten": {
+    "senses": [
+      {
+        "zh": "幼兒園",
+        "en": "kindergarten",
+        "ex": {
+          "de": "Im {Kindergarten} basteln die Kinder heute bunte Sterne.",
+          "zh": "孩子們今天在幼兒園做彩色星星。",
+          "en": "The children are making colourful stars at kindergarten today.",
+          "distractors": [
+            "Spiegel",
+            "Mond",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "kindheit": {
+    "senses": [
+      {
+        "zh": "童年",
+        "en": "childhood",
+        "ex": {
+          "de": "In meiner {Kindheit} haben wir auf dem Land gewohnt.",
+          "zh": "我小時候我們住在鄉下。",
+          "en": "In my childhood we lived in the countryside.",
+          "distractors": [
+            "Tasche",
+            "Dusche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "kino": {
+    "senses": [
+      {
+        "zh": "電影院",
+        "en": "cinema",
+        "ex": {
+          "de": "Am Samstag sehen wir einen neuen Film im {Kino}.",
+          "zh": "星期六我們要去電影院看一部新電影。",
+          "en": "On Saturday we are watching a new film at the cinema.",
+          "distractors": [
+            "Handy",
+            "Glas",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "kiosk": {
+    "senses": [
+      {
+        "zh": "小售亭；報攤",
+        "en": "kiosk",
+        "ex": {
+          "de": "Am {Kiosk} an der Ecke kaufe ich eine Zeitung.",
+          "zh": "我在轉角的小攤買一份報紙。",
+          "en": "I buy a newspaper at the kiosk on the corner.",
+          "distractors": [
+            "Zahn",
+            "Kopf",
+            "Mond"
+          ]
+        }
+      }
+    ]
+  },
+  "kirche": {
+    "senses": [
+      {
+        "zh": "教堂",
+        "en": "church",
+        "ex": {
+          "de": "Am Sonntag läuten die Glocken der {Kirche} um zehn.",
+          "zh": "星期天十點教堂的鐘聲響起。",
+          "en": "On Sunday the church bells ring at ten.",
+          "distractors": [
+            "Zahnbürste",
+            "Banane",
+            "Hose"
+          ]
+        }
+      }
+    ]
+  },
+  "kiste": {
+    "senses": [
+      {
+        "zh": "箱子；木箱",
+        "en": "box, crate",
+        "ex": {
+          "de": "Die Spielsachen liegen in einer {Kiste} unter dem Bett.",
+          "zh": "玩具放在床底下的一個箱子裡。",
+          "en": "The toys are in a box under the bed.",
+          "distractors": [
+            "Suppe",
+            "Uhr",
+            "Sonne"
+          ]
+        }
+      }
+    ]
+  },
+  "klagen": {
+    "senses": [
+      {
+        "zh": "抱怨；訴苦",
+        "en": "to complain",
+        "ex": {
+          "de": "Die Nachbarn {klagen} oft über den Lärm im Haus.",
+          "zh": "鄰居常常抱怨大樓裡的噪音。",
+          "en": "The neighbours often complain about the noise in the building.",
+          "distractors": [
+            "schlafen",
+            "kochen",
+            "wohnen"
+          ]
+        }
+      }
+    ]
+  },
+  "klappen": {
+    "senses": [
+      {
+        "zh": "順利；行得通",
+        "en": "to work out",
+        "ex": {
+          "de": "Hoffentlich {klappt} es mit dem neuen Job.",
+          "zh": "希望新工作能順利。",
+          "en": "Hopefully things work out with the new job.",
+          "distractors": [
+            "schmeckt",
+            "regnet",
+            "blüht"
+          ]
+        }
+      }
+    ]
+  },
+  "klar": {
+    "senses": [
+      {
+        "zh": "清楚的；明白的",
+        "en": "clear",
+        "ex": {
+          "de": "Ist dir die Aufgabe {klar}?",
+          "zh": "這個作業你清楚了嗎？",
+          "en": "Is the task clear to you?",
+          "distractors": [
+            "dick",
+            "nass",
+            "blond"
+          ]
+        }
+      }
+    ]
+  },
+  "klaeren": {
+    "senses": [
+      {
+        "zh": "釐清；解決",
+        "en": "to clear up, settle",
+        "ex": {
+          "de": "Wir müssen zuerst die Kosten {klären}.",
+          "zh": "我們必須先把費用釐清。",
+          "en": "We first have to settle the costs.",
+          "distractors": [
+            "tanzen",
+            "wandern",
+            "schlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "klasse": {
+    "senses": [
+      {
+        "zh": "很棒的；超讚的",
+        "en": "great, super",
+        "ex": {
+          "de": "Das Konzert gestern war wirklich {klasse}.",
+          "zh": "昨天的演唱會真的很棒。",
+          "en": "The concert yesterday was really great.",
+          "distractors": [
+            "nass",
+            "krank",
+            "blond"
+          ]
+        }
+      }
+    ]
+  },
+  "klasse-2": {
+    "senses": [
+      {
+        "zh": "班級；年級",
+        "en": "class",
+        "ex": {
+          "de": "Unsere {Klasse} macht im Mai einen Ausflug.",
+          "zh": "我們班五月要去郊遊。",
+          "en": "Our class is going on a trip in May.",
+          "distractors": [
+            "Insel",
+            "Hose",
+            "Heizung"
+          ]
+        }
+      }
+    ]
+  },
+  "klassenarbeit": {
+    "senses": [
+      {
+        "zh": "班級考試；小考",
+        "en": "class test",
+        "ex": {
+          "de": "Morgen schreiben wir eine {Klassenarbeit} in Mathe.",
+          "zh": "明天我們要考一場數學小考。",
+          "en": "Tomorrow we are writing a class test in maths.",
+          "distractors": [
+            "Tomate",
+            "Kreuzung",
+            "Lampe"
+          ]
+        }
+      }
+    ]
+  },
+  "klavier": {
+    "senses": [
+      {
+        "zh": "鋼琴",
+        "en": "piano",
+        "ex": {
+          "de": "Meine Tochter übt jeden Tag auf dem {Klavier}.",
+          "zh": "我女兒每天練習鋼琴。",
+          "en": "My daughter practises the piano every day.",
+          "distractors": [
+            "Fenster",
+            "Wasser",
+            "Messer"
+          ]
+        }
+      }
+    ]
+  },
+  "kleben": {
+    "senses": [
+      {
+        "zh": "黏；貼",
+        "en": "to stick, glue",
+        "ex": {
+          "de": "Kannst du das Foto in das Heft {kleben}?",
+          "zh": "你可以把照片貼到本子裡嗎？",
+          "en": "Can you stick the photo into the notebook?",
+          "distractors": [
+            "trinken",
+            "essen",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "kleid": {
+    "senses": [
+      {
+        "zh": "洋裝；連身裙",
+        "en": "dress",
+        "ex": {
+          "de": "Sie trägt auf der Hochzeit ein rotes {Kleid}.",
+          "zh": "她在婚禮上穿了一件紅色洋裝。",
+          "en": "She wears a red dress at the wedding.",
+          "distractors": [
+            "Messer",
+            "Fieber",
+            "Wetter"
+          ]
+        }
+      }
+    ]
+  },
+  "kleidung": {
+    "senses": [
+      {
+        "zh": "衣服；服裝",
+        "en": "clothing",
+        "ex": {
+          "de": "Im Winter braucht man warme {Kleidung}.",
+          "zh": "冬天需要穿保暖的衣服。",
+          "en": "In winter you need warm clothing.",
+          "distractors": [
+            "Straße",
+            "Brücke",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "klein": {
+    "senses": [
+      {
+        "zh": "小的；矮的",
+        "en": "small, little",
+        "ex": {
+          "de": "Die Wohnung ist leider zu {klein} für fünf Personen.",
+          "zh": "這間公寓對五個人來說太小了。",
+          "en": "The flat is unfortunately too small for five people.",
+          "distractors": [
+            "dreieckig",
+            "nass",
+            "freundlich"
+          ]
+        }
+      }
+    ]
+  },
+  "klettern": {
+    "senses": [
+      {
+        "zh": "攀爬",
+        "en": "to climb",
+        "ex": {
+          "de": "Mein Hund kann leider nicht auf die Mauer {klettern}.",
+          "zh": "我的狗可惜爬不上那道牆。",
+          "en": "Unfortunately my dog cannot climb onto the wall.",
+          "distractors": [
+            "fahren",
+            "bleiben",
+            "bellen"
+          ]
+        }
+      }
+    ]
+  },
+  "klick": {
+    "senses": [
+      {
+        "zh": "（滑鼠）點擊",
+        "en": "click",
+        "ex": {
+          "de": "Mit einem {Klick} kannst du die Datei öffnen.",
+          "zh": "只要點一下，你就能打開檔案。",
+          "en": "With one click you can open the file.",
+          "distractors": [
+            "Löffel",
+            "Schal",
+            "Fisch"
+          ]
+        }
+      }
+    ]
+  },
+  "klima": {
+    "senses": [
+      {
+        "zh": "氣候",
+        "en": "climate",
+        "ex": {
+          "de": "Das {Klima} in Südeuropa ist im Sommer sehr heiß.",
+          "zh": "南歐的夏季氣候非常炎熱。",
+          "en": "The climate in southern Europe is very hot in summer.",
+          "distractors": [
+            "Radio",
+            "Papier",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "klimaanlage": {
+    "senses": [
+      {
+        "zh": "冷氣；空調",
+        "en": "air conditioning",
+        "ex": {
+          "de": "Im Sommer schalten wir die {Klimaanlage} im Büro ein.",
+          "zh": "夏天我們會把辦公室的冷氣打開。",
+          "en": "In summer we switch on the air conditioning in the office.",
+          "distractors": [
+            "Zeitung",
+            "Tür",
+            "Butter"
+          ]
+        }
+      }
+    ]
+  },
+  "klingeln": {
+    "senses": [
+      {
+        "zh": "按鈴；響鈴",
+        "en": "to ring (a bell)",
+        "ex": {
+          "de": "Wer {klingelt} denn so früh an der Tür?",
+          "zh": "是誰這麼早來按門鈴？",
+          "en": "Who is ringing the doorbell so early?",
+          "distractors": [
+            "schwimmt",
+            "blüht",
+            "bezahlt"
+          ]
+        }
+      }
+    ]
+  },
+  "klingel": {
+    "senses": [
+      {
+        "zh": "門鈴；電鈴",
+        "en": "bell, doorbell",
+        "ex": {
+          "de": "Ich habe die {Klingel} an Ihrer Tür nicht gefunden.",
+          "zh": "我沒有找到您家門上的門鈴。",
+          "en": "I could not find the doorbell at your door.",
+          "distractors": [
+            "Bluse",
+            "Zwiebel",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "klingen": {
+    "senses": [
+      {
+        "zh": "聽起來；發出聲響",
+        "en": "to sound",
+        "ex": {
+          "de": "Das neue Lied {klingt} richtig gut.",
+          "zh": "這首新歌聽起來真的很好聽。",
+          "en": "The new song sounds really good.",
+          "distractors": [
+            "wohnt",
+            "kocht",
+            "wartet"
+          ]
+        }
+      }
+    ]
+  },
+  "klinik": {
+    "senses": [
+      {
+        "zh": "診所；醫院",
+        "en": "clinic",
+        "ex": {
+          "de": "Nach dem Unfall brachten sie ihn in die {Klinik}.",
+          "zh": "意外之後他們把他送到醫院。",
+          "en": "After the accident they took him to the clinic.",
+          "distractors": [
+            "Wiese",
+            "Blume",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "klopfen": {
+    "senses": [
+      {
+        "zh": "敲；敲門",
+        "en": "to knock",
+        "ex": {
+          "de": "Jemand {klopft} laut an die Tür.",
+          "zh": "有人大聲敲門。",
+          "en": "Someone is knocking loudly on the door.",
+          "distractors": [
+            "schläft",
+            "wächst",
+            "schmeckt"
+          ]
+        }
+      }
+    ]
+  },
+  "kloss": {
+    "senses": [
+      {
+        "zh": "丸子；（馬鈴薯）團子",
+        "en": "dumpling",
+        "ex": {
+          "de": "Zum Braten gibt es heute einen großen {Kloß}.",
+          "zh": "今天烤肉配一顆大糰子。",
+          "en": "With the roast there is a big dumpling today.",
+          "distractors": [
+            "Schlüssel",
+            "Gürtel",
+            "Hut"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,902 @@
+{
+  "inzwischen": {
+    "senses": [
+      {
+        "zh": "目前；這段時間以來",
+        "en": "by now, in the meantime",
+        "ex": {
+          "de": "Als Kind war ich schüchtern, {inzwischen} rede ich gern vor Leuten.",
+          "zh": "我小時候很害羞，現在我已經很愛在人前說話了。",
+          "en": "As a child I was shy, but by now I enjoy speaking in front of people.",
+          "distractors": [
+            "damals",
+            "vorher",
+            "früher"
+          ]
+        }
+      }
+    ]
+  },
+  "irgendirgendein": {
+    "senses": [
+      {
+        "zh": "任何一個",
+        "en": "any, some (or other)",
+        "ex": {
+          "de": "Hast du {irgendein} Buch, das ich lesen kann?",
+          "zh": "你有什麼書可以讓我看嗎？",
+          "en": "Do you have any book I could read?",
+          "distractors": [
+            "flüssiges",
+            "gasförmiges",
+            "trinkbares"
+          ]
+        }
+      }
+    ]
+  },
+  "irgendwann": {
+    "senses": [
+      {
+        "zh": "總有一天；某個時候",
+        "en": "sometime, some day",
+        "ex": {
+          "de": "Ich möchte {irgendwann} einmal nach Japan reisen.",
+          "zh": "我想在某個時候去一趟日本旅行。",
+          "en": "I would like to travel to Japan some day.",
+          "distractors": [
+            "irgendwo",
+            "irgendwer",
+            "irgendwas"
+          ]
+        }
+      }
+    ]
+  },
+  "irren": {
+    "senses": [
+      {
+        "zh": "搞錯；弄錯",
+        "en": "to be mistaken",
+        "ex": {
+          "de": "Wir haben uns beim Datum der Feier {geirrt}.",
+          "zh": "我們把慶祝活動的日期弄錯了。",
+          "en": "We got the date of the celebration wrong.",
+          "distractors": [
+            "gefreut",
+            "gewaschen",
+            "angezogen"
+          ]
+        }
+      }
+    ]
+  },
+  "ja": {
+    "senses": [
+      {
+        "zh": "是的；好",
+        "en": "yes",
+        "ex": {
+          "de": "{Ja}, ich komme gern zu deiner Party.",
+          "zh": "好啊，我很樂意來參加你的派對。",
+          "en": "Yes, I'd love to come to your party.",
+          "distractors": [
+            "Nein",
+            "Gestern",
+            "Dort"
+          ]
+        }
+      }
+    ]
+  },
+  "jacke": {
+    "senses": [
+      {
+        "zh": "外套；夾克",
+        "en": "jacket",
+        "ex": {
+          "de": "Es ist kalt, nimm bitte deine {Jacke} mit.",
+          "zh": "天氣很冷，請把你的外套帶著。",
+          "en": "It is cold, please take your jacket with you.",
+          "distractors": [
+            "Wiese",
+            "Mauer",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "jause": {
+    "senses": [
+      {
+        "zh": "（奧地利）點心；下午茶",
+        "en": "snack, light meal (Austrian)",
+        "ex": {
+          "de": "Zur {Jause} gibt es Brot mit Käse und Tee.",
+          "zh": "點心時間有麵包夾起司和茶。",
+          "en": "For the snack there is bread with cheese and tea.",
+          "distractors": [
+            "Straße",
+            "Brücke",
+            "Haltestelle"
+          ]
+        }
+      }
+    ]
+  },
+  "je": {
+    "senses": [
+      {
+        "zh": "曾經；從來",
+        "en": "ever",
+        "ex": {
+          "de": "Hast du {je} Heimweh gehabt?",
+          "zh": "你曾經想家過嗎？",
+          "en": "Have you ever been homesick?",
+          "distractors": [
+            "wohin",
+            "weil",
+            "deshalb"
+          ]
+        }
+      }
+    ]
+  },
+  "je-desto": {
+    "senses": [
+      {
+        "zh": "越…就越…",
+        "en": "the more … the more …",
+        "ex": {
+          "de": "{Je} länger ich warte, desto müder werde ich.",
+          "zh": "我等得越久就越累。",
+          "en": "The longer I wait, the more tired I get.",
+          "distractors": [
+            "Weil",
+            "Obwohl",
+            "Damit"
+          ]
+        }
+      }
+    ]
+  },
+  "jeans": {
+    "senses": [
+      {
+        "zh": "牛仔褲",
+        "en": "jeans",
+        "ex": {
+          "de": "Die {Jeans} sind mir nach dem Waschen zu eng geworden.",
+          "zh": "這條牛仔褲洗過之後變得太緊了。",
+          "en": "The jeans have become too tight for me after washing.",
+          "distractors": [
+            "Bücher",
+            "Blumen",
+            "Kekse"
+          ]
+        }
+      }
+    ]
+  },
+  "jeder": {
+    "senses": [
+      {
+        "zh": "每一個",
+        "en": "every, each",
+        "ex": {
+          "de": "{Jeder} Schüler bekommt am Montag ein neues Heft.",
+          "zh": "每個學生星期一都會拿到一本新的作業本。",
+          "en": "Every student gets a new notebook on Monday.",
+          "distractors": [
+            "Beide",
+            "Viele",
+            "Alle"
+          ]
+        }
+      }
+    ]
+  },
+  "jedes-mal": {
+    "senses": [
+      {
+        "zh": "每次",
+        "en": "every time",
+        "ex": {
+          "de": "Ich ärgere mich {jedes Mal}, wenn der Zug Verspätung hat.",
+          "zh": "每次火車誤點我都很生氣。",
+          "en": "I get annoyed every time the train is late.",
+          "distractors": [
+            "im Zug",
+            "mit Brot",
+            "am Tisch"
+          ]
+        }
+      }
+    ]
+  },
+  "jedoch": {
+    "senses": [
+      {
+        "zh": "然而；不過",
+        "en": "however",
+        "ex": {
+          "de": "Das Hotel ist schön, das Frühstück war {jedoch} schlecht.",
+          "zh": "這間旅館很漂亮，不過早餐很糟。",
+          "en": "The hotel is nice, but the breakfast was bad.",
+          "distractors": [
+            "weil",
+            "dass",
+            "ob"
+          ]
+        }
+      }
+    ]
+  },
+  "jemand": {
+    "senses": [
+      {
+        "zh": "某人；有人",
+        "en": "someone, anybody",
+        "ex": {
+          "de": "Hat {jemand} meinen Regenschirm im Flur gesehen?",
+          "zh": "有人看到我放在走廊的雨傘嗎？",
+          "en": "Has anybody seen my umbrella in the hallway?",
+          "distractors": [
+            "etwas",
+            "viel",
+            "dort"
+          ]
+        }
+      }
+    ]
+  },
+  "jetzt": {
+    "senses": [
+      {
+        "zh": "現在",
+        "en": "now",
+        "ex": {
+          "de": "Vorhin war der Laden noch offen, aber {jetzt} ist er geschlossen.",
+          "zh": "剛才商店還開著，但現在關門了。",
+          "en": "The shop was open earlier, but it is closed now.",
+          "distractors": [
+            "gestern",
+            "damals",
+            "vorhin"
+          ]
+        }
+      }
+    ]
+  },
+  "jeweils": {
+    "senses": [
+      {
+        "zh": "各自；每次",
+        "en": "each, respectively",
+        "ex": {
+          "de": "Die Kinder bekommen {jeweils} zwei Äpfel vom Lehrer.",
+          "zh": "老師給每個孩子各兩顆蘋果。",
+          "en": "The teacher gives each of the children two apples.",
+          "distractors": [
+            "sehr",
+            "viel",
+            "wenig"
+          ]
+        }
+      }
+    ]
+  },
+  "journalist": {
+    "senses": [
+      {
+        "zh": "記者（男）",
+        "en": "journalist",
+        "ex": {
+          "de": "Der {Journalist} hat den Bürgermeister nach dem Plan gefragt.",
+          "zh": "那位記者問了市長關於計畫的事。",
+          "en": "The journalist asked the mayor about the plan.",
+          "distractors": [
+            "Kuchen",
+            "Sessel",
+            "Gürtel"
+          ]
+        }
+      }
+    ]
+  },
+  "journalistin": {
+    "senses": [
+      {
+        "zh": "記者（女）",
+        "en": "journalist (female)",
+        "ex": {
+          "de": "Die {Journalistin} schreibt jeden Tag über das Wetter.",
+          "zh": "這位女記者每天都寫關於天氣的報導。",
+          "en": "The journalist writes about the weather every day.",
+          "distractors": [
+            "Straße",
+            "Lampe",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "jugend": {
+    "senses": [
+      {
+        "zh": "青少年時期；青年",
+        "en": "youth",
+        "ex": {
+          "de": "In meiner {Jugend} habe ich viel Fußball gespielt.",
+          "zh": "我年輕的時候常踢足球。",
+          "en": "In my youth I played a lot of football.",
+          "distractors": [
+            "Zeitung",
+            "Brille",
+            "Tüte"
+          ]
+        }
+      }
+    ]
+  },
+  "jugendliche": {
+    "senses": [
+      {
+        "zh": "青少年（男）",
+        "en": "teenager (male)",
+        "ex": {
+          "de": "Der {Jugendliche} wartet an der Haltestelle auf den Bus.",
+          "zh": "那個少年在公車站等車。",
+          "en": "The teenager is waiting for the bus at the stop.",
+          "distractors": [
+            "Tisch",
+            "Regen",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "jugendliche-2": {
+    "senses": [
+      {
+        "zh": "青少女",
+        "en": "teenager (female)",
+        "ex": {
+          "de": "Die {Jugendliche} spielt jeden Samstag in einem Orchester.",
+          "zh": "那位少女每個星期六都在管弦樂團演奏。",
+          "en": "The teenage girl plays in an orchestra every Saturday.",
+          "distractors": [
+            "Lampe",
+            "Zeitung",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "jugendherberge": {
+    "senses": [
+      {
+        "zh": "青年旅舍",
+        "en": "youth hostel",
+        "ex": {
+          "de": "Wir übernachten auf der Klassenfahrt in der {Jugendherberge}.",
+          "zh": "班級旅行時我們住在青年旅舍。",
+          "en": "On the class trip we stay overnight in the youth hostel.",
+          "distractors": [
+            "Tasse",
+            "Zahnbürste",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "jung": {
+    "senses": [
+      {
+        "zh": "年輕的",
+        "en": "young",
+        "ex": {
+          "de": "Meine Tante ist erst 30 und sieht noch sehr {jung} aus.",
+          "zh": "我阿姨才三十歲，看起來還很年輕。",
+          "en": "My aunt is only 30 and still looks very young.",
+          "distractors": [
+            "pünktlich",
+            "kostenlos",
+            "schriftlich"
+          ]
+        }
+      }
+    ]
+  },
+  "junge": {
+    "senses": [
+      {
+        "zh": "男孩",
+        "en": "boy",
+        "ex": {
+          "de": "Der kleine {Junge} sucht seinen Ball im Park.",
+          "zh": "那個小男孩在公園裡找他的球。",
+          "en": "The little boy is looking for his ball in the park.",
+          "distractors": [
+            "Zug",
+            "Fluss",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "kabel": {
+    "senses": [
+      {
+        "zh": "電線；纜線",
+        "en": "cable",
+        "ex": {
+          "de": "Das {Kabel} vom Ladegerät ist zu kurz für die Steckdose.",
+          "zh": "充電器的線對插座來說太短了。",
+          "en": "The cable of the charger is too short for the socket.",
+          "distractors": [
+            "Fenster",
+            "Messer",
+            "Wetter"
+          ]
+        }
+      }
+    ]
+  },
+  "kabine": {
+    "senses": [
+      {
+        "zh": "更衣間；船艙",
+        "en": "cabin, changing booth",
+        "ex": {
+          "de": "In der {Kabine} kann ich die Hose anprobieren.",
+          "zh": "我可以在更衣間試穿這條褲子。",
+          "en": "I can try on the trousers in the fitting room.",
+          "distractors": [
+            "Tomate",
+            "Gitarre",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "kaffee": {
+    "senses": [
+      {
+        "zh": "咖啡",
+        "en": "coffee",
+        "ex": {
+          "de": "Ich trinke morgens gern einen starken {Kaffee} mit Milch.",
+          "zh": "我早上喜歡喝一杯加牛奶的濃咖啡。",
+          "en": "In the morning I like to drink a strong coffee with milk.",
+          "distractors": [
+            "Hammer",
+            "Zaun",
+            "Stuhl"
+          ]
+        }
+      }
+    ]
+  },
+  "kaffeehaus": {
+    "senses": [
+      {
+        "zh": "咖啡館（奧地利）",
+        "en": "café (Austrian)",
+        "ex": {
+          "de": "Am Sonntag lese ich im {Kaffeehaus} die Zeitung.",
+          "zh": "星期天我會在咖啡館看報紙。",
+          "en": "On Sunday I read the newspaper in the café.",
+          "distractors": [
+            "Wasser",
+            "Fahrrad",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "kakao": {
+    "senses": [
+      {
+        "zh": "可可；熱可可",
+        "en": "cocoa",
+        "ex": {
+          "de": "Die Kinder trinken im Winter heißen {Kakao} mit Sahne.",
+          "zh": "孩子們冬天會喝加鮮奶油的熱可可。",
+          "en": "In winter the children drink hot cocoa with cream.",
+          "distractors": [
+            "Sand",
+            "Beton",
+            "Stein"
+          ]
+        }
+      }
+    ]
+  },
+  "kalender": {
+    "senses": [
+      {
+        "zh": "月曆；行事曆",
+        "en": "calendar",
+        "ex": {
+          "de": "Ich schreibe den Termin gleich in meinen {Kalender}.",
+          "zh": "我馬上把這個約會寫進我的行事曆。",
+          "en": "I'll write the appointment in my calendar right away.",
+          "distractors": [
+            "Ofen",
+            "Zucker",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "kalt": {
+    "senses": [
+      {
+        "zh": "冷的",
+        "en": "cold",
+        "ex": {
+          "de": "Im Januar ist es in Hamburg oft sehr {kalt}.",
+          "zh": "一月的漢堡常常非常冷。",
+          "en": "In January it is often very cold in Hamburg.",
+          "distractors": [
+            "sauer",
+            "leise",
+            "blond"
+          ]
+        }
+      }
+    ]
+  },
+  "kaelte": {
+    "senses": [
+      {
+        "zh": "寒冷；冷空氣",
+        "en": "cold",
+        "ex": {
+          "de": "Vor {Kälte} zittert der Hund und will nach Hause.",
+          "zh": "狗冷得發抖，想要回家。",
+          "en": "The dog shivers with cold and wants to go home.",
+          "distractors": [
+            "Zeitung",
+            "Lampe",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "kamera": {
+    "senses": [
+      {
+        "zh": "相機；攝影機",
+        "en": "camera",
+        "ex": {
+          "de": "Mit der neuen {Kamera} mache ich Fotos vom Urlaub.",
+          "zh": "我用新相機拍度假的照片。",
+          "en": "With the new camera I take photos of the holiday.",
+          "distractors": [
+            "Kerze",
+            "Suppe",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "kaempfen": {
+    "senses": [
+      {
+        "zh": "奮鬥；戰鬥",
+        "en": "to fight, struggle",
+        "ex": {
+          "de": "Die Mannschaft will bis zur letzten Minute um den Sieg {kämpfen}.",
+          "zh": "球隊想一直拚到最後一分鐘爭取勝利。",
+          "en": "The team wants to fight for the victory until the last minute.",
+          "distractors": [
+            "schlafen",
+            "tanzen",
+            "wandern"
+          ]
+        }
+      }
+    ]
+  },
+  "kampf": {
+    "senses": [
+      {
+        "zh": "戰鬥；鬥爭",
+        "en": "fight, struggle",
+        "ex": {
+          "de": "Der {Kampf} gegen die Krankheit dauerte viele Jahre.",
+          "zh": "對抗疾病的奮鬥持續了好多年。",
+          "en": "The fight against the illness lasted many years.",
+          "distractors": [
+            "Apfel",
+            "Hut",
+            "Bus"
+          ]
+        }
+      }
+    ]
+  },
+  "kanal": {
+    "senses": [
+      {
+        "zh": "頻道；運河",
+        "en": "channel; canal",
+        "ex": {
+          "de": "Auf diesem {Kanal} läuft abends immer ein Krimi.",
+          "zh": "這個頻道每天晚上都播一部推理劇。",
+          "en": "On this channel a crime film is always on in the evening.",
+          "distractors": [
+            "Schlüssel",
+            "Löffel",
+            "Mantel"
+          ]
+        }
+      }
+    ]
+  },
+  "kandidat": {
+    "senses": [
+      {
+        "zh": "候選人；應試者",
+        "en": "candidate",
+        "ex": {
+          "de": "Der {Kandidat} hat im Interview ruhig und freundlich geantwortet.",
+          "zh": "那位候選人在訪談中回答得沉穩又親切。",
+          "en": "The candidate answered calmly and in a friendly way in the interview.",
+          "distractors": [
+            "Kuchen",
+            "Sessel",
+            "Gürtel"
+          ]
+        }
+      }
+    ]
+  },
+  "kanne": {
+    "senses": [
+      {
+        "zh": "壺",
+        "en": "pot, jug",
+        "ex": {
+          "de": "Auf dem Tisch steht eine große {Kanne} mit heißem Tee.",
+          "zh": "桌上放著一大壺熱茶。",
+          "en": "On the table there is a big pot of hot tea.",
+          "distractors": [
+            "Brücke",
+            "Gitarre",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "kantine": {
+    "senses": [
+      {
+        "zh": "員工餐廳；學生餐廳",
+        "en": "canteen",
+        "ex": {
+          "de": "Mittags essen wir meistens in der {Kantine} neben dem Büro.",
+          "zh": "中午我們大多在辦公室旁邊的員工餐廳吃飯。",
+          "en": "At noon we mostly eat in the canteen next to the office.",
+          "distractors": [
+            "Dusche",
+            "Zeitung",
+            "Handtasche"
+          ]
+        }
+      }
+    ]
+  },
+  "kapitel": {
+    "senses": [
+      {
+        "zh": "章；章節",
+        "en": "chapter",
+        "ex": {
+          "de": "Das erste {Kapitel} des Buches ist ziemlich langweilig.",
+          "zh": "這本書的第一章相當無聊。",
+          "en": "The first chapter of the book is quite boring.",
+          "distractors": [
+            "Radio",
+            "Zimmer",
+            "Ei"
+          ]
+        }
+      }
+    ]
+  },
+  "kaputt": {
+    "senses": [
+      {
+        "zh": "壞掉的",
+        "en": "broken",
+        "ex": {
+          "de": "Mein Handy ist runtergefallen und jetzt ist das Display {kaputt}.",
+          "zh": "我的手機掉到地上，現在螢幕壞了。",
+          "en": "My phone fell down and now the display is broken.",
+          "distractors": [
+            "freundlich",
+            "vegetarisch",
+            "sonnig"
+          ]
+        }
+      }
+    ]
+  },
+  "kaputtgehen": {
+    "senses": [
+      {
+        "zh": "壞掉",
+        "en": "to break (down)",
+        "ex": {
+          "de": "Die Waschmaschine darf nicht schon wieder {kaputtgehen}.",
+          "zh": "洗衣機可不能又壞掉了。",
+          "en": "The washing machine must not break down again.",
+          "distractors": [
+            "einschlafen",
+            "umziehen",
+            "abfahren"
+          ]
+        }
+      }
+    ]
+  },
+  "kaputtmachen": {
+    "senses": [
+      {
+        "zh": "弄壞",
+        "en": "to break, ruin",
+        "ex": {
+          "de": "Vorsicht, du darfst die Vase nicht {kaputtmachen}!",
+          "zh": "小心，你不可以把花瓶弄壞！",
+          "en": "Careful, you must not break the vase!",
+          "distractors": [
+            "anrufen",
+            "einladen",
+            "ausschlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "karneval": {
+    "senses": [
+      {
+        "zh": "嘉年華（狂歡節）",
+        "en": "carnival",
+        "ex": {
+          "de": "Zum {Karneval} verkleiden sich viele Leute als Clown.",
+          "zh": "狂歡節時很多人會扮成小丑。",
+          "en": "At carnival many people dress up as clowns.",
+          "distractors": [
+            "Kugelschreiber",
+            "Regenschirm",
+            "Briefkasten"
+          ]
+        }
+      }
+    ]
+  },
+  "karotte": {
+    "senses": [
+      {
+        "zh": "紅蘿蔔",
+        "en": "carrot",
+        "ex": {
+          "de": "Zum Abendessen schneide ich eine {Karotte} in kleine Stücke.",
+          "zh": "晚餐時我把一根紅蘿蔔切成小塊。",
+          "en": "For dinner I cut a carrot into small pieces.",
+          "distractors": [
+            "Mütze",
+            "Münze",
+            "Tüte"
+          ]
+        }
+      }
+    ]
+  },
+  "karriere": {
+    "senses": [
+      {
+        "zh": "職業生涯；事業",
+        "en": "career",
+        "ex": {
+          "de": "Sie hat ihre {Karriere} mit einer Ausbildung als Köchin begonnen.",
+          "zh": "她的職業生涯是從廚師學徒開始的。",
+          "en": "She began her career with an apprenticeship as a cook.",
+          "distractors": [
+            "Steckdose",
+            "Wäscheleine",
+            "Lupe"
+          ]
+        }
+      }
+    ]
+  },
+  "karte": {
+    "senses": [
+      {
+        "zh": "卡片；明信片",
+        "en": "card, postcard",
+        "ex": {
+          "de": "Ich schreibe dir eine {Karte} aus dem Urlaub.",
+          "zh": "我會從度假地寫一張明信片給你。",
+          "en": "I'll write you a postcard from my holiday.",
+          "distractors": [
+            "Wiese",
+            "Garage",
+            "Nadel"
+          ]
+        }
+      }
+    ]
+  },
+  "chipkarte": {
+    "senses": [
+      {
+        "zh": "晶片卡",
+        "en": "chip card",
+        "ex": {
+          "de": "Ohne meine {Chipkarte} komme ich nicht ins Bürogebäude.",
+          "zh": "沒有我的晶片卡，我就進不了辦公大樓。",
+          "en": "Without my chip card I can't get into the office building.",
+          "distractors": [
+            "Kreuzung",
+            "Tapete",
+            "Gießkanne"
+          ]
+        }
+      }
+    ]
+  },
+  "fahrkarte-2": {
+    "senses": [
+      {
+        "zh": "車票",
+        "en": "ticket",
+        "ex": {
+          "de": "Die {Fahrkarte} für den Bus kostet im Automaten zwei Euro.",
+          "zh": "公車票在售票機買要兩歐元。",
+          "en": "The bus ticket costs two euros from the machine.",
+          "distractors": [
+            "Ampel",
+            "Kirche",
+            "Zahnpasta"
+          ]
+        }
+      }
+    ]
+  },
+  "kartoffel": {
+    "senses": [
+      {
+        "zh": "馬鈴薯",
+        "en": "potato",
+        "ex": {
+          "de": "Zum Fisch esse ich am liebsten eine gekochte {Kartoffel}.",
+          "zh": "吃魚的時候，我最喜歡配一顆煮熟的馬鈴薯。",
+          "en": "With fish I like to eat a boiled potato best.",
+          "distractors": [
+            "Schaufel",
+            "Kommode",
+            "Lampe"
+          ]
+        }
+      }
+    ]
+  }
+}

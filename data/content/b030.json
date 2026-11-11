@@ -1,0 +1,902 @@
+{
+  "klug": {
+    "senses": [
+      {
+        "zh": "聰明的；明智的",
+        "en": "clever, smart",
+        "ex": {
+          "de": "Meine Schwester ist sehr {klug} und lernt schnell.",
+          "zh": "我妹妹很聰明，學東西很快。",
+          "en": "My sister is very smart and learns quickly.",
+          "distractors": [
+            "blau",
+            "nass",
+            "leer"
+          ]
+        }
+      }
+    ]
+  },
+  "knapp": {
+    "senses": [
+      {
+        "zh": "不足的；緊縮的",
+        "en": "scarce, tight",
+        "ex": {
+          "de": "Das Geld ist {knapp}, deshalb bleiben wir zu Hause.",
+          "zh": "錢不夠用，所以我們待在家裡。",
+          "en": "Money is tight, so we are staying at home.",
+          "distractors": [
+            "freundlich",
+            "müde",
+            "nackt"
+          ]
+        }
+      }
+    ]
+  },
+  "kneipe": {
+    "senses": [
+      {
+        "zh": "小酒館",
+        "en": "pub",
+        "ex": {
+          "de": "Nach dem Kino saßen wir noch lange in der {Kneipe}.",
+          "zh": "看完電影後，我們在小酒館坐了很久。",
+          "en": "After the cinema we sat in the pub for a long time.",
+          "distractors": [
+            "Apotheke",
+            "Bibliothek",
+            "Garage"
+          ]
+        }
+      }
+    ]
+  },
+  "knie": {
+    "senses": [
+      {
+        "zh": "膝蓋",
+        "en": "knee",
+        "ex": {
+          "de": "Beim Fußball habe ich mir das {Knie} verletzt.",
+          "zh": "踢足球時我弄傷了膝蓋。",
+          "en": "I hurt my knee playing football.",
+          "distractors": [
+            "Gemüse",
+            "Wetter",
+            "Obst"
+          ]
+        }
+      }
+    ]
+  },
+  "knochen": {
+    "senses": [
+      {
+        "zh": "骨頭",
+        "en": "bone",
+        "ex": {
+          "de": "Der Arzt sagt, dass der {Knochen} nicht gebrochen ist.",
+          "zh": "醫生說骨頭沒有斷。",
+          "en": "The doctor says the bone is not broken.",
+          "distractors": [
+            "Bahnhof",
+            "Salat",
+            "Mantel"
+          ]
+        }
+      }
+    ]
+  },
+  "knoedel": {
+    "senses": [
+      {
+        "zh": "麵團子；馬鈴薯丸子",
+        "en": "dumpling",
+        "ex": {
+          "de": "Zum Braten gibt es einen großen {Knödel}.",
+          "zh": "烤肉配一顆大丸子。",
+          "en": "With the roast there is a big dumpling.",
+          "distractors": [
+            "Schlüssel",
+            "Spiegel",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "knopf": {
+    "senses": [
+      {
+        "zh": "鈕扣；按鈕",
+        "en": "button",
+        "ex": {
+          "de": "Drück bitte den roten {Knopf}, dann geht die Tür auf.",
+          "zh": "請按紅色按鈕，門就會打開。",
+          "en": "Please press the red button and the door opens.",
+          "distractors": [
+            "Tisch",
+            "Wecker",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "kochen": {
+    "senses": [
+      {
+        "zh": "煮；烹飪",
+        "en": "to cook, boil",
+        "ex": {
+          "de": "Die Nudeln müssen zehn Minuten {kochen}.",
+          "zh": "麵要煮十分鐘。",
+          "en": "The noodles have to boil for ten minutes.",
+          "distractors": [
+            "schlafen",
+            "fliegen",
+            "bellen"
+          ]
+        }
+      }
+    ]
+  },
+  "koch": {
+    "senses": [
+      {
+        "zh": "廚師",
+        "en": "cook, chef",
+        "ex": {
+          "de": "Der {Koch} im Restaurant macht die beste Suppe.",
+          "zh": "餐廳的廚師做的湯最好喝。",
+          "en": "The cook in the restaurant makes the best soup.",
+          "distractors": [
+            "Pilot",
+            "Zahnarzt",
+            "Richter"
+          ]
+        }
+      }
+    ]
+  },
+  "koechin": {
+    "senses": [
+      {
+        "zh": "女廚師",
+        "en": "(female) cook",
+        "ex": {
+          "de": "Die {Köchin} schneidet das Gemüse für den Salat.",
+          "zh": "女廚師正在切做沙拉用的蔬菜。",
+          "en": "The cook is cutting the vegetables for the salad.",
+          "distractors": [
+            "Lampe",
+            "Gitarre",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "koffer": {
+    "senses": [
+      {
+        "zh": "行李箱",
+        "en": "suitcase",
+        "ex": {
+          "de": "Mein {Koffer} ist so schwer, ich brauche Hilfe.",
+          "zh": "我的行李箱好重，我需要幫忙。",
+          "en": "My suitcase is so heavy, I need help.",
+          "distractors": [
+            "Regen",
+            "Durst",
+            "Humor"
+          ]
+        }
+      }
+    ]
+  },
+  "kollege": {
+    "senses": [
+      {
+        "zh": "（男）同事",
+        "en": "colleague",
+        "ex": {
+          "de": "Ein {Kollege} hat mir gestern bei der Arbeit geholfen.",
+          "zh": "昨天有位同事在工作上幫了我。",
+          "en": "A colleague helped me with my work yesterday.",
+          "distractors": [
+            "Tisch",
+            "Zug",
+            "Balkon"
+          ]
+        }
+      }
+    ]
+  },
+  "kollegin": {
+    "senses": [
+      {
+        "zh": "（女）同事",
+        "en": "(female) colleague",
+        "ex": {
+          "de": "Meine {Kollegin} bringt morgen einen Kuchen ins Büro mit.",
+          "zh": "我的女同事明天會帶蛋糕來辦公室。",
+          "en": "My colleague is bringing a cake to the office tomorrow.",
+          "distractors": [
+            "Straße",
+            "Zeitung",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "komisch": {
+    "senses": [
+      {
+        "zh": "奇怪的；好笑的",
+        "en": "strange, funny",
+        "ex": {
+          "de": "Der Käse riecht {komisch}, ich esse ihn nicht.",
+          "zh": "這個起司聞起來怪怪的，我不吃。",
+          "en": "The cheese smells strange, I won't eat it.",
+          "distractors": [
+            "pünktlich",
+            "verheiratet",
+            "technisch"
+          ]
+        }
+      }
+    ]
+  },
+  "kommen": {
+    "senses": [
+      {
+        "zh": "來；到達",
+        "en": "to come",
+        "ex": {
+          "de": "Wann {kommt} der nächste Zug nach Hamburg?",
+          "zh": "下一班往漢堡的火車什麼時候到？",
+          "en": "When does the next train to Hamburg arrive?",
+          "distractors": [
+            "kauft",
+            "schreibt",
+            "schmeckt"
+          ]
+        }
+      }
+    ]
+  },
+  "kommunikation": {
+    "senses": [
+      {
+        "zh": "溝通；通訊",
+        "en": "communication",
+        "ex": {
+          "de": "Gute {Kommunikation} ist in jeder Familie wichtig.",
+          "zh": "良好的溝通在每個家庭都很重要。",
+          "en": "Good communication is important in every family.",
+          "distractors": [
+            "Kreuzung",
+            "Rechnung",
+            "Verspätung"
+          ]
+        }
+      }
+    ]
+  },
+  "kompliziert": {
+    "senses": [
+      {
+        "zh": "複雜的；困難的",
+        "en": "complicated",
+        "ex": {
+          "de": "Die Grammatik ist mir noch zu {kompliziert}.",
+          "zh": "這個文法對我來說還太複雜。",
+          "en": "The grammar is still too complicated for me.",
+          "distractors": [
+            "sonnig",
+            "vegetarisch",
+            "schriftlich"
+          ]
+        }
+      }
+    ]
+  },
+  "kompromiss": {
+    "senses": [
+      {
+        "zh": "妥協；折衷方案",
+        "en": "compromise",
+        "ex": {
+          "de": "Beide Seiten haben einen {Kompromiss} geschlossen.",
+          "zh": "雙方達成了妥協。",
+          "en": "Both sides reached a compromise.",
+          "distractors": [
+            "Geburtstag",
+            "Schnee",
+            "Husten"
+          ]
+        }
+      }
+    ]
+  },
+  "konferenz": {
+    "senses": [
+      {
+        "zh": "會議；研討會",
+        "en": "conference",
+        "ex": {
+          "de": "Die {Konferenz} beginnt um neun Uhr im großen Saal.",
+          "zh": "會議九點在大禮堂開始。",
+          "en": "The conference begins at nine in the big hall.",
+          "distractors": [
+            "Suppe",
+            "Banane",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "konfituere": {
+    "senses": [
+      {
+        "zh": "果醬",
+        "en": "jam",
+        "ex": {
+          "de": "Zum Frühstück esse ich Brot mit {Konfitüre}.",
+          "zh": "早餐我吃抹果醬的麵包。",
+          "en": "For breakfast I eat bread with jam.",
+          "distractors": [
+            "Seife",
+            "Farbe",
+            "Kreide"
+          ]
+        }
+      }
+    ]
+  },
+  "konflikt": {
+    "senses": [
+      {
+        "zh": "衝突；爭執",
+        "en": "conflict",
+        "ex": {
+          "de": "Der {Konflikt} zwischen den Nachbarn dauert schon Jahre.",
+          "zh": "鄰居之間的衝突已經持續好幾年了。",
+          "en": "The conflict between the neighbors has lasted for years.",
+          "distractors": [
+            "Pinsel",
+            "Bahnsteig",
+            "Kühlschrank"
+          ]
+        }
+      }
+    ]
+  },
+  "koenig": {
+    "senses": [
+      {
+        "zh": "國王",
+        "en": "king",
+        "ex": {
+          "de": "Der {König} wohnt in einem großen Schloss.",
+          "zh": "國王住在一座大城堡裡。",
+          "en": "The king lives in a big castle.",
+          "distractors": [
+            "Teller",
+            "Schnee",
+            "Spiegel"
+          ]
+        }
+      }
+    ]
+  },
+  "konkurrenz": {
+    "senses": [
+      {
+        "zh": "競爭；競爭對手",
+        "en": "competition",
+        "ex": {
+          "de": "Die {Konkurrenz} verkauft ihre Handys viel billiger.",
+          "zh": "競爭對手賣的手機便宜多了。",
+          "en": "The competition sells its phones much cheaper.",
+          "distractors": [
+            "Wiese",
+            "Kerze",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "koennen": {
+    "senses": [
+      {
+        "zh": "能；會",
+        "en": "can, to be able to",
+        "ex": {
+          "de": "Ich {kann} leider heute Abend nicht kommen.",
+          "zh": "我今晚很遺憾沒辦法來。",
+          "en": "Unfortunately I can't come tonight.",
+          "distractors": [
+            "bin",
+            "habe",
+            "heiße"
+          ]
+        }
+      }
+    ]
+  },
+  "als-modalverb-2": {
+    "senses": [
+      {
+        "zh": "（情態動詞）可以；能夠",
+        "en": "can (modal verb)",
+        "ex": {
+          "de": "{Kann} ich hier kurz telefonieren?",
+          "zh": "我可以在這裡打一下電話嗎？",
+          "en": "Can I make a quick phone call here?",
+          "distractors": [
+            "Esse",
+            "Schlafe",
+            "Wohne"
+          ]
+        }
+      }
+    ]
+  },
+  "konsulat": {
+    "senses": [
+      {
+        "zh": "領事館",
+        "en": "consulate",
+        "ex": {
+          "de": "Für das Visum muss ich zum {Konsulat} fahren.",
+          "zh": "為了辦簽證，我得去領事館。",
+          "en": "For the visa I have to go to the consulate.",
+          "distractors": [
+            "Gemüse",
+            "Wetter",
+            "Obst"
+          ]
+        }
+      }
+    ]
+  },
+  "konsumieren": {
+    "senses": [
+      {
+        "zh": "消費；消耗",
+        "en": "to consume",
+        "ex": {
+          "de": "Wir wollen weniger Plastik {konsumieren}.",
+          "zh": "我們想少用一點塑膠。",
+          "en": "We want to consume less plastic.",
+          "distractors": [
+            "wandern",
+            "landen",
+            "lächeln"
+          ]
+        }
+      }
+    ]
+  },
+  "konsum": {
+    "senses": [
+      {
+        "zh": "消費；消耗",
+        "en": "consumption",
+        "ex": {
+          "de": "Der {Konsum} von Süßigkeiten ist bei Kindern gestiegen.",
+          "zh": "孩子們的甜食消費量增加了。",
+          "en": "The consumption of sweets has risen among children.",
+          "distractors": [
+            "Regenmantel",
+            "Flügel",
+            "Bahnhof"
+          ]
+        }
+      }
+    ]
+  },
+  "kontakt": {
+    "senses": [
+      {
+        "zh": "聯繫；接觸",
+        "en": "contact",
+        "ex": {
+          "de": "Wir haben keinen {Kontakt} zueinander.",
+          "zh": "我們彼此沒有聯絡。",
+          "en": "We have no contact with each other.",
+          "distractors": [
+            "Bleistift",
+            "Teller",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "konto": {
+    "senses": [
+      {
+        "zh": "帳戶",
+        "en": "account",
+        "ex": {
+          "de": "Ich habe ein {Konto} bei einer kleinen Bank.",
+          "zh": "我在一家小銀行有個帳戶。",
+          "en": "I have an account at a small bank.",
+          "distractors": [
+            "Fahrrad",
+            "Fenster",
+            "Zimmer"
+          ]
+        }
+      }
+    ]
+  },
+  "kontrollieren": {
+    "senses": [
+      {
+        "zh": "檢查；管制",
+        "en": "to check, inspect",
+        "ex": {
+          "de": "Der Beamte will meinen Pass {kontrollieren}.",
+          "zh": "官員要檢查我的護照。",
+          "en": "The officer wants to check my passport.",
+          "distractors": [
+            "füttern",
+            "umarmen",
+            "tanken"
+          ]
+        }
+      }
+    ]
+  },
+  "kontrolle": {
+    "senses": [
+      {
+        "zh": "檢查；管制",
+        "en": "check, control",
+        "ex": {
+          "de": "Am Flughafen gab es eine strenge {Kontrolle}.",
+          "zh": "機場有嚴格的檢查。",
+          "en": "At the airport there was a strict check.",
+          "distractors": [
+            "Geige",
+            "Pfanne",
+            "Hose"
+          ]
+        }
+      }
+    ]
+  },
+  "konzentrieren": {
+    "senses": [
+      {
+        "zh": "集中注意力；專心",
+        "en": "to concentrate",
+        "ex": {
+          "de": "Ich kann mich bei dem Lärm kaum auf die Arbeit {konzentrieren}.",
+          "zh": "吵成這樣，我幾乎沒辦法專心工作。",
+          "en": "With this noise I can hardly concentrate on my work.",
+          "distractors": [
+            "verlaufen",
+            "erkälten",
+            "verabschieden"
+          ]
+        }
+      }
+    ]
+  },
+  "konzert": {
+    "senses": [
+      {
+        "zh": "音樂會；演唱會",
+        "en": "concert",
+        "ex": {
+          "de": "Das {Konzert} dauert zwei Stunden, danach klatschen alle.",
+          "zh": "音樂會持續兩小時，之後大家鼓掌。",
+          "en": "The concert lasts two hours, then everyone applauds.",
+          "distractors": [
+            "Messer",
+            "Heft",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "kopf": {
+    "senses": [
+      {
+        "zh": "頭",
+        "en": "head",
+        "ex": {
+          "de": "Mein {Kopf} tut weh, ich brauche eine Tablette.",
+          "zh": "我頭好痛，我需要吃一顆藥。",
+          "en": "My head hurts, I need a tablet.",
+          "distractors": [
+            "Schirm",
+            "Zaun",
+            "Montag"
+          ]
+        }
+      }
+    ]
+  },
+  "kopieren": {
+    "senses": [
+      {
+        "zh": "影印；複製",
+        "en": "to copy",
+        "ex": {
+          "de": "Kannst du mir bitte diese Seite {kopieren}?",
+          "zh": "你可以幫我影印這一頁嗎？",
+          "en": "Can you please copy this page for me?",
+          "distractors": [
+            "gießen",
+            "heiraten",
+            "tauchen"
+          ]
+        }
+      }
+    ]
+  },
+  "kopie": {
+    "senses": [
+      {
+        "zh": "影本；複製品",
+        "en": "copy",
+        "ex": {
+          "de": "Bitte bringen Sie eine {Kopie} Ihres Passes mit.",
+          "zh": "請帶一份您護照的影本來。",
+          "en": "Please bring a copy of your passport.",
+          "distractors": [
+            "Gurke",
+            "Mütze",
+            "Katze"
+          ]
+        }
+      }
+    ]
+  },
+  "kopierer": {
+    "senses": [
+      {
+        "zh": "影印機",
+        "en": "copier",
+        "ex": {
+          "de": "Wer hat Papier in den {Kopierer} gelegt?",
+          "zh": "誰把紙放進影印機了？",
+          "en": "Who put paper into the copier?",
+          "distractors": [
+            "Rasen",
+            "Zaun",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "koerper": {
+    "senses": [
+      {
+        "zh": "身體",
+        "en": "body",
+        "ex": {
+          "de": "Nach dem Sport tut mein ganzer {Körper} weh.",
+          "zh": "運動後我全身都痛。",
+          "en": "After sports my whole body hurts.",
+          "distractors": [
+            "Wald",
+            "Pilz",
+            "Rucksack"
+          ]
+        }
+      }
+    ]
+  },
+  "koerperlich": {
+    "senses": [
+      {
+        "zh": "身體上的；肉體的",
+        "en": "physical",
+        "ex": {
+          "de": "Die Arbeit auf dem Bau ist {körperlich} sehr anstrengend.",
+          "zh": "在工地工作體力上非常累。",
+          "en": "Working on a building site is physically very tiring.",
+          "distractors": [
+            "grün",
+            "rund",
+            "oben"
+          ]
+        }
+      }
+    ]
+  },
+  "korrekt": {
+    "senses": [
+      {
+        "zh": "正確的；準確的",
+        "en": "correct",
+        "ex": {
+          "de": "Ihre Antwort ist leider nicht ganz {korrekt}.",
+          "zh": "您的答案很遺憾不完全正確。",
+          "en": "Unfortunately your answer is not quite correct.",
+          "distractors": [
+            "hungrig",
+            "blond",
+            "eckig"
+          ]
+        }
+      }
+    ]
+  },
+  "korridor": {
+    "senses": [
+      {
+        "zh": "走廊；玄關",
+        "en": "corridor, hallway",
+        "ex": {
+          "de": "Die Schuhe stehen im {Korridor} neben der Tür.",
+          "zh": "鞋子放在門旁邊的走廊上。",
+          "en": "The shoes are in the hallway next to the door.",
+          "distractors": [
+            "Regen",
+            "Schnee",
+            "Wind"
+          ]
+        }
+      }
+    ]
+  },
+  "korrigieren": {
+    "senses": [
+      {
+        "zh": "批改；更正",
+        "en": "to correct",
+        "ex": {
+          "de": "Die Lehrerin muss noch hundert Tests {korrigieren}.",
+          "zh": "老師還得批改一百份考卷。",
+          "en": "The teacher still has to grade a hundred tests.",
+          "distractors": [
+            "rudern",
+            "niesen",
+            "zelten"
+          ]
+        }
+      }
+    ]
+  },
+  "kosten": {
+    "senses": [
+      {
+        "zh": "價錢為；花費",
+        "en": "to cost",
+        "ex": {
+          "de": "Wie viel {kostet} die Reise nach Rom?",
+          "zh": "去羅馬的旅行要多少錢？",
+          "en": "How much does the trip to Rome cost?",
+          "distractors": [
+            "fehlt",
+            "wartet",
+            "schläft"
+          ]
+        }
+      }
+    ]
+  },
+  "kosten-2": {
+    "senses": [
+      {
+        "zh": "費用；開銷",
+        "en": "costs",
+        "ex": {
+          "de": "Die {Kosten} für die Wohnung sind sehr hoch.",
+          "zh": "這間房子的費用非常高。",
+          "en": "The costs for the apartment are very high.",
+          "distractors": [
+            "Brillen",
+            "Jacken",
+            "Kerzen"
+          ]
+        }
+      }
+    ]
+  },
+  "kostenlos": {
+    "senses": [
+      {
+        "zh": "免費的",
+        "en": "free of charge",
+        "ex": {
+          "de": "Der Eintritt ins Museum ist am Sonntag {kostenlos}.",
+          "zh": "博物館星期日免費入場。",
+          "en": "Admission to the museum is free on Sunday.",
+          "distractors": [
+            "nass",
+            "gelb",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "kosten-3": {
+    "senses": [
+      {
+        "zh": "品嚐；試吃",
+        "en": "to taste, sample",
+        "ex": {
+          "de": "Darf ich den Wein {kosten}?",
+          "zh": "我可以嚐一下這支酒嗎？",
+          "en": "May I taste the wine?",
+          "distractors": [
+            "waschen",
+            "tragen",
+            "parken"
+          ]
+        }
+      }
+    ]
+  },
+  "kostuem": {
+    "senses": [
+      {
+        "zh": "服裝；戲服",
+        "en": "costume",
+        "ex": {
+          "de": "Für die Party brauche ich noch ein {Kostüm}.",
+          "zh": "為了派對我還需要一套戲服。",
+          "en": "For the party I still need a costume.",
+          "distractors": [
+            "Nilpferd",
+            "Gewitter",
+            "Gebirge"
+          ]
+        }
+      }
+    ]
+  },
+  "kraft": {
+    "senses": [
+      {
+        "zh": "力量；體力",
+        "en": "strength, power",
+        "ex": {
+          "de": "Nach der Krankheit habe ich noch keine {Kraft}.",
+          "zh": "生病之後我還沒有力氣。",
+          "en": "After the illness I still have no strength.",
+          "distractors": [
+            "Tasse",
+            "Treppe",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "kraeftig": {
+    "senses": [
+      {
+        "zh": "強壯的；有力的",
+        "en": "strong, powerful",
+        "ex": {
+          "de": "Er hat {kräftige} Arme und trägt alles allein.",
+          "zh": "他的手臂很有力，什麼都自己搬。",
+          "en": "He has strong arms and carries everything alone.",
+          "distractors": [
+            "leere",
+            "durstige",
+            "eckige"
+          ]
+        }
+      }
+    ]
+  }
+}

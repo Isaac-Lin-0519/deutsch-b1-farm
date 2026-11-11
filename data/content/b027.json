@@ -1,0 +1,902 @@
+{
+  "hoeren": {
+    "senses": [
+      {
+        "zh": "聽；聽見",
+        "en": "to hear, listen",
+        "ex": {
+          "de": "Am Abend möchte ich gern ruhige Musik {hören}.",
+          "zh": "晚上我想聽點輕柔的音樂。",
+          "en": "In the evening I'd like to listen to some calm music.",
+          "distractors": [
+            "rasieren",
+            "gießen",
+            "putzen"
+          ]
+        }
+      }
+    ]
+  },
+  "hoerer": {
+    "senses": [
+      {
+        "zh": "聽筒；聽眾",
+        "en": "(phone) receiver; listener",
+        "ex": {
+          "de": "Beim Telefonieren hielt er den {Hörer} ans Ohr.",
+          "zh": "講電話時他把聽筒貼在耳邊。",
+          "en": "While phoning he held the receiver to his ear.",
+          "distractors": [
+            "Löffel",
+            "Schlüssel",
+            "Rucksack"
+          ]
+        }
+      }
+    ]
+  },
+  "zuhoerer": {
+    "senses": [
+      {
+        "zh": "聽眾",
+        "en": "listener",
+        "ex": {
+          "de": "Ein guter {Zuhörer} unterbricht andere nicht.",
+          "zh": "好的聽眾不會打斷別人。",
+          "en": "A good listener doesn't interrupt others.",
+          "distractors": [
+            "Kühlschrank",
+            "Bleistift",
+            "Fußboden"
+          ]
+        }
+      }
+    ]
+  },
+  "hose": {
+    "senses": [
+      {
+        "zh": "褲子",
+        "en": "trousers, pants",
+        "ex": {
+          "de": "Die {Hose} hat zwei große Taschen und einen Gürtel.",
+          "zh": "這條褲子有兩個大口袋和一條皮帶。",
+          "en": "The trousers have two big pockets and a belt.",
+          "distractors": [
+            "Lampe",
+            "Straße",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "hotel": {
+    "senses": [
+      {
+        "zh": "飯店；旅館",
+        "en": "hotel",
+        "ex": {
+          "de": "Im {Hotel} haben wir ein Zimmer mit Meerblick gebucht.",
+          "zh": "我們在飯店訂了一間看得到海的房間。",
+          "en": "At the hotel we booked a room with a sea view.",
+          "distractors": [
+            "Kino",
+            "Stadion",
+            "Büro"
+          ]
+        }
+      }
+    ]
+  },
+  "huebsch": {
+    "senses": [
+      {
+        "zh": "漂亮的；可愛的",
+        "en": "pretty, nice-looking",
+        "ex": {
+          "de": "Sie trägt heute ein sehr {hübsches} Kleid.",
+          "zh": "她今天穿了一件很漂亮的洋裝。",
+          "en": "She is wearing a very pretty dress today.",
+          "distractors": [
+            "salziges",
+            "flüssiges",
+            "giftiges"
+          ]
+        }
+      }
+    ]
+  },
+  "huegel": {
+    "senses": [
+      {
+        "zh": "小山丘",
+        "en": "hill",
+        "ex": {
+          "de": "Auf dem {Hügel} steht eine alte Kirche.",
+          "zh": "山丘上有一座古老的教堂。",
+          "en": "There is an old church on the hill.",
+          "distractors": [
+            "Pilz",
+            "Bleistift",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "hunger": {
+    "senses": [
+      {
+        "zh": "飢餓；餓",
+        "en": "hunger",
+        "ex": {
+          "de": "Nach dem Sport habe ich riesigen {Hunger} auf Nudeln.",
+          "zh": "運動完我超想吃麵。",
+          "en": "After sports I'm really hungry for noodles.",
+          "distractors": [
+            "Bahnhof",
+            "Schreibtisch",
+            "Rucksack"
+          ]
+        }
+      }
+    ]
+  },
+  "hungrig": {
+    "senses": [
+      {
+        "zh": "餓的",
+        "en": "hungry",
+        "ex": {
+          "de": "Die Kinder sind nach der Schule oft sehr {hungrig}.",
+          "zh": "孩子們放學後常常很餓。",
+          "en": "The children are often very hungry after school.",
+          "distractors": [
+            "eckig",
+            "verheiratet",
+            "wöchentlich"
+          ]
+        }
+      }
+    ]
+  },
+  "husten": {
+    "senses": [
+      {
+        "zh": "咳嗽",
+        "en": "to cough",
+        "ex": {
+          "de": "Im Zimmer war so viel Staub, dass wir alle {husten} mussten.",
+          "zh": "房間裡灰塵太多，我們全都得咳嗽。",
+          "en": "There was so much dust in the room that we all had to cough.",
+          "distractors": [
+            "reparieren",
+            "bestellen",
+            "erklären"
+          ]
+        }
+      }
+    ]
+  },
+  "husten-2": {
+    "senses": [
+      {
+        "zh": "咳嗽（名詞）",
+        "en": "cough",
+        "ex": {
+          "de": "Gegen meinen {Husten} nehme ich heißen Tee mit Honig.",
+          "zh": "針對我的咳嗽，我喝加了蜂蜜的熱茶。",
+          "en": "For my cough I drink hot tea with honey.",
+          "distractors": [
+            "Rucksack",
+            "Bahnhof",
+            "Kalender"
+          ]
+        }
+      }
+    ]
+  },
+  "hut": {
+    "senses": [
+      {
+        "zh": "帽子",
+        "en": "hat",
+        "ex": {
+          "de": "Bei der Hitze setzt er einen {Hut} auf.",
+          "zh": "天氣這麼熱，他戴上了一頂帽子。",
+          "en": "In this heat he puts on a hat.",
+          "distractors": [
+            "Brief",
+            "Hammer",
+            "Apfel"
+          ]
+        }
+      }
+    ]
+  },
+  "huette": {
+    "senses": [
+      {
+        "zh": "小屋",
+        "en": "hut, cabin",
+        "ex": {
+          "de": "Wir übernachten in einer {Hütte} in den Bergen.",
+          "zh": "我們在山上的一間小屋過夜。",
+          "en": "We are staying overnight in a cabin in the mountains.",
+          "distractors": [
+            "Tasche",
+            "Banane",
+            "Zeitung"
+          ]
+        }
+      }
+    ]
+  },
+  "ideal": {
+    "senses": [
+      {
+        "zh": "理想的；完美的",
+        "en": "ideal, perfect",
+        "ex": {
+          "de": "Das Wetter ist {ideal} für einen Ausflug an den See.",
+          "zh": "這種天氣最適合去湖邊玩。",
+          "en": "The weather is ideal for a trip to the lake.",
+          "distractors": [
+            "vegetarisch",
+            "blond",
+            "zahm"
+          ]
+        }
+      }
+    ]
+  },
+  "idee": {
+    "senses": [
+      {
+        "zh": "主意；想法",
+        "en": "idea",
+        "ex": {
+          "de": "Hast du eine {Idee}, was wir Oma schenken können?",
+          "zh": "你有想到我們可以送奶奶什麼嗎？",
+          "en": "Do you have an idea what we could give Grandma?",
+          "distractors": [
+            "Tomate",
+            "Brille",
+            "Pfanne"
+          ]
+        }
+      }
+    ]
+  },
+  "illegal": {
+    "senses": [
+      {
+        "zh": "非法的",
+        "en": "illegal",
+        "ex": {
+          "de": "Es ist {illegal}, ohne Führerschein Auto zu fahren.",
+          "zh": "沒有駕照開車是違法的。",
+          "en": "It is illegal to drive a car without a licence.",
+          "distractors": [
+            "freundlich",
+            "sonnig",
+            "sauer"
+          ]
+        }
+      }
+    ]
+  },
+  "imbiss": {
+    "senses": [
+      {
+        "zh": "小吃店；點心",
+        "en": "snack bar; snack",
+        "ex": {
+          "de": "Am Bahnhof gibt es einen kleinen {Imbiss} mit Currywurst.",
+          "zh": "車站有一家賣咖哩香腸的小吃店。",
+          "en": "At the station there is a small snack bar with currywurst.",
+          "distractors": [
+            "Friseur",
+            "Zahnarzt",
+            "Fahrkartenautomat"
+          ]
+        }
+      }
+    ]
+  },
+  "immer": {
+    "senses": [
+      {
+        "zh": "總是；一直",
+        "en": "always",
+        "ex": {
+          "de": "Mein Bruder kommt {immer} zu spät zum Training.",
+          "zh": "我哥哥練習總是遲到。",
+          "en": "My brother always arrives late for practice.",
+          "distractors": [
+            "sehr",
+            "bergab",
+            "rückwärts"
+          ]
+        }
+      }
+    ]
+  },
+  "import": {
+    "senses": [
+      {
+        "zh": "進口",
+        "en": "import",
+        "ex": {
+          "de": "Der {Import} von Kaffee wird jedes Jahr größer.",
+          "zh": "咖啡的進口量每年都在增加。",
+          "en": "Coffee imports grow every year.",
+          "distractors": [
+            "Schlüssel",
+            "Spiegel",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "in": {
+    "senses": [
+      {
+        "zh": "在…裡面；到…裡",
+        "en": "in, into",
+        "ex": {
+          "de": "Mein Vater arbeitet {in} einer Bank in der Innenstadt.",
+          "zh": "我爸爸在市中心的一家銀行工作。",
+          "en": "My father works in a bank downtown.",
+          "distractors": [
+            "ohne",
+            "seit",
+            "gegen"
+          ]
+        }
+      }
+    ]
+  },
+  "indem": {
+    "senses": [
+      {
+        "zh": "藉由（做…）",
+        "en": "by (doing)",
+        "ex": {
+          "de": "Man lernt Vokabeln am besten, {indem} man sie laut spricht.",
+          "zh": "背單字最好的方法就是大聲唸出來。",
+          "en": "The best way to learn vocabulary is by saying it out loud.",
+          "distractors": [
+            "ob",
+            "obwohl",
+            "dass"
+          ]
+        }
+      }
+    ]
+  },
+  "individuell": {
+    "senses": [
+      {
+        "zh": "個別的；個人的",
+        "en": "individual",
+        "ex": {
+          "de": "Jeder Schüler bekommt eine {individuelle} Beratung.",
+          "zh": "每位學生都會得到個別的諮詢。",
+          "en": "Every student gets individual advice.",
+          "distractors": [
+            "salzige",
+            "goldene",
+            "runde"
+          ]
+        }
+      }
+    ]
+  },
+  "industrie": {
+    "senses": [
+      {
+        "zh": "工業；產業",
+        "en": "industry",
+        "ex": {
+          "de": "In dieser Region arbeiten viele Menschen in der {Industrie}.",
+          "zh": "這個地區有很多人在工業界工作。",
+          "en": "In this region many people work in industry.",
+          "distractors": [
+            "Kartoffel",
+            "Waschmaschine",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "infektion": {
+    "senses": [
+      {
+        "zh": "感染",
+        "en": "infection",
+        "ex": {
+          "de": "Die {Infektion} wurde mit einem Medikament behandelt.",
+          "zh": "這個感染用藥物治療了。",
+          "en": "The infection was treated with a medicine.",
+          "distractors": [
+            "Tür",
+            "Tasche",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "informieren": {
+    "senses": [
+      {
+        "zh": "通知；告知",
+        "en": "to inform",
+        "ex": {
+          "de": "Ich möchte meine Eltern über den Umzug {informieren}.",
+          "zh": "我想告訴爸媽搬家的事。",
+          "en": "I want to inform my parents about the move.",
+          "distractors": [
+            "reparieren",
+            "tapezieren",
+            "fotografieren"
+          ]
+        }
+      }
+    ]
+  },
+  "information": {
+    "senses": [
+      {
+        "zh": "資訊；消息",
+        "en": "information",
+        "ex": {
+          "de": "Auf der Webseite finde ich keine {Information} über die Preise.",
+          "zh": "我在網站上找不到價格的資訊。",
+          "en": "On the website I can't find any information about the prices.",
+          "distractors": [
+            "Zwiebel",
+            "Gurke",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "ingenieur": {
+    "senses": [
+      {
+        "zh": "工程師",
+        "en": "engineer",
+        "ex": {
+          "de": "Der {Ingenieur} plant eine neue Brücke über den Fluss.",
+          "zh": "這位工程師正在規劃一座跨河的新橋。",
+          "en": "The engineer is planning a new bridge over the river.",
+          "distractors": [
+            "Regenwurm",
+            "Teller",
+            "Kugelschreiber"
+          ]
+        }
+      }
+    ]
+  },
+  "inhalt": {
+    "senses": [
+      {
+        "zh": "內容",
+        "en": "content",
+        "ex": {
+          "de": "Den {Inhalt} des Briefes kann ich leider nicht verstehen.",
+          "zh": "我看不懂這封信的內容。",
+          "en": "Unfortunately I can't understand the content of the letter.",
+          "distractors": [
+            "Ofen",
+            "Mantel",
+            "Zaun"
+          ]
+        }
+      }
+    ]
+  },
+  "inklusive": {
+    "senses": [
+      {
+        "zh": "包含…在內",
+        "en": "including",
+        "ex": {
+          "de": "Das Zimmer kostet 80 Euro, {inklusive} Frühstück.",
+          "zh": "這間房一晚八十歐元，含早餐。",
+          "en": "The room costs 80 euros, breakfast included.",
+          "distractors": [
+            "gegen",
+            "seit",
+            "entlang"
+          ]
+        }
+      }
+    ]
+  },
+  "innen": {
+    "senses": [
+      {
+        "zh": "在裡面；內部",
+        "en": "inside",
+        "ex": {
+          "de": "Die Tür ist {innen} blau und außen weiß.",
+          "zh": "這扇門裡面是藍色、外面是白色。",
+          "en": "The door is blue on the inside and white on the outside.",
+          "distractors": [
+            "morgen",
+            "gestern",
+            "bald"
+          ]
+        }
+      }
+    ]
+  },
+  "inner": {
+    "senses": [
+      {
+        "zh": "內部的；內在的",
+        "en": "inner, interior",
+        "ex": {
+          "de": "Im {inneren} Hof des Schlosses blühen Rosen.",
+          "zh": "城堡的內院裡玫瑰正在盛開。",
+          "en": "Roses are blooming in the inner courtyard of the castle.",
+          "distractors": [
+            "schriftlichen",
+            "gestrigen",
+            "verlobten"
+          ]
+        }
+      }
+    ]
+  },
+  "innerhalb": {
+    "senses": [
+      {
+        "zh": "在…之內",
+        "en": "within",
+        "ex": {
+          "de": "Du bekommst {innerhalb} einer Woche eine Antwort von uns.",
+          "zh": "一週之內你會收到我們的回覆。",
+          "en": "You will get an answer from us within a week.",
+          "distractors": [
+            "vor",
+            "ohne",
+            "gegenüber"
+          ]
+        }
+      }
+    ]
+  },
+  "insel": {
+    "senses": [
+      {
+        "zh": "島",
+        "en": "island",
+        "ex": {
+          "de": "Wir fahren mit dem Boot auf die {Insel}.",
+          "zh": "我們搭船去那座島。",
+          "en": "We are going to the island by boat.",
+          "distractors": [
+            "Bürste",
+            "Zwiebel",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "inserat": {
+    "senses": [
+      {
+        "zh": "（報紙或網路的）廣告",
+        "en": "advertisement, classified ad",
+        "ex": {
+          "de": "Ich habe dein {Inserat} über das Fahrrad in der Zeitung gelesen.",
+          "zh": "我在報紙上看到你賣腳踏車的廣告。",
+          "en": "I read your ad about the bike in the newspaper.",
+          "distractors": [
+            "Fenster",
+            "Handtuch",
+            "Bett"
+          ]
+        }
+      }
+    ]
+  },
+  "insgesamt": {
+    "senses": [
+      {
+        "zh": "總共；整體上",
+        "en": "in total, altogether",
+        "ex": {
+          "de": "Wir haben {insgesamt} zwölf Gäste zum Abendessen eingeladen.",
+          "zh": "我們總共邀請了十二位客人來吃晚餐。",
+          "en": "We have invited twelve guests for dinner in total.",
+          "distractors": [
+            "bergauf",
+            "querfeldein",
+            "abwärts"
+          ]
+        }
+      }
+    ]
+  },
+  "installieren": {
+    "senses": [
+      {
+        "zh": "安裝",
+        "en": "to install",
+        "ex": {
+          "de": "Kannst du mir bitte das neue Programm {installieren}?",
+          "zh": "你可以幫我安裝這個新程式嗎？",
+          "en": "Can you please install the new program for me?",
+          "distractors": [
+            "füttern",
+            "streicheln",
+            "impfen"
+          ]
+        }
+      }
+    ]
+  },
+  "instrument": {
+    "senses": [
+      {
+        "zh": "樂器；儀器",
+        "en": "instrument",
+        "ex": {
+          "de": "Mein Sohn lernt in der Schule ein {Instrument}.",
+          "zh": "我兒子在學校學一種樂器。",
+          "en": "My son is learning an instrument at school.",
+          "distractors": [
+            "Brötchen",
+            "Regal",
+            "Feuerzeug"
+          ]
+        }
+      }
+    ]
+  },
+  "integrieren": {
+    "senses": [
+      {
+        "zh": "使融入；整合",
+        "en": "to integrate",
+        "ex": {
+          "de": "Neue Mitarbeiter sollen wir schnell ins Team {integrieren}.",
+          "zh": "我們要讓新同事快點融入團隊。",
+          "en": "We should integrate new colleagues into the team quickly.",
+          "distractors": [
+            "verpacken",
+            "begießen",
+            "fotografieren"
+          ]
+        }
+      }
+    ]
+  },
+  "integration": {
+    "senses": [
+      {
+        "zh": "融入；整合",
+        "en": "integration",
+        "ex": {
+          "de": "Sprachkurse helfen bei der {Integration} in einem neuen Land.",
+          "zh": "語言課程有助於融入新的國家。",
+          "en": "Language courses help with integration in a new country.",
+          "distractors": [
+            "Kartoffel",
+            "Waschmaschine",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "intelligent": {
+    "senses": [
+      {
+        "zh": "聰明的",
+        "en": "intelligent",
+        "ex": {
+          "de": "Der Hund ist so {intelligent}, dass er Türen öffnen kann.",
+          "zh": "這隻狗聰明到會開門。",
+          "en": "The dog is so intelligent that it can open doors.",
+          "distractors": [
+            "leer",
+            "quadratisch",
+            "kostenlos"
+          ]
+        }
+      }
+    ]
+  },
+  "intelligenz": {
+    "senses": [
+      {
+        "zh": "智力；聰明才智",
+        "en": "intelligence",
+        "ex": {
+          "de": "Ihre {Intelligenz} hat mich bei der Diskussion sehr beeindruckt.",
+          "zh": "她的聰明才智讓我在討論中印象深刻。",
+          "en": "Her intelligence impressed me a lot in the discussion.",
+          "distractors": [
+            "Zwiebel",
+            "Steckdose",
+            "Pfütze"
+          ]
+        }
+      }
+    ]
+  },
+  "intensiv": {
+    "senses": [
+      {
+        "zh": "密集的；強烈的",
+        "en": "intensive, intense",
+        "ex": {
+          "de": "Vor der Prüfung habe ich eine Woche lang {intensiv} gelernt.",
+          "zh": "考試前我密集地念了一個星期。",
+          "en": "Before the exam I studied intensively for a week.",
+          "distractors": [
+            "rechteckig",
+            "vierstöckig",
+            "erbsengrün"
+          ]
+        }
+      }
+    ]
+  },
+  "intensivkurs": {
+    "senses": [
+      {
+        "zh": "密集課程",
+        "en": "intensive course",
+        "ex": {
+          "de": "Im Sommer mache ich einen {Intensivkurs} in Spanisch.",
+          "zh": "夏天我要上一個西班牙文密集課程。",
+          "en": "In summer I'm taking an intensive course in Spanish.",
+          "distractors": [
+            "Hubschrauber",
+            "Regenmantel",
+            "Fahrplan"
+          ]
+        }
+      }
+    ]
+  },
+  "interessieren": {
+    "senses": [
+      {
+        "zh": "使感興趣",
+        "en": "to interest",
+        "ex": {
+          "de": "Dieses Thema {interessiert} mich überhaupt nicht.",
+          "zh": "這個主題我完全沒興趣。",
+          "en": "This topic doesn't interest me at all.",
+          "distractors": [
+            "füttert",
+            "repariert",
+            "rasiert"
+          ]
+        }
+      }
+    ]
+  },
+  "interessant": {
+    "senses": [
+      {
+        "zh": "有趣的；有意思的",
+        "en": "interesting",
+        "ex": {
+          "de": "Der Film war nicht besonders {interessant}, aber sehr lang.",
+          "zh": "這部電影不太有趣，而且很長。",
+          "en": "The film wasn't particularly interesting, but very long.",
+          "distractors": [
+            "blond",
+            "zahm",
+            "bleifrei"
+          ]
+        }
+      }
+    ]
+  },
+  "interesse": {
+    "senses": [
+      {
+        "zh": "興趣",
+        "en": "interest",
+        "ex": {
+          "de": "Meine Tochter hat großes {Interesse} an Tieren.",
+          "zh": "我女兒對動物很有興趣。",
+          "en": "My daughter has a great interest in animals.",
+          "distractors": [
+            "Regal",
+            "Feuerzeug",
+            "Ei"
+          ]
+        }
+      }
+    ]
+  },
+  "interessiert": {
+    "senses": [
+      {
+        "zh": "有興趣的",
+        "en": "interested",
+        "ex": {
+          "de": "Ich bin sehr {interessiert} an einem Kurs für Fotografie.",
+          "zh": "我對攝影課程很有興趣。",
+          "en": "I am very interested in a photography course.",
+          "distractors": [
+            "müde",
+            "krank",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "interkulturell": {
+    "senses": [
+      {
+        "zh": "跨文化的",
+        "en": "intercultural",
+        "ex": {
+          "de": "Unsere Schule bietet ein {interkulturelles} Training für Lehrer an.",
+          "zh": "我們學校為老師提供跨文化訓練。",
+          "en": "Our school offers an intercultural training for teachers.",
+          "distractors": [
+            "hölzernes",
+            "vierstöckiges",
+            "giftiges"
+          ]
+        }
+      }
+    ]
+  },
+  "international": {
+    "senses": [
+      {
+        "zh": "國際的",
+        "en": "international",
+        "ex": {
+          "de": "Bei uns im Haus wohnen Leute aus vielen Ländern, es ist ganz {international}.",
+          "zh": "我們這棟樓住著來自許多國家的人，非常國際化。",
+          "en": "People from many countries live in our building; it's very international.",
+          "distractors": [
+            "müde",
+            "ledig",
+            "schüchtern"
+          ]
+        }
+      }
+    ]
+  },
+  "interview": {
+    "senses": [
+      {
+        "zh": "訪談；面試",
+        "en": "interview",
+        "ex": {
+          "de": "Das {Interview} mit dem Bürgermeister dauerte eine Stunde.",
+          "zh": "對市長的訪談進行了一個小時。",
+          "en": "The interview with the mayor lasted an hour.",
+          "distractors": [
+            "Fenster",
+            "Handtuch",
+            "Feuerzeug"
+          ]
+        }
+      }
+    ]
+  }
+}
