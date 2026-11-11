@@ -1,0 +1,902 @@
+{
+  "bank-2": {
+    "senses": [
+      {
+        "zh": "銀行",
+        "en": "bank",
+        "ex": {
+          "de": "Das Konto habe ich bei der {Bank} in der Stadtmitte eröffnet.",
+          "zh": "我是在市中心的銀行開的戶。",
+          "en": "I opened the account at the bank in the city centre.",
+          "distractors": [
+            "Lampe",
+            "Mütze",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "bancomat-bankomat": {
+    "senses": [
+      {
+        "zh": "提款機（奧地利、瑞士用語）",
+        "en": "cash machine (A, CH)",
+        "ex": {
+          "de": "Am {Bankomat} habe ich hundert Euro abgehoben.",
+          "zh": "我在提款機領了一百歐元。",
+          "en": "I withdrew a hundred euros at the cash machine.",
+          "distractors": [
+            "Kühlschrank",
+            "Kugelschreiber",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "bankleitzahl": {
+    "senses": [
+      {
+        "zh": "銀行代碼",
+        "en": "bank sort code",
+        "ex": {
+          "de": "Für die Überweisung brauche ich deine {Bankleitzahl}.",
+          "zh": "轉帳需要你的銀行代碼。",
+          "en": "For the transfer I need your bank sort code.",
+          "distractors": [
+            "Zahnbürste",
+            "Kartoffel",
+            "Wäscheleine"
+          ]
+        }
+      }
+    ]
+  },
+  "bankomat-karte": {
+    "senses": [
+      {
+        "zh": "提款卡（奧地利用語）",
+        "en": "bank card (A)",
+        "ex": {
+          "de": "Ich bezahle im Laden mit meiner {Bankomat-Karte}.",
+          "zh": "我在店裡用提款卡付錢。",
+          "en": "I pay in the shop with my bank card.",
+          "distractors": [
+            "Gießkanne",
+            "Zahnbürste",
+            "Heizung"
+          ]
+        }
+      }
+    ]
+  },
+  "bar": {
+    "senses": [
+      {
+        "zh": "酒吧",
+        "en": "bar, pub",
+        "ex": {
+          "de": "Nach dem Kino sind wir noch in eine {Bar} gegangen.",
+          "zh": "看完電影後我們又去了一間酒吧。",
+          "en": "After the cinema we went to a bar.",
+          "distractors": [
+            "Garage",
+            "Wüste",
+            "Höhle"
+          ]
+        }
+      }
+    ]
+  },
+  "bar-2": {
+    "senses": [
+      {
+        "zh": "用現金；現金的",
+        "en": "in cash",
+        "ex": {
+          "de": "Ich bezahle lieber {bar} als mit Karte.",
+          "zh": "我比較喜歡付現，不喜歡刷卡。",
+          "en": "I prefer paying in cash to paying by card.",
+          "distractors": [
+            "rund",
+            "laut",
+            "dünn"
+          ]
+        }
+      }
+    ]
+  },
+  "bargeld": {
+    "senses": [
+      {
+        "zh": "現金",
+        "en": "cash",
+        "ex": {
+          "de": "Im Café kann man hier nur mit {Bargeld} zahlen, nicht mit Karte.",
+          "zh": "很可惜",
+          "en": "In this café you can only pay with cash, not by card.",
+          "distractors": [
+            "Klavier",
+            "Gewitter",
+            "Sofa"
+          ]
+        }
+      }
+    ]
+  },
+  "bart": {
+    "senses": [
+      {
+        "zh": "鬍子",
+        "en": "beard",
+        "ex": {
+          "de": "Mein Opa hat einen langen weißen {Bart}.",
+          "zh": "我爺爺有一把又長又白的鬍子。",
+          "en": "My grandpa has a long white beard.",
+          "distractors": [
+            "Schornstein",
+            "Vulkan",
+            "Mond"
+          ]
+        }
+      }
+    ]
+  },
+  "basketball": {
+    "senses": [
+      {
+        "zh": "籃球",
+        "en": "basketball",
+        "ex": {
+          "de": "Nach der Schule spielen wir oft zusammen {Basketball}.",
+          "zh": "放學後我們常常一起打籃球。",
+          "en": "After school we often play basketball together.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenmantel",
+            "Stundenplan"
+          ]
+        }
+      }
+    ]
+  },
+  "basteln": {
+    "senses": [
+      {
+        "zh": "做手工",
+        "en": "to do crafts, make by hand",
+        "ex": {
+          "de": "Im Kindergarten wollen wir heute eine Laterne {basteln}.",
+          "zh": "今天在幼稚園我們要做一盞燈籠。",
+          "en": "In kindergarten we want to make a lantern today.",
+          "distractors": [
+            "schlafen",
+            "warten",
+            "bellen"
+          ]
+        }
+      }
+    ]
+  },
+  "batterie": {
+    "senses": [
+      {
+        "zh": "電池",
+        "en": "battery",
+        "ex": {
+          "de": "Die {Batterie} in der Fernbedienung ist leer.",
+          "zh": "遙控器裡的電池沒電了。",
+          "en": "The battery in the remote control is empty.",
+          "distractors": [
+            "Gurke",
+            "Brille",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "bauch": {
+    "senses": [
+      {
+        "zh": "肚子",
+        "en": "belly, stomach",
+        "ex": {
+          "de": "Beim Lachen hat mir gestern plötzlich der {Bauch} wehgetan.",
+          "zh": "昨天我笑著笑著肚子突然痛起來。",
+          "en": "Yesterday my stomach suddenly hurt while I was laughing.",
+          "distractors": [
+            "Schlüssel",
+            "Bürgersteig",
+            "Ofen"
+          ]
+        }
+      }
+    ]
+  },
+  "bauen": {
+    "senses": [
+      {
+        "zh": "建造；蓋",
+        "en": "to build",
+        "ex": {
+          "de": "Wir wollen im Garten ein kleines Haus {bauen}.",
+          "zh": "我們想在花園裡蓋一間小房子。",
+          "en": "We want to build a small house in the garden.",
+          "distractors": [
+            "essen",
+            "singen",
+            "lesen"
+          ]
+        }
+      }
+    ]
+  },
+  "bau": {
+    "senses": [
+      {
+        "zh": "建造；施工",
+        "en": "construction, building work",
+        "ex": {
+          "de": "Der {Bau} der Schule dauert noch ein Jahr.",
+          "zh": "學校的興建還要一年。",
+          "en": "The construction of the school will take another year.",
+          "distractors": [
+            "Hund",
+            "Mantel",
+            "Fisch"
+          ]
+        }
+      }
+    ]
+  },
+  "baustelle": {
+    "senses": [
+      {
+        "zh": "工地；施工現場",
+        "en": "building site",
+        "ex": {
+          "de": "Auf der {Baustelle} tragen alle Arbeiter einen Helm.",
+          "zh": "工地上所有工人都戴安全帽。",
+          "en": "On the building site all the workers wear a helmet.",
+          "distractors": [
+            "Speisekarte",
+            "Uhr",
+            "Bohne"
+          ]
+        }
+      }
+    ]
+  },
+  "bauer": {
+    "senses": [
+      {
+        "zh": "農夫",
+        "en": "farmer",
+        "ex": {
+          "de": "Der {Bauer} füttert am Morgen seine Kühe und Schafe.",
+          "zh": "農夫早上餵他的牛和羊。",
+          "en": "The farmer feeds his cows and sheep in the morning.",
+          "distractors": [
+            "Löffel",
+            "Schrank",
+            "Kalender"
+          ]
+        }
+      }
+    ]
+  },
+  "baum": {
+    "senses": [
+      {
+        "zh": "樹",
+        "en": "tree",
+        "ex": {
+          "de": "Unter dem großen {Baum} im Park machen wir ein Picknick.",
+          "zh": "我們在公園的大樹下野餐。",
+          "en": "We have a picnic under the big tree in the park.",
+          "distractors": [
+            "Spiegel",
+            "Kuchen",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "beachten": {
+    "senses": [
+      {
+        "zh": "注意；遵守",
+        "en": "to pay attention to, observe",
+        "ex": {
+          "de": "Du musst die Verkehrsregeln unbedingt {beachten}.",
+          "zh": "你一定要遵守交通規則。",
+          "en": "You absolutely must observe the traffic rules.",
+          "distractors": [
+            "schlafen",
+            "bellen",
+            "tanzen"
+          ]
+        }
+      }
+    ]
+  },
+  "beamte": {
+    "senses": [
+      {
+        "zh": "（男）公務員",
+        "en": "civil servant (m)",
+        "ex": {
+          "de": "Der {Beamte} am Schalter stempelt mein Formular.",
+          "zh": "櫃檯的公務員在我的表格上蓋章。",
+          "en": "The official at the counter stamps my form.",
+          "distractors": [
+            "Löwe",
+            "Affe",
+            "Hase"
+          ]
+        }
+      }
+    ]
+  },
+  "beamtin": {
+    "senses": [
+      {
+        "zh": "（女）公務員",
+        "en": "civil servant (f)",
+        "ex": {
+          "de": "Die {Beamtin} im Rathaus erklärt mir alles freundlich.",
+          "zh": "市政廳的公務員親切地向我說明一切。",
+          "en": "The official at the town hall explains everything to me kindly.",
+          "distractors": [
+            "Löwin",
+            "Hündin",
+            "Katze"
+          ]
+        }
+      }
+    ]
+  },
+  "beantragen": {
+    "senses": [
+      {
+        "zh": "申請",
+        "en": "to apply for",
+        "ex": {
+          "de": "Wo kann ich hier einen neuen Ausweis {beantragen}?",
+          "zh": "我在這裡哪裡可以申請新的身分證？",
+          "en": "Where can I apply for a new ID card here?",
+          "distractors": [
+            "kochen",
+            "backen",
+            "füttern"
+          ]
+        }
+      }
+    ]
+  },
+  "beantworten": {
+    "senses": [
+      {
+        "zh": "回答",
+        "en": "to answer",
+        "ex": {
+          "de": "Kannst du bitte noch meine Frage {beantworten}?",
+          "zh": "你可以再回答我的問題嗎？",
+          "en": "Can you please still answer my question?",
+          "distractors": [
+            "putzen",
+            "tragen",
+            "schneiden"
+          ]
+        }
+      }
+    ]
+  },
+  "bedanken": {
+    "senses": [
+      {
+        "zh": "道謝",
+        "en": "to say thank you",
+        "ex": {
+          "de": "Ich möchte mich bei dir für das Geschenk {bedanken}.",
+          "zh": "我想為這份禮物向你道謝。",
+          "en": "I would like to thank you for the present.",
+          "distractors": [
+            "beeilen",
+            "verlaufen",
+            "rasieren"
+          ]
+        }
+      }
+    ]
+  },
+  "bedarf": {
+    "senses": [
+      {
+        "zh": "需求",
+        "en": "need, demand",
+        "ex": {
+          "de": "Der {Bedarf} an Wohnungen ist in der Stadt sehr groß.",
+          "zh": "城市裡對住宅的需求非常大。",
+          "en": "The demand for flats in the city is very high.",
+          "distractors": [
+            "Garten",
+            "Vogel",
+            "Zahn"
+          ]
+        }
+      }
+    ]
+  },
+  "bedeuten": {
+    "senses": [
+      {
+        "zh": "意思是；意味著",
+        "en": "to mean",
+        "ex": {
+          "de": "Was soll dieses rote Schild an der Tür {bedeuten}?",
+          "zh": "門上這個紅色牌子是什麼意思？",
+          "en": "What is this red sign on the door supposed to mean?",
+          "distractors": [
+            "lachen",
+            "schwimmen",
+            "wandern"
+          ]
+        }
+      }
+    ]
+  },
+  "bedeutung": {
+    "senses": [
+      {
+        "zh": "意義；含義",
+        "en": "meaning, significance",
+        "ex": {
+          "de": "Welche {Bedeutung} hat das Wort „Heimat“ für dich?",
+          "zh": "「Heimat」這個字對你有什麼意義？",
+          "en": "What does the word \"Heimat\" mean to you?",
+          "distractors": [
+            "Zahnbürste",
+            "Kerze",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "bedienen": {
+    "senses": [
+      {
+        "zh": "服務；招待；操作",
+        "en": "to serve, wait on",
+        "ex": {
+          "de": "Der Kellner muss heute alle Gäste allein {bedienen}.",
+          "zh": "服務生今天得一個人招待所有客人。",
+          "en": "The waiter has to serve all the guests alone today.",
+          "distractors": [
+            "malen",
+            "streichen",
+            "reparieren"
+          ]
+        }
+      }
+    ]
+  },
+  "bedienungsanleitung": {
+    "senses": [
+      {
+        "zh": "使用說明書",
+        "en": "instruction manual",
+        "ex": {
+          "de": "Lies bitte zuerst die {Bedienungsanleitung} des neuen Geräts.",
+          "zh": "請先讀新機器的使用說明書。",
+          "en": "Please first read the instruction manual of the new device.",
+          "distractors": [
+            "Zwiebel",
+            "Ananas",
+            "Pfütze"
+          ]
+        }
+      }
+    ]
+  },
+  "bedingung": {
+    "senses": [
+      {
+        "zh": "條件",
+        "en": "condition",
+        "ex": {
+          "de": "Eine {Bedingung} für den Job ist ein Führerschein.",
+          "zh": "這份工作的一項條件是要有駕照。",
+          "en": "One condition for the job is a driving licence.",
+          "distractors": [
+            "Kartoffel",
+            "Giraffe",
+            "Kreide"
+          ]
+        }
+      }
+    ]
+  },
+  "beeilen": {
+    "senses": [
+      {
+        "zh": "趕快；加緊",
+        "en": "to hurry",
+        "ex": {
+          "de": "Wir müssen uns jetzt {beeilen}, sonst kommen wir zu spät.",
+          "zh": "我們現在得趕快，不然會遲到。",
+          "en": "We have to hurry now, or we'll be late.",
+          "distractors": [
+            "verlieben",
+            "verlaufen",
+            "erkälten"
+          ]
+        }
+      }
+    ]
+  },
+  "beenden": {
+    "senses": [
+      {
+        "zh": "結束；完成",
+        "en": "to finish, end",
+        "ex": {
+          "de": "Ich möchte das Gespräch jetzt höflich {beenden}.",
+          "zh": "我現在想客氣地結束這次談話。",
+          "en": "I would now like to end the conversation politely.",
+          "distractors": [
+            "kochen",
+            "waschen",
+            "gießen"
+          ]
+        }
+      }
+    ]
+  },
+  "befinden": {
+    "senses": [
+      {
+        "zh": "位於；處於",
+        "en": "to be located",
+        "ex": {
+          "de": "Das Rathaus soll sich mitten in der Altstadt {befinden}.",
+          "zh": "市政廳據說位在老城區的正中央。",
+          "en": "The town hall is said to be in the middle of the old town.",
+          "distractors": [
+            "beeilen",
+            "rasieren",
+            "verlieben"
+          ]
+        }
+      }
+    ]
+  },
+  "befreit": {
+    "senses": [
+      {
+        "zh": "如釋重負的；解脫的",
+        "en": "relieved, liberated",
+        "ex": {
+          "de": "Nach der Prüfung fühle ich mich richtig {befreit}.",
+          "zh": "考完試後我覺得整個人輕鬆了。",
+          "en": "After the exam I feel really relieved.",
+          "distractors": [
+            "gekocht",
+            "gebacken",
+            "geputzt"
+          ]
+        }
+      }
+    ]
+  },
+  "befriedigend": {
+    "senses": [
+      {
+        "zh": "尚可的；（成績）三分",
+        "en": "satisfactory",
+        "ex": {
+          "de": "Meine Note im Test war nur {befriedigend}.",
+          "zh": "我這次考試的成績只有「尚可」。",
+          "en": "My grade in the test was only satisfactory.",
+          "distractors": [
+            "rund",
+            "nass",
+            "blond"
+          ]
+        }
+      }
+    ]
+  },
+  "begegnen": {
+    "senses": [
+      {
+        "zh": "遇見；碰到",
+        "en": "to meet, run into",
+        "ex": {
+          "de": "Auf dem Heimweg bin ich meinem Lehrer {begegnet}.",
+          "zh": "回家的路上我遇到了我的老師。",
+          "en": "On the way home I ran into my teacher.",
+          "distractors": [
+            "gestiegen",
+            "geschwommen",
+            "geflogen"
+          ]
+        }
+      }
+    ]
+  },
+  "begeistert": {
+    "senses": [
+      {
+        "zh": "興奮的；很熱衷的",
+        "en": "enthusiastic",
+        "ex": {
+          "de": "Die Kinder waren vom Zirkus total {begeistert}.",
+          "zh": "孩子們對馬戲團非常著迷。",
+          "en": "The children were totally thrilled by the circus.",
+          "distractors": [
+            "verschneit",
+            "gebügelt",
+            "gestreift"
+          ]
+        }
+      }
+    ]
+  },
+  "beginnen": {
+    "senses": [
+      {
+        "zh": "開始",
+        "en": "to begin",
+        "ex": {
+          "de": "Der Deutschkurs soll nächste Woche {beginnen}.",
+          "zh": "德語課預計下週開始。",
+          "en": "The German course is supposed to begin next week.",
+          "distractors": [
+            "bellen",
+            "schmelzen",
+            "rosten"
+          ]
+        }
+      }
+    ]
+  },
+  "beginn": {
+    "senses": [
+      {
+        "zh": "開始；開頭",
+        "en": "beginning, start",
+        "ex": {
+          "de": "Zu {Beginn} des Films war das Kino noch halb leer.",
+          "zh": "電影一開始時，電影院還有一半是空的。",
+          "en": "At the start of the film the cinema was still half empty.",
+          "distractors": [
+            "Regenschirm",
+            "Nachbar",
+            "Kürbis"
+          ]
+        }
+      }
+    ]
+  },
+  "begleiten": {
+    "senses": [
+      {
+        "zh": "陪同；陪伴",
+        "en": "to accompany",
+        "ex": {
+          "de": "Meine Schwester wird mich morgen zum Arzt {begleiten}.",
+          "zh": "我姊姊明天會陪我去看醫生。",
+          "en": "My sister will accompany me to the doctor tomorrow.",
+          "distractors": [
+            "backen",
+            "schreiben",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "begrenzt": {
+    "senses": [
+      {
+        "zh": "有限的",
+        "en": "limited",
+        "ex": {
+          "de": "Die Zahl der Plätze im Kurs ist leider {begrenzt}.",
+          "zh": "課程的名額很可惜是有限的。",
+          "en": "The number of places in the course is unfortunately limited.",
+          "distractors": [
+            "gelb",
+            "salzig",
+            "lila"
+          ]
+        }
+      }
+    ]
+  },
+  "begruenden": {
+    "senses": [
+      {
+        "zh": "說明理由；為…找理由",
+        "en": "to give reasons for, justify",
+        "ex": {
+          "de": "Kannst du deine Meinung bitte kurz {begründen}?",
+          "zh": "你可以簡短地說明你意見的理由嗎？",
+          "en": "Can you briefly give reasons for your opinion?",
+          "distractors": [
+            "füttern",
+            "gießen",
+            "kämmen"
+          ]
+        }
+      }
+    ]
+  },
+  "begruendung": {
+    "senses": [
+      {
+        "zh": "理由；說明",
+        "en": "reason, justification",
+        "ex": {
+          "de": "Zu deiner Entscheidung brauche ich noch eine {Begründung}.",
+          "zh": "關於你的決定，我還需要一個理由。",
+          "en": "For your decision I still need a reason.",
+          "distractors": [
+            "Kommode",
+            "Schaukel",
+            "Zitrone"
+          ]
+        }
+      }
+    ]
+  },
+  "begruessen": {
+    "senses": [
+      {
+        "zh": "歡迎；問候",
+        "en": "to welcome, greet",
+        "ex": {
+          "de": "Der Direktor will alle neuen Schüler persönlich {begrüßen}.",
+          "zh": "校長想親自歡迎所有新生。",
+          "en": "The headmaster wants to welcome all new pupils personally.",
+          "distractors": [
+            "pflanzen",
+            "backen",
+            "streichen"
+          ]
+        }
+      }
+    ]
+  },
+  "behalten": {
+    "senses": [
+      {
+        "zh": "留著；保有",
+        "en": "to keep",
+        "ex": {
+          "de": "Du darfst das alte Fahrrad gern {behalten}.",
+          "zh": "這輛舊腳踏車你可以留著。",
+          "en": "You are welcome to keep the old bike.",
+          "distractors": [
+            "tanzen",
+            "wandern",
+            "gähnen"
+          ]
+        }
+      }
+    ]
+  },
+  "behaupten": {
+    "senses": [
+      {
+        "zh": "聲稱；主張",
+        "en": "to claim, assert",
+        "ex": {
+          "de": "Er kann nicht einfach {behaupten}, dass ich gelogen habe.",
+          "zh": "他不能隨便就說我說謊。",
+          "en": "He can't simply claim that I lied.",
+          "distractors": [
+            "schlafen",
+            "niesen",
+            "schwitzen"
+          ]
+        }
+      }
+    ]
+  },
+  "behindern": {
+    "senses": [
+      {
+        "zh": "妨礙；阻礙",
+        "en": "to hinder, obstruct",
+        "ex": {
+          "de": "Parkende Autos können den Verkehr in der Straße {behindern}.",
+          "zh": "停著的車子可能會妨礙街上的交通。",
+          "en": "Parked cars can obstruct the traffic in the street.",
+          "distractors": [
+            "pflücken",
+            "bügeln",
+            "kämmen"
+          ]
+        }
+      }
+    ]
+  },
+  "behindert": {
+    "senses": [
+      {
+        "zh": "身心障礙的",
+        "en": "disabled",
+        "ex": {
+          "de": "Im Bus gibt es Plätze für {behinderte} Menschen.",
+          "zh": "公車上有給身心障礙者的座位。",
+          "en": "On the bus there are seats for disabled people.",
+          "distractors": [
+            "salzige",
+            "hölzerne",
+            "gestreifte"
+          ]
+        }
+      }
+    ]
+  },
+  "behoerde": {
+    "senses": [
+      {
+        "zh": "政府機關；主管機關",
+        "en": "authority, public office",
+        "ex": {
+          "de": "Für den Reisepass müssen Sie zur zuständigen {Behörde} gehen.",
+          "zh": "辦護照要去負責的機關。",
+          "en": "For the passport you have to go to the responsible authority.",
+          "distractors": [
+            "Wiese",
+            "Birne",
+            "Tonne"
+          ]
+        }
+      }
+    ]
+  },
+  "bei": {
+    "senses": [
+      {
+        "zh": "在…（某人）家；在…那裡",
+        "en": "at, with, near",
+        "ex": {
+          "de": "Meine Oma wohnt {bei} uns im Erdgeschoss.",
+          "zh": "我奶奶住在我們家一樓。",
+          "en": "My grandma lives with us on the ground floor.",
+          "distractors": [
+            "zu",
+            "nach",
+            "aus"
+          ]
+        }
+      }
+    ]
+  },
+  "beid": {
+    "senses": [
+      {
+        "zh": "兩個的；雙方的",
+        "en": "both, the two",
+        "ex": {
+          "de": "Meine {beiden} Brüder spielen gern Fußball.",
+          "zh": "我的兩個哥哥都喜歡踢足球。",
+          "en": "My two brothers both like playing football.",
+          "distractors": [
+            "keinen",
+            "solchen",
+            "jenen"
+          ]
+        }
+      }
+    ]
+  }
+}

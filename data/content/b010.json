@@ -1,0 +1,902 @@
+{
+  "bein": {
+    "senses": [
+      {
+        "zh": "腿；腳",
+        "en": "leg",
+        "ex": {
+          "de": "Ich habe mir beim Fußball das {Bein} verletzt.",
+          "zh": "我踢足球時傷到了腿。",
+          "en": "I hurt my leg playing football.",
+          "distractors": [
+            "Radio",
+            "Messer",
+            "Heft"
+          ]
+        }
+      }
+    ]
+  },
+  "beispiel": {
+    "senses": [
+      {
+        "zh": "例子；範例",
+        "en": "example",
+        "ex": {
+          "de": "Der Lehrer erklärt die Regel mit einem {Beispiel}.",
+          "zh": "老師用一個例子來說明規則。",
+          "en": "The teacher explains the rule with an example.",
+          "distractors": [
+            "Fenster",
+            "Eis",
+            "Fahrrad"
+          ]
+        }
+      }
+    ]
+  },
+  "beissen": {
+    "senses": [
+      {
+        "zh": "咬",
+        "en": "to bite",
+        "ex": {
+          "de": "Keine Angst, mein Hund will dich nicht {beißen}.",
+          "zh": "別怕，我的狗不會咬你。",
+          "en": "Don't worry, my dog won't bite you.",
+          "distractors": [
+            "reparieren",
+            "bügeln",
+            "kochen"
+          ]
+        }
+      }
+    ]
+  },
+  "beitrag": {
+    "senses": [
+      {
+        "zh": "文章；貢獻；會費",
+        "en": "contribution, article",
+        "ex": {
+          "de": "Jeder Schüler schreibt einen {Beitrag} für die Schulzeitung.",
+          "zh": "每個學生都為校刊寫一篇文章。",
+          "en": "Every pupil writes a piece for the school newspaper.",
+          "distractors": [
+            "Schrank",
+            "Löffel",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "bekannt": {
+    "senses": [
+      {
+        "zh": "有名的；知名的",
+        "en": "well-known, famous",
+        "ex": {
+          "de": "Dieser Sänger ist in ganz Europa {bekannt}.",
+          "zh": "這位歌手在整個歐洲都很有名。",
+          "en": "This singer is well known all over Europe.",
+          "distractors": [
+            "salzig",
+            "rund",
+            "nass"
+          ]
+        }
+      }
+    ]
+  },
+  "bekannte": {
+    "senses": [
+      {
+        "zh": "（男性）熟人",
+        "en": "acquaintance (male)",
+        "ex": {
+          "de": "Ich schenke meinem {Bekannten} ein Buch zum Abschied.",
+          "zh": "我送一本書給我的熟人當作道別禮物。",
+          "en": "I give my acquaintance a book as a farewell present.",
+          "distractors": [
+            "Löwen",
+            "Hasen",
+            "Affen"
+          ]
+        }
+      }
+    ]
+  },
+  "bekannte-2": {
+    "senses": [
+      {
+        "zh": "（女性）熟人",
+        "en": "acquaintance (female)",
+        "ex": {
+          "de": "Eine {Bekannte} von mir arbeitet als Ärztin.",
+          "zh": "我有一位熟人是醫生。",
+          "en": "An acquaintance of mine works as a doctor.",
+          "distractors": [
+            "Lampe",
+            "Tasche",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "bekannt-geben": {
+    "senses": [
+      {
+        "zh": "公布；宣布",
+        "en": "to announce",
+        "ex": {
+          "de": "Die Schule will bald den neuen Direktor {bekannt geben}.",
+          "zh": "學校很快就要公布新校長是誰。",
+          "en": "The school wants to announce the new head teacher soon.",
+          "distractors": [
+            "füttern",
+            "parken",
+            "backen"
+          ]
+        }
+      }
+    ]
+  },
+  "bekannt-2": {
+    "senses": [
+      {
+        "zh": "眼熟的；熟悉的",
+        "en": "familiar",
+        "ex": {
+          "de": "Der Name kommt mir irgendwie {bekannt} vor.",
+          "zh": "這個名字我覺得有點耳熟。",
+          "en": "The name seems somehow familiar to me.",
+          "distractors": [
+            "eckig",
+            "kalt",
+            "schmal"
+          ]
+        }
+      }
+    ]
+  },
+  "bekannt-gegeben": {
+    "senses": [
+      {
+        "zh": "被公布；被宣布（第二分詞）",
+        "en": "announced",
+        "ex": {
+          "de": "Der neue Termin wurde heute Morgen {bekannt gegeben}.",
+          "zh": "新的日期今天早上公布了。",
+          "en": "The new date was announced this morning.",
+          "distractors": [
+            "gewaschen",
+            "gebacken",
+            "gegessen"
+          ]
+        }
+      }
+    ]
+  },
+  "bekommen": {
+    "senses": [
+      {
+        "zh": "得到；收到",
+        "en": "to get, receive",
+        "ex": {
+          "de": "Zum Geburtstag habe ich ein Fahrrad {bekommen}.",
+          "zh": "生日時我收到了一輛腳踏車。",
+          "en": "For my birthday I got a bicycle.",
+          "distractors": [
+            "gelacht",
+            "gegessen",
+            "geschlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "beleg": {
+    "senses": [
+      {
+        "zh": "收據；憑證",
+        "en": "receipt, proof",
+        "ex": {
+          "de": "Ohne {Beleg} kann ich die Hose nicht umtauschen.",
+          "zh": "沒有收據我沒辦法換褲子。",
+          "en": "Without a receipt I can't exchange the trousers.",
+          "distractors": [
+            "Hunger",
+            "Regen",
+            "Schnee"
+          ]
+        }
+      }
+    ]
+  },
+  "beleidigen": {
+    "senses": [
+      {
+        "zh": "侮辱；冒犯",
+        "en": "to insult",
+        "ex": {
+          "de": "Du darfst andere Leute nicht {beleidigen}.",
+          "zh": "你不可以侮辱別人。",
+          "en": "You must not insult other people.",
+          "distractors": [
+            "tapezieren",
+            "wiegen",
+            "düngen"
+          ]
+        }
+      }
+    ]
+  },
+  "beliebt": {
+    "senses": [
+      {
+        "zh": "受歡迎的",
+        "en": "popular",
+        "ex": {
+          "de": "Dieser Strand ist im Sommer sehr {beliebt}.",
+          "zh": "這個海灘在夏天非常受歡迎。",
+          "en": "This beach is very popular in summer.",
+          "distractors": [
+            "hohl",
+            "eckig",
+            "spitz"
+          ]
+        }
+      }
+    ]
+  },
+  "bemerken": {
+    "senses": [
+      {
+        "zh": "注意到；察覺",
+        "en": "to notice",
+        "ex": {
+          "de": "Hast du den Fehler im Text nicht {bemerkt}?",
+          "zh": "你沒注意到文章裡的錯誤嗎？",
+          "en": "Didn't you notice the mistake in the text?",
+          "distractors": [
+            "gegossen",
+            "geschält",
+            "getrocknet"
+          ]
+        }
+      }
+    ]
+  },
+  "bemuehen": {
+    "senses": [
+      {
+        "zh": "努力；盡力",
+        "en": "to make an effort",
+        "ex": {
+          "de": "Ich will mich {bemühen}, morgen pünktlich zu sein.",
+          "zh": "我會努力明天準時到。",
+          "en": "I will try hard to be on time tomorrow.",
+          "distractors": [
+            "erkälten",
+            "verlaufen",
+            "verspäten"
+          ]
+        }
+      }
+    ]
+  },
+  "benoetigen": {
+    "senses": [
+      {
+        "zh": "需要",
+        "en": "to need, require",
+        "ex": {
+          "de": "Für das Formular {benötigen} Sie bitte Ihren Pass.",
+          "zh": "填這份表格請您準備護照。",
+          "en": "For the form you need your passport, please.",
+          "distractors": [
+            "waschen",
+            "pflanzen",
+            "heizen"
+          ]
+        }
+      }
+    ]
+  },
+  "benutzen": {
+    "senses": [
+      {
+        "zh": "使用",
+        "en": "to use",
+        "ex": {
+          "de": "Darf ich kurz dein Handy {benutzen}?",
+          "zh": "我可以借用一下你的手機嗎？",
+          "en": "May I use your phone for a moment?",
+          "distractors": [
+            "essen",
+            "impfen",
+            "pflücken"
+          ]
+        }
+      }
+    ]
+  },
+  "benzin": {
+    "senses": [
+      {
+        "zh": "汽油",
+        "en": "petrol, gasoline",
+        "ex": {
+          "de": "Ich muss unterwegs noch {Benzin} tanken.",
+          "zh": "我路上還得加油。",
+          "en": "I still have to buy petrol on the way.",
+          "distractors": [
+            "Brot",
+            "Obst",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "beobachten": {
+    "senses": [
+      {
+        "zh": "觀察；注意看",
+        "en": "to observe, watch",
+        "ex": {
+          "de": "Am Wochenende wollen wir Vögel im Park {beobachten}.",
+          "zh": "週末我們想在公園裡觀察鳥。",
+          "en": "At the weekend we want to watch birds in the park.",
+          "distractors": [
+            "backen",
+            "stricken",
+            "waschen"
+          ]
+        }
+      }
+    ]
+  },
+  "bequem": {
+    "senses": [
+      {
+        "zh": "舒服的；舒適的",
+        "en": "comfortable",
+        "ex": {
+          "de": "Dieses Sofa ist sehr {bequem}.",
+          "zh": "這張沙發非常舒服。",
+          "en": "This sofa is very comfortable.",
+          "distractors": [
+            "hungrig",
+            "pünktlich",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "beraten": {
+    "senses": [
+      {
+        "zh": "提供建議；諮詢",
+        "en": "to advise",
+        "ex": {
+          "de": "Der Verkäufer hat uns gut {beraten}.",
+          "zh": "店員給了我們很好的建議。",
+          "en": "The shop assistant advised us well.",
+          "distractors": [
+            "gebellt",
+            "geschält",
+            "gegähnt"
+          ]
+        }
+      }
+    ]
+  },
+  "beratung": {
+    "senses": [
+      {
+        "zh": "諮詢；建議",
+        "en": "advice, consultation",
+        "ex": {
+          "de": "Die {Beratung} im Reisebüro war kostenlos.",
+          "zh": "旅行社的諮詢是免費的。",
+          "en": "The consultation at the travel agency was free.",
+          "distractors": [
+            "Hose",
+            "Kerze",
+            "Uhr"
+          ]
+        }
+      }
+    ]
+  },
+  "bereich": {
+    "senses": [
+      {
+        "zh": "領域；區域",
+        "en": "area, field",
+        "ex": {
+          "de": "In diesem {Bereich} der Stadt gibt es viele Parks.",
+          "zh": "城市的這一區有很多公園。",
+          "en": "In this area of the city there are many parks.",
+          "distractors": [
+            "Zucker",
+            "Regenschirm",
+            "Pullover"
+          ]
+        }
+      }
+    ]
+  },
+  "bereit": {
+    "senses": [
+      {
+        "zh": "準備好的",
+        "en": "ready, prepared",
+        "ex": {
+          "de": "Bist du schon {bereit} für die Prüfung?",
+          "zh": "你已經準備好考試了嗎？",
+          "en": "Are you ready for the exam yet?",
+          "distractors": [
+            "gelb",
+            "dünn",
+            "blass"
+          ]
+        }
+      }
+    ]
+  },
+  "berg": {
+    "senses": [
+      {
+        "zh": "山",
+        "en": "mountain",
+        "ex": {
+          "de": "Im Urlaub sind wir auf einen hohen {Berg} gestiegen.",
+          "zh": "度假時我們爬上了一座高山。",
+          "en": "On holiday we climbed a high mountain.",
+          "distractors": [
+            "Teller",
+            "Kühlschrank",
+            "Briefkasten"
+          ]
+        }
+      }
+    ]
+  },
+  "berichten": {
+    "senses": [
+      {
+        "zh": "報導；報告",
+        "en": "to report",
+        "ex": {
+          "de": "Die Zeitung will morgen über den Unfall {berichten}.",
+          "zh": "報紙明天要報導這起意外。",
+          "en": "The newspaper wants to report on the accident tomorrow.",
+          "distractors": [
+            "tanzen",
+            "wachsen",
+            "niesen"
+          ]
+        }
+      }
+    ]
+  },
+  "bericht": {
+    "senses": [
+      {
+        "zh": "報告；報導",
+        "en": "report",
+        "ex": {
+          "de": "Ich lese gern den {Bericht} über die Reise.",
+          "zh": "我喜歡讀那篇旅行報導。",
+          "en": "I like reading the report about the trip.",
+          "distractors": [
+            "Apfel",
+            "Zug",
+            "Stuhl"
+          ]
+        }
+      }
+    ]
+  },
+  "beruf": {
+    "senses": [
+      {
+        "zh": "職業",
+        "en": "job, profession",
+        "ex": {
+          "de": "Was ist Ihr {Beruf}, Herr Müller?",
+          "zh": "穆勒先生，您的職業是什麼？",
+          "en": "What is your profession, Mr Müller?",
+          "distractors": [
+            "Tisch",
+            "Fisch",
+            "Garten"
+          ]
+        }
+      }
+    ]
+  },
+  "beruflich": {
+    "senses": [
+      {
+        "zh": "工作上；職業上",
+        "en": "professionally, for work",
+        "ex": {
+          "de": "Ich fahre morgen {beruflich} nach Berlin.",
+          "zh": "我明天因公去柏林。",
+          "en": "Tomorrow I am travelling to Berlin for work.",
+          "distractors": [
+            "gestern",
+            "vorgestern",
+            "damals"
+          ]
+        }
+      }
+    ]
+  },
+  "berufstaetig": {
+    "senses": [
+      {
+        "zh": "有工作的；在職的",
+        "en": "employed, working",
+        "ex": {
+          "de": "Meine Mutter ist noch {berufstätig}, mein Vater nicht mehr.",
+          "zh": "我媽媽還在工作，我爸爸則已經退休。",
+          "en": "My mother is still working, my father no longer.",
+          "distractors": [
+            "kariert",
+            "glatt",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "beruhigen": {
+    "senses": [
+      {
+        "zh": "使平靜；安撫",
+        "en": "to calm down",
+        "ex": {
+          "de": "Die Musik soll das Baby {beruhigen}.",
+          "zh": "這音樂是要讓寶寶安靜下來。",
+          "en": "The music is supposed to calm the baby.",
+          "distractors": [
+            "falten",
+            "lochen",
+            "verzollen"
+          ]
+        }
+      }
+    ]
+  },
+  "beruehmt": {
+    "senses": [
+      {
+        "zh": "著名的",
+        "en": "famous",
+        "ex": {
+          "de": "Paris ist {berühmt} für seinen Eiffelturm.",
+          "zh": "巴黎以艾菲爾鐵塔聞名。",
+          "en": "Paris is famous for its Eiffel Tower.",
+          "distractors": [
+            "feucht",
+            "dünn",
+            "blass"
+          ]
+        }
+      }
+    ]
+  },
+  "beschaedigen": {
+    "senses": [
+      {
+        "zh": "損壞；弄壞",
+        "en": "to damage",
+        "ex": {
+          "de": "Der Sturm hat das Dach schwer {beschädigt}.",
+          "zh": "暴風雨嚴重損壞了屋頂。",
+          "en": "The storm badly damaged the roof.",
+          "distractors": [
+            "gesungen",
+            "gewartet",
+            "geniest"
+          ]
+        }
+      }
+    ]
+  },
+  "beschaeftigen": {
+    "senses": [
+      {
+        "zh": "使忙碌；使費神；雇用",
+        "en": "to occupy, keep busy",
+        "ex": {
+          "de": "Das Problem {beschäftigt} mich schon seit Tagen.",
+          "zh": "這個問題已經讓我煩惱好幾天了。",
+          "en": "The problem has been on my mind for days.",
+          "distractors": [
+            "kocht",
+            "wäscht",
+            "bellt"
+          ]
+        }
+      }
+    ]
+  },
+  "beschaeftigung": {
+    "senses": [
+      {
+        "zh": "活動；消遣；工作",
+        "en": "activity, occupation",
+        "ex": {
+          "de": "Gärtnern ist meine liebste {Beschäftigung} am Wochenende.",
+          "zh": "種花草是我週末最喜歡的消遣。",
+          "en": "Gardening is my favourite activity at the weekend.",
+          "distractors": [
+            "Banane",
+            "Mütze",
+            "Bluse"
+          ]
+        }
+      }
+    ]
+  },
+  "bescheid": {
+    "senses": [
+      {
+        "zh": "答覆；通知",
+        "en": "notice, answer",
+        "ex": {
+          "de": "Ich habe vom Amt noch keinen {Bescheid} bekommen.",
+          "zh": "我還沒收到機關的通知。",
+          "en": "I haven't had any notice from the office yet.",
+          "distractors": [
+            "Wald",
+            "Bahnhof",
+            "Fluss"
+          ]
+        }
+      }
+    ]
+  },
+  "bescheid-sagen": {
+    "senses": [
+      {
+        "zh": "通知；告知",
+        "en": "to let someone know",
+        "ex": {
+          "de": "Kannst du mir bitte kurz {Bescheid sagen}?",
+          "zh": "你可以簡短地通知我一下嗎？",
+          "en": "Can you let me know briefly, please?",
+          "distractors": [
+            "Zähne putzen",
+            "Wäsche waschen",
+            "Gitarre spielen"
+          ]
+        }
+      }
+    ]
+  },
+  "bescheid-geben": {
+    "senses": [
+      {
+        "zh": "通知；回覆",
+        "en": "to let someone know",
+        "ex": {
+          "de": "Wir werden dir morgen {Bescheid geben}.",
+          "zh": "我們明天會通知你。",
+          "en": "We will let you know tomorrow.",
+          "distractors": [
+            "Hunger haben",
+            "Durst haben",
+            "Kopfweh haben"
+          ]
+        }
+      }
+    ]
+  },
+  "beschliessen": {
+    "senses": [
+      {
+        "zh": "決定",
+        "en": "to decide",
+        "ex": {
+          "de": "Wir haben {beschlossen}, im Sommer nach Italien zu fahren.",
+          "zh": "我們決定夏天去義大利。",
+          "en": "We decided to go to Italy in the summer.",
+          "distractors": [
+            "getanzt",
+            "gelächelt",
+            "gehustet"
+          ]
+        }
+      }
+    ]
+  },
+  "beschraenken": {
+    "senses": [
+      {
+        "zh": "限制；限定",
+        "en": "to limit, restrict",
+        "ex": {
+          "de": "Bitte {beschränken} Sie Ihren Text auf eine Seite.",
+          "zh": "請把您的文章限制在一頁以內。",
+          "en": "Please limit your text to one page.",
+          "distractors": [
+            "wiegen",
+            "tanken",
+            "rasieren"
+          ]
+        }
+      }
+    ]
+  },
+  "beschreiben": {
+    "senses": [
+      {
+        "zh": "描述；說明",
+        "en": "to describe",
+        "ex": {
+          "de": "Der Zeuge soll den Dieb genau {beschreiben}.",
+          "zh": "證人必須把小偷的長相仔細描述出來。",
+          "en": "The witness is supposed to describe the thief exactly.",
+          "distractors": [
+            "essen",
+            "trinken",
+            "backen"
+          ]
+        }
+      }
+    ]
+  },
+  "beschreibung": {
+    "senses": [
+      {
+        "zh": "描述；說明",
+        "en": "description",
+        "ex": {
+          "de": "Die {Beschreibung} im Katalog ist nicht genau.",
+          "zh": "目錄裡的說明不太精確。",
+          "en": "The description in the catalogue is not exact.",
+          "distractors": [
+            "Kartoffel",
+            "Brille",
+            "Bluse"
+          ]
+        }
+      }
+    ]
+  },
+  "beschweren": {
+    "senses": [
+      {
+        "zh": "抱怨；投訴",
+        "en": "to complain",
+        "ex": {
+          "de": "Ich werde mich bei dem Hotel {beschweren}.",
+          "zh": "我要向這家飯店投訴。",
+          "en": "I'm going to complain to the hotel.",
+          "distractors": [
+            "rasieren",
+            "verlieben",
+            "kämmen"
+          ]
+        }
+      }
+    ]
+  },
+  "besetzen": {
+    "senses": [
+      {
+        "zh": "佔用；填補（職缺）",
+        "en": "to occupy, fill",
+        "ex": {
+          "de": "Die Firma will die Stelle bald neu {besetzen}.",
+          "zh": "公司想盡快重新補上這個職缺。",
+          "en": "The company wants to fill the position again soon.",
+          "distractors": [
+            "düngen",
+            "kochen",
+            "streicheln"
+          ]
+        }
+      }
+    ]
+  },
+  "besichtigen": {
+    "senses": [
+      {
+        "zh": "參觀；遊覽",
+        "en": "to visit, tour",
+        "ex": {
+          "de": "Morgen wollen wir das alte Schloss {besichtigen}.",
+          "zh": "明天我們想參觀那座古老的城堡。",
+          "en": "Tomorrow we want to visit the old castle.",
+          "distractors": [
+            "anziehen",
+            "rasieren",
+            "verschlucken"
+          ]
+        }
+      }
+    ]
+  },
+  "besitzen": {
+    "senses": [
+      {
+        "zh": "擁有",
+        "en": "to own, possess",
+        "ex": {
+          "de": "Mein Onkel {besitzt} ein kleines Haus am See.",
+          "zh": "我叔叔在湖邊擁有一間小房子。",
+          "en": "My uncle owns a small house by the lake.",
+          "distractors": [
+            "pflückt",
+            "trinkt",
+            "schält"
+          ]
+        }
+      }
+    ]
+  },
+  "besonder": {
+    "senses": [
+      {
+        "zh": "特別的；特殊的",
+        "en": "special, particular",
+        "ex": {
+          "de": "Heute ist ein {besonderer} Tag für uns.",
+          "zh": "今天對我們來說是特別的一天。",
+          "en": "Today is a special day for us.",
+          "distractors": [
+            "dünner",
+            "spitzer",
+            "hohler"
+          ]
+        }
+      }
+    ]
+  },
+  "besonders": {
+    "senses": [
+      {
+        "zh": "特別地；尤其",
+        "en": "especially",
+        "ex": {
+          "de": "Die Suppe schmeckt heute {besonders} gut.",
+          "zh": "這碗湯今天特別好喝。",
+          "en": "The soup tastes especially good today.",
+          "distractors": [
+            "gestern",
+            "hierher",
+            "irgendwo"
+          ]
+        }
+      }
+    ]
+  },
+  "besprechen": {
+    "senses": [
+      {
+        "zh": "討論；商議",
+        "en": "to discuss",
+        "ex": {
+          "de": "Wir müssen den Plan morgen noch {besprechen}.",
+          "zh": "我們明天還得討論這個計畫。",
+          "en": "We still have to discuss the plan tomorrow.",
+          "distractors": [
+            "anbauen",
+            "verzollen",
+            "schälen"
+          ]
+        }
+      }
+    ]
+  }
+}

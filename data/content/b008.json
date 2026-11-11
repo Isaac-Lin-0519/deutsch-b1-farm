@@ -1,0 +1,958 @@
+{
+  "ausland": {
+    "senses": [
+      {
+        "zh": "國外",
+        "en": "abroad, foreign countries",
+        "ex": {
+          "de": "Meine Tante arbeitet seit Jahren im {Ausland}.",
+          "zh": "我阿姨已經在國外工作好幾年了。",
+          "en": "My aunt has been working abroad for years.",
+          "distractors": [
+            "Fenster",
+            "Messer",
+            "Hemd"
+          ]
+        }
+      }
+    ]
+  },
+  "auslaender": {
+    "senses": [
+      {
+        "zh": "外國人",
+        "en": "foreigner",
+        "ex": {
+          "de": "Als {Ausländer} brauche ich hier eine Aufenthaltserlaubnis.",
+          "zh": "身為外國人，我在這裡需要居留許可。",
+          "en": "As a foreigner I need a residence permit here.",
+          "distractors": [
+            "Hammer",
+            "Teller",
+            "Becher"
+          ]
+        }
+      }
+    ]
+  },
+  "auslaenderin": {
+    "senses": [
+      {
+        "zh": "外國女子",
+        "en": "foreigner (female)",
+        "ex": {
+          "de": "Die {Ausländerin} spricht schon sehr gut Deutsch.",
+          "zh": "那位外國女士的德語已經說得很好了。",
+          "en": "The foreign woman already speaks very good German.",
+          "distractors": [
+            "Lampe",
+            "Kerze",
+            "Tasse"
+          ]
+        }
+      }
+    ]
+  },
+  "auslaendisch": {
+    "senses": [
+      {
+        "zh": "外國的",
+        "en": "foreign",
+        "ex": {
+          "de": "Im Supermarkt gibt es viele {ausländische} Produkte.",
+          "zh": "超市裡有很多外國產品。",
+          "en": "The supermarket has many foreign products.",
+          "distractors": [
+            "müde",
+            "freundliche",
+            "verheiratete"
+          ]
+        }
+      }
+    ]
+  },
+  "ausmachen": {
+    "senses": [
+      {
+        "zh": "關（燈、機器）",
+        "en": "to turn off, switch off",
+        "ex": {
+          "de": "Kannst du bitte das Licht {ausmachen}?",
+          "zh": "你可以把燈關掉嗎？",
+          "en": "Can you please turn off the light?",
+          "distractors": [
+            "aufessen",
+            "abwaschen",
+            "einpacken"
+          ]
+        }
+      },
+      {
+        "zh": "約定；談妥",
+        "en": "to arrange, agree on",
+        "ex": {
+          "de": "Wir haben schon einen Termin für Montag {ausgemacht}.",
+          "zh": "我們已經約好星期一的時間了。",
+          "en": "We have already arranged an appointment for Monday.",
+          "distractors": [
+            "gegessen",
+            "gesungen",
+            "gekocht"
+          ]
+        }
+      }
+    ]
+  },
+  "ausnahme": {
+    "senses": [
+      {
+        "zh": "例外",
+        "en": "exception",
+        "ex": {
+          "de": "Heute ist eine {Ausnahme}: Du darfst länger aufbleiben.",
+          "zh": "今天是個例外：你可以晚一點睡。",
+          "en": "Today is an exception: you may stay up later.",
+          "distractors": [
+            "Tüte",
+            "Kerze",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "ausreichen": {
+    "senses": [
+      {
+        "zh": "足夠",
+        "en": "to be enough, suffice",
+        "ex": {
+          "de": "Das Geld wird bis Freitag nicht {ausreichen}.",
+          "zh": "這些錢撐不到星期五。",
+          "en": "The money won't last until Friday.",
+          "distractors": [
+            "einschlafen",
+            "aufwachen",
+            "abfahren"
+          ]
+        }
+      }
+    ]
+  },
+  "ausreichend": {
+    "senses": [
+      {
+        "zh": "足夠的",
+        "en": "sufficient",
+        "ex": {
+          "de": "Wir haben {ausreichende} Vorräte für drei Tage.",
+          "zh": "我們有足夠三天用的存糧。",
+          "en": "We have sufficient supplies for three days.",
+          "distractors": [
+            "durstige",
+            "verliebte",
+            "schlafende"
+          ]
+        }
+      }
+    ]
+  },
+  "ausrichten": {
+    "senses": [
+      {
+        "zh": "轉告；傳達",
+        "en": "to pass on (a message)",
+        "ex": {
+          "de": "Kannst du ihm bitte {ausrichten}, dass ich später komme?",
+          "zh": "你可以幫我轉告他我會晚點到嗎？",
+          "en": "Can you please tell him that I'll be late?",
+          "distractors": [
+            "bezahlen",
+            "fotografieren",
+            "aufräumen"
+          ]
+        }
+      }
+    ]
+  },
+  "ausruhen": {
+    "senses": [
+      {
+        "zh": "休息",
+        "en": "to rest",
+        "ex": {
+          "de": "Nach dem Marathon muss ich mich lange {ausruhen}.",
+          "zh": "跑完馬拉松後，我得好好休息很久。",
+          "en": "After the marathon I have to rest for a long time.",
+          "distractors": [
+            "verlaufen",
+            "verlieben",
+            "verirren"
+          ]
+        }
+      }
+    ]
+  },
+  "ausschliessen": {
+    "senses": [
+      {
+        "zh": "排除；排斥",
+        "en": "to rule out, exclude",
+        "ex": {
+          "de": "Ich kann einen Irrtum nicht völlig {ausschließen}.",
+          "zh": "我無法完全排除弄錯的可能。",
+          "en": "I can't completely rule out a mistake.",
+          "distractors": [
+            "übersetzen",
+            "einladen",
+            "bügeln"
+          ]
+        }
+      }
+    ]
+  },
+  "ausschliesslich": {
+    "senses": [
+      {
+        "zh": "僅僅；專門",
+        "en": "exclusively",
+        "ex": {
+          "de": "Der Laden verkauft {ausschließlich} Bio-Produkte.",
+          "zh": "這家店只賣有機產品。",
+          "en": "The shop sells only organic products.",
+          "distractors": [
+            "hierher",
+            "dorthin",
+            "bergauf"
+          ]
+        }
+      }
+    ]
+  },
+  "aussehen": {
+    "senses": [
+      {
+        "zh": "看起來",
+        "en": "to look (like), appear",
+        "ex": {
+          "de": "Der Kuchen soll genauso lecker {aussehen} wie er schmeckt.",
+          "zh": "這個蛋糕看起來要和吃起來一樣美味。",
+          "en": "The cake should look as tasty as it tastes.",
+          "distractors": [
+            "abbiegen",
+            "einziehen",
+            "zumachen"
+          ]
+        }
+      }
+    ]
+  },
+  "aussen": {
+    "senses": [
+      {
+        "zh": "外面；外側",
+        "en": "outside",
+        "ex": {
+          "de": "Die Tür ist {außen} grün und innen weiß.",
+          "zh": "這扇門外面是綠色的，裡面是白色的。",
+          "en": "The door is green on the outside and white inside.",
+          "distractors": [
+            "gestern",
+            "bitte",
+            "später"
+          ]
+        }
+      }
+    ]
+  },
+  "ausserhalb": {
+    "senses": [
+      {
+        "zh": "在…之外",
+        "en": "outside of",
+        "ex": {
+          "de": "Wir wohnen {außerhalb} der Stadt auf dem Land.",
+          "zh": "我們住在城外的鄉下。",
+          "en": "We live outside the city in the country.",
+          "distractors": [
+            "wegen",
+            "trotz",
+            "während"
+          ]
+        }
+      }
+    ]
+  },
+  "aeusserlich": {
+    "senses": [
+      {
+        "zh": "外表的；外在的",
+        "en": "external, outward",
+        "ex": {
+          "de": "Er hat eine {äußerliche} Verletzung am Arm.",
+          "zh": "他的手臂上有一處外傷。",
+          "en": "He has an external injury on his arm.",
+          "distractors": [
+            "hungrige",
+            "fröhliche",
+            "sonnige"
+          ]
+        }
+      }
+    ]
+  },
+  "ausser": {
+    "senses": [
+      {
+        "zh": "除了…之外",
+        "en": "except, apart from",
+        "ex": {
+          "de": "{Außer} mir hat niemand die Aufgabe gemacht.",
+          "zh": "除了我之外，沒有人做功課。",
+          "en": "Apart from me, nobody did the homework.",
+          "distractors": [
+            "Seit",
+            "Aus",
+            "Zu"
+          ]
+        }
+      }
+    ]
+  },
+  "ausserdem": {
+    "senses": [
+      {
+        "zh": "此外；而且",
+        "en": "besides, in addition",
+        "ex": {
+          "de": "Das Zimmer ist hell, {außerdem} ist es sehr günstig.",
+          "zh": "這個房間很明亮，而且還很便宜。",
+          "en": "The room is bright; besides, it is very cheap.",
+          "distractors": [
+            "gestern",
+            "hierher",
+            "vorhin"
+          ]
+        }
+      }
+    ]
+  },
+  "aussicht": {
+    "senses": [
+      {
+        "zh": "景色；視野",
+        "en": "view",
+        "ex": {
+          "de": "Vom Balkon aus hat man eine tolle {Aussicht}.",
+          "zh": "從陽台上可以看到很棒的景色。",
+          "en": "From the balcony you have a great view.",
+          "distractors": [
+            "Steckdose",
+            "Zahnbürste",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "aussprechen": {
+    "senses": [
+      {
+        "zh": "發音",
+        "en": "to pronounce",
+        "ex": {
+          "de": "Wie soll ich dieses Wort richtig {aussprechen}?",
+          "zh": "這個字我該怎麼念才對？",
+          "en": "How should I pronounce this word correctly?",
+          "distractors": [
+            "umsteigen",
+            "aufwachen",
+            "einziehen"
+          ]
+        }
+      }
+    ]
+  },
+  "ausstellen": {
+    "senses": [
+      {
+        "zh": "開立（文件）",
+        "en": "to issue (a document)",
+        "ex": {
+          "de": "Das Amt kann Ihnen morgen einen neuen Pass {ausstellen}.",
+          "zh": "機關明天可以開一本新護照給您。",
+          "en": "The office can issue you a new passport tomorrow.",
+          "distractors": [
+            "aufessen",
+            "anrufen",
+            "einladen"
+          ]
+        }
+      }
+    ]
+  },
+  "ausstellung": {
+    "senses": [
+      {
+        "zh": "展覽",
+        "en": "exhibition",
+        "ex": {
+          "de": "Wir haben die {Ausstellung} im Museum zwei Stunden lang besucht.",
+          "zh": "我們在博物館的展覽逛了兩個小時。",
+          "en": "We spent two hours visiting the exhibition at the museum.",
+          "distractors": [
+            "Wäsche",
+            "Steckdose",
+            "Kirsche"
+          ]
+        }
+      }
+    ]
+  },
+  "aussuchen": {
+    "senses": [
+      {
+        "zh": "挑選；選出",
+        "en": "to pick, choose",
+        "ex": {
+          "de": "Du darfst dir heute das Eis selbst {aussuchen}.",
+          "zh": "今天冰淇淋可以自己挑。",
+          "en": "Today you may choose the ice cream yourself.",
+          "distractors": [
+            "anziehen",
+            "einschlafen",
+            "abbiegen"
+          ]
+        }
+      }
+    ]
+  },
+  "auswaehlen": {
+    "senses": [
+      {
+        "zh": "選擇；挑選",
+        "en": "to select",
+        "ex": {
+          "de": "Hier können Sie Ihr Menü am Bildschirm {auswählen}.",
+          "zh": "在這裡您可以在螢幕上選擇套餐。",
+          "en": "Here you can select your meal on the screen.",
+          "distractors": [
+            "einschlafen",
+            "losfahren",
+            "aussteigen"
+          ]
+        }
+      }
+    ]
+  },
+  "auswahl": {
+    "senses": [
+      {
+        "zh": "選擇；種類",
+        "en": "selection, choice",
+        "ex": {
+          "de": "Im Café gibt es eine große {Auswahl} an Kuchen.",
+          "zh": "這間咖啡店有很多種蛋糕可以選。",
+          "en": "The café has a large selection of cakes.",
+          "distractors": [
+            "Zahnbürste",
+            "Gardine",
+            "Schaufel"
+          ]
+        }
+      }
+    ]
+  },
+  "ausweis": {
+    "senses": [
+      {
+        "zh": "身分證件",
+        "en": "ID card",
+        "ex": {
+          "de": "Ohne gültigen {Ausweis} darf man nicht ins Ausland reisen.",
+          "zh": "沒有有效證件就不能出國。",
+          "en": "Without a valid ID you can't travel abroad.",
+          "distractors": [
+            "Pullover",
+            "Löffel",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "ausziehen": {
+    "senses": [
+      {
+        "zh": "脫（衣服、鞋子）",
+        "en": "to take off (clothes)",
+        "ex": {
+          "de": "Du musst im Haus die Schuhe {ausziehen}.",
+          "zh": "進到屋子裡你得把鞋子脫掉。",
+          "en": "You have to take your shoes off in the house.",
+          "distractors": [
+            "aufessen",
+            "anrufen",
+            "vorlesen"
+          ]
+        }
+      },
+      {
+        "zh": "搬出去",
+        "en": "to move out",
+        "ex": {
+          "de": "Mit achtzehn möchte ich von zu Hause {ausziehen}.",
+          "zh": "十八歲時我想從家裡搬出去。",
+          "en": "At eighteen I want to move out of my parents' home.",
+          "distractors": [
+            "zuhören",
+            "zerbrechen",
+            "abwaschen"
+          ]
+        }
+      }
+    ]
+  },
+  "auto": {
+    "senses": [
+      {
+        "zh": "汽車",
+        "en": "car",
+        "ex": {
+          "de": "Mein {Auto} steht seit gestern in der Garage.",
+          "zh": "我的車從昨天起就停在車庫裡。",
+          "en": "My car has been in the garage since yesterday.",
+          "distractors": [
+            "Ei",
+            "Gemüse",
+            "Wetter"
+          ]
+        }
+      }
+    ]
+  },
+  "autobahn": {
+    "senses": [
+      {
+        "zh": "高速公路",
+        "en": "motorway",
+        "ex": {
+          "de": "Auf der {Autobahn} war heute Morgen sehr viel Verkehr.",
+          "zh": "今天早上高速公路上車流量很大。",
+          "en": "There was a lot of traffic on the motorway this morning.",
+          "distractors": [
+            "Suppe",
+            "Dusche",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "automat": {
+    "senses": [
+      {
+        "zh": "自動販賣機；自動機器",
+        "en": "machine, vending machine",
+        "ex": {
+          "de": "Die Fahrkarte kannst du am {Automaten} kaufen.",
+          "zh": "車票你可以在售票機買。",
+          "en": "You can buy the ticket at the machine.",
+          "distractors": [
+            "Herd",
+            "Schrank",
+            "Rucksack"
+          ]
+        }
+      }
+    ]
+  },
+  "automatisch": {
+    "senses": [
+      {
+        "zh": "自動的",
+        "en": "automatic",
+        "ex": {
+          "de": "Die Tür geht {automatisch} auf, wenn man davorsteht.",
+          "zh": "人一站到門前，門就會自動打開。",
+          "en": "The door opens automatically when you stand in front of it.",
+          "distractors": [
+            "bunt",
+            "sauer",
+            "nackt"
+          ]
+        }
+      }
+    ]
+  },
+  "autor": {
+    "senses": [
+      {
+        "zh": "作者",
+        "en": "author",
+        "ex": {
+          "de": "Der {Autor} des Buches kommt zur Lesung.",
+          "zh": "這本書的作者會來參加朗讀會。",
+          "en": "The author of the book is coming to the reading.",
+          "distractors": [
+            "Ofen",
+            "Kamm",
+            "Hügel"
+          ]
+        }
+      }
+    ]
+  },
+  "autorin": {
+    "senses": [
+      {
+        "zh": "女作者",
+        "en": "author (female)",
+        "ex": {
+          "de": "Die {Autorin} hat ihr erstes Buch mit dreißig geschrieben.",
+          "zh": "這位作家三十歲時寫了她的第一本書。",
+          "en": "The author wrote her first book at thirty.",
+          "distractors": [
+            "Schüssel",
+            "Matratze",
+            "Pfanne"
+          ]
+        }
+      }
+    ]
+  },
+  "backen": {
+    "senses": [
+      {
+        "zh": "烘焙；烤",
+        "en": "to bake",
+        "ex": {
+          "de": "Am Sonntag wollen wir zusammen einen Kuchen {backen}.",
+          "zh": "星期天我們想一起烤個蛋糕。",
+          "en": "On Sunday we want to bake a cake together.",
+          "distractors": [
+            "schreiben",
+            "reparieren",
+            "parken"
+          ]
+        }
+      }
+    ]
+  },
+  "baeckerei": {
+    "senses": [
+      {
+        "zh": "麵包店",
+        "en": "bakery",
+        "ex": {
+          "de": "Die {Bäckerei} an der Ecke öffnet schon um sechs.",
+          "zh": "轉角的那家麵包店六點就開門了。",
+          "en": "The bakery on the corner opens at six already.",
+          "distractors": [
+            "Treppe",
+            "Schublade",
+            "Matratze"
+          ]
+        }
+      }
+    ]
+  },
+  "baden": {
+    "senses": [
+      {
+        "zh": "游泳；洗澡",
+        "en": "to bathe, swim",
+        "ex": {
+          "de": "Im Sommer können wir im See {baden}.",
+          "zh": "夏天我們可以在湖裡游泳。",
+          "en": "In summer we can swim in the lake.",
+          "distractors": [
+            "backen",
+            "bügeln",
+            "tippen"
+          ]
+        }
+      }
+    ]
+  },
+  "bad": {
+    "senses": [
+      {
+        "zh": "浴室；洗澡",
+        "en": "bathroom, bath",
+        "ex": {
+          "de": "Nach dem Sport gehe ich schnell ins {Bad}.",
+          "zh": "運動完我會趕快去洗個澡。",
+          "en": "After sports I quickly go to the bathroom.",
+          "distractors": [
+            "Ei",
+            "Messer",
+            "Hemd"
+          ]
+        }
+      }
+    ]
+  },
+  "badewanne": {
+    "senses": [
+      {
+        "zh": "浴缸",
+        "en": "bathtub",
+        "ex": {
+          "de": "Ich liege gern lange in der {Badewanne}.",
+          "zh": "我喜歡在浴缸裡泡很久。",
+          "en": "I like to lie in the bathtub for a long time.",
+          "distractors": [
+            "Kirsche",
+            "Schublade",
+            "Handtasche"
+          ]
+        }
+      }
+    ]
+  },
+  "bahn": {
+    "senses": [
+      {
+        "zh": "鐵路；火車",
+        "en": "railway, train",
+        "ex": {
+          "de": "Die {Bahn} hat heute wegen Schnee Verspätung.",
+          "zh": "因為下雪，今天火車誤點了。",
+          "en": "The train is delayed today because of snow.",
+          "distractors": [
+            "Brille",
+            "Kartoffel",
+            "Lampe"
+          ]
+        }
+      }
+    ]
+  },
+  "s-bahn": {
+    "senses": [
+      {
+        "zh": "市郊電車",
+        "en": "suburban train",
+        "ex": {
+          "de": "Mit der {S-Bahn} bin ich in zwanzig Minuten am Flughafen.",
+          "zh": "搭市郊電車，我二十分鐘就能到機場。",
+          "en": "By S-Bahn I am at the airport in twenty minutes.",
+          "distractors": [
+            "Dusche",
+            "Nudel",
+            "Hose"
+          ]
+        }
+      }
+    ]
+  },
+  "strassenbahn": {
+    "senses": [
+      {
+        "zh": "路面電車",
+        "en": "tram",
+        "ex": {
+          "de": "Die {Straßenbahn} fährt mitten durch die Altstadt.",
+          "zh": "路面電車從老城區正中間穿過。",
+          "en": "The tram runs right through the old town.",
+          "distractors": [
+            "Katze",
+            "Birne",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "u-bahn": {
+    "senses": [
+      {
+        "zh": "地鐵",
+        "en": "underground, subway",
+        "ex": {
+          "de": "Die {U-Bahn} kommt alle fünf Minuten.",
+          "zh": "地鐵每五分鐘一班。",
+          "en": "The underground comes every five minutes.",
+          "distractors": [
+            "Sonne",
+            "Zahnpasta",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "bahnhof": {
+    "senses": [
+      {
+        "zh": "火車站",
+        "en": "train station",
+        "ex": {
+          "de": "Wir treffen uns um drei am {Bahnhof}.",
+          "zh": "我們三點在火車站碰面。",
+          "en": "We're meeting at the station at three.",
+          "distractors": [
+            "Hammer",
+            "Kamm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "bahnsteig": {
+    "senses": [
+      {
+        "zh": "月台",
+        "en": "platform",
+        "ex": {
+          "de": "Der Zug nach Berlin fährt von {Bahnsteig} drei ab.",
+          "zh": "往柏林的火車從三號月台出發。",
+          "en": "The train to Berlin leaves from platform three.",
+          "distractors": [
+            "Ofen",
+            "Gürtel",
+            "Schreibtisch"
+          ]
+        }
+      }
+    ]
+  },
+  "bald": {
+    "senses": [
+      {
+        "zh": "很快；不久",
+        "en": "soon",
+        "ex": {
+          "de": "Der Winter kommt {bald}, dann wird es kalt.",
+          "zh": "冬天快到了，天氣就會變冷。",
+          "en": "Winter is coming soon, then it will get cold.",
+          "distractors": [
+            "gestern",
+            "vorhin",
+            "damals"
+          ]
+        }
+      }
+    ]
+  },
+  "balkon": {
+    "senses": [
+      {
+        "zh": "陽台",
+        "en": "balcony",
+        "ex": {
+          "de": "Auf dem {Balkon} steht ein kleiner Tisch mit Blumen.",
+          "zh": "陽台上放著一張擺了花的小桌子。",
+          "en": "On the balcony there is a small table with flowers.",
+          "distractors": [
+            "Magen",
+            "Mond",
+            "Ofen"
+          ]
+        }
+      }
+    ]
+  },
+  "ball": {
+    "senses": [
+      {
+        "zh": "球",
+        "en": "ball",
+        "ex": {
+          "de": "Die Kinder spielen im Park mit einem {Ball}.",
+          "zh": "孩子們在公園裡玩球。",
+          "en": "The children are playing with a ball in the park.",
+          "distractors": [
+            "Schrank",
+            "Zahn",
+            "Kühlschrank"
+          ]
+        }
+      },
+      {
+        "zh": "舞會",
+        "en": "ball (dance)",
+        "ex": {
+          "de": "Zum {Ball} trägt sie ein langes Kleid.",
+          "zh": "她穿著一件長禮服去參加舞會。",
+          "en": "She is wearing a long dress to the ball.",
+          "distractors": [
+            "Hammer",
+            "Zahn",
+            "Kamm"
+          ]
+        }
+      }
+    ]
+  },
+  "ballett": {
+    "senses": [
+      {
+        "zh": "芭蕾舞",
+        "en": "ballet",
+        "ex": {
+          "de": "Meine Tochter tanzt seit zwei Jahren {Ballett}.",
+          "zh": "我女兒跳芭蕾已經兩年了。",
+          "en": "My daughter has been dancing ballet for two years.",
+          "distractors": [
+            "Gemüse",
+            "Gepäck",
+            "Fleisch"
+          ]
+        }
+      }
+    ]
+  },
+  "banane": {
+    "senses": [
+      {
+        "zh": "香蕉",
+        "en": "banana",
+        "ex": {
+          "de": "Zum Frühstück esse ich meistens eine {Banane}.",
+          "zh": "早餐我大多吃一根香蕉。",
+          "en": "For breakfast I mostly eat a banana.",
+          "distractors": [
+            "Tasche",
+            "Hose",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "bank": {
+    "senses": [
+      {
+        "zh": "長椅",
+        "en": "bench",
+        "ex": {
+          "de": "Wir haben uns im Park auf eine {Bank} gesetzt.",
+          "zh": "我們在公園裡坐到一張長椅上。",
+          "en": "We sat down on a bench in the park.",
+          "distractors": [
+            "Tomate",
+            "Brille",
+            "Pfanne"
+          ]
+        }
+      },
+      {
+        "zh": "銀行",
+        "en": "bank",
+        "ex": {
+          "de": "Ich muss noch zur {Bank}, um Geld abzuheben.",
+          "zh": "我還得去銀行領錢。",
+          "en": "I still have to go to the bank to withdraw money.",
+          "distractors": [
+            "Gardine",
+            "Seife",
+            "Schüssel"
+          ]
+        }
+      }
+    ]
+  }
+}

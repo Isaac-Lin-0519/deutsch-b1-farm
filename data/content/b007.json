@@ -1,0 +1,916 @@
+{
+  "asyl": {
+    "senses": [
+      {
+        "zh": "庇護；政治庇護",
+        "en": "asylum",
+        "ex": {
+          "de": "Viele Menschen haben hier {Asyl} beantragt.",
+          "zh": "很多人在這裡申請了庇護。",
+          "en": "Many people have applied for asylum here.",
+          "distractors": [
+            "Sofa",
+            "Fahrrad",
+            "Gepäck"
+          ]
+        }
+      }
+    ]
+  },
+  "atmen": {
+    "senses": [
+      {
+        "zh": "呼吸",
+        "en": "to breathe",
+        "ex": {
+          "de": "Nach dem Lauf muss ich erst mal tief {atmen}.",
+          "zh": "跑完步後我得先深呼吸一下。",
+          "en": "After the run I first have to breathe deeply.",
+          "distractors": [
+            "tanzen",
+            "kochen",
+            "bügeln"
+          ]
+        }
+      }
+    ]
+  },
+  "atem": {
+    "senses": [
+      {
+        "zh": "呼吸；氣息",
+        "en": "breath",
+        "ex": {
+          "de": "Beim Treppensteigen geht mir schnell der {Atem} aus.",
+          "zh": "爬樓梯時我很快就喘不過氣。",
+          "en": "Climbing stairs, I quickly run out of breath.",
+          "distractors": [
+            "Koffer",
+            "Bleistift",
+            "Pullover"
+          ]
+        }
+      }
+    ]
+  },
+  "auch": {
+    "senses": [
+      {
+        "zh": "也；同樣",
+        "en": "also, too",
+        "ex": {
+          "de": "Ich habe heute {auch} keine Zeit für Sport.",
+          "zh": "我今天也沒有時間運動。",
+          "en": "I don't have time for sports today either.",
+          "distractors": [
+            "gestern",
+            "bald",
+            "immer"
+          ]
+        }
+      }
+    ]
+  },
+  "auf": {
+    "senses": [
+      {
+        "zh": "在…上面；到…上",
+        "en": "on, onto",
+        "ex": {
+          "de": "Die Katze sitzt {auf} dem Dach und schaut in den Garten.",
+          "zh": "貓坐在屋頂上看著花園。",
+          "en": "The cat sits on the roof and looks into the garden.",
+          "distractors": [
+            "seit",
+            "ohne",
+            "bis"
+          ]
+        }
+      }
+    ]
+  },
+  "aufenthalt": {
+    "senses": [
+      {
+        "zh": "停留；逗留",
+        "en": "stay",
+        "ex": {
+          "de": "Mein {Aufenthalt} in Wien dauert nur drei Tage.",
+          "zh": "我在維也納只停留三天。",
+          "en": "My stay in Vienna lasts only three days.",
+          "distractors": [
+            "Fernseher",
+            "Lehrer",
+            "Computer"
+          ]
+        }
+      }
+    ]
+  },
+  "auffallen": {
+    "senses": [
+      {
+        "zh": "引人注意；被注意到",
+        "en": "to stand out, be noticed",
+        "ex": {
+          "de": "Dir ist der Fehler hoffentlich auch {aufgefallen}.",
+          "zh": "希望你也注意到了這個錯誤。",
+          "en": "I hope you noticed the mistake too.",
+          "distractors": [
+            "eingeschlafen",
+            "abgereist",
+            "umgezogen"
+          ]
+        }
+      }
+    ]
+  },
+  "auffordern": {
+    "senses": [
+      {
+        "zh": "要求；請求",
+        "en": "to ask, request, call upon",
+        "ex": {
+          "de": "Der Lehrer wollte die Schüler {auffordern}, leise zu sein.",
+          "zh": "老師想要求學生保持安靜。",
+          "en": "The teacher wanted to ask the students to be quiet.",
+          "distractors": [
+            "backen",
+            "putzen",
+            "schneiden"
+          ]
+        }
+      }
+    ]
+  },
+  "aufforderung": {
+    "senses": [
+      {
+        "zh": "要求；通知",
+        "en": "request, demand",
+        "ex": {
+          "de": "Ich habe eine {Aufforderung} zur Zahlung bekommen.",
+          "zh": "我收到了一份繳費通知。",
+          "en": "I received a request for payment.",
+          "distractors": [
+            "Kartoffel",
+            "Lampe",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "auffuehren": {
+    "senses": [
+      {
+        "zh": "上演；演出",
+        "en": "to perform, stage",
+        "ex": {
+          "de": "Die Schüler wollen am Freitag ein Theaterstück {aufführen}.",
+          "zh": "學生們星期五要演一齣戲。",
+          "en": "The pupils want to perform a play on Friday.",
+          "distractors": [
+            "trinken",
+            "waschen",
+            "rasieren"
+          ]
+        }
+      }
+    ]
+  },
+  "aufgabe": {
+    "senses": [
+      {
+        "zh": "作業；任務",
+        "en": "task, exercise",
+        "ex": {
+          "de": "Die {Aufgabe} war leicht, ich war schnell fertig.",
+          "zh": "這題很簡單，我很快就做完了。",
+          "en": "The exercise was easy, I finished quickly.",
+          "distractors": [
+            "Tomate",
+            "Steckdose",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "aufgeben": {
+    "senses": [
+      {
+        "zh": "放棄",
+        "en": "to give up",
+        "ex": {
+          "de": "Ich will meinen Traum vom eigenen Café nicht {aufgeben}.",
+          "zh": "我不想放棄開自己咖啡店的夢想。",
+          "en": "I don't want to give up my dream of my own café.",
+          "distractors": [
+            "trinken",
+            "bügeln",
+            "füttern"
+          ]
+        }
+      }
+    ]
+  },
+  "aufhalten": {
+    "senses": [
+      {
+        "zh": "耽擱；擋住",
+        "en": "to hold up, delay",
+        "ex": {
+          "de": "Der Stau hat uns eine Stunde {aufgehalten}.",
+          "zh": "塞車讓我們耽擱了一個小時。",
+          "en": "The traffic jam held us up for an hour.",
+          "distractors": [
+            "gebügelt",
+            "gekocht",
+            "gemalt"
+          ]
+        }
+      }
+    ]
+  },
+  "aufheben": {
+    "senses": [
+      {
+        "zh": "撿起；保留",
+        "en": "to pick up, keep",
+        "ex": {
+          "de": "Kannst du bitte das Papier vom Boden {aufheben}?",
+          "zh": "你可以把地上的紙撿起來嗎？",
+          "en": "Can you please pick up the paper from the floor?",
+          "distractors": [
+            "kochen",
+            "heiraten",
+            "besuchen"
+          ]
+        }
+      }
+    ]
+  },
+  "aufhoeren": {
+    "senses": [
+      {
+        "zh": "停止；結束",
+        "en": "to stop, quit",
+        "ex": {
+          "de": "Ich möchte mit dem Rauchen {aufhören}.",
+          "zh": "我想戒菸。",
+          "en": "I would like to stop smoking.",
+          "distractors": [
+            "wohnen",
+            "schwimmen",
+            "bügeln"
+          ]
+        }
+      }
+    ]
+  },
+  "aufladen": {
+    "senses": [
+      {
+        "zh": "充電；裝載",
+        "en": "to charge, load",
+        "ex": {
+          "de": "Ich muss mein Handy noch {aufladen}.",
+          "zh": "我還得幫手機充電。",
+          "en": "I still have to charge my phone.",
+          "distractors": [
+            "essen",
+            "reiten",
+            "heiraten"
+          ]
+        }
+      }
+    ]
+  },
+  "aufloesen": {
+    "senses": [
+      {
+        "zh": "溶解；解散",
+        "en": "to dissolve",
+        "ex": {
+          "de": "Sie hat eine Tablette im Wasser {aufgelöst}.",
+          "zh": "她把一顆藥錠溶在水裡。",
+          "en": "She dissolved a tablet in water.",
+          "distractors": [
+            "gesungen",
+            "geschlafen",
+            "getanzt"
+          ]
+        }
+      }
+    ]
+  },
+  "aufmerksam": {
+    "senses": [
+      {
+        "zh": "專心的；注意的",
+        "en": "attentive",
+        "ex": {
+          "de": "Die Kinder hören der Lehrerin sehr {aufmerksam} zu.",
+          "zh": "孩子們非常專心地聽老師說話。",
+          "en": "The children listen to the teacher very attentively.",
+          "distractors": [
+            "billig",
+            "sauber",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "aufnehmen": {
+    "senses": [
+      {
+        "zh": "錄下；錄製",
+        "en": "to record",
+        "ex": {
+          "de": "Wir wollen das Lied im Studio {aufnehmen}.",
+          "zh": "我們想在錄音室錄這首歌。",
+          "en": "We want to record the song in the studio.",
+          "distractors": [
+            "backen",
+            "gießen",
+            "tragen"
+          ]
+        }
+      }
+    ]
+  },
+  "aufnahme": {
+    "senses": [
+      {
+        "zh": "錄音；錄影",
+        "en": "recording",
+        "ex": {
+          "de": "Die {Aufnahme} im Studio hat drei Stunden gedauert.",
+          "zh": "錄音室裡的錄音花了三個小時。",
+          "en": "The recording in the studio took three hours.",
+          "distractors": [
+            "Gurke",
+            "Schere",
+            "Kerze"
+          ]
+        }
+      },
+      {
+        "zh": "接納；入會",
+        "en": "admission",
+        "ex": {
+          "de": "Die {Aufnahme} in den Verein ist kostenlos.",
+          "zh": "加入協會是免費的。",
+          "en": "Admission to the club is free.",
+          "distractors": [
+            "Torte",
+            "Nadel",
+            "Tasse"
+          ]
+        }
+      }
+    ]
+  },
+  "aufpassen": {
+    "senses": [
+      {
+        "zh": "小心；注意",
+        "en": "to pay attention, watch out",
+        "ex": {
+          "de": "Du musst auf dem Eis gut {aufpassen}.",
+          "zh": "你在冰上要多加小心。",
+          "en": "You have to be careful on the ice.",
+          "distractors": [
+            "rechnen",
+            "kochen",
+            "zahlen"
+          ]
+        }
+      }
+    ]
+  },
+  "aufraeumen": {
+    "senses": [
+      {
+        "zh": "整理；收拾",
+        "en": "to tidy up",
+        "ex": {
+          "de": "Nach der Party müssen wir die Wohnung {aufräumen}.",
+          "zh": "派對後我們得把家裡收拾乾淨。",
+          "en": "After the party we have to tidy up the flat.",
+          "distractors": [
+            "singen",
+            "schwimmen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "aufregen": {
+    "senses": [
+      {
+        "zh": "使激動；使生氣",
+        "en": "to upset, get worked up",
+        "ex": {
+          "de": "Papa wollte sich nicht über den Lärm {aufregen}.",
+          "zh": "爸爸不想為了噪音而生氣。",
+          "en": "Dad didn't want to get worked up about the noise.",
+          "distractors": [
+            "kämmen",
+            "rasieren",
+            "duschen"
+          ]
+        }
+      }
+    ]
+  },
+  "aufstehen": {
+    "senses": [
+      {
+        "zh": "起床；站起來",
+        "en": "to get up",
+        "ex": {
+          "de": "Am Sonntag muss ich zum Glück nicht {aufstehen}.",
+          "zh": "星期天我還好不用起床。",
+          "en": "On Sunday I luckily don't have to get up.",
+          "distractors": [
+            "regnen",
+            "blühen",
+            "schmelzen"
+          ]
+        }
+      }
+    ]
+  },
+  "auftrag": {
+    "senses": [
+      {
+        "zh": "訂單；委託；任務",
+        "en": "order, commission, task",
+        "ex": {
+          "de": "Wir haben den {Auftrag} schon erledigt.",
+          "zh": "我們已經完成這份委託了。",
+          "en": "We have already completed the order.",
+          "distractors": [
+            "Schrank",
+            "Mantel",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "auftreten": {
+    "senses": [
+      {
+        "zh": "登台；出現",
+        "en": "to appear, perform",
+        "ex": {
+          "de": "Die Band wird heute Abend im Park {auftreten}.",
+          "zh": "樂團今晚會在公園演出。",
+          "en": "The band will perform in the park tonight.",
+          "distractors": [
+            "rosten",
+            "bellen",
+            "schmelzen"
+          ]
+        }
+      }
+    ]
+  },
+  "auftritt": {
+    "senses": [
+      {
+        "zh": "演出；登場",
+        "en": "performance, appearance",
+        "ex": {
+          "de": "Der {Auftritt} der Band dauerte nur eine Stunde.",
+          "zh": "樂團的演出只有一個小時。",
+          "en": "The band's performance lasted only an hour.",
+          "distractors": [
+            "Löffel",
+            "Pullover",
+            "Kühlschrank"
+          ]
+        }
+      }
+    ]
+  },
+  "aufwachen": {
+    "senses": [
+      {
+        "zh": "醒來",
+        "en": "to wake up",
+        "ex": {
+          "de": "Das Baby ist mitten in der Nacht {aufgewacht}.",
+          "zh": "寶寶在半夜醒了。",
+          "en": "The baby woke up in the middle of the night.",
+          "distractors": [
+            "gerannt",
+            "verreist",
+            "ausgestiegen"
+          ]
+        }
+      }
+    ]
+  },
+  "aufwaerts": {
+    "senses": [
+      {
+        "zh": "向上；往上",
+        "en": "upward",
+        "ex": {
+          "de": "Der Weg zur Hütte führt steil {aufwärts}.",
+          "zh": "通往山屋的路陡峭地向上延伸。",
+          "en": "The path to the hut leads steeply uphill.",
+          "distractors": [
+            "gestern",
+            "bald",
+            "vielleicht"
+          ]
+        }
+      }
+    ]
+  },
+  "aufzug": {
+    "senses": [
+      {
+        "zh": "電梯",
+        "en": "lift, elevator",
+        "ex": {
+          "de": "Der {Aufzug} fährt in den dritten Stock.",
+          "zh": "電梯開往四樓。",
+          "en": "The lift goes up to the third floor.",
+          "distractors": [
+            "Mantel",
+            "Apfel",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "auge": {
+    "senses": [
+      {
+        "zh": "眼睛",
+        "en": "eye",
+        "ex": {
+          "de": "Meine Tochter hat blaue {Augen} und lange Haare.",
+          "zh": "我女兒有藍色的眼睛和長長的頭髮。",
+          "en": "My daughter has blue eyes and long hair.",
+          "distractors": [
+            "Ohren",
+            "Zähne",
+            "Zehen"
+          ]
+        }
+      }
+    ]
+  },
+  "augenblick": {
+    "senses": [
+      {
+        "zh": "一會兒；瞬間",
+        "en": "moment",
+        "ex": {
+          "de": "Warte bitte einen {Augenblick}, ich komme gleich.",
+          "zh": "請等一下，我馬上來。",
+          "en": "Please wait a moment, I'm coming right away.",
+          "distractors": [
+            "Schrank",
+            "Hammer",
+            "Esel"
+          ]
+        }
+      }
+    ]
+  },
+  "aus": {
+    "senses": [
+      {
+        "zh": "從…出來；來自",
+        "en": "from, out of",
+        "ex": {
+          "de": "Meine Freundin kommt {aus} Taiwan und spricht gut Deutsch.",
+          "zh": "我朋友來自台灣，德文說得很好。",
+          "en": "My friend comes from Taiwan and speaks good German.",
+          "distractors": [
+            "gegen",
+            "ohne",
+            "durch"
+          ]
+        }
+      }
+    ]
+  },
+  "ausbildung": {
+    "senses": [
+      {
+        "zh": "職業訓練；學徒訓練",
+        "en": "vocational training",
+        "ex": {
+          "de": "Nach der Schule mache ich eine {Ausbildung} als Bäcker.",
+          "zh": "畢業後我要去學做麵包師傅。",
+          "en": "After school I'm doing training as a baker.",
+          "distractors": [
+            "Gitarre",
+            "Tomate",
+            "Banane"
+          ]
+        }
+      }
+    ]
+  },
+  "ausgebildet": {
+    "senses": [
+      {
+        "zh": "受過訓練的；專業的",
+        "en": "trained, qualified",
+        "ex": {
+          "de": "Wir suchen eine gut {ausgebildete} Krankenschwester.",
+          "zh": "我們在找一位訓練有素的護理師。",
+          "en": "We are looking for a well-trained nurse.",
+          "distractors": [
+            "gebratene",
+            "geschälte",
+            "gebügelte"
+          ]
+        }
+      }
+    ]
+  },
+  "ausdrucken": {
+    "senses": [
+      {
+        "zh": "列印",
+        "en": "to print out",
+        "ex": {
+          "de": "Kannst du mir die Fahrkarte bitte {ausdrucken}?",
+          "zh": "你可以幫我把車票印出來嗎？",
+          "en": "Can you please print out the ticket for me?",
+          "distractors": [
+            "essen",
+            "gießen",
+            "füttern"
+          ]
+        }
+      }
+    ]
+  },
+  "ausdruck": {
+    "senses": [
+      {
+        "zh": "說法；措辭",
+        "en": "expression",
+        "ex": {
+          "de": "Dieses Wort ist ein höflicher {Ausdruck} für alt.",
+          "zh": "這個字是「老」的一種委婉說法。",
+          "en": "This word is a polite expression for old.",
+          "distractors": [
+            "Zucker",
+            "Teller",
+            "Schirm"
+          ]
+        }
+      }
+    ]
+  },
+  "ausdruck-2": {
+    "senses": [
+      {
+        "zh": "列印出來的紙本",
+        "en": "printout",
+        "ex": {
+          "de": "Zeigen Sie am Eingang bitte den {Ausdruck} Ihrer Buchung.",
+          "zh": "請在入口出示您的預訂列印本。",
+          "en": "Please show the printout of your booking at the entrance.",
+          "distractors": [
+            "Gürtel",
+            "Hafen",
+            "Zaun"
+          ]
+        }
+      }
+    ]
+  },
+  "auseinander": {
+    "senses": [
+      {
+        "zh": "分開；相隔",
+        "en": "apart",
+        "ex": {
+          "de": "Die Zwillinge wohnen jetzt weit {auseinander}.",
+          "zh": "雙胞胎現在住得離彼此很遠。",
+          "en": "The twins now live far apart.",
+          "distractors": [
+            "morgen",
+            "sofort",
+            "leider"
+          ]
+        }
+      }
+    ]
+  },
+  "ausfahrt": {
+    "senses": [
+      {
+        "zh": "出口（高速公路）；車道出口",
+        "en": "exit, driveway",
+        "ex": {
+          "de": "Nehmen Sie bitte die nächste {Ausfahrt} nach Köln.",
+          "zh": "請在下一個出口下去往科隆。",
+          "en": "Please take the next exit for Cologne.",
+          "distractors": [
+            "Suppe",
+            "Zeitung",
+            "Hose"
+          ]
+        }
+      }
+    ]
+  },
+  "ausfallen": {
+    "senses": [
+      {
+        "zh": "取消；停擺",
+        "en": "to be cancelled",
+        "ex": {
+          "de": "Der Unterricht ist heute wegen Krankheit {ausgefallen}.",
+          "zh": "今天的課因為老師生病而停課了。",
+          "en": "Class was cancelled today because of illness.",
+          "distractors": [
+            "gewachsen",
+            "gesprungen",
+            "geschwommen"
+          ]
+        }
+      }
+    ]
+  },
+  "ausflug": {
+    "senses": [
+      {
+        "zh": "遠足；郊遊",
+        "en": "excursion, trip",
+        "ex": {
+          "de": "Am Wochenende machen wir einen {Ausflug} an den See.",
+          "zh": "週末我們要去湖邊郊遊。",
+          "en": "At the weekend we're taking a trip to the lake.",
+          "distractors": [
+            "Spiegel",
+            "Regenmantel",
+            "Handschuh"
+          ]
+        }
+      }
+    ]
+  },
+  "ausfuellen": {
+    "senses": [
+      {
+        "zh": "填寫",
+        "en": "to fill out",
+        "ex": {
+          "de": "Du musst das Formular noch {ausfüllen}.",
+          "zh": "你還得把表格填好。",
+          "en": "You still have to fill out the form.",
+          "distractors": [
+            "tanzen",
+            "joggen",
+            "lächeln"
+          ]
+        }
+      }
+    ]
+  },
+  "ausgabe": {
+    "senses": [
+      {
+        "zh": "支出；花費",
+        "en": "expense",
+        "ex": {
+          "de": "Unsere {Ausgaben} für Essen steigen jeden Monat.",
+          "zh": "我們的伙食花費每個月都在增加。",
+          "en": "Our spending on food rises every month.",
+          "distractors": [
+            "Bananen",
+            "Katzen",
+            "Hosen"
+          ]
+        }
+      }
+    ]
+  },
+  "ausgang": {
+    "senses": [
+      {
+        "zh": "出口",
+        "en": "exit",
+        "ex": {
+          "de": "Wir gehen durch den {Ausgang} auf die Straße.",
+          "zh": "我們從出口走到街上。",
+          "en": "We go through the exit onto the street.",
+          "distractors": [
+            "Kaffee",
+            "Tisch",
+            "Zahn"
+          ]
+        }
+      }
+    ]
+  },
+  "ausgeben": {
+    "senses": [
+      {
+        "zh": "花（錢）",
+        "en": "to spend",
+        "ex": {
+          "de": "Ich möchte nicht zu viel Geld für Kleidung {ausgeben}.",
+          "zh": "我不想花太多錢在衣服上。",
+          "en": "I don't want to spend too much money on clothes.",
+          "distractors": [
+            "bügeln",
+            "schneiden",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "ausgehen": {
+    "senses": [
+      {
+        "zh": "外出；出去玩",
+        "en": "to go out",
+        "ex": {
+          "de": "Am Samstagabend wollen wir mit Freunden {ausgehen}.",
+          "zh": "星期六晚上我們想和朋友出去玩。",
+          "en": "On Saturday evening we want to go out with friends.",
+          "distractors": [
+            "blühen",
+            "rosten",
+            "bügeln"
+          ]
+        }
+      }
+    ]
+  },
+  "ausgezeichnet": {
+    "senses": [
+      {
+        "zh": "優秀的；極好的",
+        "en": "excellent",
+        "ex": {
+          "de": "Das Essen im Restaurant war wirklich {ausgezeichnet}.",
+          "zh": "這間餐廳的菜真的非常棒。",
+          "en": "The food at the restaurant was really excellent.",
+          "distractors": [
+            "viereckig",
+            "verheiratet",
+            "blond"
+          ]
+        }
+      }
+    ]
+  },
+  "aushilfe": {
+    "senses": [
+      {
+        "zh": "臨時工；代班人員",
+        "en": "temporary worker",
+        "ex": {
+          "de": "Im Sommer arbeitet meine Schwester als {Aushilfe} im Café.",
+          "zh": "夏天我妹妹在咖啡店當臨時工。",
+          "en": "In summer my sister works as a temp in the café.",
+          "distractors": [
+            "Tasche",
+            "Bluse",
+            "Tüte"
+          ]
+        }
+      }
+    ]
+  },
+  "auskunft": {
+    "senses": [
+      {
+        "zh": "詢問處；資訊",
+        "en": "information, information desk",
+        "ex": {
+          "de": "Die {Auskunft} am Bahnhof gab mir einen Stadtplan.",
+          "zh": "車站的詢問處給了我一張市區地圖。",
+          "en": "The information desk at the station gave me a city map.",
+          "distractors": [
+            "Mütze",
+            "Wurst",
+            "Ananas"
+          ]
+        }
+      }
+    ]
+  }
+}
