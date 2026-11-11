@@ -52,8 +52,12 @@ export type Pace = 'easy' | 'standard' | 'sprint';
 export type SeedBag = 'A1+' | 'A2+' | 'B1';
 export type Direction = 'de2x' | 'x2de';
 export type HintLang = 'zh' | 'en' | 'both';
-/** 地區偏好：全練／奧瑞說法排最後／只練德國用法 */
-export type RegionPref = 'all' | 'later' | 'de';
+/** 德奧瑞三個地區各自的出現程度：無＝不練、中＝少一點、高＝正常 */
+export type Region = 'D' | 'A' | 'CH';
+export const REGIONS: Region[] = ['D', 'A', 'CH'];
+export type RegionLevel = 'none' | 'mid' | 'high';
+export type RegionPrefs = Record<Region, RegionLevel>;
+export const DEFAULT_REGION_PREFS: RegionPrefs = { D: 'high', A: 'high', CH: 'high' };
 
 export interface Settings {
   onboarded: boolean;
@@ -64,7 +68,7 @@ export interface Settings {
   reviewCap: number;
   pace: Pace;
   seedBag: SeedBag;
-  region: RegionPref;
+  regions: RegionPrefs;
   direction: Direction;
   hintLang: HintLang;
   autoSpeak: boolean;
@@ -81,7 +85,7 @@ export const DEFAULT_SETTINGS: Settings = {
   reviewCap: 100,
   pace: 'standard',
   seedBag: 'A1+',
-  region: 'all',
+  regions: { ...DEFAULT_REGION_PREFS },
   direction: 'de2x',
   hintLang: 'both',
   autoSpeak: false,

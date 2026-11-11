@@ -1,9 +1,9 @@
 import { describe, expect, it } from 'vitest';
 import { addDays, dayKey, daysBetween, endOfDay } from '../src/lib/day';
 import { dailyQuota, examDaysLeft, examPerDay, remainingInBag, reviewCap, seedOrder } from '../src/lib/plan';
-import { outsideGermany, regionAllows } from '../src/lib/region';
+import { regionAllows, wordLevel, wordRegions } from '../src/lib/region';
 import { makeScheduler, newCard, nextStage, Rating, stageByInterval, State, tooEasyCard } from '../src/lib/srs';
-import { DEFAULT_SETTINGS, type Word } from '../src/lib/types';
+import { DEFAULT_SETTINGS, type RegionLevel, type RegionPrefs, type Word } from '../src/lib/types';
 
 describe('day', () => {
   it('凌晨 4 點前還算前一天', () => {
@@ -101,22 +101,33 @@ describe('德奧瑞地區偏好', () => {
     mk('briefumschlag', { variant_of: { word: 'Kuvert', regions: ['A'] } }),
     mk('haus'),
   ];
-  const ids = (r: 'all' | 'later' | 'de', planted: string[] = []) => seedOrder(words, 'A1+', new Set(planted), r).map((x) => x.id);
+  const P = (D: RegionLevel, A: RegionLevel, CH: RegionLevel): RegionPrefs => ({ D, A, CH });
+  const ids = (p: RegionPrefs, planted: string[] = []) => seedOrder(words, 'A1+', new Set(planted), p).map((x) => x.id);
 
-  it('outsideGermany：沒有 D 標記、或註記說德國用另一個字的，才算奧瑞說法', () => {
-    expect(words.filter(outsideGermany).map((x) => x.id)).toEqual(['semmel', 'broetli', 'billett']);
+  it('wordRegions：自己的標記優先；只有「某地區用另一個字」的註記，就是其餘地區的說法；都沒有就是通用', () => {
+    expect(wordRegions(words[0])).toEqual(['D']);
+    expect(wordRegions(words[4])).toEqual(['CH']);
+    expect(wordRegions(words[5])).toEqual(['D', 'CH']);
+    expect(wordRegions(words[6])).toBeNull();
   });
-  it('全練：都種', () => {
-    expect(ids('all')).toHaveLength(7);
+  it('三地都高：全部都種', () => {
+    expect(ids(P('high', 'high', 'high'))).toHaveLength(7);
   });
-  it('只練德國用法：奧瑞說法不種，已經種下的不受影響', () => {
-    expect(ids('de').sort()).toEqual(['aufzug', 'briefumschlag', 'broetchen', 'haus']);
-    expect(remainingInBag(words, 'A1+', new Set(), 'de')).toBe(4);
-    expect(regionAllows(words[1], 'de')).toBe(false);
+  it('奧地利、瑞士設無：只留德國用法和通用字，已種下的不受影響', () => {
+    const p = P('high', 'none', 'none');
+    expect(ids(p).sort()).toEqual(['aufzug', 'briefumschlag', 'broetchen', 'haus']);
+    expect(remainingInBag(words, 'A1+', new Set(), p)).toBe(4);
+    expect(regionAllows(words[1], p)).toBe(false);
   });
-  it('奧瑞說法最後才種：全部還是會種，只是排在後面', () => {
-    const o = ids('later');
+  it('多個地區都用的字，看最高的那個', () => {
+    expect(wordLevel(words[3], P('none', 'high', 'none'))).toBe('high'); // aufzug：D、A 都用
+    expect(wordLevel(words[3], P('none', 'mid', 'none'))).toBe('mid');
+    expect(wordLevel(words[3], P('none', 'none', 'high'))).toBe('none');
+  });
+  it('設成中：都還會種，只是排在後面；通用字永遠不受影響', () => {
+    const o = ids(P('high', 'mid', 'mid'));
     expect(o).toHaveLength(7);
     expect(o.slice(-3).sort()).toEqual(['billett', 'broetli', 'semmel']);
+    expect(wordLevel(words[6], P('none', 'none', 'none'))).toBe('high');
   });
 });

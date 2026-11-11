@@ -67,7 +67,7 @@ export async function init() {
     app.words = words;
     app.byId = new Map(words.map((w) => [w.id, w]));
     app.cards = Object.fromEntries(cards.filter((c) => app.byId.has(c.id)).map((c) => [c.id, c]));
-    if (settings) app.settings = { ...DEFAULT_SETTINGS, ...settings };
+    if (settings) app.settings = { ...DEFAULT_SETTINGS, ...settings, regions: { ...DEFAULT_SETTINGS.regions, ...settings.regions } };
     if (profile) app.profile = { ...defaultProfile(), ...profile };
     if (daily) app.daily = daily;
     rollDay();
@@ -94,7 +94,7 @@ export function today(): string {
 export function rollDay() {
   const day = dayKey(new Date());
   if (app.daily.day === day) return;
-  const remaining = remainingInBag(app.words, app.settings.seedBag, plantedSet(), app.settings.region);
+  const remaining = remainingInBag(app.words, app.settings.seedBag, plantedSet(), app.settings.regions);
   app.daily = { day, quota: dailyQuota(app.settings, remaining, day), planted: 0, reviewed: 0 };
   void db.setKV('daily', snap(app.daily));
 }
@@ -102,7 +102,7 @@ export function rollDay() {
 /** 改了設定後重算今天的量（已經種的不算進剩下的） */
 export function recomputeQuota() {
   const day = today();
-  const remaining = remainingInBag(app.words, app.settings.seedBag, plantedSet(), app.settings.region);
+  const remaining = remainingInBag(app.words, app.settings.seedBag, plantedSet(), app.settings.regions);
   const q = dailyQuota(app.settings, remaining, day);
   app.daily.quota = app.settings.planMode === 'exam' ? app.daily.planted + q : q;
   void db.setKV('daily', snap(app.daily));
@@ -159,7 +159,7 @@ export function seedsLeftToday(): number {
 
 /** 今天還能種的新字（只會種已經有三語內容的字） */
 export function todaysSeeds(): Word[] {
-  return seedOrder(app.words, app.settings.seedBag, plantedSet(), app.settings.region).slice(0, seedsLeftToday());
+  return seedOrder(app.words, app.settings.seedBag, plantedSet(), app.settings.regions).slice(0, seedsLeftToday());
 }
 
 export function plotState(r: CardRecord, now = app.now) {

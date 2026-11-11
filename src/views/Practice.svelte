@@ -21,7 +21,7 @@
         w.senses?.length &&
         (lvl === 'all' || w.level === lvl) &&
         (scope === 'all' || app.cards[w.id]) &&
-        (app.cards[w.id] || regionAllows(w, app.settings.region)),
+        (app.cards[w.id] || regionAllows(w, app.settings.regions)),
     );
     for (let k = ws.length - 1; k > 0; k--) {
       const j = Math.floor(Math.random() * (k + 1));
