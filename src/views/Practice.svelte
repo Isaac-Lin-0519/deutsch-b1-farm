@@ -1,6 +1,7 @@
 <script lang="ts">
   import { grammar, grammarSummary } from '../lib/grammar.svelte';
   import { app } from '../lib/store.svelte';
+  import { regionAllows } from '../lib/region';
   import { LEVELS, type Level } from '../lib/types';
   import WordCard from '../components/WordCard.svelte';
 
@@ -16,7 +17,11 @@
   const list = $derived.by(() => {
     void nonce;
     const ws = app.words.filter(
-      (w) => w.senses?.length && (lvl === 'all' || w.level === lvl) && (scope === 'all' || app.cards[w.id]),
+      (w) =>
+        w.senses?.length &&
+        (lvl === 'all' || w.level === lvl) &&
+        (scope === 'all' || app.cards[w.id]) &&
+        (app.cards[w.id] || regionAllows(w, app.settings.region)),
     );
     for (let k = ws.length - 1; k > 0; k--) {
       const j = Math.floor(Math.random() * (k + 1));

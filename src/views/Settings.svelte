@@ -1,6 +1,7 @@
 <script lang="ts">
   import { exportAll, importAll, type Backup } from '../lib/db';
   import { remainingInBag } from '../lib/plan';
+  import { REGION_PREFS } from '../lib/region';
   import { app, plantedSet, saveSettings, today } from '../lib/store.svelte';
   import type { Direction, HintLang, Pace, SeedBag } from '../lib/types';
   import { FEED_GAIN, FEED_PER_DAY, hearts, MAX_HEARTS, PET_GAIN, PET_PER_DAY, toNextHeart, TRICKS, WATER_GAIN } from '../lib/affection';
@@ -33,7 +34,7 @@
     else dogName = app.settings.dogName;
   }
 
-  const remaining = $derived(remainingInBag(app.words, app.settings.seedBag, plantedSet()));
+  const remaining = $derived(remainingInBag(app.words, app.settings.seedBag, plantedSet(), app.settings.region));
   const planValid = $derived(plan.mode === 'fixed' ? plan.perDay >= 1 : !!plan.examDate);
   const planChanged = $derived(
     plan.mode !== app.settings.planMode ||
@@ -150,6 +151,13 @@
       {/each}
     </div>
     <p class="soft">低等級先種，同一等級裡隨機抽。只會種已經有三語內容的字。</p>
+    <h3>德奧瑞說法</h3>
+    <div class="row">
+      {#each REGION_PREFS as [v, label] (v)}
+        <button class="btn" class:on={app.settings.region === v} onclick={() => saveSettings({ region: v })}>{label}</button>
+      {/each}
+    </div>
+    <p class="soft">{REGION_PREFS.find((r) => r[0] === app.settings.region)?.[2]}</p>
   </div>
 
   <div class="panel stack">

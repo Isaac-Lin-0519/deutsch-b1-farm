@@ -1,5 +1,6 @@
 import { addDays, daysBetween } from './day';
-import type { Level, SeedBag, Settings, Word } from './types';
+import { outsideGermany, regionAllows } from './region';
+import type { Level, RegionPref, SeedBag, Settings, Word } from './types';
 
 /** 考前幾天停止播種，只澆水 */
 export const EXAM_STOP_DAYS = 14;
@@ -55,15 +56,14 @@ export function hash(s: string): number {
 }
 
 /** 種子袋：低等級先種；同等級內用固定的亂數順序，避免相似的字擠在同一天 */
-export function seedOrder(words: Word[], bag: SeedBag, planted: Set<string>): Word[] {
+export function seedOrder(words: Word[], bag: SeedBag, planted: Set<string>, region: RegionPref = 'all'): Word[] {
   const levels = seedLevels(bag);
+  const late = (w: Word) => (region === 'later' && outsideGermany(w) ? 1 : 0);
   return words
-    .filter((w) => w.senses?.length && !planted.has(w.id) && levels.includes(w.level))
-    .sort((a, b) => levels.indexOf(a.level) - levels.indexOf(b.level) || hash(a.id) - hash(b.id));
+    .filter((w) => w.senses?.length && !planted.has(w.id) && levels.includes(w.level) && regionAllows(w, region))
+    .sort((a, b) => late(a) - late(b) || levels.indexOf(a.level) - levels.indexOf(b.level) || hash(a.id) - hash(b.id));
 }
-
-/** 種子袋範圍內還沒種的字數（含內容還沒寫好的字，用來分配考前進度） */
-export function remainingInBag(words: Word[], bag: SeedBag, planted: Set<string>): number {
+export function remainingInBag(words: Word[], bag: SeedBag, planted: Set<string>, region: RegionPref = 'all'): number {
   const levels = seedLevels(bag);
-  return words.filter((w) => levels.includes(w.level) && !planted.has(w.id)).length;
+  return words.filter((w) => levels.includes(w.level) && !planted.has(w.id) && regionAllows(w, region)).length;
 }

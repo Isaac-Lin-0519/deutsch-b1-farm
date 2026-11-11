@@ -52,6 +52,8 @@ export type Pace = 'easy' | 'standard' | 'sprint';
 export type SeedBag = 'A1+' | 'A2+' | 'B1';
 export type Direction = 'de2x' | 'x2de';
 export type HintLang = 'zh' | 'en' | 'both';
+/** 地區偏好：全練／奧瑞說法排最後／只練德國用法 */
+export type RegionPref = 'all' | 'later' | 'de';
 
 export interface Settings {
   onboarded: boolean;
@@ -62,6 +64,7 @@ export interface Settings {
   reviewCap: number;
   pace: Pace;
   seedBag: SeedBag;
+  region: RegionPref;
   direction: Direction;
   hintLang: HintLang;
   autoSpeak: boolean;
@@ -78,6 +81,7 @@ export const DEFAULT_SETTINGS: Settings = {
   reviewCap: 100,
   pace: 'standard',
   seedBag: 'A1+',
+  region: 'all',
   direction: 'de2x',
   hintLang: 'both',
   autoSpeak: false,

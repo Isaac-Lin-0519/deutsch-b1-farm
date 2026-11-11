@@ -1,6 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { addDays, dayKey, daysBetween, endOfDay } from '../src/lib/day';
-import { dailyQuota, examDaysLeft, examPerDay, reviewCap, seedOrder } from '../src/lib/plan';
+import { dailyQuota, examDaysLeft, examPerDay, remainingInBag, reviewCap, seedOrder } from '../src/lib/plan';
+import { outsideGermany, regionAllows } from '../src/lib/region';
 import { makeScheduler, newCard, nextStage, Rating, stageByInterval, State, tooEasyCard } from '../src/lib/srs';
 import { DEFAULT_SETTINGS, type Word } from '../src/lib/types';
 
@@ -82,5 +83,40 @@ describe('成長階段', () => {
     expect(Math.round((c.due.getTime() - now.getTime()) / 86_400_000)).toBe(30);
     const capped = tooEasyCard(newCard(now), now, 5);
     expect(Math.round((capped.due.getTime() - now.getTime()) / 86_400_000)).toBe(5);
+  });
+});
+
+describe('德奧瑞地區偏好', () => {
+  const mk = (id: string, extra: Partial<Word> = {}): Word => ({
+    id, level: 'A1', lemma: id, pos: 'noun',
+    senses: [{ zh: '', en: '', ex: { de: '{x}', zh: '', en: '', distractors: [] } }],
+    ...extra,
+  });
+  const words = [
+    mk('broetchen', { regions: ['D'] }),
+    mk('semmel', { regions: ['A'] }),
+    mk('broetli', { regions: ['CH'] }),
+    mk('aufzug', { regions: ['D', 'A'] }),
+    mk('billett', { variant_of: { word: 'Fahrkarte', regions: ['D', 'A'] } }),
+    mk('briefumschlag', { variant_of: { word: 'Kuvert', regions: ['A'] } }),
+    mk('haus'),
+  ];
+  const ids = (r: 'all' | 'later' | 'de', planted: string[] = []) => seedOrder(words, 'A1+', new Set(planted), r).map((x) => x.id);
+
+  it('outsideGermany：沒有 D 標記、或註記說德國用另一個字的，才算奧瑞說法', () => {
+    expect(words.filter(outsideGermany).map((x) => x.id)).toEqual(['semmel', 'broetli', 'billett']);
+  });
+  it('全練：都種', () => {
+    expect(ids('all')).toHaveLength(7);
+  });
+  it('只練德國用法：奧瑞說法不種，已經種下的不受影響', () => {
+    expect(ids('de').sort()).toEqual(['aufzug', 'briefumschlag', 'broetchen', 'haus']);
+    expect(remainingInBag(words, 'A1+', new Set(), 'de')).toBe(4);
+    expect(regionAllows(words[1], 'de')).toBe(false);
+  });
+  it('奧瑞說法最後才種：全部還是會種，只是排在後面', () => {
+    const o = ids('later');
+    expect(o).toHaveLength(7);
+    expect(o.slice(-3).sort()).toEqual(['billett', 'broetli', 'semmel']);
   });
 });
