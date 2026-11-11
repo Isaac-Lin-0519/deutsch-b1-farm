@@ -49,14 +49,27 @@ def _tokens(s: str) -> set[str]:
     return {t.lower() for t in re.findall(r"[A-Za-zÄÖÜäöüß]+", s.replace("{", "").replace("}", ""))}
 
 
+SPLIT_FRAGMENT_RAWS = {
+    "Briefumschlag; CH: Cou-vert",
+    "(Internetforum)",
+    "(hat wollen als",
+    "Modalverb)",
+    "als Modalverb)",
+    "gehen/sein; D, CH: pensioniert werden/sein",
+    "gehen/sein; D: in Rente",
+    "zu gewesen",
+}
+
+
 def originality_check(root: Path, words: dict) -> list[str]:
     """本機有原文（data/raw）時，確認自己寫的例句和原表例句不會太像。"""
     raw = root / "raw" / "B1.entries.json"
     if not raw.exists():
         return []
     originals = json.loads(raw.read_text(encoding="utf-8"))
-    # PDF 換行誤拆出 Kuvert 的對應詞註記，並非獨立詞條。
-    originals = [entry for entry in originals if entry.get("raw") != "Briefumschlag; CH: Cou-vert"]
+    # PDF 換行誤拆出來的片段（Kuvert 的對應詞、情態動詞的括號註記等），並非獨立詞條，
+    # 已從 wordlist.json 併回原詞條，這裡也要略過，才對得上。
+    originals = [entry for entry in originals if entry.get("raw") not in SPLIT_FRAGMENT_RAWS]
     ids = list(words)
     if len(ids) != len(originals):
         return ["原文詞條數和 wordlist.json 對不上，請重新執行解析"]

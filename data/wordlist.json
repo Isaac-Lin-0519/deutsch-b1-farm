@@ -6055,13 +6055,7 @@
   "praeteritum": "durfte",
   "perfekt": "hat gedurft (hat dürfen",
   "aux": "haben",
-  "raw": "dürfen, darf, durfte, hat gedurft (hat dürfen"
- },
- {
-  "id": "als-modalverb",
-  "level": "B1",
-  "lemma": "als Modalverb)",
-  "raw": "als Modalverb)"
+  "raw": "dürfen, darf, durfte, hat gedurft (hat dürfen als Modalverb)"
  },
  {
   "id": "durst",
@@ -9286,13 +9280,7 @@
    "das"
   ],
   "plural_suffix": "Foren",
-  "raw": "das Forum, Foren"
- },
- {
-  "id": "x",
-  "level": "B1",
-  "lemma": "(Internetforum)",
-  "raw": "(Internetforum)"
+  "raw": "das Forum, Foren (Internetforum)"
  },
  {
   "id": "fotografieren",
@@ -11797,9 +11785,15 @@
  {
   "id": "hauptdie-hauptstadt",
   "level": "B1",
-  "lemma": "Hauptdie Hauptstadt",
+  "lemma": "Hauptstadt",
   "extra": "¨-e",
-  "raw": "Hauptdie Hauptstadt, ¨-e"
+  "raw": "die Hauptstadt, ¨-e",
+  "pos": "noun",
+  "articles": [
+   "die"
+  ],
+  "plural_suffix": "¨-e",
+  "plural": "Hauptstädte"
  },
  {
   "id": "hauptbahnhof",
@@ -14507,13 +14501,7 @@
   "praeteritum": "konnte",
   "perfekt": "hat gekonnt (hat können",
   "aux": "haben",
-  "raw": "können, kann, konnte, hat gekonnt (hat können"
- },
- {
-  "id": "als-modalverb-2",
-  "level": "B1",
-  "lemma": "als Modalverb)",
-  "raw": "als Modalverb)"
+  "raw": "können, kann, konnte, hat gekonnt (hat können als Modalverb)"
  },
  {
   "id": "konsulat",
@@ -17731,13 +17719,7 @@
   "praeteritum": "musste",
   "perfekt": "hat gemusst (hat müssen",
   "aux": "haben",
-  "raw": "müssen, muss, musste, hat gemusst (hat müssen"
- },
- {
-  "id": "als-modalverb-3",
-  "level": "B1",
-  "lemma": "als Modalverb)",
-  "raw": "als Modalverb)"
+  "raw": "müssen, muss, musste, hat gemusst (hat müssen als Modalverb)"
  },
  {
   "id": "mut",
@@ -18337,9 +18319,15 @@
  {
   "id": "notdie-notaufnahme",
   "level": "B1",
-  "lemma": "Notdie Notaufnahme",
+  "lemma": "Notaufnahme",
   "extra": "-n",
-  "raw": "Notdie Notaufnahme, -n"
+  "raw": "die Notaufnahme, -n",
+  "pos": "noun",
+  "articles": [
+   "die"
+  ],
+  "plural_suffix": "-n",
+  "plural": "Notaufnahmen"
  },
  {
   "id": "notausgang",
@@ -19307,15 +19295,7 @@
    ],
    "word": "in Rente"
   },
-  "raw": "in Pension gehen/sein (D, A) → D: in Rente"
- },
- {
-  "id": "gehen-sein-d",
-  "level": "A1",
-  "lemma": "gehen/sein; D",
-  "extra": "CH: pensioniert werden/sein",
-  "sub_entry": true,
-  "raw": "gehen/sein; D, CH: pensioniert werden/sein"
+  "raw": "in Pension gehen/sein (D, A) → D: in Rente gehen/sein; D, CH: pensioniert werden/sein"
  },
  {
   "id": "pensioniert-werden-sein",
@@ -19332,14 +19312,7 @@
    ],
    "word": "in Pension"
   },
-  "raw": "pensioniert werden/sein (D, CH) → D, A: in Pension"
- },
- {
-  "id": "gehen-sein-d-in-rente",
-  "level": "A1",
-  "lemma": "gehen/sein; D: in Rente",
-  "sub_entry": true,
-  "raw": "gehen/sein; D: in Rente"
+  "raw": "pensioniert werden/sein (D, CH) → D, A: in Pension gehen/sein; D: in Rente"
  },
  {
   "id": "gehen-sein",
@@ -23614,20 +23587,20 @@
   "praeteritum": "sollte",
   "perfekt": "hat gesollt (hat sollen als",
   "aux": "haben",
-  "raw": "sollen, soll, sollte, hat gesollt (hat sollen als"
- },
- {
-  "id": "modalverb",
-  "level": "B1",
-  "lemma": "Modalverb)",
-  "raw": "Modalverb)"
+  "raw": "sollen, soll, sollte, hat gesollt (hat sollen als Modalverb)"
  },
  {
   "id": "sonderdas-sonderangebot",
   "level": "B1",
-  "lemma": "Sonderdas Sonderangebot",
+  "lemma": "Sonderangebot",
   "extra": "-e",
-  "raw": "Sonderdas Sonderangebot, -e"
+  "raw": "das Sonderangebot, -e",
+  "pos": "noun",
+  "articles": [
+   "das"
+  ],
+  "plural_suffix": "-e",
+  "plural": "Sonderangebote"
  },
  {
   "id": "sondern",
@@ -26912,13 +26885,13 @@
  {
   "id": "ueberuebertreiben",
   "level": "B1",
-  "lemma": "überübertreiben",
+  "lemma": "übertreiben",
   "pos": "verb",
   "present3": "übertreibt",
   "praeteritum": "übertrieb",
   "perfekt": "hat übertrieben",
   "aux": "haben",
-  "raw": "überübertreiben, übertreibt, übertrieb, hat übertrieben"
+  "raw": "übertreiben, übertreibt, übertrieb, hat übertrieben"
  },
  {
   "id": "ueberweisen",
@@ -30315,19 +30288,7 @@
   "praeteritum": "wollte",
   "perfekt": "hat gewollt",
   "aux": "haben",
-  "raw": "wollen, will, wollte, hat gewollt"
- },
- {
-  "id": "hat-wollen-als",
-  "level": "B1",
-  "lemma": "(hat wollen als",
-  "raw": "(hat wollen als"
- },
- {
-  "id": "modalverb-2",
-  "level": "B1",
-  "lemma": "Modalverb)",
-  "raw": "Modalverb)"
+  "raw": "wollen, will, wollte, hat gewollt (hat wollen als Modalverb)"
  },
  {
   "id": "worueber",
@@ -31299,13 +31260,7 @@
   "level": "A1",
   "lemma": "zu sein",
   "extra": "ist zu, war zu, ist",
-  "raw": "zu sein, ist zu, war zu, ist"
- },
- {
-  "id": "zu-gewesen",
-  "level": "B1",
-  "lemma": "zu gewesen",
-  "raw": "zu gewesen"
+  "raw": "zu sein, ist zu, war zu, ist zu gewesen"
  },
  {
   "id": "zustand",

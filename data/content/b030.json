@@ -431,24 +431,6 @@
       }
     ]
   },
-  "als-modalverb-2": {
-    "senses": [
-      {
-        "zh": "（情態動詞）可以；能夠",
-        "en": "can (modal verb)",
-        "ex": {
-          "de": "{Kann} ich hier kurz telefonieren?",
-          "zh": "我可以在這裡打一下電話嗎？",
-          "en": "Can I make a quick phone call here?",
-          "distractors": [
-            "Esse",
-            "Schlafe",
-            "Wohne"
-          ]
-        }
-      }
-    ]
-  },
   "konsulat": {
     "senses": [
       {

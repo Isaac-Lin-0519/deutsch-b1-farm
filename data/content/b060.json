@@ -287,42 +287,6 @@
       }
     ]
   },
-  "hat-wollen-als": {
-    "senses": [
-      {
-        "zh": "想要（情態動詞的完成式用法）",
-        "en": "to want (in perfect with infinitive)",
-        "ex": {
-          "de": "Er hat gestern nicht mehr arbeiten {wollen}.",
-          "zh": "他昨天不想再工作了。",
-          "en": "He didn't want to work any more yesterday.",
-          "distractors": [
-            "essen",
-            "singen",
-            "laufen"
-          ]
-        }
-      }
-    ]
-  },
-  "modalverb-2": {
-    "senses": [
-      {
-        "zh": "情態動詞",
-        "en": "modal verb",
-        "ex": {
-          "de": "Im Deutschkurs lernen wir heute die {Modalverben} mit Beispielen.",
-          "zh": "今天德語課我們用例句學情態動詞。",
-          "en": "In German class today we learn the modal verbs with examples.",
-          "distractors": [
-            "Hunde",
-            "Vorhänge",
-            "Gabeln"
-          ]
-        }
-      }
-    ]
-  },
   "worueber": {
     "senses": [
       {

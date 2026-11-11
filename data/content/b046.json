@@ -1,22 +1,4 @@
 {
-  "als-modalverb-3": {
-    "senses": [
-      {
-        "zh": "必須；得（情態動詞）",
-        "en": "must, to have to",
-        "ex": {
-          "de": "Du {musst} vor dem Essen die Hände waschen.",
-          "zh": "你吃飯前必須洗手。",
-          "en": "You have to wash your hands before eating.",
-          "distractors": [
-            "hast",
-            "bist",
-            "heißt"
-          ]
-        }
-      }
-    ]
-  },
   "notdie-notaufnahme": {
     "senses": [
       {
@@ -30,42 +12,6 @@
             "Bibliothek",
             "Bushaltestelle",
             "Wäscherei"
-          ]
-        }
-      }
-    ]
-  },
-  "gehen-sein-d": {
-    "senses": [
-      {
-        "zh": "退休（被退休）",
-        "en": "to be retired",
-        "ex": {
-          "de": "Meine Tante wird nächstes Jahr {pensioniert}.",
-          "zh": "我阿姨明年就要退休了。",
-          "en": "My aunt will retire next year.",
-          "distractors": [
-            "gekocht",
-            "geschwommen",
-            "gesungen"
-          ]
-        }
-      }
-    ]
-  },
-  "gehen-sein-d-in-rente": {
-    "senses": [
-      {
-        "zh": "退休（德國用法）",
-        "en": "to retire",
-        "ex": {
-          "de": "Mein Vater will mit 65 in {Rente} gehen.",
-          "zh": "我爸爸打算六十五歲退休。",
-          "en": "My father wants to retire at 65.",
-          "distractors": [
-            "Küche",
-            "Kälte",
-            "Schule"
           ]
         }
       }

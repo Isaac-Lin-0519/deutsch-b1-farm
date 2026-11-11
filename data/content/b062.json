@@ -125,24 +125,6 @@
       }
     ]
   },
-  "zu-gewesen": {
-    "senses": [
-      {
-        "zh": "（用完成式）關著、沒營業",
-        "en": "(perfect) was closed",
-        "ex": {
-          "de": "Das Geschäft ist am Montag {zu gewesen}.",
-          "zh": "那間店星期一沒營業。",
-          "en": "The shop was closed on Monday.",
-          "distractors": [
-            "gelb gewesen",
-            "klug gewesen",
-            "müde gewesen"
-          ]
-        }
-      }
-    ]
-  },
   "zustand": {
     "senses": [
       {

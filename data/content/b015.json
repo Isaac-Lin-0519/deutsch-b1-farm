@@ -89,24 +89,6 @@
       }
     ]
   },
-  "als-modalverb": {
-    "senses": [
-      {
-        "zh": "（情態動詞）可以，請問能否",
-        "en": "may (modal verb)",
-        "ex": {
-          "de": "{Darf} ich kurz das Fenster öffnen?",
-          "zh": "我可以開一下窗戶嗎？",
-          "en": "May I open the window for a moment?",
-          "distractors": [
-            "Ist",
-            "Hat",
-            "Wird"
-          ]
-        }
-      }
-    ]
-  },
   "durst": {
     "senses": [
       {

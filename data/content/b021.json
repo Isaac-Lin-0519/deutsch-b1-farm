@@ -1,22 +1,4 @@
 {
-  "x": {
-    "senses": [
-      {
-        "zh": "(網路)論壇",
-        "en": "(Internet) forum",
-        "ex": {
-          "de": "Im {Internetforum} schreiben viele Leute über ihre Reisen.",
-          "zh": "在網路論壇裡，很多人分享自己的旅行。",
-          "en": "In the internet forum, many people write about their trips.",
-          "distractors": [
-            "Erdgeschoss",
-            "Schwimmbad",
-            "Fenster"
-          ]
-        }
-      }
-    ]
-  },
   "fotografieren": {
     "senses": [
       {

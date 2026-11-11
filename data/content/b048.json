@@ -17,24 +17,6 @@
       }
     ]
   },
-  "modalverb": {
-    "senses": [
-      {
-        "zh": "情態動詞",
-        "en": "modal verb",
-        "ex": {
-          "de": "Das Wort „können“ ist ein {Modalverb}.",
-          "zh": "「können」這個字是情態動詞。",
-          "en": "The word \"können\" is a modal verb.",
-          "distractors": [
-            "Wetter",
-            "Frühstück",
-            "Ergebnis"
-          ]
-        }
-      }
-    ]
-  },
   "sonderdas-sonderangebot": {
     "senses": [
       {
