@@ -4,7 +4,7 @@
   import * as P from '../lib/pixel';
   import { fitStage } from '../lib/stage';
   import { app, examDaysAway, fruitCount, fruitOf, plotState, todaysQueue, word } from '../lib/store.svelte';
-  import { LEVELS, type Level } from '../lib/types';
+  import type { Level } from '../lib/types';
   import PlotSheet from '../components/PlotSheet.svelte';
 
   let { onwater, onpractice }: { onwater: () => void; onpractice: () => void } = $props();
@@ -16,30 +16,39 @@
   let wrap: HTMLDivElement;
   let canvas: HTMLCanvasElement;
   let size = $state({ w: 240, h: 420 });
-  let level = $state<Level>(savedLevel());
+  let filter = $state<Filter>(savedFilter());
   let page = $state(0);
   let sheet = $state<string | null>(null);
 
-  function savedLevel(): Level {
+  /** 全部的作物放在同一塊田，上方的標籤只是篩選 */
+  type Filter = 'all' | Level;
+  const TABS: { key: Filter; label: string; x: number; w: number }[] = [
+    { key: 'all', label: '全部', x: 4, w: 21 },
+    { key: 'A1', label: 'A1', x: 26, w: 14 },
+    { key: 'A2', label: 'A2', x: 41, w: 14 },
+    { key: 'B1', label: 'B1', x: 56, w: 14 },
+  ];
+
+  function savedFilter(): Filter {
     try {
-      const v = localStorage.getItem('farm.level');
-      if (v === 'A1' || v === 'A2' || v === 'B1') return v;
+      const v = localStorage.getItem('farm.filter') ?? localStorage.getItem('farm.level');
+      if (v === 'all' || v === 'A1' || v === 'A2' || v === 'B1') return v;
     } catch {}
-    return 'A1';
+    return 'all';
   }
 
-  function setLevel(l: Level) {
-    level = l;
+  function setFilter(f: Filter) {
+    filter = f;
     page = 0;
     try {
-      localStorage.setItem('farm.level', l);
+      localStorage.setItem('farm.filter', f);
     } catch {}
   }
 
   const plants = $derived.by(() => {
     const now = app.now;
     return Object.values(app.cards)
-      .filter((r) => app.byId.get(r.id)?.level === level)
+      .filter((r) => filter === 'all' || app.byId.get(r.id)?.level === filter)
       .map((r) => ({ r, ...plotState(r, now) }))
       .sort((a, b) => Number(b.dry) - Number(a.dry) || a.r.plantedAt - b.r.plantedAt);
   });
@@ -78,11 +87,10 @@
     P.ptext(c, `${queue.seeds.length} 顆`, 222, 35, P.INK, null, 'right');
 
     // 等級分頁與翻頁
-    LEVELS.forEach((l, i) => {
-      const x = 4 + i * 21;
-      P.tab(c, x, 35, 19, 12, l === level);
-      P.ptext(c, l, (x + 9.5) * P.S, 75, l === level ? P.INK : P.LABEL, null, 'center');
-    });
+    for (const t of TABS) {
+      P.tab(c, t.x, 35, t.w, 12, t.key === filter);
+      P.ptext(c, t.label, (t.x + t.w / 2) * P.S, 75, t.key === filter ? P.INK : P.LABEL, null, 'center');
+    }
     const canPrev = page > 0;
     const canNext = page < pages - 1;
     P.tab(c, 74, 35, 12, 12, false);
@@ -109,7 +117,7 @@
     }
     if (!plants.length) {
       P.panel(c, 12, 100, 96, 34);
-      P.ptext(c, `${level} 田還沒有作物`, 120, 214, P.INK, null, 'center');
+      P.ptext(c, filter === 'all' ? '田裡還沒有作物' : `${filter} 還沒有作物`, 120, 214, P.INK, null, 'center');
       P.ptext(c, `按「${waterLabel}」開始`, 120, 234, P.INK, null, 'center');
     }
 
@@ -150,8 +158,8 @@
 <div class="wrap" bind:this={wrap}>
   <div class="stage" style="width:{size.w}px;height:{size.h}px">
     <canvas bind:this={canvas} width={W * P.S} height={H * P.S} style="width:{size.w}px;height:{size.h}px"></canvas>
-    {#each LEVELS as l, i (l)}
-      <button class="hit" style={box(4 + i * 21, 35, 19, 12)} aria-label="{l} 田" aria-pressed={l === level} onclick={() => setLevel(l)}></button>
+    {#each TABS as t (t.key)}
+      <button class="hit" style={box(t.x, 35, t.w, 12)} aria-label={t.key === 'all' ? '全部等級' : `只看 ${t.label}`} aria-pressed={t.key === filter} onclick={() => setFilter(t.key)}></button>
     {/each}
     <button class="hit" style={box(72, 33, 16, 16)} aria-label="上一頁" disabled={page === 0} onclick={() => page--}></button>
     <button class="hit" style={box(102, 33, 16, 16)} aria-label="下一頁" disabled={page >= pages - 1} onclick={() => page++}></button>
