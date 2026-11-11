@@ -1,0 +1,916 @@
+{
+  "teuer": {
+    "senses": [
+      {
+        "zh": "貴的；昂貴的",
+        "en": "expensive",
+        "ex": {
+          "de": "Das Hotel am Strand war uns leider zu {teuer}.",
+          "zh": "海邊那間旅館對我們來說太貴了。",
+          "en": "Unfortunately, the hotel by the beach was too expensive for us.",
+          "distractors": [
+            "salzig",
+            "blond",
+            "schläfrig"
+          ]
+        }
+      }
+    ]
+  },
+  "text": {
+    "senses": [
+      {
+        "zh": "文章；文字；課文",
+        "en": "text",
+        "ex": {
+          "de": "Lies bitte den {Text} noch einmal laut vor, Anna.",
+          "zh": "安娜，請把這篇文章再大聲唸一次。",
+          "en": "Please read the text aloud once more, Anna.",
+          "distractors": [
+            "Hammer",
+            "Schlüssel",
+            "Rasen"
+          ]
+        }
+      }
+    ]
+  },
+  "theater": {
+    "senses": [
+      {
+        "zh": "劇院；戲劇",
+        "en": "theatre",
+        "ex": {
+          "de": "Das {Theater} in unserer Stadt zeigt heute ein neues Stück.",
+          "zh": "我們城裡的劇院今天上演一齣新戲。",
+          "en": "The theatre in our town is showing a new play today.",
+          "distractors": [
+            "Gewitter",
+            "Gepäck",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "thema": {
+    "senses": [
+      {
+        "zh": "主題；話題",
+        "en": "topic, subject",
+        "ex": {
+          "de": "Das {Thema} des Vortrags war für alle sehr interessant.",
+          "zh": "這場演講的主題讓大家都很感興趣。",
+          "en": "The subject of the talk was very interesting for everyone.",
+          "distractors": [
+            "Gewürz",
+            "Fahrrad",
+            "Zelt"
+          ]
+        }
+      }
+    ]
+  },
+  "theoretisch": {
+    "senses": [
+      {
+        "zh": "理論上的；理論上",
+        "en": "theoretical, in theory",
+        "ex": {
+          "de": "Das ist {theoretisch} möglich, aber praktisch kaum zu machen.",
+          "zh": "這在理論上是可能的，但實際上幾乎做不到。",
+          "en": "That is possible in theory, but hardly doable in practice.",
+          "distractors": [
+            "freundlich",
+            "blau",
+            "süß"
+          ]
+        }
+      }
+    ]
+  },
+  "theorie": {
+    "senses": [
+      {
+        "zh": "理論；學說",
+        "en": "theory",
+        "ex": {
+          "de": "Seine {Theorie} über die Sterne hat im Kurs alle überrascht.",
+          "zh": "他關於星星的理論讓課堂上的每個人都很驚訝。",
+          "en": "His theory about the stars surprised everyone in the course.",
+          "distractors": [
+            "Kerze",
+            "Zwiebel",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "therapie": {
+    "senses": [
+      {
+        "zh": "治療；療程",
+        "en": "therapy, treatment",
+        "ex": {
+          "de": "Nach dem Unfall hat sie eine lange {Therapie} gemacht.",
+          "zh": "出事故後，她接受了很長的治療。",
+          "en": "After the accident she went through a long therapy.",
+          "distractors": [
+            "Leiter",
+            "Tonne",
+            "Birne"
+          ]
+        }
+      }
+    ]
+  },
+  "ticket": {
+    "senses": [
+      {
+        "zh": "票；車票",
+        "en": "ticket",
+        "ex": {
+          "de": "Ich habe das {Ticket} für das Konzert online gekauft.",
+          "zh": "我在網路上買了演唱會的票。",
+          "en": "I bought the ticket for the concert online.",
+          "distractors": [
+            "Gebirge",
+            "Fieber",
+            "Lineal"
+          ]
+        }
+      }
+    ]
+  },
+  "tief": {
+    "senses": [
+      {
+        "zh": "深的；低沉的",
+        "en": "deep",
+        "ex": {
+          "de": "Der See ist hier sehr {tief}, man kann nicht stehen.",
+          "zh": "這裡的湖很深，站不到底。",
+          "en": "The lake is very deep here; you can't stand.",
+          "distractors": [
+            "trocken",
+            "eckig",
+            "stumm"
+          ]
+        }
+      }
+    ]
+  },
+  "tier": {
+    "senses": [
+      {
+        "zh": "動物",
+        "en": "animal",
+        "ex": {
+          "de": "Welches {Tier} lebt im Wald und schläft im Winter?",
+          "zh": "哪種動物住在森林裡，冬天會冬眠？",
+          "en": "Which animal lives in the forest and sleeps in winter?",
+          "distractors": [
+            "Werkzeug",
+            "Fahrzeug",
+            "Spielzeug"
+          ]
+        }
+      }
+    ]
+  },
+  "haustier": {
+    "senses": [
+      {
+        "zh": "寵物",
+        "en": "pet",
+        "ex": {
+          "de": "Meine Tochter wünscht sich ein {Haustier}, am liebsten einen Hund.",
+          "zh": "我女兒想要一隻寵物，最好是狗。",
+          "en": "My daughter wants a pet, preferably a dog.",
+          "distractors": [
+            "Päckchen",
+            "Kleid",
+            "Messer"
+          ]
+        }
+      }
+    ]
+  },
+  "tierpark": {
+    "senses": [
+      {
+        "zh": "動物園；動物公園",
+        "en": "zoo, animal park",
+        "ex": {
+          "de": "Am Sonntag fahren wir in den {Tierpark} und füttern Ziegen.",
+          "zh": "星期天我們要去動物園餵山羊。",
+          "en": "On Sunday we are going to the animal park to feed goats.",
+          "distractors": [
+            "Flughafen",
+            "Keller",
+            "Supermarkt"
+          ]
+        }
+      }
+    ]
+  },
+  "tipp": {
+    "senses": [
+      {
+        "zh": "建議；提示；小撇步",
+        "en": "tip, hint",
+        "ex": {
+          "de": "Danke für deinen {Tipp}, ich habe die Prüfung bestanden.",
+          "zh": "謝謝你的建議，我通過考試了。",
+          "en": "Thanks for your tip, I passed the exam.",
+          "distractors": [
+            "Hammer",
+            "Pinsel",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "tippen": {
+    "senses": [
+      {
+        "zh": "打字；輕觸；猜測",
+        "en": "to type, to tap",
+        "ex": {
+          "de": "Sie kann sehr schnell auf der Tastatur {tippen}.",
+          "zh": "她可以在鍵盤上打字打得很快。",
+          "en": "She can type very fast on the keyboard.",
+          "distractors": [
+            "segeln",
+            "ernten",
+            "angeln"
+          ]
+        }
+      }
+    ]
+  },
+  "tisch": {
+    "senses": [
+      {
+        "zh": "桌子",
+        "en": "table",
+        "ex": {
+          "de": "Der {Tisch} im Esszimmer ist für acht Personen groß genug.",
+          "zh": "餐廳裡的桌子夠大，可以坐八個人。",
+          "en": "The table in the dining room is big enough for eight people.",
+          "distractors": [
+            "Balkon",
+            "Garten",
+            "Hof"
+          ]
+        }
+      }
+    ]
+  },
+  "titel": {
+    "senses": [
+      {
+        "zh": "標題；書名；頭銜",
+        "en": "title",
+        "ex": {
+          "de": "Der {Titel} des Films hat mir sofort gefallen.",
+          "zh": "這部電影的片名我一下子就喜歡上了。",
+          "en": "I liked the title of the film right away.",
+          "distractors": [
+            "Rucksack",
+            "Regen",
+            "Käse"
+          ]
+        }
+      }
+    ]
+  },
+  "tochter": {
+    "senses": [
+      {
+        "zh": "女兒",
+        "en": "daughter",
+        "ex": {
+          "de": "Unsere {Tochter} geht seit September in die erste Klasse.",
+          "zh": "我們的女兒從九月開始上小學一年級。",
+          "en": "Our daughter has been in first grade since September.",
+          "distractors": [
+            "Mütze",
+            "Banane",
+            "Lampe"
+          ]
+        }
+      }
+    ]
+  },
+  "tod": {
+    "senses": [
+      {
+        "zh": "死亡",
+        "en": "death",
+        "ex": {
+          "de": "Der {Tod} ihres Großvaters hat die ganze Familie traurig gemacht.",
+          "zh": "她爺爺的過世讓全家人都很難過。",
+          "en": "Her grandfather's death made the whole family sad.",
+          "distractors": [
+            "Hut",
+            "Zucker",
+            "Reis"
+          ]
+        }
+      }
+    ]
+  },
+  "toedlich": {
+    "senses": [
+      {
+        "zh": "致命的",
+        "en": "deadly, fatal",
+        "ex": {
+          "de": "Dieser Pilz ist {tödlich}, bitte iss ihn nicht.",
+          "zh": "這種菇有致命的毒，請不要吃。",
+          "en": "This mushroom is deadly, please don't eat it.",
+          "distractors": [
+            "gemütlich",
+            "sparsam",
+            "fleißig"
+          ]
+        }
+      }
+    ]
+  },
+  "toilette": {
+    "senses": [
+      {
+        "zh": "廁所",
+        "en": "toilet",
+        "ex": {
+          "de": "Ich muss dringend auf die {Toilette}, ich habe viel getrunken.",
+          "zh": "我急著要上廁所，我喝了很多。",
+          "en": "I urgently need the toilet; I drank a lot.",
+          "distractors": [
+            "Ziege",
+            "Rose",
+            "Tanne"
+          ]
+        }
+      }
+    ]
+  },
+  "tolerant": {
+    "senses": [
+      {
+        "zh": "寬容的；包容的",
+        "en": "tolerant",
+        "ex": {
+          "de": "Mein Opa ist sehr {tolerant} und akzeptiert jeden Menschen.",
+          "zh": "我爺爺很包容，接納每一個人。",
+          "en": "My grandpa is very tolerant and accepts everyone.",
+          "distractors": [
+            "salzig",
+            "hölzern",
+            "quadratisch"
+          ]
+        }
+      }
+    ]
+  },
+  "toll": {
+    "senses": [
+      {
+        "zh": "很棒的；極好的",
+        "en": "great, fantastic",
+        "ex": {
+          "de": "Das Konzert gestern war wirklich {toll}, wir haben getanzt.",
+          "zh": "昨天的演唱會真的很棒，我們還跳了舞。",
+          "en": "The concert yesterday was really great; we danced.",
+          "distractors": [
+            "schmal",
+            "kariert",
+            "staubig"
+          ]
+        }
+      }
+    ]
+  },
+  "tomate": {
+    "senses": [
+      {
+        "zh": "番茄",
+        "en": "tomato",
+        "ex": {
+          "de": "Für den Salat brauchen wir noch eine reife {Tomate}.",
+          "zh": "做沙拉我們還需要一顆熟的番茄。",
+          "en": "For the salad we still need a ripe tomato.",
+          "distractors": [
+            "Schere",
+            "Kette",
+            "Wanne"
+          ]
+        }
+      }
+    ]
+  },
+  "topf": {
+    "senses": [
+      {
+        "zh": "鍋子；深鍋",
+        "en": "pot",
+        "ex": {
+          "de": "Stell den {Topf} auf den Herd, das Wasser kocht gleich.",
+          "zh": "把鍋子放到爐子上，水馬上就滾了。",
+          "en": "Put the pot on the stove; the water will boil soon.",
+          "distractors": [
+            "Mantel",
+            "Schuh",
+            "Stuhl"
+          ]
+        }
+      }
+    ]
+  },
+  "tor": {
+    "senses": [
+      {
+        "zh": "球門；大門",
+        "en": "goal; gate",
+        "ex": {
+          "de": "Der Torwart hat den Ball kurz vor dem {Tor} gehalten.",
+          "zh": "守門員在球進門前一刻把球擋住了。",
+          "en": "The goalkeeper stopped the ball just before the goal.",
+          "distractors": [
+            "Eis",
+            "Ei",
+            "Salz"
+          ]
+        }
+      }
+    ]
+  },
+  "torte": {
+    "senses": [
+      {
+        "zh": "蛋糕；大蛋糕",
+        "en": "cake, gateau",
+        "ex": {
+          "de": "Zu ihrem Geburtstag hat Oma eine große {Torte} gebacken.",
+          "zh": "奶奶為她的生日烤了一個大蛋糕。",
+          "en": "For her birthday, Grandma baked a big cake.",
+          "distractors": [
+            "Laterne",
+            "Steckdose",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "tot": {
+    "senses": [
+      {
+        "zh": "死的；已死亡的",
+        "en": "dead",
+        "ex": {
+          "de": "Der Vogel auf dem Balkon ist leider {tot}.",
+          "zh": "陽台上的那隻鳥很可惜已經死了。",
+          "en": "The bird on the balcony is dead, unfortunately.",
+          "distractors": [
+            "blond",
+            "verheiratet",
+            "eckig"
+          ]
+        }
+      }
+    ]
+  },
+  "tote": {
+    "senses": [
+      {
+        "zh": "死者（男）",
+        "en": "dead man",
+        "ex": {
+          "de": "Der Polizist fand in der Wohnung einen {Toten}.",
+          "zh": "警察在屋裡發現了一名死者。",
+          "en": "The policeman found a dead man in the flat.",
+          "distractors": [
+            "Wasserfall",
+            "Ozean",
+            "Vulkan"
+          ]
+        }
+      }
+    ]
+  },
+  "tote-2": {
+    "senses": [
+      {
+        "zh": "死者（女）",
+        "en": "dead woman",
+        "ex": {
+          "de": "Die Polizei hat die {Tote} noch nicht identifiziert.",
+          "zh": "警方還沒有確認那名女性死者的身分。",
+          "en": "The police have not yet identified the dead woman.",
+          "distractors": [
+            "Zeitung",
+            "Gurke",
+            "Pfeife"
+          ]
+        }
+      }
+    ]
+  },
+  "total": {
+    "senses": [
+      {
+        "zh": "完全地；非常",
+        "en": "totally, completely",
+        "ex": {
+          "de": "Das Essen war {total} lecker, ich nehme noch eins.",
+          "zh": "這道菜超級好吃，我還要再來一份。",
+          "en": "The food was totally delicious; I'll have another.",
+          "distractors": [
+            "rechts",
+            "hinten",
+            "oben"
+          ]
+        }
+      }
+    ]
+  },
+  "tourismus": {
+    "senses": [
+      {
+        "zh": "觀光業；旅遊業",
+        "en": "tourism",
+        "ex": {
+          "de": "Der {Tourismus} ist für diese kleine Insel sehr wichtig.",
+          "zh": "觀光業對這座小島非常重要。",
+          "en": "Tourism is very important for this small island.",
+          "distractors": [
+            "Fußboden",
+            "Bleistift",
+            "Schnürsenkel"
+          ]
+        }
+      }
+    ]
+  },
+  "tourist": {
+    "senses": [
+      {
+        "zh": "觀光客（男）",
+        "en": "tourist",
+        "ex": {
+          "de": "Ein {Tourist} hat mich nach dem Weg zum Dom gefragt.",
+          "zh": "一位觀光客問我去大教堂怎麼走。",
+          "en": "A tourist asked me the way to the cathedral.",
+          "distractors": [
+            "Lastwagen",
+            "Pfosten",
+            "Ofen"
+          ]
+        }
+      }
+    ]
+  },
+  "touristin": {
+    "senses": [
+      {
+        "zh": "觀光客（女）",
+        "en": "tourist (female)",
+        "ex": {
+          "de": "Die {Touristin} fotografiert den Brunnen auf dem Marktplatz.",
+          "zh": "那位女觀光客在拍市集廣場上的噴泉。",
+          "en": "The tourist is photographing the fountain on the market square.",
+          "distractors": [
+            "Katze",
+            "Kartoffel",
+            "Kirche"
+          ]
+        }
+      }
+    ]
+  },
+  "tradition": {
+    "senses": [
+      {
+        "zh": "傳統；習俗",
+        "en": "tradition",
+        "ex": {
+          "de": "In unserer Familie ist das Singen an Weihnachten eine alte {Tradition}.",
+          "zh": "在我們家，聖誕節唱歌是個古老的傳統。",
+          "en": "In our family, singing at Christmas is an old tradition.",
+          "distractors": [
+            "Hose",
+            "Schaukel",
+            "Bohne"
+          ]
+        }
+      }
+    ]
+  },
+  "traditionell": {
+    "senses": [
+      {
+        "zh": "傳統的",
+        "en": "traditional",
+        "ex": {
+          "de": "Die Hochzeit war sehr {traditionell}, mit Tracht und Blasmusik.",
+          "zh": "那場婚禮很傳統，有民族服裝和銅管樂。",
+          "en": "The wedding was very traditional, with folk costumes and brass music.",
+          "distractors": [
+            "spitz",
+            "viereckig",
+            "felsig"
+          ]
+        }
+      }
+    ]
+  },
+  "tragen": {
+    "senses": [
+      {
+        "zh": "搬；扛；背",
+        "en": "to carry",
+        "ex": {
+          "de": "Mein Bruder kann den schweren Koffer allein die Treppe {tragen}.",
+          "zh": "我哥哥一個人就能把那只重行李箱搬上樓梯。",
+          "en": "My brother can carry the heavy suitcase up the stairs alone.",
+          "distractors": [
+            "baden",
+            "lächeln",
+            "husten"
+          ]
+        }
+      },
+      {
+        "zh": "穿；戴",
+        "en": "to wear",
+        "ex": {
+          "de": "Seine Schwester {trägt} im Büro immer ein Kostüm.",
+          "zh": "他的姊姊在辦公室總是穿套裝。",
+          "en": "His sister always wears a suit at the office.",
+          "distractors": [
+            "regnet",
+            "wächst",
+            "schnarcht"
+          ]
+        }
+      }
+    ]
+  },
+  "trainieren": {
+    "senses": [
+      {
+        "zh": "訓練；練習",
+        "en": "to train",
+        "ex": {
+          "de": "Das Team muss heute zwei Stunden auf dem Platz {trainieren}.",
+          "zh": "球隊今天得在場上訓練兩個小時。",
+          "en": "The team has to train on the pitch for two hours today.",
+          "distractors": [
+            "heiraten",
+            "verblühen",
+            "erröten"
+          ]
+        }
+      }
+    ]
+  },
+  "trainer": {
+    "senses": [
+      {
+        "zh": "教練（男）",
+        "en": "coach",
+        "ex": {
+          "de": "Unser {Trainer} lobt jeden Spieler nach dem Spiel.",
+          "zh": "我們的教練在比賽後會稱讚每一位球員。",
+          "en": "Our coach praises every player after the game.",
+          "distractors": [
+            "Ball",
+            "Rasen",
+            "Pokal"
+          ]
+        }
+      }
+    ]
+  },
+  "trainerin": {
+    "senses": [
+      {
+        "zh": "教練（女）",
+        "en": "coach (female)",
+        "ex": {
+          "de": "Die {Trainerin} erklärt den Kindern die neue Übung.",
+          "zh": "女教練向孩子們說明新的練習。",
+          "en": "The coach explains the new exercise to the children.",
+          "distractors": [
+            "Pfütze",
+            "Trommel",
+            "Tischdecke"
+          ]
+        }
+      }
+    ]
+  },
+  "training": {
+    "senses": [
+      {
+        "zh": "訓練；練習",
+        "en": "training, practice",
+        "ex": {
+          "de": "Das {Training} beginnt um sieben, bitte seid pünktlich.",
+          "zh": "訓練七點開始，請大家準時。",
+          "en": "Training starts at seven; please be on time.",
+          "distractors": [
+            "Zelt",
+            "Gemüse",
+            "Bett"
+          ]
+        }
+      }
+    ]
+  },
+  "tram": {
+    "senses": [
+      {
+        "zh": "電車；路面電車",
+        "en": "tram",
+        "ex": {
+          "de": "Das {Tram} fährt alle zehn Minuten zum Bahnhof.",
+          "zh": "電車每十分鐘開一班到車站。",
+          "en": "The tram goes to the station every ten minutes.",
+          "distractors": [
+            "Regal",
+            "Gemälde",
+            "Dach"
+          ]
+        }
+      }
+    ]
+  },
+  "traene": {
+    "senses": [
+      {
+        "zh": "眼淚",
+        "en": "tear",
+        "ex": {
+          "de": "Beim Abschied ist ihr eine {Träne} über die Wange gelaufen.",
+          "zh": "道別時，一滴眼淚從她臉頰滑落。",
+          "en": "At the farewell, a tear ran down her cheek.",
+          "distractors": [
+            "Münze",
+            "Flasche",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "transportieren": {
+    "senses": [
+      {
+        "zh": "運送；運輸",
+        "en": "to transport",
+        "ex": {
+          "de": "Mit diesem Lastwagen kann man Möbel und Maschinen {transportieren}.",
+          "zh": "用這輛貨車可以運送家具和機器。",
+          "en": "With this truck you can transport furniture and machines.",
+          "distractors": [
+            "tauchen",
+            "niesen",
+            "gähnen"
+          ]
+        }
+      }
+    ]
+  },
+  "transport": {
+    "senses": [
+      {
+        "zh": "運送；運輸",
+        "en": "transport",
+        "ex": {
+          "de": "Der {Transport} der Möbel hat drei Stunden gedauert.",
+          "zh": "搬運家具花了三個小時。",
+          "en": "Transporting the furniture took three hours.",
+          "distractors": [
+            "Geruch",
+            "Spiegel",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "traeumen": {
+    "senses": [
+      {
+        "zh": "做夢；夢想",
+        "en": "to dream",
+        "ex": {
+          "de": "Ich habe heute Nacht von einem großen Hund {geträumt}.",
+          "zh": "我昨晚夢到一隻很大的狗。",
+          "en": "Last night I dreamed of a big dog.",
+          "distractors": [
+            "gesammelt",
+            "geheiratet",
+            "gefrühstückt"
+          ]
+        }
+      }
+    ]
+  },
+  "traum": {
+    "senses": [
+      {
+        "zh": "夢；夢想",
+        "en": "dream",
+        "ex": {
+          "de": "Mein größter {Traum} ist eine Reise um die ganze Welt.",
+          "zh": "我最大的夢想是環遊世界。",
+          "en": "My biggest dream is a trip around the whole world.",
+          "distractors": [
+            "Regenmantel",
+            "Bahnhof",
+            "Pfannkuchen"
+          ]
+        }
+      }
+    ]
+  },
+  "traum-2": {
+    "senses": [
+      {
+        "zh": "夢想中的；夢幻的（複合字首）",
+        "en": "dream (prefix)",
+        "ex": {
+          "de": "Wir haben endlich unser {Traum}haus am See gefunden.",
+          "zh": "我們終於找到了湖邊的夢想之屋。",
+          "en": "We have finally found our dream house by the lake.",
+          "distractors": [
+            "Gummi",
+            "Nebel",
+            "Salz"
+          ]
+        }
+      }
+    ]
+  },
+  "traurig": {
+    "senses": [
+      {
+        "zh": "傷心的；難過的",
+        "en": "sad",
+        "ex": {
+          "de": "Die Kinder waren {traurig}, weil der Ausflug ausfiel.",
+          "zh": "孩子們很難過，因為郊遊取消了。",
+          "en": "The children were sad because the trip was cancelled.",
+          "distractors": [
+            "knusprig",
+            "kugelrund",
+            "eisern"
+          ]
+        }
+      }
+    ]
+  },
+  "treffen": {
+    "senses": [
+      {
+        "zh": "見面；遇見；碰到",
+        "en": "to meet",
+        "ex": {
+          "de": "Ich möchte meine Freundin morgen im Park {treffen}.",
+          "zh": "我明天想在公園和女朋友見面。",
+          "en": "I would like to meet my girlfriend in the park tomorrow.",
+          "distractors": [
+            "schälen",
+            "lackieren",
+            "gießen"
+          ]
+        }
+      }
+    ]
+  },
+  "treffpunkt": {
+    "senses": [
+      {
+        "zh": "集合地點；碰面地點",
+        "en": "meeting point",
+        "ex": {
+          "de": "Der {Treffpunkt} für den Ausflug ist um acht vor der Schule.",
+          "zh": "郊遊的集合地點是八點在學校前面。",
+          "en": "The meeting point for the trip is in front of the school at eight.",
+          "distractors": [
+            "Ofen",
+            "Mond",
+            "Nebel"
+          ]
+        }
+      }
+    ]
+  }
+}

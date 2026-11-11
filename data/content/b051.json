@@ -1,0 +1,902 @@
+{
+  "sympathisch": {
+    "senses": [
+      {
+        "zh": "討人喜歡的；親切的",
+        "en": "likeable, nice",
+        "ex": {
+          "de": "Unser neuer Nachbar wirkt sehr {sympathisch}.",
+          "zh": "我們的新鄰居看起來很討人喜歡。",
+          "en": "Our new neighbor seems very likeable.",
+          "distractors": [
+            "salzig",
+            "schriftlich",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "system": {
+    "senses": [
+      {
+        "zh": "系統；體系",
+        "en": "system",
+        "ex": {
+          "de": "Das {System} der Bibliothek ist leider heute ausgefallen.",
+          "zh": "圖書館的系統今天很可惜故障了。",
+          "en": "The library's system is down today, unfortunately.",
+          "distractors": [
+            "Gemüse",
+            "Handtuch",
+            "Gebirge"
+          ]
+        }
+      }
+    ]
+  },
+  "szene": {
+    "senses": [
+      {
+        "zh": "場景；一幕",
+        "en": "scene",
+        "ex": {
+          "de": "Die letzte {Szene} im Film hat mich zum Weinen gebracht.",
+          "zh": "電影的最後一幕讓我哭了。",
+          "en": "The last scene in the film made me cry.",
+          "distractors": [
+            "Suppe",
+            "Gabel",
+            "Glühbirne"
+          ]
+        }
+      }
+    ]
+  },
+  "tabelle": {
+    "senses": [
+      {
+        "zh": "表格",
+        "en": "table, chart",
+        "ex": {
+          "de": "Trag die Zahlen bitte in die {Tabelle} ein.",
+          "zh": "請把數字填進表格裡。",
+          "en": "Please enter the numbers in the table.",
+          "distractors": [
+            "Birne",
+            "Kreuzung",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "tablette": {
+    "senses": [
+      {
+        "zh": "藥片",
+        "en": "tablet, pill",
+        "ex": {
+          "de": "Gegen die Kopfschmerzen habe ich eine {Tablette} mit Wasser geschluckt.",
+          "zh": "為了頭痛，我配水吞了一顆藥片。",
+          "en": "For my headache I swallowed a pill with water.",
+          "distractors": [
+            "Schaufel",
+            "Gardine",
+            "Leiter"
+          ]
+        }
+      }
+    ]
+  },
+  "tafel": {
+    "senses": [
+      {
+        "zh": "黑板",
+        "en": "blackboard",
+        "ex": {
+          "de": "Die Kinder malen mit Kreide ein Haus an die {Tafel}.",
+          "zh": "孩子們用粉筆在黑板上畫了一棟房子。",
+          "en": "The children draw a house on the blackboard with chalk.",
+          "distractors": [
+            "Gurke",
+            "Zitrone",
+            "Kartoffel"
+          ]
+        }
+      }
+    ]
+  },
+  "tagesablauf": {
+    "senses": [
+      {
+        "zh": "一天的作息；日程",
+        "en": "daily routine",
+        "ex": {
+          "de": "Mein {Tagesablauf} ist seit dem neuen Job ganz anders.",
+          "zh": "自從有了新工作，我的作息完全不一樣了。",
+          "en": "My daily routine has been totally different since the new job.",
+          "distractors": [
+            "Löffel",
+            "Mantel",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "tal": {
+    "senses": [
+      {
+        "zh": "山谷",
+        "en": "valley",
+        "ex": {
+          "de": "Im {Tal} liegt im Winter oft dichter Nebel.",
+          "zh": "冬天山谷裡常有濃霧。",
+          "en": "In winter there is often thick fog in the valley.",
+          "distractors": [
+            "Hemd",
+            "Brötchen",
+            "Buch"
+          ]
+        }
+      }
+    ]
+  },
+  "talent": {
+    "senses": [
+      {
+        "zh": "才能；天分",
+        "en": "talent",
+        "ex": {
+          "de": "Sie hat ein großes {Talent} zum Zeichnen.",
+          "zh": "她很有繪畫的天分。",
+          "en": "She has a great talent for drawing.",
+          "distractors": [
+            "Messer",
+            "Ei",
+            "Gewitter"
+          ]
+        }
+      }
+    ]
+  },
+  "tanken": {
+    "senses": [
+      {
+        "zh": "加油",
+        "en": "to fill up with fuel",
+        "ex": {
+          "de": "Wir müssen vor der Autobahn unbedingt noch {tanken}.",
+          "zh": "上高速公路前我們一定要先加油。",
+          "en": "We absolutely have to get gas before the highway.",
+          "distractors": [
+            "lächeln",
+            "ernten",
+            "impfen"
+          ]
+        }
+      }
+    ]
+  },
+  "tankstelle": {
+    "senses": [
+      {
+        "zh": "加油站",
+        "en": "gas station",
+        "ex": {
+          "de": "Kurz vor der Autobahn kaufe ich Benzin an der {Tankstelle}.",
+          "zh": "上高速公路前，我在加油站買汽油。",
+          "en": "Just before the motorway I buy petrol at the petrol station.",
+          "distractors": [
+            "Schaufel",
+            "Zwiebel",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "tante": {
+    "senses": [
+      {
+        "zh": "阿姨；姑姑",
+        "en": "aunt",
+        "ex": {
+          "de": "Meine {Tante} wohnt in Wien und kocht sehr gut.",
+          "zh": "我阿姨住在維也納，很會煮菜。",
+          "en": "My aunt lives in Vienna and cooks very well.",
+          "distractors": [
+            "Lampe",
+            "Zitrone",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "tanzen": {
+    "senses": [
+      {
+        "zh": "跳舞",
+        "en": "to dance",
+        "ex": {
+          "de": "Auf der Hochzeit wollen alle bis Mitternacht {tanzen}.",
+          "zh": "婚禮上大家都想跳舞跳到午夜。",
+          "en": "At the wedding everyone wants to dance until midnight.",
+          "distractors": [
+            "bellen",
+            "schmelzen",
+            "schnarchen"
+          ]
+        }
+      }
+    ]
+  },
+  "tanz": {
+    "senses": [
+      {
+        "zh": "舞蹈；舞",
+        "en": "dance",
+        "ex": {
+          "de": "Der erste {Tanz} des Brautpaars war sehr romantisch.",
+          "zh": "新人的第一支舞非常浪漫。",
+          "en": "The newlyweds' first dance was very romantic.",
+          "distractors": [
+            "Hammer",
+            "Kamm",
+            "Zaun"
+          ]
+        }
+      }
+    ]
+  },
+  "tasche": {
+    "senses": [
+      {
+        "zh": "包包；口袋",
+        "en": "bag, pocket",
+        "ex": {
+          "de": "Ich habe meinen Schlüssel in der {Tasche} gefunden.",
+          "zh": "我在包包裡找到了我的鑰匙。",
+          "en": "I found my key in the bag.",
+          "distractors": [
+            "Suppe",
+            "Banane",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "taschengeld": {
+    "senses": [
+      {
+        "zh": "零用錢",
+        "en": "pocket money",
+        "ex": {
+          "de": "Mit zwölf bekam ich fünf Euro {Taschengeld} pro Woche.",
+          "zh": "我十二歲時每週有五歐元零用錢。",
+          "en": "At twelve I got five euros of pocket money a week.",
+          "distractors": [
+            "Hemd",
+            "Gewitter",
+            "Gebirge"
+          ]
+        }
+      }
+    ]
+  },
+  "taschentuch": {
+    "senses": [
+      {
+        "zh": "面紙；手帕",
+        "en": "tissue, handkerchief",
+        "ex": {
+          "de": "In meiner Jackentasche habe ich immer ein {Taschentuch}.",
+          "zh": "我的外套口袋裡總是帶著一張面紙。",
+          "en": "I always have a tissue in my jacket pocket.",
+          "distractors": [
+            "Zelt",
+            "Jahrhundert",
+            "Gebirge"
+          ]
+        }
+      }
+    ]
+  },
+  "tasse": {
+    "senses": [
+      {
+        "zh": "杯子；一杯",
+        "en": "cup",
+        "ex": {
+          "de": "Zum Frühstück trinke ich immer eine große {Tasse} Kaffee.",
+          "zh": "早餐我總是喝一大杯咖啡。",
+          "en": "For breakfast I always drink a big cup of coffee.",
+          "distractors": [
+            "Kerze",
+            "Schere",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "tastatur": {
+    "senses": [
+      {
+        "zh": "鍵盤",
+        "en": "keyboard",
+        "ex": {
+          "de": "Meine {Tastatur} ist kaputt, deshalb kann ich nicht tippen.",
+          "zh": "我的鍵盤壞了，所以沒辦法打字。",
+          "en": "My keyboard is broken, so I can't type.",
+          "distractors": [
+            "Pfanne",
+            "Kerze",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "taste": {
+    "senses": [
+      {
+        "zh": "按鍵；按鈕",
+        "en": "key, button",
+        "ex": {
+          "de": "Drück bitte die rote {Taste}, dann geht die Tür auf.",
+          "zh": "請按紅色按鈕，門就會打開。",
+          "en": "Please press the red button and the door will open.",
+          "distractors": [
+            "Gurke",
+            "Wiese",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "taeter": {
+    "senses": [
+      {
+        "zh": "犯人；行為人",
+        "en": "culprit, perpetrator",
+        "ex": {
+          "de": "Der {Täter} wurde noch am selben Abend von der Polizei festgenommen.",
+          "zh": "犯人當晚就被警方逮捕了。",
+          "en": "The culprit was arrested by the police that same evening.",
+          "distractors": [
+            "Regen",
+            "Honig",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "taeterin": {
+    "senses": [
+      {
+        "zh": "女犯人；女性行為人",
+        "en": "female culprit",
+        "ex": {
+          "de": "Laut Zeugen ist die {Täterin} mit dem Fahrrad geflohen.",
+          "zh": "據目擊者說，那名女嫌犯騎腳踏車逃走了。",
+          "en": "According to witnesses, the culprit fled by bike.",
+          "distractors": [
+            "Suppe",
+            "Birne",
+            "Leiter"
+          ]
+        }
+      }
+    ]
+  },
+  "taetigkeit": {
+    "senses": [
+      {
+        "zh": "活動；工作內容",
+        "en": "activity, task",
+        "ex": {
+          "de": "Welche {Tätigkeit} macht dir bei der Arbeit am meisten Spaß?",
+          "zh": "工作中哪項任務最讓你覺得有趣？",
+          "en": "Which task do you enjoy most at work?",
+          "distractors": [
+            "Seife",
+            "Gardine",
+            "Zange"
+          ]
+        }
+      }
+    ]
+  },
+  "tatsache": {
+    "senses": [
+      {
+        "zh": "事實",
+        "en": "fact",
+        "ex": {
+          "de": "Es ist eine {Tatsache}, dass es hier oft regnet.",
+          "zh": "這裡常下雨是個事實。",
+          "en": "It is a fact that it often rains here.",
+          "distractors": [
+            "Karotte",
+            "Tomate",
+            "Aubergine"
+          ]
+        }
+      }
+    ]
+  },
+  "tatsaechlich": {
+    "senses": [
+      {
+        "zh": "真的；確實",
+        "en": "really, indeed",
+        "ex": {
+          "de": "Er hat {tatsächlich} gewonnen, obwohl niemand daran glaubte.",
+          "zh": "雖然沒人相信，他真的贏了。",
+          "en": "He really won, although nobody believed in it.",
+          "distractors": [
+            "gelb",
+            "dreieckig",
+            "hölzern"
+          ]
+        }
+      }
+    ]
+  },
+  "taub": {
+    "senses": [
+      {
+        "zh": "麻木的；聾的",
+        "en": "numb; deaf",
+        "ex": {
+          "de": "Meine Finger sind von der Kälte ganz {taub}.",
+          "zh": "我的手指被冷得完全麻木了。",
+          "en": "My fingers are completely numb from the cold.",
+          "distractors": [
+            "bayerisch",
+            "vegetarisch",
+            "quadratisch"
+          ]
+        }
+      }
+    ]
+  },
+  "tauchen": {
+    "senses": [
+      {
+        "zh": "潛水",
+        "en": "to dive",
+        "ex": {
+          "de": "Mein Bruder will im Sommer an der Küste {tauchen} gehen.",
+          "zh": "我弟弟夏天想去海邊潛水。",
+          "en": "My brother wants to go diving at the coast this summer.",
+          "distractors": [
+            "rasieren",
+            "husten",
+            "unterschreiben"
+          ]
+        }
+      }
+    ]
+  },
+  "tauschen": {
+    "senses": [
+      {
+        "zh": "交換",
+        "en": "to swap, exchange",
+        "ex": {
+          "de": "Willst du mit mir den Platz {tauschen}? Ich sitze lieber am Fenster.",
+          "zh": "你要不要跟我換位子？我比較想坐窗邊。",
+          "en": "Do you want to swap seats with me? I prefer sitting by the window.",
+          "distractors": [
+            "gießen",
+            "streicheln",
+            "zerreißen"
+          ]
+        }
+      }
+    ]
+  },
+  "technik": {
+    "senses": [
+      {
+        "zh": "技術；工藝",
+        "en": "technology, technique",
+        "ex": {
+          "de": "Die moderne {Technik} macht vieles im Alltag leichter.",
+          "zh": "現代科技讓日常生活的許多事變得更輕鬆。",
+          "en": "Modern technology makes many things easier in everyday life.",
+          "distractors": [
+            "Nudel",
+            "Kirsche",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "technologie": {
+    "senses": [
+      {
+        "zh": "科技",
+        "en": "technology",
+        "ex": {
+          "de": "Diese neue {Technologie} spart viel Strom.",
+          "zh": "這項新科技很省電。",
+          "en": "This new technology saves a lot of electricity.",
+          "distractors": [
+            "Hose",
+            "Bürste",
+            "Matratze"
+          ]
+        }
+      }
+    ]
+  },
+  "tee": {
+    "senses": [
+      {
+        "zh": "茶",
+        "en": "tea",
+        "ex": {
+          "de": "Nach dem Essen trinke ich gern einen {Tee}.",
+          "zh": "飯後我喜歡喝一杯茶。",
+          "en": "After a meal I like to drink a tea.",
+          "distractors": [
+            "Reis",
+            "Pfeffer",
+            "Käse"
+          ]
+        }
+      }
+    ]
+  },
+  "tee-ziehen-lassen": {
+    "senses": [
+      {
+        "zh": "讓茶浸泡",
+        "en": "to let tea steep",
+        "ex": {
+          "de": "Du musst den {Tee ziehen lassen}, sonst schmeckt er nach nichts.",
+          "zh": "你得讓茶泡一泡，不然喝起來沒味道。",
+          "en": "You have to let the tea steep, or it tastes of nothing.",
+          "distractors": [
+            "Reis wandern lassen",
+            "Pfeffer singen lassen",
+            "Hammer schwimmen lassen"
+          ]
+        }
+      }
+    ]
+  },
+  "teilen": {
+    "senses": [
+      {
+        "zh": "分享；分開",
+        "en": "to share, divide",
+        "ex": {
+          "de": "Ich möchte meinen Kuchen mit dir {teilen}.",
+          "zh": "我想和你分享我的蛋糕。",
+          "en": "I would like to share my cake with you.",
+          "distractors": [
+            "parken",
+            "taufen",
+            "impfen"
+          ]
+        }
+      }
+    ]
+  },
+  "teil": {
+    "senses": [
+      {
+        "zh": "零件；部分",
+        "en": "part, piece",
+        "ex": {
+          "de": "Dieses kleine {Teil} ist aus der alten Waschmaschine gefallen.",
+          "zh": "這個小零件從舊洗衣機掉了出來。",
+          "en": "This little part fell out of the old washing machine.",
+          "distractors": [
+            "Gewitter",
+            "Gebirge",
+            "Jahrhundert"
+          ]
+        }
+      }
+    ]
+  },
+  "teil-2": {
+    "senses": [
+      {
+        "zh": "部分；份",
+        "en": "part, share",
+        "ex": {
+          "de": "Den größten {Teil} des Urlaubs verbringen wir am Meer.",
+          "zh": "假期大部分的時間我們都待在海邊。",
+          "en": "We spend the biggest part of the vacation by the sea.",
+          "distractors": [
+            "Honig",
+            "Ofen",
+            "Rucksack"
+          ]
+        }
+      }
+    ]
+  },
+  "teilzeit": {
+    "senses": [
+      {
+        "zh": "兼職；部分工時",
+        "en": "part-time",
+        "ex": {
+          "de": "Seit dem Baby arbeitet sie nur noch in {Teilzeit}.",
+          "zh": "自從有了寶寶，她只做兼職工作。",
+          "en": "Since the baby she only works part-time.",
+          "distractors": [
+            "Wolle",
+            "Zange",
+            "Lupe"
+          ]
+        }
+      }
+    ]
+  },
+  "teilnehmen": {
+    "senses": [
+      {
+        "zh": "參加",
+        "en": "to take part",
+        "ex": {
+          "de": "Am Samstag möchte ich am neuen Kurs {teilnehmen}.",
+          "zh": "星期六我想參加新的課程。",
+          "en": "On Saturday I would like to take part in the new course.",
+          "distractors": [
+            "anstreichen",
+            "anzünden",
+            "anschnallen"
+          ]
+        }
+      }
+    ]
+  },
+  "teilnahme": {
+    "senses": [
+      {
+        "zh": "參加；參與",
+        "en": "participation",
+        "ex": {
+          "de": "Die {Teilnahme} an der Prüfung ist freiwillig.",
+          "zh": "參加這場考試是自願的。",
+          "en": "Taking part in the exam is voluntary.",
+          "distractors": [
+            "Flöte",
+            "Kette",
+            "Brause"
+          ]
+        }
+      }
+    ]
+  },
+  "teilnehmer": {
+    "senses": [
+      {
+        "zh": "參加者",
+        "en": "participant",
+        "ex": {
+          "de": "Alle {Teilnehmer} bekommen am Ende ein Zertifikat.",
+          "zh": "所有參加者最後都會拿到證書。",
+          "en": "All participants get a certificate at the end.",
+          "distractors": [
+            "Zäune",
+            "Hämmer",
+            "Rucksäcke"
+          ]
+        }
+      }
+    ]
+  },
+  "teilnehmerin": {
+    "senses": [
+      {
+        "zh": "女參加者",
+        "en": "female participant",
+        "ex": {
+          "de": "Die {Teilnehmerin} aus Spanien hat uns Tapas mitgebracht.",
+          "zh": "那位來自西班牙的參加者帶了小菜給我們。",
+          "en": "The participant from Spain brought us tapas.",
+          "distractors": [
+            "Lupe",
+            "Nadel",
+            "Lampe"
+          ]
+        }
+      }
+    ]
+  },
+  "telefonieren": {
+    "senses": [
+      {
+        "zh": "講電話",
+        "en": "to phone",
+        "ex": {
+          "de": "Mit meiner Schwester kann ich stundenlang {telefonieren}.",
+          "zh": "我可以跟我姊姊講好幾個小時的電話。",
+          "en": "I can talk on the phone with my sister for hours.",
+          "distractors": [
+            "wachsen",
+            "schmelzen",
+            "verdampfen"
+          ]
+        }
+      }
+    ]
+  },
+  "telefon": {
+    "senses": [
+      {
+        "zh": "電話",
+        "en": "telephone",
+        "ex": {
+          "de": "Mein {Telefon} klingelt mitten in der Besprechung.",
+          "zh": "我的電話在會議中響了。",
+          "en": "My phone rings in the middle of the meeting.",
+          "distractors": [
+            "Handtuch",
+            "Gebirge",
+            "Brötchen"
+          ]
+        }
+      }
+    ]
+  },
+  "teller": {
+    "senses": [
+      {
+        "zh": "盤子",
+        "en": "plate",
+        "ex": {
+          "de": "Sie hat die Suppe in einen tiefen {Teller} gefüllt.",
+          "zh": "她把湯盛進一個深盤子裡。",
+          "en": "She poured the soup into a deep plate.",
+          "distractors": [
+            "Schal",
+            "Pinsel",
+            "Stuhl"
+          ]
+        }
+      }
+    ]
+  },
+  "tempo": {
+    "senses": [
+      {
+        "zh": "速度；節奏",
+        "en": "speed, pace",
+        "ex": {
+          "de": "Bei diesem {Tempo} kommen wir pünktlich an.",
+          "zh": "照這個速度，我們會準時抵達。",
+          "en": "At this speed we will arrive on time.",
+          "distractors": [
+            "Zelt",
+            "Messer",
+            "Gebirge"
+          ]
+        }
+      }
+    ]
+  },
+  "tennis": {
+    "senses": [
+      {
+        "zh": "網球",
+        "en": "tennis",
+        "ex": {
+          "de": "Am Wochenende spiele ich mit meinem Bruder {Tennis}.",
+          "zh": "週末我和哥哥打網球。",
+          "en": "At the weekend I play tennis with my brother.",
+          "distractors": [
+            "Gemüse",
+            "Geschirr",
+            "Gepäck"
+          ]
+        }
+      }
+    ]
+  },
+  "teppich": {
+    "senses": [
+      {
+        "zh": "地毯",
+        "en": "carpet, rug",
+        "ex": {
+          "de": "Der neue {Teppich} im Flur ist rot und sehr weich.",
+          "zh": "走廊上的新地毯是紅色的，而且很柔軟。",
+          "en": "The new rug in the hallway is red and very soft.",
+          "distractors": [
+            "Mond",
+            "Berg",
+            "Bagger"
+          ]
+        }
+      }
+    ]
+  },
+  "termin": {
+    "senses": [
+      {
+        "zh": "約會；預約",
+        "en": "appointment",
+        "ex": {
+          "de": "Ich habe morgen früh einen {Termin} beim Zahnarzt.",
+          "zh": "我明天一早約了牙醫。",
+          "en": "I have a dentist appointment tomorrow morning.",
+          "distractors": [
+            "Rasen",
+            "Pudding",
+            "Käfig"
+          ]
+        }
+      }
+    ]
+  },
+  "terminkalender": {
+    "senses": [
+      {
+        "zh": "行事曆",
+        "en": "appointment calendar",
+        "ex": {
+          "de": "Ich schreibe jedes Treffen in meinen {Terminkalender}.",
+          "zh": "我把每個約會都寫進我的行事曆。",
+          "en": "I write every meeting in my planner.",
+          "distractors": [
+            "Löffel",
+            "Fisch",
+            "Kuchen"
+          ]
+        }
+      }
+    ]
+  },
+  "terrasse": {
+    "senses": [
+      {
+        "zh": "露臺",
+        "en": "terrace",
+        "ex": {
+          "de": "Bei Sonne frühstücken wir gern auf der {Terrasse}.",
+          "zh": "天晴時我們喜歡在露臺上吃早餐。",
+          "en": "When it's sunny we like to have breakfast on the terrace.",
+          "distractors": [
+            "Suppe",
+            "Nudel",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "test": {
+    "senses": [
+      {
+        "zh": "測驗",
+        "en": "test",
+        "ex": {
+          "de": "Morgen schreiben wir in Mathe einen schweren {Test}.",
+          "zh": "明天我們數學要考一場很難的測驗。",
+          "en": "Tomorrow we are writing a hard test in math.",
+          "distractors": [
+            "Pilz",
+            "Wal",
+            "Hut"
+          ]
+        }
+      }
+    ]
+  }
+}

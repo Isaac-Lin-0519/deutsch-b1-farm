@@ -1,0 +1,902 @@
+{
+  "treiben": {
+    "senses": [
+      {
+        "zh": "從事（運動）；驅使",
+        "en": "to do (sport); to drive",
+        "ex": {
+          "de": "Mein Bruder {treibt} jeden Samstag Sport im Park.",
+          "zh": "我哥哥每個星期六都在公園運動。",
+          "en": "My brother does sports in the park every Saturday.",
+          "distractors": [
+            "bäckt",
+            "regnet",
+            "heiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "trennen": {
+    "senses": [
+      {
+        "zh": "分開；分類",
+        "en": "to separate",
+        "ex": {
+          "de": "Wir müssen den Müll im Hof richtig {trennen}.",
+          "zh": "我們必須在院子裡把垃圾分好類。",
+          "en": "We have to separate the trash properly in the yard.",
+          "distractors": [
+            "besuchen",
+            "fragen",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "trennung": {
+    "senses": [
+      {
+        "zh": "分手；分離",
+        "en": "separation, breakup",
+        "ex": {
+          "de": "Nach der {Trennung} zog sie in eine kleine Wohnung.",
+          "zh": "分手後她搬進了一間小公寓。",
+          "en": "After the breakup she moved into a small apartment.",
+          "distractors": [
+            "Tomate",
+            "Lampe",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "getrennt-leben": {
+    "senses": [
+      {
+        "zh": "分居",
+        "en": "to live apart",
+        "ex": {
+          "de": "Sie sind noch verheiratet, wollen aber {getrennt leben}.",
+          "zh": "他們還沒離婚，但想要分居。",
+          "en": "They are still married but want to live apart.",
+          "distractors": [
+            "Tee trinken",
+            "Zeitung lesen",
+            "Fußball spielen"
+          ]
+        }
+      }
+    ]
+  },
+  "treppe": {
+    "senses": [
+      {
+        "zh": "樓梯",
+        "en": "stairs, staircase",
+        "ex": {
+          "de": "Im Hotel nehmen wir lieber die {Treppe} als den Aufzug.",
+          "zh": "在飯店裡我們寧可走樓梯，也不搭電梯。",
+          "en": "In the hotel we prefer the stairs to the elevator.",
+          "distractors": [
+            "Gabel",
+            "Zwiebel",
+            "Münze"
+          ]
+        }
+      }
+    ]
+  },
+  "treppenhaus": {
+    "senses": [
+      {
+        "zh": "樓梯間",
+        "en": "stairwell",
+        "ex": {
+          "de": "Im {Treppenhaus} hängt ein Zettel von der Hausverwaltung.",
+          "zh": "樓梯間貼了一張管理公司的紙條。",
+          "en": "A note from the building management hangs in the stairwell.",
+          "distractors": [
+            "Frühstück",
+            "Gemüse",
+            "Gewitter"
+          ]
+        }
+      }
+    ]
+  },
+  "treten": {
+    "senses": [
+      {
+        "zh": "踩；踏",
+        "en": "to step, to kick",
+        "ex": {
+          "de": "Er ist aus Versehen in eine Pfütze {getreten}.",
+          "zh": "他不小心踩進了一個水坑。",
+          "en": "He accidentally stepped into a puddle.",
+          "distractors": [
+            "gewachsen",
+            "gestorben",
+            "geblieben"
+          ]
+        }
+      }
+    ]
+  },
+  "treu": {
+    "senses": [
+      {
+        "zh": "忠實的；忠誠的",
+        "en": "faithful, loyal",
+        "ex": {
+          "de": "Mein Hund bleibt mir immer {treu}.",
+          "zh": "我的狗永遠對我忠心。",
+          "en": "My dog always stays loyal to me.",
+          "distractors": [
+            "gelb",
+            "eckig",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "trinken": {
+    "senses": [
+      {
+        "zh": "喝",
+        "en": "to drink",
+        "ex": {
+          "de": "Zum Frühstück {trinke} ich gern einen Kräutertee.",
+          "zh": "早餐時我喜歡喝一杯花草茶。",
+          "en": "For breakfast I like to drink a herbal tea.",
+          "distractors": [
+            "lese",
+            "zeichne",
+            "repariere"
+          ]
+        }
+      }
+    ]
+  },
+  "trinkgeld": {
+    "senses": [
+      {
+        "zh": "小費",
+        "en": "tip (money)",
+        "ex": {
+          "de": "Der Kellner hat ein großes {Trinkgeld} bekommen.",
+          "zh": "那位服務生拿到了一大筆小費。",
+          "en": "The waiter received a big tip.",
+          "distractors": [
+            "Gebirge",
+            "Gewitter",
+            "Wetter"
+          ]
+        }
+      }
+    ]
+  },
+  "trocken": {
+    "senses": [
+      {
+        "zh": "乾的；乾燥的",
+        "en": "dry",
+        "ex": {
+          "de": "Die Wäsche ist bei dem Wind schon {trocken}.",
+          "zh": "風這麼大，衣服已經乾了。",
+          "en": "With this wind the laundry is already dry.",
+          "distractors": [
+            "müde",
+            "freundlich",
+            "gefährlich"
+          ]
+        }
+      }
+    ]
+  },
+  "trocknen": {
+    "senses": [
+      {
+        "zh": "變乾；晾乾",
+        "en": "to dry",
+        "ex": {
+          "de": "Im Sommer {trocknet} die Wäsche auf dem Balkon schnell.",
+          "zh": "夏天衣服在陽台上很快就乾了。",
+          "en": "In summer the laundry dries quickly on the balcony.",
+          "distractors": [
+            "spielt",
+            "zählt",
+            "reist"
+          ]
+        }
+      }
+    ]
+  },
+  "trottoir": {
+    "senses": [
+      {
+        "zh": "人行道（瑞士）",
+        "en": "sidewalk (Swiss)",
+        "ex": {
+          "de": "Auf dem {Trottoir} vor der Schule spielen Kinder.",
+          "zh": "學校前面的人行道上有孩子在玩。",
+          "en": "Children are playing on the sidewalk in front of the school.",
+          "distractors": [
+            "Salz",
+            "Obst",
+            "Mehl"
+          ]
+        }
+      }
+    ]
+  },
+  "trotz": {
+    "senses": [
+      {
+        "zh": "儘管；不顧",
+        "en": "despite",
+        "ex": {
+          "de": "{Trotz} des Regens gehen wir heute joggen.",
+          "zh": "儘管下雨，我們今天還是去慢跑。",
+          "en": "Despite the rain we are going jogging today.",
+          "distractors": [
+            "Seit",
+            "Außerhalb",
+            "Gegenüber"
+          ]
+        }
+      }
+    ]
+  },
+  "trotzdem": {
+    "senses": [
+      {
+        "zh": "儘管如此；還是",
+        "en": "nevertheless",
+        "ex": {
+          "de": "Es ist spät, aber ich lese {trotzdem} noch ein Kapitel.",
+          "zh": "已經很晚了，但我還是再讀一章。",
+          "en": "It is late, but I will still read one more chapter.",
+          "distractors": [
+            "gestern",
+            "bergauf",
+            "nirgends"
+          ]
+        }
+      }
+    ]
+  },
+  "tuch": {
+    "senses": [
+      {
+        "zh": "布；披巾",
+        "en": "cloth, scarf",
+        "ex": {
+          "de": "Sie band sich ein buntes {Tuch} um den Hals.",
+          "zh": "她在脖子上繫了一條彩色的圍巾。",
+          "en": "She tied a colorful scarf around her neck.",
+          "distractors": [
+            "Gebirge",
+            "Fahrrad",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "tun": {
+    "senses": [
+      {
+        "zh": "做；辦",
+        "en": "to do",
+        "ex": {
+          "de": "Ich möchte morgen etwas Schönes für meine Oma {tun}.",
+          "zh": "我明天想為奶奶做點好事。",
+          "en": "I would like to do something nice for my grandma tomorrow.",
+          "distractors": [
+            "leben",
+            "lachen",
+            "wohnen"
+          ]
+        }
+      }
+    ]
+  },
+  "tuer": {
+    "senses": [
+      {
+        "zh": "門",
+        "en": "door",
+        "ex": {
+          "de": "Bitte mach die {Tür} leise zu, das Baby schläft.",
+          "zh": "請輕輕把門關上，寶寶在睡覺。",
+          "en": "Please close the door quietly, the baby is sleeping.",
+          "distractors": [
+            "Wiese",
+            "Zwiebel",
+            "Banane"
+          ]
+        }
+      }
+    ]
+  },
+  "turm": {
+    "senses": [
+      {
+        "zh": "塔",
+        "en": "tower",
+        "ex": {
+          "de": "Auf den alten {Turm} der Kirche dürfen Touristen steigen.",
+          "zh": "遊客可以爬上教堂的那座老塔。",
+          "en": "Tourists may climb the old tower of the church.",
+          "distractors": [
+            "Löffel",
+            "Bleistift",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "tuete": {
+    "senses": [
+      {
+        "zh": "袋子；紙袋",
+        "en": "bag",
+        "ex": {
+          "de": "Kannst du mir bitte eine {Tüte} für die Äpfel geben?",
+          "zh": "可以請你給我一個裝蘋果的袋子嗎？",
+          "en": "Could you give me a bag for the apples, please?",
+          "distractors": [
+            "Kerze",
+            "Mütze",
+            "Geige"
+          ]
+        }
+      }
+    ]
+  },
+  "typ": {
+    "senses": [
+      {
+        "zh": "傢伙；類型",
+        "en": "guy; type",
+        "ex": {
+          "de": "Der {Typ} neben mir im Bus hat laut telefoniert.",
+          "zh": "公車上坐我旁邊的那個傢伙很大聲地講電話。",
+          "en": "The guy next to me on the bus talked loudly on the phone.",
+          "distractors": [
+            "Löffel",
+            "Hunger",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "typisch": {
+    "senses": [
+      {
+        "zh": "典型的；特有的",
+        "en": "typical",
+        "ex": {
+          "de": "Dieses Wetter ist {typisch} für den Norden.",
+          "zh": "這種天氣是北方的典型特色。",
+          "en": "This weather is typical for the north.",
+          "distractors": [
+            "schwanger",
+            "gebraten",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "u-bahn-2": {
+    "senses": [
+      {
+        "zh": "地鐵",
+        "en": "subway",
+        "ex": {
+          "de": "Die letzte {U-Bahn} fährt um halb eins nachts ab.",
+          "zh": "最後一班地鐵半夜十二點半開。",
+          "en": "The last subway leaves at half past midnight.",
+          "distractors": [
+            "Kerze",
+            "Mütze",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "ueben": {
+    "senses": [
+      {
+        "zh": "練習",
+        "en": "to practice",
+        "ex": {
+          "de": "Jeden Abend {übe} ich eine halbe Stunde Klavier.",
+          "zh": "我每天晚上練半小時鋼琴。",
+          "en": "Every evening I practice piano for half an hour.",
+          "distractors": [
+            "koche",
+            "gieße",
+            "wasche"
+          ]
+        }
+      }
+    ]
+  },
+  "uebung": {
+    "senses": [
+      {
+        "zh": "練習；習題",
+        "en": "exercise",
+        "ex": {
+          "de": "Die letzte {Übung} im Kurs war ziemlich schwer.",
+          "zh": "課程的最後一個練習相當難。",
+          "en": "The last exercise in the course was quite hard.",
+          "distractors": [
+            "Sonne",
+            "Nudel",
+            "Pfanne"
+          ]
+        }
+      }
+    ]
+  },
+  "ueber": {
+    "senses": [
+      {
+        "zh": "越過；在…上方；關於",
+        "en": "over, above, about",
+        "ex": {
+          "de": "Das Flugzeug fliegt gerade {über} die Alpen.",
+          "zh": "飛機現在正飛越阿爾卑斯山。",
+          "en": "The plane is just flying over the Alps.",
+          "distractors": [
+            "seit",
+            "bei",
+            "aus"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberall": {
+    "senses": [
+      {
+        "zh": "到處；處處",
+        "en": "everywhere",
+        "ex": {
+          "de": "Im Garten liegen {überall} gelbe Blätter.",
+          "zh": "花園裡到處都是黃葉子。",
+          "en": "Yellow leaves are lying everywhere in the garden.",
+          "distractors": [
+            "bergab",
+            "rückwärts",
+            "kopfüber"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberfahren": {
+    "senses": [
+      {
+        "zh": "輾過；闖過",
+        "en": "to run over; to run (a sign)",
+        "ex": {
+          "de": "Der Fahrer hat das Stoppschild leider {überfahren}.",
+          "zh": "那位駕駛很不幸地闖過了停車標誌。",
+          "en": "The driver unfortunately ran through the stop sign.",
+          "distractors": [
+            "gesungen",
+            "gegessen",
+            "geschlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberhaupt": {
+    "senses": [
+      {
+        "zh": "根本；到底",
+        "en": "at all",
+        "ex": {
+          "de": "Ich habe {überhaupt} keine Lust auf einen Spaziergang.",
+          "zh": "我根本不想去散步。",
+          "en": "I have no desire at all for a walk.",
+          "distractors": [
+            "querfeldein",
+            "talwärts",
+            "seitwärts"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberholen": {
+    "senses": [
+      {
+        "zh": "超車；超越",
+        "en": "to overtake",
+        "ex": {
+          "de": "Hier darf man den Lastwagen nicht {überholen}.",
+          "zh": "在這裡不可以超過那輛卡車。",
+          "en": "You are not allowed to overtake the truck here.",
+          "distractors": [
+            "essen",
+            "trinken",
+            "kochen"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberlegen": {
+    "senses": [
+      {
+        "zh": "考慮；思考",
+        "en": "to think over, consider",
+        "ex": {
+          "de": "Ich muss noch {überlegen}, was ich dir schenke.",
+          "zh": "我還得想想要送你什麼。",
+          "en": "I still have to think about what to give you.",
+          "distractors": [
+            "weinen",
+            "reisen",
+            "duschen"
+          ]
+        }
+      }
+    ]
+  },
+  "uebermorgen": {
+    "senses": [
+      {
+        "zh": "後天",
+        "en": "the day after tomorrow",
+        "ex": {
+          "de": "{Übermorgen} fahren wir für ein Wochenende ans Meer.",
+          "zh": "後天我們要去海邊過個週末。",
+          "en": "The day after tomorrow we are going to the sea for a weekend.",
+          "distractors": [
+            "Gestern",
+            "Vorhin",
+            "Neulich"
+          ]
+        }
+      }
+    ]
+  },
+  "uebernachten": {
+    "senses": [
+      {
+        "zh": "過夜；住宿",
+        "en": "to stay overnight",
+        "ex": {
+          "de": "Wir haben kein Zimmer gefunden und müssen im Auto {übernachten}.",
+          "zh": "我們沒找到房間，只好在車上過夜。",
+          "en": "We found no room and have to spend the night in the car.",
+          "distractors": [
+            "fliegen",
+            "schwimmen",
+            "landen"
+          ]
+        }
+      }
+    ]
+  },
+  "uebernachtung": {
+    "senses": [
+      {
+        "zh": "住宿；過夜",
+        "en": "overnight stay",
+        "ex": {
+          "de": "Die {Übernachtung} im Hostel kostet nur zwanzig Euro.",
+          "zh": "青年旅館住一晚只要二十歐元。",
+          "en": "A night in the hostel costs only twenty euros.",
+          "distractors": [
+            "Sonne",
+            "Wiese",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "uebernehmen": {
+    "senses": [
+      {
+        "zh": "接手；承擔",
+        "en": "to take over",
+        "ex": {
+          "de": "Wer {übernimmt} heute Abend die Kosten für das Essen?",
+          "zh": "今晚這頓飯誰來負擔費用？",
+          "en": "Who is taking over the costs for the meal tonight?",
+          "distractors": [
+            "wandert",
+            "schneit",
+            "schwimmt"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberpruefen": {
+    "senses": [
+      {
+        "zh": "檢查；核對",
+        "en": "to check",
+        "ex": {
+          "de": "Der Mechaniker muss die Bremsen noch einmal {überprüfen}.",
+          "zh": "技師得再檢查一次煞車。",
+          "en": "The mechanic has to check the brakes once more.",
+          "distractors": [
+            "essen",
+            "tanzen",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberraschen": {
+    "senses": [
+      {
+        "zh": "使驚喜；使驚訝",
+        "en": "to surprise",
+        "ex": {
+          "de": "Ich möchte meine Mutter mit Blumen {überraschen}.",
+          "zh": "我想用花給我媽媽一個驚喜。",
+          "en": "I would like to surprise my mother with flowers.",
+          "distractors": [
+            "rasieren",
+            "reparieren",
+            "kochen"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberraschung": {
+    "senses": [
+      {
+        "zh": "驚喜；意外",
+        "en": "surprise",
+        "ex": {
+          "de": "Seine Reaktion war eine echte {Überraschung} für uns.",
+          "zh": "他的反應讓我們大感意外。",
+          "en": "His reaction was a real surprise for us.",
+          "distractors": [
+            "Gabel",
+            "Kerze",
+            "Nudel"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberreden": {
+    "senses": [
+      {
+        "zh": "說服；勸說",
+        "en": "to persuade",
+        "ex": {
+          "de": "Er konnte seinen Vater nicht {überreden}, das Auto zu verkaufen.",
+          "zh": "他沒能說服他爸爸把車賣掉。",
+          "en": "He could not persuade his father to sell the car.",
+          "distractors": [
+            "rasieren",
+            "füttern",
+            "taufen"
+          ]
+        }
+      }
+    ]
+  },
+  "uebersetzen": {
+    "senses": [
+      {
+        "zh": "翻譯",
+        "en": "to translate",
+        "ex": {
+          "de": "Kannst du mir diesen Brief ins Englische {übersetzen}?",
+          "zh": "你可以幫我把這封信翻成英文嗎？",
+          "en": "Can you translate this letter into English for me?",
+          "distractors": [
+            "essen",
+            "gießen",
+            "tanzen"
+          ]
+        }
+      }
+    ]
+  },
+  "uebersetzer": {
+    "senses": [
+      {
+        "zh": "翻譯員（男）",
+        "en": "translator (male)",
+        "ex": {
+          "de": "Der {Übersetzer} arbeitet an einem Roman aus dem Spanischen.",
+          "zh": "那位翻譯員正在翻一本西班牙文小說。",
+          "en": "The translator is working on a novel from Spanish.",
+          "distractors": [
+            "Hammer",
+            "Löffel",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "uebersetzerin": {
+    "senses": [
+      {
+        "zh": "翻譯員（女）",
+        "en": "translator (female)",
+        "ex": {
+          "de": "Die {Übersetzerin} hat uns bei dem Gespräch sehr geholfen.",
+          "zh": "那位女翻譯在談話中幫了我們很大的忙。",
+          "en": "The translator helped us a lot during the conversation.",
+          "distractors": [
+            "Lampe",
+            "Tomate",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "uebersetzung": {
+    "senses": [
+      {
+        "zh": "翻譯；譯文",
+        "en": "translation",
+        "ex": {
+          "de": "Die {Übersetzung} des Textes dauert mindestens zwei Tage.",
+          "zh": "這篇文章的翻譯至少要兩天。",
+          "en": "Translating the text takes at least two days.",
+          "distractors": [
+            "Tomate",
+            "Kerze",
+            "Münze"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberuebertreiben": {
+    "senses": [
+      {
+        "zh": "誇大；做得過頭",
+        "en": "to exaggerate",
+        "ex": {
+          "de": "Es war nur ein Kratzer, aber du musst immer gleich {übertreiben}.",
+          "zh": "只是個小擦傷，你卻總是馬上就誇大。",
+          "en": "It was only a scratch, but you always have to exaggerate right away.",
+          "distractors": [
+            "stricken",
+            "rudern",
+            "tauchen"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberweisen": {
+    "senses": [
+      {
+        "zh": "匯款；轉帳",
+        "en": "to transfer (money)",
+        "ex": {
+          "de": "Ich werde dir das Geld morgen auf dein Konto {überweisen}.",
+          "zh": "我明天會把錢匯到你的帳戶。",
+          "en": "I will transfer the money to your account tomorrow.",
+          "distractors": [
+            "waschen",
+            "pflanzen",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberweisung": {
+    "senses": [
+      {
+        "zh": "匯款；轉帳",
+        "en": "bank transfer",
+        "ex": {
+          "de": "Die {Überweisung} ist leider noch nicht auf meinem Konto.",
+          "zh": "那筆匯款很可惜還沒進到我的帳戶。",
+          "en": "Unfortunately the transfer is not in my account yet.",
+          "distractors": [
+            "Kerze",
+            "Zitrone",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "ueberzeugen": {
+    "senses": [
+      {
+        "zh": "說服；使信服",
+        "en": "to convince",
+        "ex": {
+          "de": "Sein Plan konnte mich leider nicht {überzeugen}.",
+          "zh": "他的計畫很可惜沒能說服我。",
+          "en": "Unfortunately his plan could not convince me.",
+          "distractors": [
+            "trinken",
+            "wiegen",
+            "waschen"
+          ]
+        }
+      }
+    ]
+  },
+  "uebrig": {
+    "senses": [
+      {
+        "zh": "剩下的；多餘的",
+        "en": "left over",
+        "ex": {
+          "de": "Nach dem Fest ist noch viel Kuchen {übrig}.",
+          "zh": "派對結束後還剩很多蛋糕。",
+          "en": "After the party there is still a lot of cake left over.",
+          "distractors": [
+            "kariert",
+            "blond",
+            "bewölkt"
+          ]
+        }
+      }
+    ]
+  },
+  "uebrigens": {
+    "senses": [
+      {
+        "zh": "順帶一提",
+        "en": "by the way",
+        "ex": {
+          "de": "{Übrigens}, ich habe gestern deinen Bruder in der Stadt gesehen.",
+          "zh": "順帶一提，我昨天在市區看到你哥哥。",
+          "en": "By the way, I saw your brother in town yesterday.",
+          "distractors": [
+            "Bergauf",
+            "Rückwärts",
+            "Kopfüber"
+          ]
+        }
+      }
+    ]
+  },
+  "ufer": {
+    "senses": [
+      {
+        "zh": "岸邊",
+        "en": "bank, shore",
+        "ex": {
+          "de": "Am {Ufer} des Flusses sitzen viele Angler.",
+          "zh": "河岸邊坐著許多釣客。",
+          "en": "Many anglers are sitting on the bank of the river.",
+          "distractors": [
+            "Fahrzeug",
+            "Gemüse",
+            "Ergebnis"
+          ]
+        }
+      }
+    ]
+  }
+}

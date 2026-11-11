@@ -1,0 +1,902 @@
+{
+  "stimmen": {
+    "senses": [
+      {
+        "zh": "正確；沒錯",
+        "en": "to be correct",
+        "ex": {
+          "de": "Die Rechnung {stimmt}, ich habe sie zweimal nachgerechnet.",
+          "zh": "這筆帳是對的，我算了兩遍。",
+          "en": "The bill is correct; I added it up twice.",
+          "distractors": [
+            "blüht",
+            "bellt",
+            "friert"
+          ]
+        }
+      }
+    ]
+  },
+  "stimmung": {
+    "senses": [
+      {
+        "zh": "氣氛；心情",
+        "en": "mood, atmosphere",
+        "ex": {
+          "de": "Die {Stimmung} im Raum wurde plötzlich ganz ruhig.",
+          "zh": "房間裡的氣氛突然變得很安靜。",
+          "en": "The mood in the room suddenly became very quiet.",
+          "distractors": [
+            "Gabel",
+            "Birne",
+            "Zahnpasta"
+          ]
+        }
+      }
+    ]
+  },
+  "stinken": {
+    "senses": [
+      {
+        "zh": "發臭；有臭味",
+        "en": "to stink",
+        "ex": {
+          "de": "Der Müll im Hof {stinkt} nach drei Tagen furchtbar.",
+          "zh": "院子裡的垃圾放了三天就臭得要命。",
+          "en": "The trash in the yard stinks terribly after three days.",
+          "distractors": [
+            "klingelt",
+            "wächst",
+            "fliegt"
+          ]
+        }
+      }
+    ]
+  },
+  "stock": {
+    "senses": [
+      {
+        "zh": "樓層",
+        "en": "floor, storey",
+        "ex": {
+          "de": "Meine Wohnung liegt im vierten {Stock}, mit Aufzug.",
+          "zh": "我家在四樓，有電梯。",
+          "en": "My flat is on the fourth floor, with a lift.",
+          "distractors": [
+            "Salat",
+            "Pinsel",
+            "Mantel"
+          ]
+        }
+      }
+    ]
+  },
+  "stockwerk": {
+    "senses": [
+      {
+        "zh": "樓層",
+        "en": "floor, storey",
+        "ex": {
+          "de": "Unser Haus hat nur zwei {Stockwerke}, aber einen großen Garten.",
+          "zh": "我們家只有兩層樓，但有個大花園。",
+          "en": "Our house has only two floors, but a big garden.",
+          "distractors": [
+            "Hemden",
+            "Gläser",
+            "Kleider"
+          ]
+        }
+      }
+    ]
+  },
+  "stoff": {
+    "senses": [
+      {
+        "zh": "布料",
+        "en": "fabric, cloth",
+        "ex": {
+          "de": "Für das Kleid brauche ich zwei Meter blauen {Stoff}.",
+          "zh": "做這件洋裝我需要兩公尺藍色的布。",
+          "en": "For the dress I need two metres of blue fabric.",
+          "distractors": [
+            "Senf",
+            "Reis",
+            "Honig"
+          ]
+        }
+      }
+    ]
+  },
+  "stolz": {
+    "senses": [
+      {
+        "zh": "驕傲的；自豪的",
+        "en": "proud",
+        "ex": {
+          "de": "Meine Eltern sind {stolz} auf meine Schwester.",
+          "zh": "我父母以我姊姊為榮。",
+          "en": "My parents are proud of my sister.",
+          "distractors": [
+            "hungrig",
+            "blass",
+            "laut"
+          ]
+        }
+      }
+    ]
+  },
+  "stoppen": {
+    "senses": [
+      {
+        "zh": "停下；使停止",
+        "en": "to stop",
+        "ex": {
+          "de": "Der Fahrer musste plötzlich {stoppen}, weil ein Hund lief.",
+          "zh": "因為有隻狗跑過來，司機得突然停車。",
+          "en": "The driver had to stop suddenly because a dog was running.",
+          "distractors": [
+            "nähen",
+            "gießen",
+            "angeln"
+          ]
+        }
+      }
+    ]
+  },
+  "stoeren": {
+    "senses": [
+      {
+        "zh": "打擾；妨礙",
+        "en": "to disturb",
+        "ex": {
+          "de": "Ich möchte Sie bei der Arbeit nicht {stören}.",
+          "zh": "我不想在您工作的時候打擾您。",
+          "en": "I don't want to disturb you while you work.",
+          "distractors": [
+            "heiraten",
+            "lackieren",
+            "vergraben"
+          ]
+        }
+      }
+    ]
+  },
+  "stoerung": {
+    "senses": [
+      {
+        "zh": "故障；干擾",
+        "en": "disruption, fault",
+        "ex": {
+          "de": "Wegen einer {Störung} fahren heute keine Züge.",
+          "zh": "因為出了故障，今天沒有火車行駛。",
+          "en": "Because of a disruption no trains are running today.",
+          "distractors": [
+            "Erdbeere",
+            "Gitarre",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "strafe": {
+    "senses": [
+      {
+        "zh": "處罰；罰款",
+        "en": "punishment, fine",
+        "ex": {
+          "de": "Für falsches Parken musste er eine {Strafe} zahlen.",
+          "zh": "他因為違規停車得繳罰款。",
+          "en": "He had to pay a fine for parking illegally.",
+          "distractors": [
+            "Birne",
+            "Pfanne",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "strafbar": {
+    "senses": [
+      {
+        "zh": "違法的；應受處罰的",
+        "en": "punishable",
+        "ex": {
+          "de": "Fahren ohne Führerschein ist in Deutschland {strafbar}.",
+          "zh": "在德國無照駕駛是違法的。",
+          "en": "Driving without a licence is punishable in Germany.",
+          "distractors": [
+            "salzig",
+            "rund",
+            "flauschig"
+          ]
+        }
+      }
+    ]
+  },
+  "strafzettel": {
+    "senses": [
+      {
+        "zh": "罰單",
+        "en": "ticket, fine",
+        "ex": {
+          "de": "Unter dem Scheibenwischer klemmte ein {Strafzettel}.",
+          "zh": "雨刷下面夾著一張罰單。",
+          "en": "A ticket was stuck under the windscreen wiper.",
+          "distractors": [
+            "Pfannkuchen",
+            "Kaktus",
+            "Pinguin"
+          ]
+        }
+      }
+    ]
+  },
+  "strand": {
+    "senses": [
+      {
+        "zh": "海灘",
+        "en": "beach",
+        "ex": {
+          "de": "Im Urlaub liegen wir jeden Tag am {Strand}.",
+          "zh": "度假時我們每天都躺在海灘上。",
+          "en": "On holiday we lie on the beach every day.",
+          "distractors": [
+            "Schreibtisch",
+            "Wasserhahn",
+            "Aufzug"
+          ]
+        }
+      }
+    ]
+  },
+  "strasse": {
+    "senses": [
+      {
+        "zh": "街道；馬路",
+        "en": "street, road",
+        "ex": {
+          "de": "Die {Straße} vor unserem Haus ist heute gesperrt.",
+          "zh": "我們家門前的馬路今天封閉了。",
+          "en": "The street in front of our house is closed today.",
+          "distractors": [
+            "Tomate",
+            "Mütze",
+            "Windel"
+          ]
+        }
+      }
+    ]
+  },
+  "strassenbahn-2": {
+    "senses": [
+      {
+        "zh": "路面電車",
+        "en": "tram",
+        "ex": {
+          "de": "Die {Straßenbahn} fährt direkt bis zum Rathaus.",
+          "zh": "電車直接開到市政廳。",
+          "en": "The tram goes straight to the town hall.",
+          "distractors": [
+            "Gabel",
+            "Lampe",
+            "Zeitung"
+          ]
+        }
+      }
+    ]
+  },
+  "strecke": {
+    "senses": [
+      {
+        "zh": "路程；路線",
+        "en": "distance, route",
+        "ex": {
+          "de": "Die {Strecke} bis zum Bahnhof ist nur zwei Kilometer lang.",
+          "zh": "到火車站的路程只有兩公里。",
+          "en": "The distance to the station is only two kilometres.",
+          "distractors": [
+            "Seife",
+            "Tüte",
+            "Kamera"
+          ]
+        }
+      }
+    ]
+  },
+  "streichholz": {
+    "senses": [
+      {
+        "zh": "火柴",
+        "en": "match",
+        "ex": {
+          "de": "Hast du ein {Streichholz} für die Kerze?",
+          "zh": "你有火柴可以點這根蠟燭嗎？",
+          "en": "Do you have a match for the candle?",
+          "distractors": [
+            "Lineal",
+            "Handtuch",
+            "Brötchen"
+          ]
+        }
+      }
+    ]
+  },
+  "streiken": {
+    "senses": [
+      {
+        "zh": "罷工",
+        "en": "to strike",
+        "ex": {
+          "de": "Die Busfahrer wollen morgen wieder {streiken}.",
+          "zh": "公車司機明天又要罷工。",
+          "en": "The bus drivers want to go on strike again tomorrow.",
+          "distractors": [
+            "schmelzen",
+            "blühen",
+            "schrumpfen"
+          ]
+        }
+      }
+    ]
+  },
+  "streik": {
+    "senses": [
+      {
+        "zh": "罷工",
+        "en": "strike",
+        "ex": {
+          "de": "Wegen des {Streiks} kam der Zug zwei Stunden zu spät.",
+          "zh": "因為罷工，火車晚了兩個小時才到。",
+          "en": "Because of the strike the train arrived two hours late.",
+          "distractors": [
+            "Joghurts",
+            "Kuchens",
+            "Pfeffers"
+          ]
+        }
+      }
+    ]
+  },
+  "streiten": {
+    "senses": [
+      {
+        "zh": "爭吵；吵架",
+        "en": "to argue, quarrel",
+        "ex": {
+          "de": "Warum müsst ihr immer wegen Kleinigkeiten {streiten}?",
+          "zh": "你們為什麼總是為了小事吵架？",
+          "en": "Why do you always have to quarrel over little things?",
+          "distractors": [
+            "schwimmen",
+            "landen",
+            "wachsen"
+          ]
+        }
+      }
+    ]
+  },
+  "streit": {
+    "senses": [
+      {
+        "zh": "爭吵；糾紛",
+        "en": "argument, quarrel",
+        "ex": {
+          "de": "Zwischen den Nachbarn gab es gestern einen lauten {Streit}.",
+          "zh": "鄰居之間昨天大吵了一架。",
+          "en": "There was a loud argument between the neighbours yesterday.",
+          "distractors": [
+            "Tunnel",
+            "Rucksack",
+            "Kürbis"
+          ]
+        }
+      }
+    ]
+  },
+  "streng": {
+    "senses": [
+      {
+        "zh": "嚴格的；嚴厲的",
+        "en": "strict",
+        "ex": {
+          "de": "Unser neuer Lehrer ist sehr {streng} und gibt viele Hausaufgaben.",
+          "zh": "我們的新老師很嚴格，出很多作業。",
+          "en": "Our new teacher is very strict and gives a lot of homework.",
+          "distractors": [
+            "rund",
+            "salzig",
+            "grün"
+          ]
+        }
+      }
+    ]
+  },
+  "stress": {
+    "senses": [
+      {
+        "zh": "壓力；緊張",
+        "en": "stress",
+        "ex": {
+          "de": "Vor den Prüfungen leide ich immer unter großem {Stress}.",
+          "zh": "考試前我總是承受很大的壓力。",
+          "en": "Before exams I always suffer from great stress.",
+          "distractors": [
+            "Löffel",
+            "Kuchen",
+            "Spiegel"
+          ]
+        }
+      }
+    ]
+  },
+  "strom": {
+    "senses": [
+      {
+        "zh": "電；電力",
+        "en": "electricity, power",
+        "ex": {
+          "de": "Bei dem Gewitter ist plötzlich der {Strom} ausgefallen.",
+          "zh": "打雷時突然停電了。",
+          "en": "During the thunderstorm the power suddenly went out.",
+          "distractors": [
+            "Hut",
+            "Nagel",
+            "Pfirsich"
+          ]
+        }
+      }
+    ]
+  },
+  "strumpf": {
+    "senses": [
+      {
+        "zh": "襪子；長襪",
+        "en": "stocking, sock",
+        "ex": {
+          "de": "Im Winter trage ich dicke {Strümpfe} an den Füßen.",
+          "zh": "冬天我腳上穿厚襪子。",
+          "en": "In winter I wear thick socks on my feet.",
+          "distractors": [
+            "Kämme",
+            "Bäume",
+            "Pilze"
+          ]
+        }
+      }
+    ]
+  },
+  "stueck-stueck": {
+    "senses": [
+      {
+        "zh": "塊；片；件",
+        "en": "piece",
+        "ex": {
+          "de": "Zum Nachtisch bekomme ich ein großes {Stück} Torte.",
+          "zh": "甜點我要一大塊蛋糕。",
+          "en": "For dessert I get a big piece of cake.",
+          "distractors": [
+            "Dach",
+            "Foto",
+            "Rad"
+          ]
+        }
+      }
+    ]
+  },
+  "studie": {
+    "senses": [
+      {
+        "zh": "研究；調查",
+        "en": "study",
+        "ex": {
+          "de": "Eine neue {Studie} zeigt, dass Schlaf sehr wichtig ist.",
+          "zh": "一項新研究顯示睡眠非常重要。",
+          "en": "A new study shows that sleep is very important.",
+          "distractors": [
+            "Gurke",
+            "Bürste",
+            "Muschel"
+          ]
+        }
+      }
+    ]
+  },
+  "studieren": {
+    "senses": [
+      {
+        "zh": "讀大學；攻讀",
+        "en": "to study (at university)",
+        "ex": {
+          "de": "Nach der Schule möchte sie Physik {studieren}.",
+          "zh": "畢業後她想念物理。",
+          "en": "After school she wants to study physics.",
+          "distractors": [
+            "putzen",
+            "stricken",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "student": {
+    "senses": [
+      {
+        "zh": "大學生（男）",
+        "en": "student (male)",
+        "ex": {
+          "de": "Als {Student} wohnte ich in einem kleinen Zimmer.",
+          "zh": "我當大學生的時候住在一間小房間。",
+          "en": "As a student I lived in a small room.",
+          "distractors": [
+            "Hammer",
+            "Zug",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "studentin": {
+    "senses": [
+      {
+        "zh": "大學生（女）",
+        "en": "student (female)",
+        "ex": {
+          "de": "Die {Studentin} liest in der Bibliothek ein dickes Buch.",
+          "zh": "那位女大學生在圖書館讀一本厚書。",
+          "en": "The student is reading a thick book in the library.",
+          "distractors": [
+            "Tasse",
+            "Wurst",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "studierende": {
+    "senses": [
+      {
+        "zh": "大學生（男）",
+        "en": "student",
+        "ex": {
+          "de": "Jeder {Studierende} bekommt einen Platz in der Bibliothek.",
+          "zh": "每位大學生都有圖書館的座位。",
+          "en": "Every student gets a seat in the library.",
+          "distractors": [
+            "Kuchen",
+            "Regen",
+            "Zucker"
+          ]
+        }
+      }
+    ]
+  },
+  "studierende-2": {
+    "senses": [
+      {
+        "zh": "大學生（女）",
+        "en": "student (female)",
+        "ex": {
+          "de": "Die {Studierende} hat ihre Hausarbeit pünktlich abgegeben.",
+          "zh": "那位女大學生準時交了報告。",
+          "en": "The student handed in her paper on time.",
+          "distractors": [
+            "Zitrone",
+            "Hose",
+            "Steckdose"
+          ]
+        }
+      }
+    ]
+  },
+  "studium": {
+    "senses": [
+      {
+        "zh": "大學學業；就讀",
+        "en": "university studies",
+        "ex": {
+          "de": "Nach dem {Studium} möchte ich ein Jahr reisen.",
+          "zh": "大學畢業後我想旅行一年。",
+          "en": "After my studies I want to travel for a year.",
+          "distractors": [
+            "Brot",
+            "Kleid",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "studio": {
+    "senses": [
+      {
+        "zh": "工作室；錄音室",
+        "en": "studio",
+        "ex": {
+          "de": "Die Band nimmt ihr neues Lied im {Studio} auf.",
+          "zh": "樂團在錄音室錄製新歌。",
+          "en": "The band is recording its new song in the studio.",
+          "distractors": [
+            "Gemüse",
+            "Wörterbuch",
+            "Eis"
+          ]
+        }
+      }
+    ]
+  },
+  "stuhl": {
+    "senses": [
+      {
+        "zh": "椅子",
+        "en": "chair",
+        "ex": {
+          "de": "Setz dich doch auf den {Stuhl} neben dem Tisch.",
+          "zh": "你就坐在桌子旁邊那張椅子上吧。",
+          "en": "Just sit down on the chair next to the table.",
+          "distractors": [
+            "Gürtel",
+            "Bleistift",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "stumm": {
+    "senses": [
+      {
+        "zh": "啞的；沉默的",
+        "en": "mute, silent",
+        "ex": {
+          "de": "Vor Schreck stand sie einen Moment {stumm} da.",
+          "zh": "她嚇得愣在那裡，一時說不出話。",
+          "en": "Out of fright she stood there speechless for a moment.",
+          "distractors": [
+            "dreieckig",
+            "lecker",
+            "flüssig"
+          ]
+        }
+      }
+    ]
+  },
+  "stunde": {
+    "senses": [
+      {
+        "zh": "小時；一堂課",
+        "en": "hour",
+        "ex": {
+          "de": "Die Fahrt nach München dauert ungefähr eine {Stunde}.",
+          "zh": "到慕尼黑的車程大約要一小時。",
+          "en": "The trip to Munich takes about an hour.",
+          "distractors": [
+            "Kerze",
+            "Zange",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "sturm": {
+    "senses": [
+      {
+        "zh": "暴風；風暴",
+        "en": "storm",
+        "ex": {
+          "de": "Der {Sturm} hat gestern viele Äste von den Bäumen gerissen.",
+          "zh": "昨天的暴風把樹上很多樹枝吹斷了。",
+          "en": "Yesterday the storm tore many branches off the trees.",
+          "distractors": [
+            "Kuchen",
+            "Tisch",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "stuerzen": {
+    "senses": [
+      {
+        "zh": "跌倒；摔落",
+        "en": "to fall, tumble",
+        "ex": {
+          "de": "Der Radfahrer ist in der Kurve schwer {gestürzt}.",
+          "zh": "那位腳踏車騎士在轉彎處重重摔倒。",
+          "en": "The cyclist fell badly in the bend.",
+          "distractors": [
+            "geschmolzen",
+            "gewachsen",
+            "verblüht"
+          ]
+        }
+      }
+    ]
+  },
+  "suchen": {
+    "senses": [
+      {
+        "zh": "找；尋找",
+        "en": "to look for, search",
+        "ex": {
+          "de": "Ich {suche} seit einer Stunde meinen Autoschlüssel.",
+          "zh": "我找我的車鑰匙找了一個小時。",
+          "en": "I have been looking for my car key for an hour.",
+          "distractors": [
+            "gieße",
+            "lackiere",
+            "brate"
+          ]
+        }
+      }
+    ]
+  },
+  "sucht": {
+    "senses": [
+      {
+        "zh": "癮；上癮",
+        "en": "addiction",
+        "ex": {
+          "de": "Die {Sucht} nach Süßigkeiten ist schwer zu überwinden.",
+          "zh": "對甜食的上癮很難戒掉。",
+          "en": "The addiction to sweets is hard to overcome.",
+          "distractors": [
+            "Zitrone",
+            "Zange",
+            "Birne"
+          ]
+        }
+      }
+    ]
+  },
+  "suechtig": {
+    "senses": [
+      {
+        "zh": "上癮的；成癮的",
+        "en": "addicted",
+        "ex": {
+          "de": "Viele Jugendliche sind schon {süchtig} nach ihrem Handy.",
+          "zh": "很多青少年已經對手機上癮了。",
+          "en": "Many teenagers are already addicted to their phones.",
+          "distractors": [
+            "rechteckig",
+            "hölzern",
+            "gasförmig"
+          ]
+        }
+      }
+    ]
+  },
+  "suchtmittel": {
+    "senses": [
+      {
+        "zh": "成癮物質",
+        "en": "addictive substance",
+        "ex": {
+          "de": "Alkohol und Zigaretten sind bekannte {Suchtmittel}.",
+          "zh": "酒精和香菸是眾所周知的成癮物質。",
+          "en": "Alcohol and cigarettes are well-known addictive substances.",
+          "distractors": [
+            "Werkzeuge",
+            "Gemälde",
+            "Fernseher"
+          ]
+        }
+      }
+    ]
+  },
+  "summe": {
+    "senses": [
+      {
+        "zh": "總和；金額",
+        "en": "sum, total",
+        "ex": {
+          "de": "Die {Summe} aller Kosten beträgt über tausend Euro.",
+          "zh": "所有費用的總和超過一千歐元。",
+          "en": "The total of all costs is over a thousand euros.",
+          "distractors": [
+            "Kerze",
+            "Zwiebel",
+            "Bürste"
+          ]
+        }
+      }
+    ]
+  },
+  "super": {
+    "senses": [
+      {
+        "zh": "超棒的",
+        "en": "super, great",
+        "ex": {
+          "de": "Das Konzert gestern war einfach {super}!",
+          "zh": "昨天的演唱會真是太棒了！",
+          "en": "The concert yesterday was simply great!",
+          "distractors": [
+            "salzig",
+            "quadratisch",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "supermarkt": {
+    "senses": [
+      {
+        "zh": "超級市場",
+        "en": "supermarket",
+        "ex": {
+          "de": "Der {Supermarkt} an der Ecke hat bis zehn Uhr geöffnet.",
+          "zh": "轉角的超市開到十點。",
+          "en": "The supermarket on the corner is open until ten.",
+          "distractors": [
+            "Kugelschreiber",
+            "Rasen",
+            "Kamm"
+          ]
+        }
+      }
+    ]
+  },
+  "suppe": {
+    "senses": [
+      {
+        "zh": "湯",
+        "en": "soup",
+        "ex": {
+          "de": "Die {Suppe} ist mir leider ein bisschen zu salzig.",
+          "zh": "這碗湯對我來說有點太鹹了。",
+          "en": "Unfortunately the soup is a bit too salty for me.",
+          "distractors": [
+            "Brücke",
+            "Wand",
+            "Schere"
+          ]
+        }
+      }
+    ]
+  },
+  "suess": {
+    "senses": [
+      {
+        "zh": "甜的",
+        "en": "sweet",
+        "ex": {
+          "de": "Der Tee ist mir viel zu {süß}.",
+          "zh": "這茶對我來說太甜了。",
+          "en": "The tea is far too sweet for me.",
+          "distractors": [
+            "eckig",
+            "rund",
+            "steinern"
+          ]
+        }
+      }
+    ]
+  },
+  "symbol": {
+    "senses": [
+      {
+        "zh": "象徵；符號",
+        "en": "symbol",
+        "ex": {
+          "de": "Das rote Kreuz ist ein bekanntes {Symbol} für Hilfe.",
+          "zh": "紅十字是眾所周知的救援象徵。",
+          "en": "The red cross is a well-known symbol of help.",
+          "distractors": [
+            "Kleid",
+            "Messer",
+            "Radio"
+          ]
+        }
+      }
+    ]
+  }
+}
