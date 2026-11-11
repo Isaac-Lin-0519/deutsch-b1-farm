@@ -1,0 +1,902 @@
+{
+  "laecheln": {
+    "senses": [
+      {
+        "zh": "微笑",
+        "en": "to smile",
+        "ex": {
+          "de": "Als sie den Hund sieht, muss sie {lächeln}.",
+          "zh": "她看到狗時不禁微笑。",
+          "en": "She has to smile when she sees the dog.",
+          "distractors": [
+            "schlafen",
+            "weinen",
+            "schreien"
+          ]
+        }
+      }
+    ]
+  },
+  "leiterin": {
+    "senses": [
+      {
+        "zh": "女主管",
+        "en": "female manager",
+        "ex": {
+          "de": "Die {Leiterin} begrüßt das neue Team am Montag.",
+          "zh": "女主管週一歡迎新團隊。",
+          "en": "The manager welcomes the new team on Monday.",
+          "distractors": [
+            "Köchin",
+            "Fahrerin",
+            "Bäckerin"
+          ]
+        }
+      }
+    ]
+  },
+  "leitung": {
+    "senses": [
+      {
+        "zh": "領導；管理層",
+        "en": "management",
+        "ex": {
+          "de": "Die {Leitung} entscheidet über die Öffnungszeiten des Museums.",
+          "zh": "管理層決定博物館的開放時間。",
+          "en": "The management decides the museum's opening hours.",
+          "distractors": [
+            "Tasche",
+            "Flasche",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "leiter-2": {
+    "senses": [
+      {
+        "zh": "梯子",
+        "en": "ladder",
+        "ex": {
+          "de": "Stell die {Leiter} sicher an die Wand.",
+          "zh": "把梯子穩妥地靠在牆邊。",
+          "en": "Put the ladder securely against the wall.",
+          "distractors": [
+            "Tasse",
+            "Brille",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "lernen": {
+    "senses": [
+      {
+        "zh": "學習",
+        "en": "to learn",
+        "ex": {
+          "de": "Am Abend möchte ich neue Wörter {lernen}.",
+          "zh": "晚上我想學新單字。",
+          "en": "I want to learn new words in the evening.",
+          "distractors": [
+            "vergessen",
+            "verkaufen",
+            "verlieren"
+          ]
+        }
+      }
+    ]
+  },
+  "lernerin": {
+    "senses": [
+      {
+        "zh": "女性學習者",
+        "en": "female learner",
+        "ex": {
+          "de": "Die {Lernerin} schreibt neue Wörter in ein Heft.",
+          "zh": "這位女性學習者把新單字寫在筆記本裡。",
+          "en": "The learner writes new words in a notebook.",
+          "distractors": [
+            "Köchin",
+            "Mechanikerin",
+            "Bäckerin"
+          ]
+        }
+      }
+    ]
+  },
+  "lesen": {
+    "senses": [
+      {
+        "zh": "閱讀",
+        "en": "to read",
+        "ex": {
+          "de": "Im Zug möchte ich ein spannendes Buch {lesen}.",
+          "zh": "我想在火車上讀一本精彩的書。",
+          "en": "I want to read an exciting book on the train.",
+          "distractors": [
+            "kochen",
+            "waschen",
+            "schneiden"
+          ]
+        }
+      }
+    ]
+  },
+  "leser": {
+    "senses": [
+      {
+        "zh": "男性讀者",
+        "en": "male reader",
+        "ex": {
+          "de": "Ein {Leser} schreibt der Zeitung einen langen Brief.",
+          "zh": "一位男讀者寫了一封長信給報社。",
+          "en": "A male reader writes a long letter to the newspaper.",
+          "distractors": [
+            "Kühlschrank",
+            "Teppich",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "leserin": {
+    "senses": [
+      {
+        "zh": "女性讀者",
+        "en": "female reader",
+        "ex": {
+          "de": "Die {Leserin} sucht im Buchladen einen neuen Roman.",
+          "zh": "這位女讀者在書店找一本新小說。",
+          "en": "The reader looks for a new novel in the bookstore.",
+          "distractors": [
+            "Köchin",
+            "Mechanikerin",
+            "Fahrerin"
+          ]
+        }
+      }
+    ]
+  },
+  "letzt": {
+    "senses": [
+      {
+        "zh": "最後的",
+        "en": "last",
+        "ex": {
+          "de": "Im {letzten} Kapitel findet die Geschichte ein Ende.",
+          "zh": "故事在最後一章結束。",
+          "en": "The story ends in the last chapter.",
+          "distractors": [
+            "nächsten",
+            "ersten",
+            "mittleren"
+          ]
+        }
+      }
+    ]
+  },
+  "leute": {
+    "senses": [
+      {
+        "zh": "人們",
+        "en": "people",
+        "ex": {
+          "de": "Auf dem Markt kaufen heute viele {Leute} ein.",
+          "zh": "今天有許多人在市場購物。",
+          "en": "Many people are shopping at the market today.",
+          "distractors": [
+            "Autos",
+            "Fenster",
+            "Bücher"
+          ]
+        }
+      }
+    ]
+  },
+  "lexikon": {
+    "senses": [
+      {
+        "zh": "百科全書",
+        "en": "encyclopedia",
+        "ex": {
+          "de": "Im {Lexikon} finde ich Informationen über alte Städte.",
+          "zh": "我在百科全書裡找到關於古城的資料。",
+          "en": "I find information about ancient cities in the encyclopedia.",
+          "distractors": [
+            "Kühlschrank",
+            "Schuh",
+            "Topf"
+          ]
+        }
+      }
+    ]
+  },
+  "licht": {
+    "senses": [
+      {
+        "zh": "光；燈",
+        "en": "light",
+        "ex": {
+          "de": "Ohne {Licht} kann ich dieses Buch kaum lesen.",
+          "zh": "沒有光我幾乎看不清這本書。",
+          "en": "Without light I can hardly read this book.",
+          "distractors": [
+            "Brot",
+            "Wasser",
+            "Salz"
+          ]
+        }
+      }
+    ]
+  },
+  "lieben": {
+    "senses": [
+      {
+        "zh": "愛",
+        "en": "to love",
+        "ex": {
+          "de": "Ich werde meine Familie immer {lieben}.",
+          "zh": "我會永遠愛我的家人。",
+          "en": "I will always love my family.",
+          "distractors": [
+            "vergessen",
+            "verlieren",
+            "verlassen"
+          ]
+        }
+      }
+    ]
+  },
+  "lieb": {
+    "senses": [
+      {
+        "zh": "親切的；可愛的",
+        "en": "kind, sweet",
+        "ex": {
+          "de": "Es ist sehr {lieb} von dir, mir zu helfen.",
+          "zh": "你幫助我真是太好了。",
+          "en": "It is very kind of you to help me.",
+          "distractors": [
+            "laut",
+            "kaputt",
+            "schmutzig"
+          ]
+        }
+      }
+    ]
+  },
+  "liebe": {
+    "senses": [
+      {
+        "zh": "愛",
+        "en": "love",
+        "ex": {
+          "de": "Ihre {Liebe} zur Musik begann schon als Kind.",
+          "zh": "她從小就開始熱愛音樂。",
+          "en": "Her love of music began in childhood.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "lieblings": {
+    "senses": [
+      {
+        "zh": "最喜愛的",
+        "en": "favorite",
+        "ex": {
+          "de": "Mein {Lieblings}essen ist die Suppe meiner Oma.",
+          "zh": "我最喜歡的食物是奶奶煮的湯。",
+          "en": "My favorite food is my grandmother's soup.",
+          "distractors": [
+            "Abend",
+            "Mittag",
+            "Frühstücks"
+          ]
+        }
+      }
+    ]
+  },
+  "lied": {
+    "senses": [
+      {
+        "zh": "歌曲",
+        "en": "song",
+        "ex": {
+          "de": "Am Lagerfeuer singen wir zusammen ein altes {Lied}.",
+          "zh": "我們在營火旁一起唱一首老歌。",
+          "en": "We sing an old song together by the campfire.",
+          "distractors": [
+            "Fenster",
+            "Handtuch",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "liefern": {
+    "senses": [
+      {
+        "zh": "配送；交付",
+        "en": "to deliver",
+        "ex": {
+          "de": "Die Firma wird den neuen Tisch morgen {liefern}.",
+          "zh": "公司明天會送來新桌子。",
+          "en": "The company will deliver the new table tomorrow.",
+          "distractors": [
+            "bestellen",
+            "zerschneiden",
+            "vergessen"
+          ]
+        }
+      }
+    ]
+  },
+  "lieferung": {
+    "senses": [
+      {
+        "zh": "配送的貨物",
+        "en": "delivery",
+        "ex": {
+          "de": "Die {Lieferung} mit den neuen Möbeln kommt am Freitag.",
+          "zh": "新家具的貨會在星期五送達。",
+          "en": "The delivery of new furniture arrives on Friday.",
+          "distractors": [
+            "Rechnung",
+            "Feier",
+            "Pause"
+          ]
+        }
+      }
+    ]
+  },
+  "liegen": {
+    "senses": [
+      {
+        "zh": "躺；位於",
+        "en": "to lie, be situated",
+        "ex": {
+          "de": "Mein Schlüssel muss irgendwo auf dem Tisch {liegen}.",
+          "zh": "我的鑰匙一定放在桌上某處。",
+          "en": "My key must be lying somewhere on the table.",
+          "distractors": [
+            "schwimmen",
+            "fliegen",
+            "rennen"
+          ]
+        }
+      }
+    ]
+  },
+  "lift": {
+    "senses": [
+      {
+        "zh": "電梯",
+        "en": "elevator",
+        "ex": {
+          "de": "Mit dem {Lift} fahren wir in den fünften Stock.",
+          "zh": "我們搭電梯到五樓。",
+          "en": "We take the elevator to the fifth floor.",
+          "distractors": [
+            "Kühlschrank",
+            "Schrank",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "limonade": {
+    "senses": [
+      {
+        "zh": "汽水",
+        "en": "lemonade",
+        "ex": {
+          "de": "Im Sommer trinkt sie gern kalte {Limonade}.",
+          "zh": "夏天她喜歡喝冰涼的汽水。",
+          "en": "She likes to drink cold lemonade in summer.",
+          "distractors": [
+            "Seife",
+            "Butter",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "linie": {
+    "senses": [
+      {
+        "zh": "線條",
+        "en": "line",
+        "ex": {
+          "de": "Zieh bitte eine gerade {Linie} auf das Papier.",
+          "zh": "請在紙上畫一條直線。",
+          "en": "Please draw a straight line on the paper.",
+          "distractors": [
+            "Tasse",
+            "Flasche",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "links": {
+    "senses": [
+      {
+        "zh": "左邊；向左",
+        "en": "left, to the left",
+        "ex": {
+          "de": "Die Apotheke befindet sich {links} neben dem Bahnhof.",
+          "zh": "藥局就在車站左邊。",
+          "en": "The pharmacy is to the left of the station.",
+          "distractors": [
+            "morgen",
+            "gestern",
+            "nie"
+          ]
+        }
+      }
+    ]
+  },
+  "link": {
+    "senses": [
+      {
+        "zh": "左邊的",
+        "en": "left",
+        "ex": {
+          "de": "Mein {linker} Schuh ist nach dem Regen ganz nass.",
+          "zh": "下雨後我的左鞋全濕了。",
+          "en": "My left shoe is completely wet after the rain.",
+          "distractors": [
+            "trockener",
+            "sauberer",
+            "neuer"
+          ]
+        }
+      }
+    ]
+  },
+  "lippe": {
+    "senses": [
+      {
+        "zh": "嘴唇",
+        "en": "lip",
+        "ex": {
+          "de": "Sie hat sich beim Essen auf die {Lippe} gebissen.",
+          "zh": "她吃東西時咬到了嘴唇。",
+          "en": "She bit her lip while eating.",
+          "distractors": [
+            "Schulter",
+            "Knie",
+            "Hand"
+          ]
+        }
+      }
+    ]
+  },
+  "liste": {
+    "senses": [
+      {
+        "zh": "清單",
+        "en": "list",
+        "ex": {
+          "de": "Auf meiner {Liste} stehen Brot, Milch und Äpfel.",
+          "zh": "我的清單上有麵包、牛奶和蘋果。",
+          "en": "Bread, milk and apples are on my list.",
+          "distractors": [
+            "Brille",
+            "Jacke",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "literatur": {
+    "senses": [
+      {
+        "zh": "文學",
+        "en": "literature",
+        "ex": {
+          "de": "In diesem Seminar sprechen wir über deutsche {Literatur}.",
+          "zh": "我們在這堂研討課討論德國文學。",
+          "en": "In this seminar we discuss German literature.",
+          "distractors": [
+            "Butter",
+            "Milch",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "loben": {
+    "senses": [
+      {
+        "zh": "稱讚",
+        "en": "to praise",
+        "ex": {
+          "de": "Die Lehrerin möchte alle Kinder für ihre Arbeit {loben}.",
+          "zh": "老師想稱讚所有孩子的表現。",
+          "en": "The teacher wants to praise all the children for their work.",
+          "distractors": [
+            "vergessen",
+            "verkaufen",
+            "verlassen"
+          ]
+        }
+      }
+    ]
+  },
+  "loch": {
+    "senses": [
+      {
+        "zh": "洞",
+        "en": "hole",
+        "ex": {
+          "de": "In meinem alten Schuh ist ein großes {Loch}.",
+          "zh": "我的舊鞋上有一個大洞。",
+          "en": "There is a large hole in my old shoe.",
+          "distractors": [
+            "Bett",
+            "Fenster",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "loeffel": {
+    "senses": [
+      {
+        "zh": "湯匙",
+        "en": "spoon",
+        "ex": {
+          "de": "Mit einem {Löffel} rührt er Zucker in den Tee.",
+          "zh": "他用湯匙把糖攪進茶裡。",
+          "en": "He stirs sugar into the tea with a spoon.",
+          "distractors": [
+            "Schuh",
+            "Hut",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "lohn": {
+    "senses": [
+      {
+        "zh": "工資",
+        "en": "wages",
+        "ex": {
+          "de": "Am Monatsende bekommt sie ihren {Lohn} auf ihr Konto.",
+          "zh": "月底她的工資會匯入帳戶。",
+          "en": "At the end of the month she receives her wages in her account.",
+          "distractors": [
+            "Schirm",
+            "Schal",
+            "Hut"
+          ]
+        }
+      }
+    ]
+  },
+  "lohnen": {
+    "senses": [
+      {
+        "zh": "值得",
+        "en": "to be worthwhile",
+        "ex": {
+          "de": "Der weite Weg wird sich für dieses Konzert {lohnen}.",
+          "zh": "為了這場音樂會走遠路是值得的。",
+          "en": "The long journey will be worthwhile for this concert.",
+          "distractors": [
+            "ärgern",
+            "beeilen",
+            "entschuldigen"
+          ]
+        }
+      }
+    ]
+  },
+  "lokal": {
+    "senses": [
+      {
+        "zh": "餐館",
+        "en": "restaurant",
+        "ex": {
+          "de": "In diesem kleinen {Lokal} gibt es hausgemachte Pizza.",
+          "zh": "這家小餐館有手工製作的披薩。",
+          "en": "This small restaurant serves homemade pizza.",
+          "distractors": [
+            "Bett",
+            "Auto",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "los-los": {
+    "senses": [
+      {
+        "zh": "出發；開始",
+        "en": "off, away",
+        "ex": {
+          "de": "Der Bus fährt um sechs Uhr {los}.",
+          "zh": "公車六點出發。",
+          "en": "The bus sets off at six.",
+          "distractors": [
+            "schon",
+            "gestern",
+            "nie"
+          ]
+        }
+      }
+    ]
+  },
+  "losfahren": {
+    "senses": [
+      {
+        "zh": "出發；開車出發",
+        "en": "to set off",
+        "ex": {
+          "de": "Wir müssen vor Sonnenaufgang mit dem Auto {losfahren}.",
+          "zh": "我們必須在日出前開車出發。",
+          "en": "We must set off by car before sunrise.",
+          "distractors": [
+            "anhalten",
+            "parken",
+            "schlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "loeschen": {
+    "senses": [
+      {
+        "zh": "熄滅；刪除",
+        "en": "to extinguish, delete",
+        "ex": {
+          "de": "Die Feuerwehr konnte das Feuer schnell {löschen}.",
+          "zh": "消防隊很快就能把火撲滅。",
+          "en": "The fire brigade was able to extinguish the fire quickly.",
+          "distractors": [
+            "anzünden",
+            "verkaufen",
+            "vergessen"
+          ]
+        }
+      }
+    ]
+  },
+  "loesung": {
+    "senses": [
+      {
+        "zh": "解答；解決辦法",
+        "en": "solution",
+        "ex": {
+          "de": "Gemeinsam finden wir eine {Lösung} für das Problem.",
+          "zh": "我們一起為問題找到解決辦法。",
+          "en": "Together we find a solution to the problem.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "luft": {
+    "senses": [
+      {
+        "zh": "空氣",
+        "en": "air",
+        "ex": {
+          "de": "Nach dem Regen riecht die {Luft} besonders frisch.",
+          "zh": "雨後的空氣聞起來格外清新。",
+          "en": "After the rain the air smells especially fresh.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "luegen": {
+    "senses": [
+      {
+        "zh": "說謊",
+        "en": "to lie",
+        "ex": {
+          "de": "Wer ehrlich sein möchte, darf nicht {lügen}.",
+          "zh": "想要誠實的人就不能說謊。",
+          "en": "Anyone who wants to be honest must not lie.",
+          "distractors": [
+            "schlafen",
+            "essen",
+            "sitzen"
+          ]
+        }
+      }
+    ]
+  },
+  "luege": {
+    "senses": [
+      {
+        "zh": "謊言",
+        "en": "lie",
+        "ex": {
+          "de": "Mit einer {Lüge} wird das Problem nicht kleiner.",
+          "zh": "說謊不會讓問題變小。",
+          "en": "A lie will not make the problem smaller.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "lust": {
+    "senses": [
+      {
+        "zh": "興致；意願",
+        "en": "desire, inclination",
+        "ex": {
+          "de": "Nach dem langen Arbeitstag hat er keine {Lust} zu kochen.",
+          "zh": "工作了一整天後，他沒有興致煮飯。",
+          "en": "After a long day at work, he does not feel like cooking.",
+          "distractors": [
+            "Milch",
+            "Butter",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "lustig": {
+    "senses": [
+      {
+        "zh": "有趣的；好笑的",
+        "en": "funny",
+        "ex": {
+          "de": "Der Film war so {lustig}, dass alle gelacht haben.",
+          "zh": "電影非常好笑，大家都笑了。",
+          "en": "The film was so funny that everyone laughed.",
+          "distractors": [
+            "traurig",
+            "langweilig",
+            "ernst"
+          ]
+        }
+      }
+    ]
+  },
+  "machen": {
+    "senses": [
+      {
+        "zh": "做",
+        "en": "to make, do",
+        "ex": {
+          "de": "Am Wochenende möchte ich einen Ausflug mit euch {machen}.",
+          "zh": "週末我想和你們一起去郊遊。",
+          "en": "I want to go on an outing with you at the weekend.",
+          "distractors": [
+            "verlieren",
+            "vergessen",
+            "verkaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "maedchen": {
+    "senses": [
+      {
+        "zh": "女孩",
+        "en": "girl",
+        "ex": {
+          "de": "Das {Mädchen} baut am Strand eine große Sandburg.",
+          "zh": "女孩在海灘上蓋一座大沙堡。",
+          "en": "The girl builds a large sandcastle on the beach.",
+          "distractors": [
+            "Fenster",
+            "Handtuch",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "magazin": {
+    "senses": [
+      {
+        "zh": "雜誌",
+        "en": "magazine",
+        "ex": {
+          "de": "Im Wartezimmer liegt ein altes {Magazin} auf dem Tisch.",
+          "zh": "候診室的桌上放著一本舊雜誌。",
+          "en": "An old magazine lies on the table in the waiting room.",
+          "distractors": [
+            "Kissen",
+            "Handtuch",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "magen": {
+    "senses": [
+      {
+        "zh": "胃",
+        "en": "stomach",
+        "ex": {
+          "de": "Nach dem vielen Essen tut mir der {Magen} weh.",
+          "zh": "吃了很多東西後我胃痛。",
+          "en": "My stomach hurts after eating so much.",
+          "distractors": [
+            "Koffer",
+            "Schlüssel",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "mager": {
+    "senses": [
+      {
+        "zh": "瘦的；低脂的",
+        "en": "lean, low-fat",
+        "ex": {
+          "de": "Für dieses Gericht nehmen wir {mageres} Fleisch.",
+          "zh": "這道菜我們用瘦肉。",
+          "en": "For this dish we use lean meat.",
+          "distractors": [
+            "lautes",
+            "krankes",
+            "trauriges"
+          ]
+        }
+      }
+    ]
+  },
+  "mahlzeit": {
+    "senses": [
+      {
+        "zh": "一餐",
+        "en": "meal",
+        "ex": {
+          "de": "Ein Apfel ersetzt keine vollständige {Mahlzeit}.",
+          "zh": "一顆蘋果無法取代完整的一餐。",
+          "en": "An apple is no substitute for a complete meal.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  }
+}

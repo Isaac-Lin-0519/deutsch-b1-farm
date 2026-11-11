@@ -1,0 +1,884 @@
+{
+  "kraftwerk": {
+    "senses": [
+      {
+        "zh": "發電廠",
+        "en": "power plant",
+        "ex": {
+          "de": "Das {Kraftwerk} versorgt das Dorf mit Strom.",
+          "zh": "這座發電廠供應村莊電力。",
+          "en": "The power plant supplies the village with electricity.",
+          "distractors": [
+            "Kino",
+            "Museum",
+            "Hotel"
+          ]
+        }
+      }
+    ]
+  },
+  "krank": {
+    "senses": [
+      {
+        "zh": "生病的",
+        "en": "ill",
+        "ex": {
+          "de": "Meine Tochter ist heute {krank} und bleibt daheim.",
+          "zh": "我女兒今天生病，待在家裡。",
+          "en": "My daughter is ill today and is staying home.",
+          "distractors": [
+            "hungrig",
+            "fröhlich",
+            "neugierig"
+          ]
+        }
+      }
+    ]
+  },
+  "kranke": {
+    "senses": [
+      {
+        "zh": "男病人",
+        "en": "male patient",
+        "ex": {
+          "de": "Der {Kranke} braucht nach der Operation viel Ruhe.",
+          "zh": "這位男病人手術後需要多休息。",
+          "en": "The male patient needs plenty of rest after the operation.",
+          "distractors": [
+            "Fahrer",
+            "Lehrer",
+            "Koch"
+          ]
+        }
+      }
+    ]
+  },
+  "kranke-2": {
+    "senses": [
+      {
+        "zh": "女病人",
+        "en": "female patient",
+        "ex": {
+          "de": "Die {Kranke} bekommt im Bett eine warme Suppe.",
+          "zh": "這位女病人在床上喝到一碗熱湯。",
+          "en": "The female patient receives a warm soup in bed.",
+          "distractors": [
+            "Lehrerin",
+            "Fahrerin",
+            "Köchin"
+          ]
+        }
+      }
+    ]
+  },
+  "krankenhaus": {
+    "senses": [
+      {
+        "zh": "醫院",
+        "en": "hospital",
+        "ex": {
+          "de": "Nach dem Unfall kam er sofort ins {Krankenhaus}.",
+          "zh": "事故後他立刻被送往醫院。",
+          "en": "After the accident he was taken straight to hospital.",
+          "distractors": [
+            "Kino",
+            "Theater",
+            "Kaufhaus"
+          ]
+        }
+      }
+    ]
+  },
+  "krankenkasse": {
+    "senses": [
+      {
+        "zh": "健康保險公司",
+        "en": "health insurance provider",
+        "ex": {
+          "de": "Meine {Krankenkasse} bezahlt diese notwendige Behandlung.",
+          "zh": "我的健保公司支付這項必要的治療。",
+          "en": "My health insurance provider pays for this necessary treatment.",
+          "distractors": [
+            "Bibliothek",
+            "Bäckerei",
+            "Schule"
+          ]
+        }
+      }
+    ]
+  },
+  "krankenpfleger": {
+    "senses": [
+      {
+        "zh": "男護理師",
+        "en": "male nurse",
+        "ex": {
+          "de": "Der {Krankenpfleger} misst jeden Morgen meinen Blutdruck.",
+          "zh": "男護理師每天早上幫我量血壓。",
+          "en": "The male nurse measures my blood pressure every morning.",
+          "distractors": [
+            "Bäcker",
+            "Mechaniker",
+            "Briefträger"
+          ]
+        }
+      }
+    ]
+  },
+  "krankenschwester": {
+    "senses": [
+      {
+        "zh": "女護理師",
+        "en": "female nurse",
+        "ex": {
+          "de": "Die {Krankenschwester} bringt dem Patienten seine Medikamente.",
+          "zh": "女護理師把藥拿給病人。",
+          "en": "The nurse brings the patient his medication.",
+          "distractors": [
+            "Verkäuferin",
+            "Friseurin",
+            "Kellnerin"
+          ]
+        }
+      }
+    ]
+  },
+  "krankheit": {
+    "senses": [
+      {
+        "zh": "疾病",
+        "en": "illness",
+        "ex": {
+          "de": "Nach langer {Krankheit} kann er wieder arbeiten.",
+          "zh": "長期生病後，他又能工作了。",
+          "en": "After a long illness he can work again.",
+          "distractors": [
+            "Reise",
+            "Feier",
+            "Pause"
+          ]
+        }
+      }
+    ]
+  },
+  "kreativ": {
+    "senses": [
+      {
+        "zh": "有創意的",
+        "en": "creative",
+        "ex": {
+          "de": "Beim Basteln findet Mia immer wieder {kreative} Lösungen.",
+          "zh": "做手工時，Mia 總是想到有創意的解決辦法。",
+          "en": "Mia keeps finding creative solutions when doing crafts.",
+          "distractors": [
+            "hungrige",
+            "kranke",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "kredit": {
+    "senses": [
+      {
+        "zh": "貸款",
+        "en": "loan",
+        "ex": {
+          "de": "Für das Haus braucht sie einen {Kredit} von der Bank.",
+          "zh": "她需要向銀行貸款買房子。",
+          "en": "She needs a bank loan for the house.",
+          "distractors": [
+            "Regenschirm",
+            "Fahrplan",
+            "Apfel"
+          ]
+        }
+      }
+    ]
+  },
+  "kreditkarte": {
+    "senses": [
+      {
+        "zh": "信用卡",
+        "en": "credit card",
+        "ex": {
+          "de": "Im Hotel bezahle ich mit meiner {Kreditkarte}.",
+          "zh": "我在旅館用信用卡付款。",
+          "en": "I pay at the hotel with my credit card.",
+          "distractors": [
+            "Zahnbürste",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "kreis": {
+    "senses": [
+      {
+        "zh": "圓圈",
+        "en": "circle",
+        "ex": {
+          "de": "Mit Kreide malt Ali einen großen {Kreis} auf den Boden.",
+          "zh": "Ali 用粉筆在地板上畫一個大圓圈。",
+          "en": "Ali draws a large circle on the ground with chalk.",
+          "distractors": [
+            "Koffer",
+            "Schlüssel",
+            "Teppich"
+          ]
+        }
+      }
+    ]
+  },
+  "kreuz": {
+    "senses": [
+      {
+        "zh": "十字記號",
+        "en": "cross",
+        "ex": {
+          "de": "Setzen Sie ein {Kreuz} neben die richtige Antwort.",
+          "zh": "請在正確答案旁邊畫一個叉。",
+          "en": "Put a cross next to the correct answer.",
+          "distractors": [
+            "Buch",
+            "Bett",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "kreuzung": {
+    "senses": [
+      {
+        "zh": "十字路口",
+        "en": "intersection",
+        "ex": {
+          "de": "An der nächsten {Kreuzung} musst du links abbiegen.",
+          "zh": "到下一個十字路口你必須左轉。",
+          "en": "You must turn left at the next intersection.",
+          "distractors": [
+            "Apotheke",
+            "Bibliothek",
+            "Schule"
+          ]
+        }
+      }
+    ]
+  },
+  "krieg": {
+    "senses": [
+      {
+        "zh": "戰爭",
+        "en": "war",
+        "ex": {
+          "de": "Während des {Krieges} verließ die Familie ihre Heimat.",
+          "zh": "戰爭期間，這家人離開了家鄉。",
+          "en": "During the war the family left their homeland.",
+          "distractors": [
+            "Kuchens",
+            "Gartens",
+            "Briefes"
+          ]
+        }
+      }
+    ]
+  },
+  "kriegen": {
+    "senses": [
+      {
+        "zh": "得到；收到",
+        "en": "to get, receive",
+        "ex": {
+          "de": "Zum Geburtstag möchte ich ein Fahrrad {kriegen}.",
+          "zh": "我想在生日時收到一台腳踏車。",
+          "en": "I would like to get a bicycle for my birthday.",
+          "distractors": [
+            "verlieren",
+            "vergessen",
+            "verkaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "krimi": {
+    "senses": [
+      {
+        "zh": "推理小說；犯罪片",
+        "en": "crime story",
+        "ex": {
+          "de": "Abends liest mein Vater gern einen spannenden {Krimi}.",
+          "zh": "我爸爸晚上喜歡讀精彩的推理小說。",
+          "en": "My father enjoys reading an exciting crime story in the evening.",
+          "distractors": [
+            "Schrank",
+            "Teppich",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "krise": {
+    "senses": [
+      {
+        "zh": "危機",
+        "en": "crisis",
+        "ex": {
+          "de": "In der wirtschaftlichen {Krise} verloren viele Menschen ihre Arbeit.",
+          "zh": "經濟危機期間，許多人失去了工作。",
+          "en": "Many people lost their jobs during the economic crisis.",
+          "distractors": [
+            "Küche",
+            "Jacke",
+            "Blume"
+          ]
+        }
+      }
+    ]
+  },
+  "kritisieren": {
+    "senses": [
+      {
+        "zh": "批評",
+        "en": "to criticize",
+        "ex": {
+          "de": "Du darfst den Plan {kritisieren}, aber bleib bitte freundlich.",
+          "zh": "你可以批評這個計畫，但請保持友善。",
+          "en": "You may criticize the plan, but please remain polite.",
+          "distractors": [
+            "unterschreiben",
+            "vergessen",
+            "bezahlen"
+          ]
+        }
+      }
+    ]
+  },
+  "kritik": {
+    "senses": [
+      {
+        "zh": "批評；意見",
+        "en": "criticism",
+        "ex": {
+          "de": "Seine {Kritik} an meinem Text war sehr hilfreich.",
+          "zh": "他對我文章提出的意見很有幫助。",
+          "en": "His criticism of my text was very helpful.",
+          "distractors": [
+            "Brille",
+            "Küche",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "kritisch": {
+    "senses": [
+      {
+        "zh": "持懷疑態度的",
+        "en": "critical, skeptical",
+        "ex": {
+          "de": "Lies die Nachrichten bitte immer {kritisch}.",
+          "zh": "讀新聞時請隨時保持批判思考。",
+          "en": "Please always read the news critically.",
+          "distractors": [
+            "durstig",
+            "verschlafen",
+            "nass"
+          ]
+        }
+      }
+    ]
+  },
+  "kueche": {
+    "senses": [
+      {
+        "zh": "廚房",
+        "en": "kitchen",
+        "ex": {
+          "de": "In unserer {Küche} steht ein großer runder Tisch.",
+          "zh": "我們的廚房裡有一張大圓桌。",
+          "en": "There is a large round table in our kitchen.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "kuchen": {
+    "senses": [
+      {
+        "zh": "蛋糕",
+        "en": "cake",
+        "ex": {
+          "de": "Zum Kaffee gibt es heute selbst gebackenen {Kuchen}.",
+          "zh": "今天喝咖啡時有自己烤的蛋糕。",
+          "en": "Today there is homemade cake with the coffee.",
+          "distractors": [
+            "Schlüssel",
+            "Teppich",
+            "Spiegel"
+          ]
+        }
+      }
+    ]
+  },
+  "kugelschreiber": {
+    "senses": [
+      {
+        "zh": "原子筆",
+        "en": "ballpoint pen",
+        "ex": {
+          "de": "Mit diesem {Kugelschreiber} kann ich nicht mehr schreiben.",
+          "zh": "我再也不能用這支原子筆寫字了。",
+          "en": "I can no longer write with this ballpoint pen.",
+          "distractors": [
+            "Regenschirm",
+            "Schuh",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "kuli": {
+    "senses": [
+      {
+        "zh": "原子筆",
+        "en": "ballpoint pen",
+        "ex": {
+          "de": "Der blaue {Kuli} schreibt leider nicht mehr.",
+          "zh": "很可惜，這支藍色原子筆不能寫了。",
+          "en": "Unfortunately the blue pen no longer writes.",
+          "distractors": [
+            "Schirm",
+            "Schuh",
+            "Hut"
+          ]
+        }
+      }
+    ]
+  },
+  "kuehl": {
+    "senses": [
+      {
+        "zh": "涼爽的",
+        "en": "cool",
+        "ex": {
+          "de": "Im Keller ist es auch im Sommer angenehm {kühl}.",
+          "zh": "即使在夏天，地下室也涼爽宜人。",
+          "en": "The cellar is pleasantly cool even in summer.",
+          "distractors": [
+            "laut",
+            "teuer",
+            "traurig"
+          ]
+        }
+      }
+    ]
+  },
+  "kuehlschrank": {
+    "senses": [
+      {
+        "zh": "冰箱",
+        "en": "refrigerator",
+        "ex": {
+          "de": "Die offene Marmelade gehört in den {Kühlschrank}.",
+          "zh": "開封的果醬應該放進冰箱。",
+          "en": "The opened jam belongs in the fridge.",
+          "distractors": [
+            "Briefkasten",
+            "Koffer",
+            "Kleiderschrank"
+          ]
+        }
+      }
+    ]
+  },
+  "kultur": {
+    "senses": [
+      {
+        "zh": "文化",
+        "en": "culture",
+        "ex": {
+          "de": "Auf Reisen lernt man eine andere {Kultur} kennen.",
+          "zh": "旅行時可以認識另一種文化。",
+          "en": "When traveling, one gets to know another culture.",
+          "distractors": [
+            "Tasche",
+            "Flasche",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "kulturell": {
+    "senses": [
+      {
+        "zh": "文化的",
+        "en": "cultural",
+        "ex": {
+          "de": "Die Stadt hat {kulturell} viel zu bieten.",
+          "zh": "這座城市有豐富的文化活動。",
+          "en": "The city has a lot to offer culturally.",
+          "distractors": [
+            "hungrig",
+            "krank",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "kuemmern": {
+    "senses": [
+      {
+        "zh": "照顧；關心",
+        "en": "to take care of",
+        "ex": {
+          "de": "Kannst du dich morgen um meinen Hund {kümmern}?",
+          "zh": "你明天可以幫我照顧我的狗嗎？",
+          "en": "Can you take care of my dog tomorrow?",
+          "distractors": [
+            "erinnern",
+            "ärgern",
+            "wundern"
+          ]
+        }
+      }
+    ]
+  },
+  "kunde": {
+    "senses": [
+      {
+        "zh": "男性顧客",
+        "en": "male customer",
+        "ex": {
+          "de": "Der {Kunde} sucht im Laden eine warme Jacke.",
+          "zh": "這位男顧客在店裡找一件暖和的外套。",
+          "en": "The male customer is looking for a warm jacket in the shop.",
+          "distractors": [
+            "Fahrer",
+            "Koch",
+            "Arzt"
+          ]
+        }
+      }
+    ]
+  },
+  "kundin": {
+    "senses": [
+      {
+        "zh": "女性顧客",
+        "en": "female customer",
+        "ex": {
+          "de": "Die {Kundin} probiert im Laden einen Mantel an.",
+          "zh": "這位女顧客在店裡試穿一件大衣。",
+          "en": "The female customer tries on a coat in the shop.",
+          "distractors": [
+            "Ärztin",
+            "Köchin",
+            "Fahrerin"
+          ]
+        }
+      }
+    ]
+  },
+  "kuendigen": {
+    "senses": [
+      {
+        "zh": "辭職",
+        "en": "to resign",
+        "ex": {
+          "de": "Nach zehn Jahren möchte sie ihre Stelle {kündigen}.",
+          "zh": "十年後她想辭掉工作。",
+          "en": "After ten years she wants to resign from her position.",
+          "distractors": [
+            "verlängern",
+            "beginnen",
+            "suchen"
+          ]
+        }
+      }
+    ]
+  },
+  "kuendigung": {
+    "senses": [
+      {
+        "zh": "解約；辭職通知",
+        "en": "termination, resignation",
+        "ex": {
+          "de": "Er schickt seine {Kündigung} schriftlich an den Arbeitgeber.",
+          "zh": "他以書面向雇主提出辭呈。",
+          "en": "He sends his resignation to his employer in writing.",
+          "distractors": [
+            "Brille",
+            "Decke",
+            "Tasse"
+          ]
+        }
+      }
+    ]
+  },
+  "kunst": {
+    "senses": [
+      {
+        "zh": "藝術",
+        "en": "art",
+        "ex": {
+          "de": "Moderne {Kunst} kann man in diesem Museum sehen.",
+          "zh": "在這間博物館可以看到現代藝術。",
+          "en": "You can see modern art in this museum.",
+          "distractors": [
+            "Butter",
+            "Milch",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "kuenstler": {
+    "senses": [
+      {
+        "zh": "男藝術家",
+        "en": "male artist",
+        "ex": {
+          "de": "Der {Künstler} zeigt seine Bilder in einer Galerie.",
+          "zh": "這位男藝術家在畫廊展示他的畫作。",
+          "en": "The male artist displays his paintings in a gallery.",
+          "distractors": [
+            "Bäcker",
+            "Polizist",
+            "Mechaniker"
+          ]
+        }
+      }
+    ]
+  },
+  "kuenstlerin": {
+    "senses": [
+      {
+        "zh": "女藝術家",
+        "en": "female artist",
+        "ex": {
+          "de": "Die {Künstlerin} malt große Bilder mit leuchtenden Farben.",
+          "zh": "這位女藝術家用鮮豔的顏色畫大幅作品。",
+          "en": "The female artist paints large pictures in bright colors.",
+          "distractors": [
+            "Bäckerin",
+            "Polizistin",
+            "Mechanikerin"
+          ]
+        }
+      }
+    ]
+  },
+  "kuenstlich": {
+    "senses": [
+      {
+        "zh": "人造的",
+        "en": "artificial",
+        "ex": {
+          "de": "Diese Blumen sehen echt aus, sind aber {künstlich}.",
+          "zh": "這些花看起來是真的，其實是人造的。",
+          "en": "These flowers look real but are artificial.",
+          "distractors": [
+            "hungrig",
+            "traurig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "kunststoff": {
+    "senses": [
+      {
+        "zh": "塑膠；合成材料",
+        "en": "plastic, synthetic material",
+        "ex": {
+          "de": "Die Trinkflasche ist aus leichtem {Kunststoff} gemacht.",
+          "zh": "這個水壺是用輕巧的塑膠製成的。",
+          "en": "The drinking bottle is made of lightweight plastic.",
+          "distractors": [
+            "Regen",
+            "Lärm",
+            "Schnee"
+          ]
+        }
+      }
+    ]
+  },
+  "kurs": {
+    "senses": [
+      {
+        "zh": "課程",
+        "en": "course",
+        "ex": {
+          "de": "Nächsten Monat beginnt mein neuer {Kurs} für Anfänger.",
+          "zh": "下個月我的新初學者課程開始。",
+          "en": "My new course for beginners starts next month.",
+          "distractors": [
+            "Koffer",
+            "Schirm",
+            "Tisch"
+          ]
+        }
+      }
+    ]
+  },
+  "kursleiter": {
+    "senses": [
+      {
+        "zh": "課程講師",
+        "en": "course instructor",
+        "ex": {
+          "de": "Der {Kursleiter} erklärt die Aufgabe vor der Pause.",
+          "zh": "講師在休息前解釋作業。",
+          "en": "The course instructor explains the task before the break.",
+          "distractors": [
+            "Briefträger",
+            "Mechaniker",
+            "Bäcker"
+          ]
+        }
+      }
+    ]
+  },
+  "kurve": {
+    "senses": [
+      {
+        "zh": "彎道",
+        "en": "bend, curve",
+        "ex": {
+          "de": "Vor der scharfen {Kurve} muss der Fahrer bremsen.",
+          "zh": "急彎前駕駛必須煞車。",
+          "en": "The driver must brake before the sharp bend.",
+          "distractors": [
+            "Wohnung",
+            "Tasche",
+            "Blume"
+          ]
+        }
+      }
+    ]
+  },
+  "kurz": {
+    "senses": [
+      {
+        "zh": "短的",
+        "en": "short",
+        "ex": {
+          "de": "Der Film ist sehr {kurz} und dauert nur zehn Minuten.",
+          "zh": "這部電影很短，只有十分鐘。",
+          "en": "The film is very short and lasts only ten minutes.",
+          "distractors": [
+            "hungrig",
+            "krank",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "kuerzlich": {
+    "senses": [
+      {
+        "zh": "最近；不久前",
+        "en": "recently",
+        "ex": {
+          "de": "Wir haben uns erst {kürzlich} im Park getroffen.",
+          "zh": "我們不久前才在公園見過面。",
+          "en": "We only met in the park recently.",
+          "distractors": [
+            "morgen",
+            "bald",
+            "demnächst"
+          ]
+        }
+      }
+    ]
+  },
+  "kuessen": {
+    "senses": [
+      {
+        "zh": "親吻",
+        "en": "to kiss",
+        "ex": {
+          "de": "Vor der Reise möchte er seine Kinder noch {küssen}.",
+          "zh": "出發旅行前，他還想親吻他的孩子。",
+          "en": "Before the trip he wants to kiss his children.",
+          "distractors": [
+            "verkaufen",
+            "verlieren",
+            "vergessen"
+          ]
+        }
+      }
+    ]
+  },
+  "kuss": {
+    "senses": [
+      {
+        "zh": "吻",
+        "en": "kiss",
+        "ex": {
+          "de": "Sie gibt ihrem Kind einen {Kuss} auf die Stirn.",
+          "zh": "她在孩子的額頭上親了一下。",
+          "en": "She gives her child a kiss on the forehead.",
+          "distractors": [
+            "Schlüssel",
+            "Schirm",
+            "Stuhl"
+          ]
+        }
+      }
+    ]
+  },
+  "kueste": {
+    "senses": [
+      {
+        "zh": "海岸",
+        "en": "coast",
+        "ex": {
+          "de": "An der {Küste} weht heute ein starker Wind.",
+          "zh": "今天海岸吹著強風。",
+          "en": "A strong wind is blowing on the coast today.",
+          "distractors": [
+            "Kasse",
+            "Schule",
+            "Haltestelle"
+          ]
+        }
+      }
+    ]
+  },
+  "kuvert": {
+    "senses": [
+      {
+        "zh": "信封（奧地利）",
+        "en": "envelope (Austria)",
+        "ex": {
+          "de": "Sie steckt den Brief in ein weißes {Kuvert}.",
+          "zh": "她把信放進一個白色信封裡。",
+          "en": "She puts the letter in a white envelope.",
+          "distractors": [
+            "Brot",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  }
+}

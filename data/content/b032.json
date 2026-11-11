@@ -1,0 +1,884 @@
+{
+  "lachen": {
+    "senses": [
+      {
+        "zh": "笑",
+        "en": "to laugh",
+        "ex": {
+          "de": "Die Kinder {lachen} über den lustigen Film.",
+          "zh": "孩子們因為好笑的電影而大笑。",
+          "en": "The children laugh at the funny film.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "bezahlen"
+          ]
+        }
+      }
+    ]
+  },
+  "laden": {
+    "senses": [
+      {
+        "zh": "商店",
+        "en": "shop",
+        "ex": {
+          "de": "In diesem {Laden} gibt es frisches Brot.",
+          "zh": "這家店有新鮮的麵包。",
+          "en": "There is fresh bread in this shop.",
+          "distractors": [
+            "Wald",
+            "Zug",
+            "Fluss"
+          ]
+        }
+      }
+    ]
+  },
+  "lage": {
+    "senses": [
+      {
+        "zh": "位置；狀況",
+        "en": "location; situation",
+        "ex": {
+          "de": "Die {Lage} der Wohnung ist für uns ideal.",
+          "zh": "這間公寓的位置對我們很理想。",
+          "en": "The location of the apartment is ideal for us.",
+          "distractors": [
+            "Farbe",
+            "Tasse",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "lager": {
+    "senses": [
+      {
+        "zh": "倉庫",
+        "en": "warehouse",
+        "ex": {
+          "de": "Die neuen Möbel stehen noch im {Lager}.",
+          "zh": "新家具還放在倉庫裡。",
+          "en": "The new furniture is still in the warehouse.",
+          "distractors": [
+            "Frühstück",
+            "Kleid",
+            "Wetter"
+          ]
+        }
+      }
+    ]
+  },
+  "lampe": {
+    "senses": [
+      {
+        "zh": "燈",
+        "en": "lamp",
+        "ex": {
+          "de": "Neben meinem Bett steht eine kleine {Lampe}.",
+          "zh": "我的床邊有一盞小燈。",
+          "en": "There is a small lamp next to my bed.",
+          "distractors": [
+            "Wolke",
+            "Karotte",
+            "Prüfung"
+          ]
+        }
+      }
+    ]
+  },
+  "land": {
+    "senses": [
+      {
+        "zh": "國家",
+        "en": "country",
+        "ex": {
+          "de": "Japan ist ein {Land} in Ostasien.",
+          "zh": "日本是東亞的一個國家。",
+          "en": "Japan is a country in East Asia.",
+          "distractors": [
+            "Brot",
+            "Fahrrad",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "landwirtschaft": {
+    "senses": [
+      {
+        "zh": "農業",
+        "en": "agriculture",
+        "ex": {
+          "de": "In dieser Region spielt die {Landwirtschaft} eine wichtige Rolle.",
+          "zh": "農業在這個地區扮演重要角色。",
+          "en": "Agriculture plays an important role in this region.",
+          "distractors": [
+            "Zahnbürste",
+            "Haltestelle",
+            "Schnecke"
+          ]
+        }
+      }
+    ]
+  },
+  "landschaft": {
+    "senses": [
+      {
+        "zh": "風景；地景",
+        "en": "landscape",
+        "ex": {
+          "de": "Die {Landschaft} am See gefällt uns sehr.",
+          "zh": "我們很喜歡湖邊的風景。",
+          "en": "We really like the landscape by the lake.",
+          "distractors": [
+            "Rechnung",
+            "Gabel",
+            "Stimme"
+          ]
+        }
+      }
+    ]
+  },
+  "landen": {
+    "senses": [
+      {
+        "zh": "降落",
+        "en": "to land",
+        "ex": {
+          "de": "Unser Flugzeug wird wegen des Nebels später {landen}.",
+          "zh": "我們的飛機因為霧將延遲降落。",
+          "en": "Our plane will land later because of the fog.",
+          "distractors": [
+            "frühstücken",
+            "bügeln",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "landung": {
+    "senses": [
+      {
+        "zh": "降落",
+        "en": "landing",
+        "ex": {
+          "de": "Nach der {Landung} dürfen die Gäste aufstehen.",
+          "zh": "降落後乘客可以起身。",
+          "en": "After landing, the passengers may stand up.",
+          "distractors": [
+            "Marmelade",
+            "Zahnpasta",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "lang": {
+    "senses": [
+      {
+        "zh": "長的",
+        "en": "long",
+        "ex": {
+          "de": "Der Flur in unserer neuen Wohnung ist sehr {lang}.",
+          "zh": "我們新公寓的走廊很長。",
+          "en": "The hallway in our new apartment is very long.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "krank"
+          ]
+        }
+      }
+    ]
+  },
+  "laenge": {
+    "senses": [
+      {
+        "zh": "長度",
+        "en": "length",
+        "ex": {
+          "de": "Bitte messen Sie die {Länge} des Tisches.",
+          "zh": "請測量桌子的長度。",
+          "en": "Please measure the length of the table.",
+          "distractors": [
+            "Angst",
+            "Hoffnung",
+            "Freundschaft"
+          ]
+        }
+      }
+    ]
+  },
+  "lange": {
+    "senses": [
+      {
+        "zh": "長時間地",
+        "en": "for a long time",
+        "ex": {
+          "de": "Auf den Bus mussten wir gestern sehr {lange} warten.",
+          "zh": "昨天我們等公車等了很久。",
+          "en": "Yesterday we had to wait a long time for the bus.",
+          "distractors": [
+            "hungrig",
+            "kaputt",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "langsam": {
+    "senses": [
+      {
+        "zh": "緩慢地",
+        "en": "slowly",
+        "ex": {
+          "de": "Der alte Hund geht heute besonders {langsam} die Treppe hinauf.",
+          "zh": "那隻老狗今天特別慢地走上樓梯。",
+          "en": "The old dog is walking up the stairs especially slowly today.",
+          "distractors": [
+            "leer",
+            "schmal",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "laengst": {
+    "senses": [
+      {
+        "zh": "早已",
+        "en": "long since",
+        "ex": {
+          "de": "Als du angerufen hast, war ich {längst} zu Hause.",
+          "zh": "你打電話來的時候，我早已到家。",
+          "en": "When you called, I had long since been home.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "blind"
+          ]
+        }
+      }
+    ]
+  },
+  "langweilig": {
+    "senses": [
+      {
+        "zh": "無聊的",
+        "en": "boring",
+        "ex": {
+          "de": "Ohne Bücher finde ich die lange Zugfahrt {langweilig}.",
+          "zh": "沒有書的話，我覺得長途火車旅程很無聊。",
+          "en": "Without books I find the long train journey boring.",
+          "distractors": [
+            "durstig",
+            "hungrig",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "langweilen": {
+    "senses": [
+      {
+        "zh": "感到無聊",
+        "en": "to be bored",
+        "ex": {
+          "de": "Die Kinder wollen sich bei Regen nicht zu Hause {langweilen}.",
+          "zh": "孩子們不想在下雨時待在家裡覺得無聊。",
+          "en": "The children do not want to be bored at home when it rains.",
+          "distractors": [
+            "rasieren",
+            "waschen",
+            "anziehen"
+          ]
+        }
+      }
+    ]
+  },
+  "langeweile": {
+    "senses": [
+      {
+        "zh": "無聊",
+        "en": "boredom",
+        "ex": {
+          "de": "Aus {Langeweile} sortierte er seine alten Fotos.",
+          "zh": "他因為無聊而整理了舊照片。",
+          "en": "Out of boredom he sorted his old photos.",
+          "distractors": [
+            "Butter",
+            "Treppe",
+            "Socke"
+          ]
+        }
+      }
+    ]
+  },
+  "laerm": {
+    "senses": [
+      {
+        "zh": "噪音",
+        "en": "noise",
+        "ex": {
+          "de": "Der {Lärm} von der Baustelle weckt mich jeden Morgen.",
+          "zh": "工地的噪音每天早上都把我吵醒。",
+          "en": "The noise from the construction site wakes me every morning.",
+          "distractors": [
+            "Käse",
+            "Schnee",
+            "Hunger"
+          ]
+        }
+      }
+    ]
+  },
+  "lassen-2": {
+    "senses": [
+      {
+        "zh": "讓；請人做",
+        "en": "to let; have something done",
+        "ex": {
+          "de": "Ich möchte mein kaputtes Fahrrad morgen reparieren {lassen}.",
+          "zh": "我想明天請人修理壞掉的腳踏車。",
+          "en": "I want to have my broken bicycle repaired tomorrow.",
+          "distractors": [
+            "trinken",
+            "malen",
+            "schlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "laster": {
+    "senses": [
+      {
+        "zh": "卡車",
+        "en": "truck",
+        "ex": {
+          "de": "Ein großer {Laster} bringt die Möbel zu unserem Haus.",
+          "zh": "一輛大卡車把家具送到我們家。",
+          "en": "A large truck brings the furniture to our house.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "laufen": {
+    "senses": [
+      {
+        "zh": "跑；步行",
+        "en": "to run; walk",
+        "ex": {
+          "de": "Am Wochenende {laufen} wir oft am Fluss entlang.",
+          "zh": "週末我們常沿著河跑步。",
+          "en": "At weekends we often run along the river.",
+          "distractors": [
+            "kochen",
+            "telefonieren",
+            "bügeln"
+          ]
+        }
+      }
+    ]
+  },
+  "laufwerk": {
+    "senses": [
+      {
+        "zh": "磁碟機",
+        "en": "drive",
+        "ex": {
+          "de": "Das alte {Laufwerk} kann keine DVDs mehr lesen.",
+          "zh": "這台舊磁碟機已經不能讀取 DVD。",
+          "en": "The old drive can no longer read DVDs.",
+          "distractors": [
+            "Kissen",
+            "Brötchen",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "laune": {
+    "senses": [
+      {
+        "zh": "心情",
+        "en": "mood",
+        "ex": {
+          "de": "Nach dem Spaziergang hatte sie wieder gute {Laune}.",
+          "zh": "散步後她的心情又變好了。",
+          "en": "After the walk she was in a good mood again.",
+          "distractors": [
+            "Milch",
+            "Treppe",
+            "Krawatte"
+          ]
+        }
+      }
+    ]
+  },
+  "laut": {
+    "senses": [
+      {
+        "zh": "大聲的",
+        "en": "loud",
+        "ex": {
+          "de": "Die Musik aus dem Nachbarzimmer ist heute sehr {laut}.",
+          "zh": "隔壁房間傳來的音樂今天很大聲。",
+          "en": "The music from the next room is very loud today.",
+          "distractors": [
+            "hungrig",
+            "verheiratet",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "lautsprecher": {
+    "senses": [
+      {
+        "zh": "喇叭",
+        "en": "speaker",
+        "ex": {
+          "de": "Aus dem {Lautsprecher} hört man eine wichtige Durchsage.",
+          "zh": "喇叭裡傳來一則重要廣播。",
+          "en": "An important announcement can be heard from the speaker.",
+          "distractors": [
+            "Kühlschrank",
+            "Koffer",
+            "Kochtopf"
+          ]
+        }
+      }
+    ]
+  },
+  "lecker": {
+    "senses": [
+      {
+        "zh": "好吃的",
+        "en": "delicious",
+        "ex": {
+          "de": "Die Suppe mit frischem Gemüse schmeckt wirklich {lecker}.",
+          "zh": "這碗加了新鮮蔬菜的湯真的很好喝。",
+          "en": "The soup with fresh vegetables tastes really delicious.",
+          "distractors": [
+            "pünktlich",
+            "verheiratet",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "leben": {
+    "senses": [
+      {
+        "zh": "生活；居住",
+        "en": "to live",
+        "ex": {
+          "de": "Meine Großeltern {leben} seit vielen Jahren am Meer.",
+          "zh": "我的祖父母多年來住在海邊。",
+          "en": "My grandparents have lived by the sea for many years.",
+          "distractors": [
+            "schneien",
+            "regnen",
+            "blühen"
+          ]
+        }
+      }
+    ]
+  },
+  "leben-2": {
+    "senses": [
+      {
+        "zh": "生命；生活",
+        "en": "life",
+        "ex": {
+          "de": "Ein {Leben} ohne Musik kann ich mir kaum vorstellen.",
+          "zh": "我很難想像沒有音樂的生活。",
+          "en": "I can hardly imagine a life without music.",
+          "distractors": [
+            "Fahrrad",
+            "Fenster",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "lebenslauf": {
+    "senses": [
+      {
+        "zh": "履歷",
+        "en": "CV; résumé",
+        "ex": {
+          "de": "Für die Bewerbung muss ich meinen {Lebenslauf} aktualisieren.",
+          "zh": "為了應徵，我必須更新履歷。",
+          "en": "I have to update my CV for the application.",
+          "distractors": [
+            "Regenschirm",
+            "Kühlschrank",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "lebensmittel": {
+    "senses": [
+      {
+        "zh": "食品",
+        "en": "food; groceries",
+        "ex": {
+          "de": "Frische {Lebensmittel} kaufe ich jeden Samstag auf dem Markt.",
+          "zh": "我每個星期六都在市場買新鮮食材。",
+          "en": "I buy fresh groceries at the market every Saturday.",
+          "distractors": [
+            "Fahrräder",
+            "Zeitungen",
+            "Möbel"
+          ]
+        }
+      }
+    ]
+  },
+  "ledig": {
+    "senses": [
+      {
+        "zh": "未婚的",
+        "en": "single; unmarried",
+        "ex": {
+          "de": "Im Formular steht, dass Frau Müller {ledig} ist.",
+          "zh": "表格上寫著穆勒女士未婚。",
+          "en": "The form states that Ms Müller is single.",
+          "distractors": [
+            "rund",
+            "hölzern",
+            "kaputt"
+          ]
+        }
+      }
+    ]
+  },
+  "leer": {
+    "senses": [
+      {
+        "zh": "空的",
+        "en": "empty",
+        "ex": {
+          "de": "Die Flasche ist {leer}, wir brauchen neues Wasser.",
+          "zh": "瓶子空了，我們需要再裝水。",
+          "en": "The bottle is empty; we need more water.",
+          "distractors": [
+            "verheiratet",
+            "hungrig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "legen": {
+    "senses": [
+      {
+        "zh": "放置",
+        "en": "to put; lay",
+        "ex": {
+          "de": "Bitte {legen} Sie den Schlüssel auf den Tisch.",
+          "zh": "請把鑰匙放在桌上。",
+          "en": "Please put the key on the table.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "lehre": {
+    "senses": [
+      {
+        "zh": "職業訓練；學徒訓練",
+        "en": "apprenticeship",
+        "ex": {
+          "de": "Nach der Schule beginnt sie eine {Lehre} als Bäckerin.",
+          "zh": "畢業後她開始接受麵包師的職業訓練。",
+          "en": "After school she starts an apprenticeship as a baker.",
+          "distractors": [
+            "Wolke",
+            "Tasse",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "lehrstelle": {
+    "senses": [
+      {
+        "zh": "學徒職位",
+        "en": "apprenticeship position",
+        "ex": {
+          "de": "Er sucht eine {Lehrstelle} in einer kleinen Werkstatt.",
+          "zh": "他正在一家小型修理廠找學徒職位。",
+          "en": "He is looking for an apprenticeship position in a small workshop.",
+          "distractors": [
+            "Gabel",
+            "Kartoffel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "lehrer": {
+    "senses": [
+      {
+        "zh": "男教師；教師",
+        "en": "teacher",
+        "ex": {
+          "de": "Unser {Lehrer} erklärt die schwierige Aufgabe noch einmal.",
+          "zh": "我們的老師再解釋一次這道難題。",
+          "en": "Our teacher explains the difficult task once again.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "lehrerin": {
+    "senses": [
+      {
+        "zh": "女教師",
+        "en": "female teacher",
+        "ex": {
+          "de": "Die {Lehrerin} sammelt am Ende alle Hefte ein.",
+          "zh": "女老師最後把所有作業簿收起來。",
+          "en": "The teacher collects all the exercise books at the end.",
+          "distractors": [
+            "Wolke",
+            "Kartoffel",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "lehrling": {
+    "senses": [
+      {
+        "zh": "學徒",
+        "en": "apprentice",
+        "ex": {
+          "de": "Der {Lehrling} lernt in der Werkstatt, Fahrräder zu reparieren.",
+          "zh": "學徒在修理廠學習修理腳踏車。",
+          "en": "The apprentice learns to repair bicycles in the workshop.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "leicht": {
+    "senses": [
+      {
+        "zh": "輕的；容易的",
+        "en": "light; easy",
+        "ex": {
+          "de": "Die Feder ist so {leicht}, dass der Wind sie wegträgt.",
+          "zh": "羽毛很輕，風把它吹走了。",
+          "en": "The feather is so light that the wind carries it away.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "leid-tun": {
+    "senses": [
+      {
+        "zh": "感到抱歉",
+        "en": "to be sorry",
+        "ex": {
+          "de": "Es wird mir immer {leid tun}, dass ich dich vergessen habe.",
+          "zh": "我會一直對忘記你這件事感到抱歉。",
+          "en": "I will always be sorry that I forgot you.",
+          "distractors": [
+            "Musik hören",
+            "Sport treiben",
+            "Auto fahren"
+          ]
+        }
+      }
+    ]
+  },
+  "leiden": {
+    "senses": [
+      {
+        "zh": "受苦；患病",
+        "en": "to suffer",
+        "ex": {
+          "de": "Viele Menschen {leiden} im Frühling unter einer Allergie.",
+          "zh": "許多人春天受過敏之苦。",
+          "en": "Many people suffer from an allergy in spring.",
+          "distractors": [
+            "kochen",
+            "bügeln",
+            "schlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "leider": {
+    "senses": [
+      {
+        "zh": "可惜；遺憾地",
+        "en": "unfortunately",
+        "ex": {
+          "de": "Wir können heute {leider} nicht zum Konzert kommen.",
+          "zh": "很可惜，我們今天無法去聽音樂會。",
+          "en": "Unfortunately, we cannot come to the concert today.",
+          "distractors": [
+            "hölzern",
+            "rund",
+            "rechteckig"
+          ]
+        }
+      }
+    ]
+  },
+  "leihen": {
+    "senses": [
+      {
+        "zh": "借；借出",
+        "en": "to lend; borrow",
+        "ex": {
+          "de": "Kannst du mir für die Reise deinen Koffer {leihen}?",
+          "zh": "你可以把行李箱借給我旅行用嗎？",
+          "en": "Can you lend me your suitcase for the trip?",
+          "distractors": [
+            "trinken",
+            "essen",
+            "backen"
+          ]
+        }
+      }
+    ]
+  },
+  "leise": {
+    "senses": [
+      {
+        "zh": "輕聲的；安靜地",
+        "en": "quiet; quietly",
+        "ex": {
+          "de": "Bitte sprich {leise}, denn das Baby schläft schon.",
+          "zh": "請小聲說話，因為寶寶已經睡了。",
+          "en": "Please speak quietly because the baby is already asleep.",
+          "distractors": [
+            "verheiratet",
+            "rund",
+            "kaputt"
+          ]
+        }
+      }
+    ]
+  },
+  "leisten": {
+    "senses": [
+      {
+        "zh": "負擔得起",
+        "en": "to afford",
+        "ex": {
+          "de": "Eine so teure Reise können wir uns nicht {leisten}.",
+          "zh": "我們負擔不起這麼昂貴的旅行。",
+          "en": "We cannot afford such an expensive trip.",
+          "distractors": [
+            "waschen",
+            "rasieren",
+            "kämmen"
+          ]
+        }
+      }
+    ]
+  },
+  "leistung": {
+    "senses": [
+      {
+        "zh": "表現；成績",
+        "en": "performance; achievement",
+        "ex": {
+          "de": "Für ihre gute {Leistung} bekam sie viel Lob.",
+          "zh": "她因為表現好而獲得許多稱讚。",
+          "en": "She received a lot of praise for her good performance.",
+          "distractors": [
+            "Zahnbürste",
+            "Wolke",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "leiten": {
+    "senses": [
+      {
+        "zh": "領導；主持",
+        "en": "to lead; manage",
+        "ex": {
+          "de": "Seit Januar {leitet} sie das Team in unserer Firma.",
+          "zh": "從一月起她領導我們公司的團隊。",
+          "en": "She has led the team at our company since January.",
+          "distractors": [
+            "friert",
+            "schläft",
+            "hustet"
+          ]
+        }
+      }
+    ]
+  },
+  "leiter": {
+    "senses": [
+      {
+        "zh": "主管；負責人",
+        "en": "manager; head",
+        "ex": {
+          "de": "Der {Leiter} der Abteilung begrüßt die neuen Mitarbeiter.",
+          "zh": "部門主管歡迎新進員工。",
+          "en": "The head of the department welcomes the new employees.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  }
+}

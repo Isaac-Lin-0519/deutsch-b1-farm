@@ -1,0 +1,902 @@
+{
+  "mahnung": {
+    "senses": [
+      {
+        "zh": "催繳通知",
+        "en": "payment reminder",
+        "ex": {
+          "de": "Nach vier Wochen erhielt er eine {Mahnung} für die unbezahlte Rechnung.",
+          "zh": "四週後他收到未付帳單的催繳通知。",
+          "en": "After four weeks he received a reminder for the unpaid bill.",
+          "distractors": [
+            "Banane",
+            "Socke",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "mal": {
+    "senses": [
+      {
+        "zh": "一下；一回",
+        "en": "once; a moment",
+        "ex": {
+          "de": "Komm bitte kurz {mal} zu mir ins Büro.",
+          "zh": "請你過來我辦公室一下。",
+          "en": "Please come to my office for a moment.",
+          "distractors": [
+            "hölzern",
+            "blind",
+            "dreieckig"
+          ]
+        }
+      }
+    ]
+  },
+  "mal-2": {
+    "senses": [
+      {
+        "zh": "次；回",
+        "en": "time; occasion",
+        "ex": {
+          "de": "Das erste {Mal} am Meer werde ich nie vergessen.",
+          "zh": "我永遠不會忘記第一次去海邊。",
+          "en": "I will never forget my first time at the sea.",
+          "distractors": [
+            "Fahrrad",
+            "Fenster",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "malen": {
+    "senses": [
+      {
+        "zh": "畫畫",
+        "en": "to paint; draw",
+        "ex": {
+          "de": "Die Kinder {malen} bunte Blumen auf große Blätter.",
+          "zh": "孩子們在大張紙上畫彩色的花。",
+          "en": "The children paint colorful flowers on large sheets of paper.",
+          "distractors": [
+            "trinken",
+            "schlafen",
+            "frieren"
+          ]
+        }
+      }
+    ]
+  },
+  "maler": {
+    "senses": [
+      {
+        "zh": "男畫家；油漆工",
+        "en": "painter",
+        "ex": {
+          "de": "Der {Maler} streicht die Wände unseres Wohnzimmers weiß.",
+          "zh": "油漆工把我們客廳的牆漆成白色。",
+          "en": "The painter paints the walls of our living room white.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "malerin": {
+    "senses": [
+      {
+        "zh": "女畫家；女油漆工",
+        "en": "female painter",
+        "ex": {
+          "de": "Die {Malerin} stellt ihre Bilder nächste Woche im Museum aus.",
+          "zh": "那位女畫家下週將在博物館展出作品。",
+          "en": "The painter is exhibiting her paintings at the museum next week.",
+          "distractors": [
+            "Karotte",
+            "Gabel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "man": {
+    "senses": [
+      {
+        "zh": "人們；有人",
+        "en": "one; people",
+        "ex": {
+          "de": "In dieser Bibliothek darf {man} keine laute Musik hören.",
+          "zh": "在這間圖書館裡不能大聲聽音樂。",
+          "en": "People are not allowed to listen to loud music in this library.",
+          "distractors": [
+            "niemanden",
+            "ihnen",
+            "uns"
+          ]
+        }
+      }
+    ]
+  },
+  "manch": {
+    "senses": [
+      {
+        "zh": "有些",
+        "en": "some",
+        "ex": {
+          "de": "{Manche} Kinder essen lieber Äpfel als Bananen.",
+          "zh": "有些孩子比較喜歡吃蘋果而不是香蕉。",
+          "en": "Some children prefer eating apples to bananas.",
+          "distractors": [
+            "Dieser",
+            "Jedes",
+            "Mein"
+          ]
+        }
+      }
+    ]
+  },
+  "manchmal": {
+    "senses": [
+      {
+        "zh": "有時候",
+        "en": "sometimes",
+        "ex": {
+          "de": "Am Wochenende backen wir {manchmal} zusammen einen Kuchen.",
+          "zh": "週末我們有時候會一起烤蛋糕。",
+          "en": "At the weekend we sometimes bake a cake together.",
+          "distractors": [
+            "rechteckig",
+            "durstig",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "mangel": {
+    "senses": [
+      {
+        "zh": "不足；缺乏",
+        "en": "shortage; lack",
+        "ex": {
+          "de": "Wegen des {Mangels} an Personal bleibt das Café montags geschlossen.",
+          "zh": "因為缺人手，咖啡廳週一不營業。",
+          "en": "Due to a shortage of staff, the café remains closed on Mondays.",
+          "distractors": [
+            "Bleistifts",
+            "Regenschirms",
+            "Kühlschranks"
+          ]
+        }
+      }
+    ]
+  },
+  "mann": {
+    "senses": [
+      {
+        "zh": "男人；丈夫",
+        "en": "man; husband",
+        "ex": {
+          "de": "Der {Mann} wartet mit seinem Sohn vor der Schule.",
+          "zh": "那位男士和兒子在學校前面等候。",
+          "en": "The man is waiting with his son in front of the school.",
+          "distractors": [
+            "Löffel",
+            "Koffer",
+            "Kühlschrank"
+          ]
+        }
+      }
+    ]
+  },
+  "maennlich": {
+    "senses": [
+      {
+        "zh": "男性的；雄性的",
+        "en": "male",
+        "ex": {
+          "de": "Auf dem Formular kann man „weiblich“ oder {männlich} auswählen.",
+          "zh": "表格上可以選擇「女性」或「男性」。",
+          "en": "On the form you can choose “female” or “male”.",
+          "distractors": [
+            "rechteckig",
+            "hölzern",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "mannschaft": {
+    "senses": [
+      {
+        "zh": "隊伍",
+        "en": "team",
+        "ex": {
+          "de": "Unsere {Mannschaft} trainiert jeden Donnerstag auf dem Sportplatz.",
+          "zh": "我們的隊伍每週四在運動場練習。",
+          "en": "Our team trains at the sports field every Thursday.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "mantel": {
+    "senses": [
+      {
+        "zh": "大衣",
+        "en": "coat",
+        "ex": {
+          "de": "Bei Schnee trägt sie ihren warmen {Mantel}.",
+          "zh": "下雪時她會穿上暖和的大衣。",
+          "en": "When it snows she wears her warm coat.",
+          "distractors": [
+            "Löffel",
+            "Kühlschrank",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "mappe": {
+    "senses": [
+      {
+        "zh": "資料夾",
+        "en": "folder",
+        "ex": {
+          "de": "In der blauen {Mappe} liegen alle wichtigen Dokumente.",
+          "zh": "所有重要文件都放在藍色資料夾裡。",
+          "en": "All the important documents are in the blue folder.",
+          "distractors": [
+            "Suppe",
+            "Wolke",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "maerchen": {
+    "senses": [
+      {
+        "zh": "童話",
+        "en": "fairy tale",
+        "ex": {
+          "de": "Vor dem Schlafen liest Oma uns ein {Märchen} vor.",
+          "zh": "睡前奶奶會唸童話給我們聽。",
+          "en": "Grandma reads us a fairy tale before bed.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "marille": {
+    "senses": [
+      {
+        "zh": "杏桃（奧地利用法）",
+        "en": "apricot (Austrian usage)",
+        "ex": {
+          "de": "Im Sommer esse ich gern eine süße {Marille}.",
+          "zh": "夏天我喜歡吃甜甜的杏桃。",
+          "en": "In summer I like eating a sweet apricot.",
+          "distractors": [
+            "Schraube",
+            "Socke",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "marke": {
+    "senses": [
+      {
+        "zh": "品牌",
+        "en": "brand",
+        "ex": {
+          "de": "Welche {Marke} hat dein neuer Laptop?",
+          "zh": "你的新筆電是什麼品牌？",
+          "en": "What brand is your new laptop?",
+          "distractors": [
+            "Suppe",
+            "Treppe",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "markieren": {
+    "senses": [
+      {
+        "zh": "標記",
+        "en": "to mark",
+        "ex": {
+          "de": "Bitte {markieren} Sie Ihre Antwort mit einem roten Stift.",
+          "zh": "請用紅筆標記您的答案。",
+          "en": "Please mark your answer with a red pen.",
+          "distractors": [
+            "schlafen",
+            "frieren",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "markt": {
+    "senses": [
+      {
+        "zh": "市場",
+        "en": "market",
+        "ex": {
+          "de": "Auf dem {Markt} gibt es frisches Obst aus der Region.",
+          "zh": "市場裡有當地的新鮮水果。",
+          "en": "There is fresh local fruit at the market.",
+          "distractors": [
+            "Kühlschrank",
+            "Bleistift",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "marmelade": {
+    "senses": [
+      {
+        "zh": "果醬",
+        "en": "jam",
+        "ex": {
+          "de": "Zum Frühstück esse ich Brot mit {Marmelade}.",
+          "zh": "早餐我吃塗果醬的麵包。",
+          "en": "For breakfast I eat bread with jam.",
+          "distractors": [
+            "Treppe",
+            "Wolke",
+            "Socke"
+          ]
+        }
+      }
+    ]
+  },
+  "maschine": {
+    "senses": [
+      {
+        "zh": "機器",
+        "en": "machine",
+        "ex": {
+          "de": "Die {Maschine} in der Fabrik funktioniert heute nicht.",
+          "zh": "工廠裡的機器今天不能運作。",
+          "en": "The machine in the factory is not working today.",
+          "distractors": [
+            "Banane",
+            "Karotte",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "material": {
+    "senses": [
+      {
+        "zh": "材料",
+        "en": "material",
+        "ex": {
+          "de": "Für den Tisch brauchen wir Holz als {Material}.",
+          "zh": "我們需要木材作為桌子的材料。",
+          "en": "We need wood as material for the table.",
+          "distractors": [
+            "Frühstück",
+            "Wetter",
+            "Konzert"
+          ]
+        }
+      }
+    ]
+  },
+  "matura": {
+    "senses": [
+      {
+        "zh": "高中畢業考試（奧地利及瑞士用法）",
+        "en": "school-leaving examination (Austria and Switzerland)",
+        "ex": {
+          "de": "Nach der {Matura} möchte sie an einer Universität studieren.",
+          "zh": "高中畢業考試後，她想進大學讀書。",
+          "en": "After her school-leaving examination she wants to study at university.",
+          "distractors": [
+            "Marmelade",
+            "Socke",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "mauer": {
+    "senses": [
+      {
+        "zh": "牆；圍牆",
+        "en": "wall",
+        "ex": {
+          "de": "Hinter der alten {Mauer} wächst ein großer Baum.",
+          "zh": "老圍牆後面長著一棵大樹。",
+          "en": "A large tree grows behind the old wall.",
+          "distractors": [
+            "Zahnbürste",
+            "Gabel",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "mechaniker": {
+    "senses": [
+      {
+        "zh": "男機械技師",
+        "en": "mechanic",
+        "ex": {
+          "de": "Der {Mechaniker} repariert den kaputten Motor in der Werkstatt.",
+          "zh": "機械技師在修理廠修理壞掉的引擎。",
+          "en": "The mechanic repairs the broken engine in the workshop.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "mechanikerin": {
+    "senses": [
+      {
+        "zh": "女機械技師",
+        "en": "female mechanic",
+        "ex": {
+          "de": "Die {Mechanikerin} kontrolliert die Bremsen an meinem Auto.",
+          "zh": "女機械技師檢查我汽車的煞車。",
+          "en": "The mechanic checks the brakes on my car.",
+          "distractors": [
+            "Wolke",
+            "Zahnbürste",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "medien": {
+    "senses": [
+      {
+        "zh": "媒體",
+        "en": "media",
+        "ex": {
+          "de": "Viele {Medien} berichten über das Ergebnis der Wahl.",
+          "zh": "許多媒體報導了選舉結果。",
+          "en": "Many media outlets report on the election result.",
+          "distractors": [
+            "Karotten",
+            "Gabeln",
+            "Socken"
+          ]
+        }
+      }
+    ]
+  },
+  "medikament": {
+    "senses": [
+      {
+        "zh": "藥物",
+        "en": "medication",
+        "ex": {
+          "de": "Nehmen Sie dieses {Medikament} bitte nach dem Essen ein.",
+          "zh": "請在飯後服用這個藥。",
+          "en": "Please take this medication after eating.",
+          "distractors": [
+            "Kissen",
+            "Fahrrad",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "meer": {
+    "senses": [
+      {
+        "zh": "海洋",
+        "en": "sea",
+        "ex": {
+          "de": "Im Urlaub schwimmen wir jeden Morgen im {Meer}.",
+          "zh": "度假時我們每天早上都在海裡游泳。",
+          "en": "On holiday we swim in the sea every morning.",
+          "distractors": [
+            "Kissen",
+            "Brot",
+            "Kleid"
+          ]
+        }
+      }
+    ]
+  },
+  "mehr": {
+    "senses": [
+      {
+        "zh": "更多",
+        "en": "more",
+        "ex": {
+          "de": "Wenn du Durst hast, trink doch {mehr} Wasser.",
+          "zh": "如果你口渴，就多喝點水吧。",
+          "en": "If you are thirsty, drink more water.",
+          "distractors": [
+            "hölzern",
+            "verheiratet",
+            "rechteckig"
+          ]
+        }
+      }
+    ]
+  },
+  "mehrere": {
+    "senses": [
+      {
+        "zh": "好幾個",
+        "en": "several",
+        "ex": {
+          "de": "Auf dem Tisch liegen {mehrere} Briefe für dich.",
+          "zh": "桌上有好幾封給你的信。",
+          "en": "Several letters for you are on the table.",
+          "distractors": [
+            "einen",
+            "dieses",
+            "mancher"
+          ]
+        }
+      }
+    ]
+  },
+  "mehrheit": {
+    "senses": [
+      {
+        "zh": "多數",
+        "en": "majority",
+        "ex": {
+          "de": "Die {Mehrheit} der Gäste möchte draußen sitzen.",
+          "zh": "大多數客人想坐在外面。",
+          "en": "The majority of the guests want to sit outside.",
+          "distractors": [
+            "Zahnbürste",
+            "Marmelade",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "mehrwertsteuer": {
+    "senses": [
+      {
+        "zh": "營業稅；加值稅",
+        "en": "value-added tax",
+        "ex": {
+          "de": "Der Preis enthält bereits die gesetzliche {Mehrwertsteuer}.",
+          "zh": "價格已經包含法定的加值稅。",
+          "en": "The price already includes the statutory value-added tax.",
+          "distractors": [
+            "Zahnbürste",
+            "Kartoffel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "meinen": {
+    "senses": [
+      {
+        "zh": "認為；指的是",
+        "en": "to think; mean",
+        "ex": {
+          "de": "Was {meinst} du mit diesem schwierigen Wort?",
+          "zh": "你說的這個難字是什麼意思？",
+          "en": "What do you mean by this difficult word?",
+          "distractors": [
+            "schläfst",
+            "frierst",
+            "hustest"
+          ]
+        }
+      }
+    ]
+  },
+  "meinetwegen": {
+    "senses": [
+      {
+        "zh": "我不介意；因為我",
+        "en": "I don’t mind; because of me",
+        "ex": {
+          "de": "{Meinetwegen} können wir heute auch zu Hause bleiben.",
+          "zh": "我不介意我們今天待在家。",
+          "en": "I don’t mind if we stay at home today.",
+          "distractors": [
+            "Hölzern",
+            "Durstig",
+            "Rechteckig"
+          ]
+        }
+      }
+    ]
+  },
+  "meinung": {
+    "senses": [
+      {
+        "zh": "意見；看法",
+        "en": "opinion",
+        "ex": {
+          "de": "Meine {Meinung} zu diesem Vorschlag hat sich geändert.",
+          "zh": "我對這個提議的看法改變了。",
+          "en": "My opinion of this proposal has changed.",
+          "distractors": [
+            "Zahnbürste",
+            "Gabel",
+            "Socke"
+          ]
+        }
+      }
+    ]
+  },
+  "meist": {
+    "senses": [
+      {
+        "zh": "大多數的",
+        "en": "most",
+        "ex": {
+          "de": "Die {meisten} meiner Freunde wohnen in derselben Stadt.",
+          "zh": "我的大多數朋友住在同一座城市。",
+          "en": "Most of my friends live in the same city.",
+          "distractors": [
+            "hölzernen",
+            "durstigen",
+            "dreieckigen"
+          ]
+        }
+      }
+    ]
+  },
+  "meist-2": {
+    "senses": [
+      {
+        "zh": "通常；大多",
+        "en": "usually; mostly",
+        "ex": {
+          "de": "Zum Mittagessen nehme ich {meistens} etwas von zu Hause mit.",
+          "zh": "我通常會從家裡帶一些東西當午餐。",
+          "en": "For lunch I usually bring something from home.",
+          "distractors": [
+            "rechteckig",
+            "hölzern",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "meister": {
+    "senses": [
+      {
+        "zh": "師傅；冠軍",
+        "en": "master craftsman; champion",
+        "ex": {
+          "de": "Nach vielen Jahren als Geselle wurde er endlich {Meister}.",
+          "zh": "當了多年技工後，他終於成為師傅。",
+          "en": "After many years as a journeyman he finally became a master craftsman.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "melden": {
+    "senses": [
+      {
+        "zh": "報告；通知",
+        "en": "to report; notify",
+        "ex": {
+          "de": "Bitte {melden} Sie den Schaden sofort bei der Versicherung.",
+          "zh": "請立刻向保險公司通報損失。",
+          "en": "Please report the damage to the insurance company immediately.",
+          "distractors": [
+            "schlafen",
+            "frieren",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "meldung": {
+    "senses": [
+      {
+        "zh": "消息；報導",
+        "en": "report; announcement",
+        "ex": {
+          "de": "Im Radio hörte ich eine {Meldung} über den Sturm.",
+          "zh": "我在廣播裡聽到一則有關暴風雨的報導。",
+          "en": "I heard a report about the storm on the radio.",
+          "distractors": [
+            "Zahnbürste",
+            "Karotte",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "menge": {
+    "senses": [
+      {
+        "zh": "數量",
+        "en": "quantity; amount",
+        "ex": {
+          "de": "Für die Suppe reicht eine kleine {Menge} Salz.",
+          "zh": "這鍋湯只需要少量的鹽。",
+          "en": "A small amount of salt is enough for the soup.",
+          "distractors": [
+            "Wolke",
+            "Treppe",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "mensa": {
+    "senses": [
+      {
+        "zh": "學校餐廳",
+        "en": "university cafeteria",
+        "ex": {
+          "de": "Mittags treffen wir uns zum Essen in der {Mensa}.",
+          "zh": "中午我們在學校餐廳碰面吃飯。",
+          "en": "At lunchtime we meet to eat in the university cafeteria.",
+          "distractors": [
+            "Zahnpasta",
+            "Wolke",
+            "Marmelade"
+          ]
+        }
+      }
+    ]
+  },
+  "mensch": {
+    "senses": [
+      {
+        "zh": "人",
+        "en": "person; human being",
+        "ex": {
+          "de": "Jeder {Mensch} braucht Zeit, um sich zu erholen.",
+          "zh": "每個人都需要時間休息。",
+          "en": "Every person needs time to recover.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "menschlich": {
+    "senses": [
+      {
+        "zh": "人性的；有人情味的",
+        "en": "human; humane",
+        "ex": {
+          "de": "Auch Ärzte machen Fehler, denn das ist {menschlich}.",
+          "zh": "醫師也會犯錯，因為這是人之常情。",
+          "en": "Doctors make mistakes too, because that is human.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "menue": {
+    "senses": [
+      {
+        "zh": "套餐；選單",
+        "en": "menu; set meal",
+        "ex": {
+          "de": "Das Restaurant bietet mittags ein günstiges {Menü} an.",
+          "zh": "這家餐廳中午供應平價套餐。",
+          "en": "The restaurant offers an affordable set meal at lunchtime.",
+          "distractors": [
+            "Kissen",
+            "Fahrrad",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "merken": {
+    "senses": [
+      {
+        "zh": "注意到；記住",
+        "en": "to notice; remember",
+        "ex": {
+          "de": "Kannst du dir die neue Telefonnummer gut {merken}?",
+          "zh": "你能好好記住這個新電話號碼嗎？",
+          "en": "Can you remember the new telephone number well?",
+          "distractors": [
+            "waschen",
+            "anziehen",
+            "rasieren"
+          ]
+        }
+      }
+    ]
+  },
+  "merkwuerdig": {
+    "senses": [
+      {
+        "zh": "奇怪的",
+        "en": "strange",
+        "ex": {
+          "de": "Es ist {merkwürdig}, dass heute niemand ans Telefon geht.",
+          "zh": "今天沒人接電話，真奇怪。",
+          "en": "It is strange that nobody is answering the phone today.",
+          "distractors": [
+            "hölzern",
+            "schwanger",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "messe": {
+    "senses": [
+      {
+        "zh": "展覽會",
+        "en": "trade fair",
+        "ex": {
+          "de": "Auf der {Messe} zeigen Firmen ihre neuesten Fahrräder.",
+          "zh": "在展覽會上，各家公司展示最新的腳踏車。",
+          "en": "At the trade fair companies present their newest bicycles.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  }
+}
