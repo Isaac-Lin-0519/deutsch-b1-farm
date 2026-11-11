@@ -1,0 +1,916 @@
+{
+  "durch": {
+    "senses": [
+      {
+        "zh": "穿過；經由",
+        "en": "through",
+        "ex": {
+          "de": "Wir gehen {durch} den Park zum Bahnhof.",
+          "zh": "我們穿過公園走到車站。",
+          "en": "We walk through the park to the station.",
+          "distractors": [
+            "ohne",
+            "mit",
+            "bei"
+          ]
+        }
+      }
+    ]
+  },
+  "durcheinander": {
+    "senses": [
+      {
+        "zh": "亂七八糟；混亂",
+        "en": "messy, mixed up",
+        "ex": {
+          "de": "In meiner Tasche ist alles {durcheinander}.",
+          "zh": "我的包包裡一團亂。",
+          "en": "Everything in my bag is a mess.",
+          "distractors": [
+            "sauber",
+            "pünktlich",
+            "freundlich"
+          ]
+        }
+      }
+    ]
+  },
+  "durchsage": {
+    "senses": [
+      {
+        "zh": "廣播；通知",
+        "en": "announcement",
+        "ex": {
+          "de": "Haben Sie die {Durchsage} am Bahnhof gehört?",
+          "zh": "您有聽到車站的廣播嗎？",
+          "en": "Did you hear the announcement at the station?",
+          "distractors": [
+            "Tasche",
+            "Brille",
+            "Zeitung"
+          ]
+        }
+      }
+    ]
+  },
+  "durchschnitt": {
+    "senses": [
+      {
+        "zh": "平均；平均值",
+        "en": "average",
+        "ex": {
+          "de": "Der {Durchschnitt} der Klasse liegt bei einer guten Note.",
+          "zh": "全班的平均成績是不錯的分數。",
+          "en": "The class average is a good grade.",
+          "distractors": [
+            "Bahnhof",
+            "Kuchen",
+            "Regen"
+          ]
+        }
+      }
+    ]
+  },
+  "duerfen": {
+    "senses": [
+      {
+        "zh": "可以；被允許",
+        "en": "to be allowed to",
+        "ex": {
+          "de": "Im Krankenhaus {dürfen} Besucher nur kurz bleiben.",
+          "zh": "在醫院裡，訪客只能待一下子。",
+          "en": "In the hospital, visitors may only stay briefly.",
+          "distractors": [
+            "lachen",
+            "kochen",
+            "reisen"
+          ]
+        }
+      }
+    ]
+  },
+  "als-modalverb": {
+    "senses": [
+      {
+        "zh": "（情態動詞）可以，請問能否",
+        "en": "may (modal verb)",
+        "ex": {
+          "de": "{Darf} ich kurz das Fenster öffnen?",
+          "zh": "我可以開一下窗戶嗎？",
+          "en": "May I open the window for a moment?",
+          "distractors": [
+            "Ist",
+            "Hat",
+            "Wird"
+          ]
+        }
+      }
+    ]
+  },
+  "durst": {
+    "senses": [
+      {
+        "zh": "口渴",
+        "en": "thirst",
+        "ex": {
+          "de": "Nach dem Spiel habe ich großen {Durst}.",
+          "zh": "比賽後我非常口渴。",
+          "en": "After the game I am very thirsty.",
+          "distractors": [
+            "Garten",
+            "Schuh",
+            "Zug"
+          ]
+        }
+      }
+    ]
+  },
+  "duschen": {
+    "senses": [
+      {
+        "zh": "淋浴；沖澡",
+        "en": "to shower",
+        "ex": {
+          "de": "Ich möchte vor dem Frühstück kurz {duschen}.",
+          "zh": "我想在早餐前快速沖個澡。",
+          "en": "I'd like to take a quick shower before breakfast.",
+          "distractors": [
+            "fliegen",
+            "bauen",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "dusche": {
+    "senses": [
+      {
+        "zh": "淋浴間；淋浴",
+        "en": "shower",
+        "ex": {
+          "de": "Die {Dusche} im Bad ist leider kaputt.",
+          "zh": "浴室裡的淋浴設備壞掉了。",
+          "en": "The shower in the bathroom is broken, unfortunately.",
+          "distractors": [
+            "Straße",
+            "Wiese",
+            "Insel"
+          ]
+        }
+      }
+    ]
+  },
+  "duzen": {
+    "senses": [
+      {
+        "zh": "用「你」稱呼",
+        "en": "to address informally (du)",
+        "ex": {
+          "de": "Wollen wir uns ab jetzt {duzen}?",
+          "zh": "我們從現在起用「你」互相稱呼好嗎？",
+          "en": "Shall we address each other as \"du\" from now on?",
+          "distractors": [
+            "füttern",
+            "mieten",
+            "bauen"
+          ]
+        }
+      }
+    ]
+  },
+  "eben": {
+    "senses": [
+      {
+        "zh": "剛剛",
+        "en": "just now",
+        "ex": {
+          "de": "Er ist {eben} aus dem Haus gegangen.",
+          "zh": "他剛剛出門了。",
+          "en": "He just left the house.",
+          "distractors": [
+            "morgen",
+            "bald",
+            "künftig"
+          ]
+        }
+      },
+      {
+        "zh": "平坦的",
+        "en": "flat, even",
+        "ex": {
+          "de": "Der Weg zum See ist {eben} und leicht.",
+          "zh": "去湖邊的路平坦又好走。",
+          "en": "The path to the lake is flat and easy.",
+          "distractors": [
+            "teuer",
+            "müde",
+            "laut"
+          ]
+        }
+      }
+    ]
+  },
+  "ebenfalls": {
+    "senses": [
+      {
+        "zh": "同樣；也",
+        "en": "likewise, also",
+        "ex": {
+          "de": "Du bist müde, und ich bin {ebenfalls} sehr müde.",
+          "zh": "你累了，我也非常累。",
+          "en": "You are tired, and I am also very tired.",
+          "distractors": [
+            "früher",
+            "gestern",
+            "selten"
+          ]
+        }
+      }
+    ]
+  },
+  "ebenso": {
+    "senses": [
+      {
+        "zh": "同樣地",
+        "en": "just as",
+        "ex": {
+          "de": "Meine Schwester spricht {ebenso} gut Englisch wie ich.",
+          "zh": "我妹妹的英文說得和我一樣好。",
+          "en": "My sister speaks English just as well as I do.",
+          "distractors": [
+            "gestern",
+            "oft",
+            "fast"
+          ]
+        }
+      }
+    ]
+  },
+  "die-e-card": {
+    "senses": [
+      {
+        "zh": "（奧地利）健保卡",
+        "en": "health insurance card (Austria)",
+        "ex": {
+          "de": "Bitte vergessen Sie Ihre {e-card} beim Arzt nicht.",
+          "zh": "請別把您的健保卡忘在診所。",
+          "en": "Please don't forget your e-card at the doctor's.",
+          "distractors": [
+            "Wohnung",
+            "Woche",
+            "Straße"
+          ]
+        }
+      }
+    ]
+  },
+  "echt": {
+    "senses": [
+      {
+        "zh": "真的；真品",
+        "en": "real, genuine",
+        "ex": {
+          "de": "Der Ring ist {echt} und nicht aus Plastik.",
+          "zh": "這枚戒指是真的，不是塑膠做的。",
+          "en": "The ring is real and not made of plastic.",
+          "distractors": [
+            "nass",
+            "leise",
+            "jung"
+          ]
+        }
+      }
+    ]
+  },
+  "die-ec-karte-ec-karte": {
+    "senses": [
+      {
+        "zh": "金融卡（提款卡）",
+        "en": "bank card (EC card)",
+        "ex": {
+          "de": "Kann ich hier mit der {ec-Karte} bezahlen?",
+          "zh": "我可以在這裡用金融卡付款嗎？",
+          "en": "Can I pay here with a bank card?",
+          "distractors": [
+            "Mütze",
+            "Küche",
+            "Tür"
+          ]
+        }
+      }
+    ]
+  },
+  "ecke": {
+    "senses": [
+      {
+        "zh": "角落；街角",
+        "en": "corner",
+        "ex": {
+          "de": "Das Café liegt gleich um die {Ecke}.",
+          "zh": "那間咖啡館就在轉角。",
+          "en": "The café is just around the corner.",
+          "distractors": [
+            "Tasse",
+            "Hose",
+            "Prüfung"
+          ]
+        }
+      }
+    ]
+  },
+  "eck": {
+    "senses": [
+      {
+        "zh": "（奧地利）角落",
+        "en": "corner (Austria)",
+        "ex": {
+          "de": "Der Tisch steht im {Eck} neben dem Fenster.",
+          "zh": "桌子放在窗邊的角落。",
+          "en": "The table stands in the corner next to the window.",
+          "distractors": [
+            "Hemd",
+            "Geld",
+            "Bier"
+          ]
+        }
+      }
+    ]
+  },
+  "eckig": {
+    "senses": [
+      {
+        "zh": "有稜角的；方形的",
+        "en": "angular, square",
+        "ex": {
+          "de": "Ich mag keine {eckigen} Tassen, nur runde.",
+          "zh": "我不喜歡方形的杯子，只喜歡圓的。",
+          "en": "I don't like square cups, only round ones.",
+          "distractors": [
+            "nassen",
+            "freundlichen",
+            "müden"
+          ]
+        }
+      }
+    ]
+  },
+  "egal": {
+    "senses": [
+      {
+        "zh": "無所謂；都一樣",
+        "en": "doesn't matter",
+        "ex": {
+          "de": "Es ist mir {egal}, wo wir heute essen.",
+          "zh": "我們今天在哪裡吃，我都無所謂。",
+          "en": "I don't care where we eat today.",
+          "distractors": [
+            "fertig",
+            "teuer",
+            "leise"
+          ]
+        }
+      }
+    ]
+  },
+  "ehe": {
+    "senses": [
+      {
+        "zh": "婚姻",
+        "en": "marriage",
+        "ex": {
+          "de": "Ihre {Ehe} ist seit zwanzig Jahren sehr glücklich.",
+          "zh": "他們的婚姻二十年來一直很幸福。",
+          "en": "Their marriage has been very happy for twenty years.",
+          "distractors": [
+            "Brücke",
+            "Steuer",
+            "Dose"
+          ]
+        }
+      }
+    ]
+  },
+  "ehefrau": {
+    "senses": [
+      {
+        "zh": "妻子",
+        "en": "wife",
+        "ex": {
+          "de": "Seine {Ehefrau} arbeitet als Lehrerin in Bremen.",
+          "zh": "他的太太在不來梅當老師。",
+          "en": "His wife works as a teacher in Bremen.",
+          "distractors": [
+            "Bluse",
+            "Kreuzung",
+            "Tüte"
+          ]
+        }
+      }
+    ]
+  },
+  "ehemann": {
+    "senses": [
+      {
+        "zh": "丈夫",
+        "en": "husband",
+        "ex": {
+          "de": "Ihr {Ehemann} kocht jeden Sonntag für die ganze Familie.",
+          "zh": "她的先生每個星期天都為全家人做飯。",
+          "en": "Her husband cooks for the whole family every Sunday.",
+          "distractors": [
+            "Kühlschrank",
+            "Briefkasten",
+            "Rucksack"
+          ]
+        }
+      }
+    ]
+  },
+  "ehepaar": {
+    "senses": [
+      {
+        "zh": "夫妻",
+        "en": "married couple",
+        "ex": {
+          "de": "Das {Ehepaar} im Haus gegenüber reist gern nach Italien.",
+          "zh": "對面房子裡的那對夫妻很愛去義大利旅行。",
+          "en": "The married couple in the house opposite loves travelling to Italy.",
+          "distractors": [
+            "Fenster",
+            "Gemüse",
+            "Büro"
+          ]
+        }
+      }
+    ]
+  },
+  "eher": {
+    "senses": [
+      {
+        "zh": "寧可；比較傾向",
+        "en": "rather, more likely",
+        "ex": {
+          "de": "Im Sommer fahre ich {eher} ans Meer als in die Berge.",
+          "zh": "夏天我寧可去海邊也不去山上。",
+          "en": "In summer I'd rather go to the sea than to the mountains.",
+          "distractors": [
+            "gestern",
+            "ständig",
+            "pünktlich"
+          ]
+        }
+      }
+    ]
+  },
+  "ehrlich": {
+    "senses": [
+      {
+        "zh": "誠實的",
+        "en": "honest",
+        "ex": {
+          "de": "Bitte sei {ehrlich} und sag mir deine Meinung.",
+          "zh": "請誠實一點，告訴我你的想法。",
+          "en": "Please be honest and tell me your opinion.",
+          "distractors": [
+            "schwer",
+            "blau",
+            "nass"
+          ]
+        }
+      }
+    ]
+  },
+  "ei": {
+    "senses": [
+      {
+        "zh": "蛋；雞蛋",
+        "en": "egg",
+        "ex": {
+          "de": "Zum Frühstück esse ich ein gekochtes {Ei}.",
+          "zh": "早餐我吃一顆水煮蛋。",
+          "en": "For breakfast I eat a boiled egg.",
+          "distractors": [
+            "Fahrrad",
+            "Fenster",
+            "Schiff"
+          ]
+        }
+      }
+    ]
+  },
+  "eigen": {
+    "senses": [
+      {
+        "zh": "自己的",
+        "en": "own",
+        "ex": {
+          "de": "Meine Tochter hat schon ihr {eigenes} Zimmer.",
+          "zh": "我女兒已經有自己的房間了。",
+          "en": "My daughter already has her own room.",
+          "distractors": [
+            "krankes",
+            "hungriges",
+            "müdes"
+          ]
+        }
+      }
+    ]
+  },
+  "eignen": {
+    "senses": [
+      {
+        "zh": "適合",
+        "en": "to be suitable",
+        "ex": {
+          "de": "Dieses Messer {eignet} sich nicht zum Brotschneiden.",
+          "zh": "這把刀不適合切麵包。",
+          "en": "This knife is not suitable for cutting bread.",
+          "distractors": [
+            "wäscht",
+            "freut",
+            "ärgert"
+          ]
+        }
+      }
+    ]
+  },
+  "eile": {
+    "senses": [
+      {
+        "zh": "匆忙；急迫",
+        "en": "hurry",
+        "ex": {
+          "de": "Tut mir leid, ich bin in großer {Eile}.",
+          "zh": "不好意思，我現在很趕。",
+          "en": "Sorry, I'm in a great hurry.",
+          "distractors": [
+            "Suppe",
+            "Banane",
+            "Bluse"
+          ]
+        }
+      }
+    ]
+  },
+  "eilig": {
+    "senses": [
+      {
+        "zh": "急的；匆忙的",
+        "en": "hurried, urgent",
+        "ex": {
+          "de": "Er hatte es sehr {eilig} und rannte zum Bus.",
+          "zh": "他很趕時間，跑向公車。",
+          "en": "He was in a big hurry and ran to the bus.",
+          "distractors": [
+            "freundlich",
+            "klug",
+            "laut"
+          ]
+        }
+      }
+    ]
+  },
+  "ein": {
+    "senses": [
+      {
+        "zh": "一個（不定冠詞）；進入（字首）",
+        "en": "a, an; in- (prefix)",
+        "ex": {
+          "de": "Wir haben {ein} kleines Haus am See.",
+          "zh": "我們在湖邊有一間小房子。",
+          "en": "We have a small house by the lake.",
+          "distractors": [
+            "das",
+            "dem",
+            "einer"
+          ]
+        }
+      }
+    ]
+  },
+  "einbahnstrasse": {
+    "senses": [
+      {
+        "zh": "單行道",
+        "en": "one-way street",
+        "ex": {
+          "de": "Hier ist leider eine {Einbahnstraße}, wir müssen umdrehen.",
+          "zh": "這裡是單行道，我們得掉頭。",
+          "en": "This is a one-way street, so we have to turn around.",
+          "distractors": [
+            "Kartoffel",
+            "Jacke",
+            "Torte"
+          ]
+        }
+      }
+    ]
+  },
+  "einbrechen": {
+    "senses": [
+      {
+        "zh": "闖入；破門而入",
+        "en": "to break in",
+        "ex": {
+          "de": "Gestern Nacht wollten Diebe bei uns {einbrechen}.",
+          "zh": "昨晚有小偷想闖進我們家。",
+          "en": "Last night thieves wanted to break into our home.",
+          "distractors": [
+            "singen",
+            "schwimmen",
+            "wandern"
+          ]
+        }
+      }
+    ]
+  },
+  "einbrecher": {
+    "senses": [
+      {
+        "zh": "（男）闖空門的人；竊賊",
+        "en": "burglar",
+        "ex": {
+          "de": "Die Polizei hat den {Einbrecher} gestern Nacht gefasst.",
+          "zh": "警方昨晚逮到了那名竊賊。",
+          "en": "The police caught the burglar last night.",
+          "distractors": [
+            "Zucker",
+            "Mantel",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "einbrecherin": {
+    "senses": [
+      {
+        "zh": "（女）闖空門的人；女竊賊",
+        "en": "female burglar",
+        "ex": {
+          "de": "Die {Einbrecherin} ist durch das offene Fenster geklettert.",
+          "zh": "那名女竊賊從開著的窗戶爬了進去。",
+          "en": "The burglar climbed in through the open window.",
+          "distractors": [
+            "Suppe",
+            "Kerze",
+            "Birne"
+          ]
+        }
+      }
+    ]
+  },
+  "einbruch": {
+    "senses": [
+      {
+        "zh": "闖入；入室竊盜",
+        "en": "break-in, burglary",
+        "ex": {
+          "de": "Bei dem {Einbruch} haben die Diebe nur Schmuck mitgenommen.",
+          "zh": "在那次入室竊盜中，小偷只拿走了首飾。",
+          "en": "In the break-in, the thieves took only jewelry.",
+          "distractors": [
+            "Mantel",
+            "Obstsalat",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "eindeutig": {
+    "senses": [
+      {
+        "zh": "明確的；清楚的",
+        "en": "clear, unambiguous",
+        "ex": {
+          "de": "Die Antwort auf die Frage war ganz {eindeutig}.",
+          "zh": "這個問題的答案非常明確。",
+          "en": "The answer to the question was perfectly clear.",
+          "distractors": [
+            "heiß",
+            "bunt",
+            "sauer"
+          ]
+        }
+      }
+    ]
+  },
+  "eindruck": {
+    "senses": [
+      {
+        "zh": "印象",
+        "en": "impression",
+        "ex": {
+          "de": "Ich hatte einen sehr guten {Eindruck} von der Schule.",
+          "zh": "我對這所學校的印象很好。",
+          "en": "I had a very good impression of the school.",
+          "distractors": [
+            "Salat",
+            "Bahnhof",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "einerseits": {
+    "senses": [
+      {
+        "zh": "一方面",
+        "en": "on the one hand",
+        "ex": {
+          "de": "{Einerseits} ist die Wohnung schön, andererseits ist sie sehr teuer.",
+          "zh": "一方面這間公寓很漂亮，另一方面租金很貴。",
+          "en": "On the one hand the flat is nice, on the other it is very expensive.",
+          "distractors": [
+            "Gestern",
+            "Danach",
+            "Niemals"
+          ]
+        }
+      }
+    ]
+  },
+  "einfach": {
+    "senses": [
+      {
+        "zh": "簡單的；容易的",
+        "en": "simple, easy",
+        "ex": {
+          "de": "Die Aufgabe war {einfach} und alle waren schnell fertig.",
+          "zh": "這題很簡單，大家很快就做完了。",
+          "en": "The task was easy and everyone finished quickly.",
+          "distractors": [
+            "rund",
+            "süß",
+            "kaputt"
+          ]
+        }
+      }
+    ]
+  },
+  "einfahrt": {
+    "senses": [
+      {
+        "zh": "入口車道；車道",
+        "en": "driveway, entrance",
+        "ex": {
+          "de": "Bitte parken Sie nicht vor der {Einfahrt}, danke.",
+          "zh": "請不要把車停在車道前面，謝謝。",
+          "en": "Please don't park in front of the driveway, thanks.",
+          "distractors": [
+            "Gurke",
+            "Lampe",
+            "Nudel"
+          ]
+        }
+      }
+    ]
+  },
+  "einfallen": {
+    "senses": [
+      {
+        "zh": "想到；突然想起",
+        "en": "to come to mind",
+        "ex": {
+          "de": "Hoffentlich wird dir noch eine gute Antwort {einfallen}.",
+          "zh": "希望你還能想到一個好答案。",
+          "en": "Hopefully a good answer will still occur to you.",
+          "distractors": [
+            "wohnen",
+            "regnen",
+            "landen"
+          ]
+        }
+      }
+    ]
+  },
+  "einfall": {
+    "senses": [
+      {
+        "zh": "點子；靈感",
+        "en": "idea, brainwave",
+        "ex": {
+          "de": "Das war ein toller {Einfall}, danke für den Tipp!",
+          "zh": "這個點子真棒，謝謝你的建議！",
+          "en": "That was a great idea, thanks for the tip!",
+          "distractors": [
+            "Hafen",
+            "Sessel",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "einfluss": {
+    "senses": [
+      {
+        "zh": "影響",
+        "en": "influence",
+        "ex": {
+          "de": "Das Wetter hat großen {Einfluss} auf meine Laune.",
+          "zh": "天氣對我的心情影響很大。",
+          "en": "The weather has a big influence on my mood.",
+          "distractors": [
+            "Schal",
+            "Turm",
+            "Zahn"
+          ]
+        }
+      }
+    ]
+  },
+  "einfuegen": {
+    "senses": [
+      {
+        "zh": "插入；加入",
+        "en": "to insert",
+        "ex": {
+          "de": "Du kannst hier noch ein Bild {einfügen}.",
+          "zh": "你可以在這裡再插入一張圖片。",
+          "en": "You can insert another picture here.",
+          "distractors": [
+            "schlafen",
+            "angeln",
+            "tauchen"
+          ]
+        }
+      }
+    ]
+  },
+  "einfuehren": {
+    "senses": [
+      {
+        "zh": "引進；實施",
+        "en": "to introduce",
+        "ex": {
+          "de": "Die Schule will nächstes Jahr ein neues Fach {einführen}.",
+          "zh": "學校打算明年開設一門新課程。",
+          "en": "The school wants to introduce a new subject next year.",
+          "distractors": [
+            "abwaschen",
+            "anziehen",
+            "anbraten"
+          ]
+        }
+      }
+    ]
+  },
+  "einfuehrung": {
+    "senses": [
+      {
+        "zh": "引進；導論",
+        "en": "introduction",
+        "ex": {
+          "de": "Die {Einführung} neuer Regeln dauert noch ein paar Monate.",
+          "zh": "新規定的施行還要再等幾個月。",
+          "en": "The introduction of new rules will take a few more months.",
+          "distractors": [
+            "Gardine",
+            "Brezel",
+            "Spinne"
+          ]
+        }
+      }
+    ]
+  },
+  "eingang": {
+    "senses": [
+      {
+        "zh": "入口",
+        "en": "entrance",
+        "ex": {
+          "de": "Wir treffen uns um acht am {Eingang} vom Kino.",
+          "zh": "我們八點在電影院入口碰面。",
+          "en": "We meet at eight at the entrance of the cinema.",
+          "distractors": [
+            "Hund",
+            "Nebel",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "einheitlich": {
+    "senses": [
+      {
+        "zh": "統一的；一致的",
+        "en": "uniform",
+        "ex": {
+          "de": "Alle Kinder tragen {einheitliche} Kleidung in der Schule.",
+          "zh": "所有孩子在學校都穿統一的服裝。",
+          "en": "All children wear uniform clothing at school.",
+          "distractors": [
+            "traurige",
+            "gebratene",
+            "fliegende"
+          ]
+        }
+      }
+    ]
+  }
+}

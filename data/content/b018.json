@@ -1,0 +1,902 @@
+{
+  "erklaerung": {
+    "senses": [
+      {
+        "zh": "解釋；說明",
+        "en": "explanation",
+        "ex": {
+          "de": "Der Lehrer gab uns eine kurze {Erklärung}.",
+          "zh": "老師給了我們一個簡短的說明。",
+          "en": "The teacher gave us a short explanation.",
+          "distractors": [
+            "Kerze",
+            "Brille",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "erlauben": {
+    "senses": [
+      {
+        "zh": "允許；准許",
+        "en": "to allow",
+        "ex": {
+          "de": "Meine Eltern {erlauben} mir kein Handy am Tisch.",
+          "zh": "我爸媽不准我在餐桌上用手機。",
+          "en": "My parents don't allow me a phone at the table.",
+          "distractors": [
+            "tragen",
+            "putzen",
+            "gießen"
+          ]
+        }
+      }
+    ]
+  },
+  "erlaubnis": {
+    "senses": [
+      {
+        "zh": "許可；准許",
+        "en": "permission",
+        "ex": {
+          "de": "Du brauchst eine {Erlaubnis} vom Chef.",
+          "zh": "你需要老闆的許可。",
+          "en": "You need permission from the boss.",
+          "distractors": [
+            "Zwiebel",
+            "Lampe",
+            "Banane"
+          ]
+        }
+      }
+    ]
+  },
+  "erleben": {
+    "senses": [
+      {
+        "zh": "經歷；體驗",
+        "en": "to experience",
+        "ex": {
+          "de": "Auf der Reise wollen wir viel {erleben}.",
+          "zh": "旅行時我們想多體驗一些事情。",
+          "en": "On the trip we want to experience a lot.",
+          "distractors": [
+            "rasieren",
+            "wiegen",
+            "zerreißen"
+          ]
+        }
+      }
+    ]
+  },
+  "erlebnis": {
+    "senses": [
+      {
+        "zh": "經歷；體驗",
+        "en": "experience, event",
+        "ex": {
+          "de": "Der Ausflug war ein schönes {Erlebnis} für die Kinder.",
+          "zh": "這次郊遊對孩子們來說是美好的經歷。",
+          "en": "The outing was a lovely experience for the children.",
+          "distractors": [
+            "Brett",
+            "Dach",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "erledigen": {
+    "senses": [
+      {
+        "zh": "辦妥；處理完",
+        "en": "to take care of, get done",
+        "ex": {
+          "de": "Ich muss noch schnell ein paar Dinge {erledigen}.",
+          "zh": "我還得趕快處理幾件事。",
+          "en": "I still have to quickly take care of a few things.",
+          "distractors": [
+            "reiten",
+            "schlafen",
+            "wandern"
+          ]
+        }
+      }
+    ]
+  },
+  "erleichtern": {
+    "senses": [
+      {
+        "zh": "使輕鬆；減輕",
+        "en": "to make easier",
+        "ex": {
+          "de": "Ein guter Plan kann uns die Arbeit sehr {erleichtern}.",
+          "zh": "一個好計畫能讓我們的工作輕鬆很多。",
+          "en": "A good plan can make our work much easier.",
+          "distractors": [
+            "duschen",
+            "tanzen",
+            "klettern"
+          ]
+        }
+      }
+    ]
+  },
+  "ermaessigung": {
+    "senses": [
+      {
+        "zh": "折扣；減價",
+        "en": "discount, reduction",
+        "ex": {
+          "de": "Studenten bekommen im Museum eine {Ermäßigung}.",
+          "zh": "學生在博物館可以享有折扣。",
+          "en": "Students get a discount at the museum.",
+          "distractors": [
+            "Kreuzung",
+            "Wiese",
+            "Insel"
+          ]
+        }
+      }
+    ]
+  },
+  "ernaehren": {
+    "senses": [
+      {
+        "zh": "養活；提供營養",
+        "en": "to feed, nourish",
+        "ex": {
+          "de": "Sie versucht, ihre Kinder gesund zu {ernähren}.",
+          "zh": "她努力讓孩子們吃得健康。",
+          "en": "She tries to feed her children healthily.",
+          "distractors": [
+            "kämmen",
+            "schminken",
+            "bohren"
+          ]
+        }
+      }
+    ]
+  },
+  "ernaehrung": {
+    "senses": [
+      {
+        "zh": "飲食；營養",
+        "en": "nutrition, diet",
+        "ex": {
+          "de": "Gesunde {Ernährung} ist wichtig für den Körper.",
+          "zh": "健康的飲食對身體很重要。",
+          "en": "A healthy diet is important for the body.",
+          "distractors": [
+            "Bürste",
+            "Nadel",
+            "Steckdose"
+          ]
+        }
+      }
+    ]
+  },
+  "ernst": {
+    "senses": [
+      {
+        "zh": "嚴肅的；認真的",
+        "en": "serious",
+        "ex": {
+          "de": "Er sprach mit uns sehr {ernst} über das Problem.",
+          "zh": "他很嚴肅地和我們談這個問題。",
+          "en": "He spoke to us very seriously about the problem.",
+          "distractors": [
+            "salzig",
+            "rund",
+            "silbern"
+          ]
+        }
+      }
+    ]
+  },
+  "ernsthaft": {
+    "senses": [
+      {
+        "zh": "認真的；嚴重的",
+        "en": "serious, in earnest",
+        "ex": {
+          "de": "Er will {ernsthaft} mit dem Rauchen aufhören.",
+          "zh": "他是認真想戒菸。",
+          "en": "He seriously wants to quit smoking.",
+          "distractors": [
+            "hölzern",
+            "gestreift",
+            "viereckig"
+          ]
+        }
+      }
+    ]
+  },
+  "ernte": {
+    "senses": [
+      {
+        "zh": "收成；收穫",
+        "en": "harvest",
+        "ex": {
+          "de": "Wegen des Regens war die {Ernte} dieses Jahr schlecht.",
+          "zh": "因為下雨，今年的收成很差。",
+          "en": "Because of the rain, this year's harvest was poor.",
+          "distractors": [
+            "Garage",
+            "Leiter",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "eroeffnen": {
+    "senses": [
+      {
+        "zh": "開（店）；開幕",
+        "en": "to open (a business)",
+        "ex": {
+          "de": "Wir wollen nächste Woche ein Café {eröffnen}.",
+          "zh": "我們打算下週開一家咖啡館。",
+          "en": "We want to open a café next week.",
+          "distractors": [
+            "streicheln",
+            "wiegen",
+            "polieren"
+          ]
+        }
+      }
+    ]
+  },
+  "eroeffnung": {
+    "senses": [
+      {
+        "zh": "開幕；開張",
+        "en": "opening",
+        "ex": {
+          "de": "Zur {Eröffnung} der Ausstellung kamen viele Gäste.",
+          "zh": "展覽開幕時來了很多客人。",
+          "en": "Many guests came to the opening of the exhibition.",
+          "distractors": [
+            "Zwiebel",
+            "Bluse",
+            "Schleife"
+          ]
+        }
+      }
+    ]
+  },
+  "erreichen": {
+    "senses": [
+      {
+        "zh": "趕上；到達；達成",
+        "en": "to reach, catch",
+        "ex": {
+          "de": "Mit dem Taxi konnte sie den Flug gerade noch {erreichen}.",
+          "zh": "她搭計程車勉強趕上了那班飛機。",
+          "en": "With a taxi she just managed to catch the flight.",
+          "distractors": [
+            "tapezieren",
+            "abstauben",
+            "umtopfen"
+          ]
+        }
+      }
+    ]
+  },
+  "erschoepft": {
+    "senses": [
+      {
+        "zh": "筋疲力盡的",
+        "en": "exhausted",
+        "ex": {
+          "de": "Nach der langen Wanderung waren wir alle völlig {erschöpft}.",
+          "zh": "走完長途健行後，我們都累壞了。",
+          "en": "After the long hike we were all completely exhausted.",
+          "distractors": [
+            "gestreift",
+            "gelb",
+            "spitz"
+          ]
+        }
+      }
+    ]
+  },
+  "erschrecken": {
+    "senses": [
+      {
+        "zh": "嚇到；受驚",
+        "en": "to frighten; to be startled",
+        "ex": {
+          "de": "Du sollst die Katze nicht {erschrecken}.",
+          "zh": "你不可以嚇到那隻貓。",
+          "en": "You shouldn't frighten the cat.",
+          "distractors": [
+            "unterschreiben",
+            "abheften",
+            "einpacken"
+          ]
+        }
+      }
+    ]
+  },
+  "ersatz": {
+    "senses": [
+      {
+        "zh": "替代品；補償",
+        "en": "replacement, substitute",
+        "ex": {
+          "de": "Für den kaputten Reifen gibt es leider keinen {Ersatz}.",
+          "zh": "那個壞掉的輪胎很遺憾沒有替代品。",
+          "en": "Unfortunately there is no replacement for the broken tire.",
+          "distractors": [
+            "Hügel",
+            "Pilz",
+            "Stuhl"
+          ]
+        }
+      }
+    ]
+  },
+  "erst": {
+    "senses": [
+      {
+        "zh": "才；剛剛；首先",
+        "en": "only, not until",
+        "ex": {
+          "de": "Der Film beginnt {erst} um zehn Uhr.",
+          "zh": "電影到十點才開始。",
+          "en": "The film doesn't start until ten o'clock.",
+          "distractors": [
+            "ziemlich",
+            "sehr",
+            "links"
+          ]
+        }
+      }
+    ]
+  },
+  "erst-2": {
+    "senses": [
+      {
+        "zh": "第一的",
+        "en": "first",
+        "ex": {
+          "de": "Das ist mein {erster} Tag in der neuen Schule.",
+          "zh": "這是我在新學校的第一天。",
+          "en": "This is my first day at the new school.",
+          "distractors": [
+            "salziger",
+            "hölzerner",
+            "gestreifter"
+          ]
+        }
+      }
+    ]
+  },
+  "erstellen": {
+    "senses": [
+      {
+        "zh": "製作；編製；建立",
+        "en": "to create, draw up",
+        "ex": {
+          "de": "Ich muss bis Montag eine Liste mit allen Namen {erstellen}.",
+          "zh": "我週一前得做一份包含所有名字的清單。",
+          "en": "I have to draw up a list of all the names by Monday.",
+          "distractors": [
+            "tanzen",
+            "rasieren",
+            "stricken"
+          ]
+        }
+      }
+    ]
+  },
+  "erwachsen": {
+    "senses": [
+      {
+        "zh": "成年的；成熟的",
+        "en": "grown-up, adult",
+        "ex": {
+          "de": "Meine Kinder sind schon {erwachsen} und wohnen allein.",
+          "zh": "我的孩子們已經成年，自己住了。",
+          "en": "My children are already grown up and live on their own.",
+          "distractors": [
+            "salzig",
+            "viereckig",
+            "rosa"
+          ]
+        }
+      }
+    ]
+  },
+  "erwachsene": {
+    "senses": [
+      {
+        "zh": "成年人；大人",
+        "en": "adult",
+        "ex": {
+          "de": "Für {Erwachsene} kostet die Karte zehn Euro.",
+          "zh": "成人票一張十歐元。",
+          "en": "For adults the ticket costs ten euros.",
+          "distractors": [
+            "Schuhe",
+            "Stifte",
+            "Pilze"
+          ]
+        }
+      }
+    ]
+  },
+  "erwarten": {
+    "senses": [
+      {
+        "zh": "期待；預計；等候",
+        "en": "to expect",
+        "ex": {
+          "de": "Wir {erwarten} heute Abend Besuch aus Berlin.",
+          "zh": "今晚我們有從柏林來的客人。",
+          "en": "We are expecting a visitor from Berlin this evening.",
+          "distractors": [
+            "bohren",
+            "wiegen",
+            "kämmen"
+          ]
+        }
+      }
+    ]
+  },
+  "erzaehlen": {
+    "senses": [
+      {
+        "zh": "講述；說（故事）",
+        "en": "to tell, narrate",
+        "ex": {
+          "de": "Opa kann spannende Geschichten aus seiner Jugend {erzählen}.",
+          "zh": "爺爺會講很多他年輕時的精彩故事。",
+          "en": "Grandpa can tell exciting stories from his youth.",
+          "distractors": [
+            "messen",
+            "bohren",
+            "putzen"
+          ]
+        }
+      }
+    ]
+  },
+  "erzaehlung": {
+    "senses": [
+      {
+        "zh": "故事；敘述；短篇小說",
+        "en": "story, narrative",
+        "ex": {
+          "de": "Die {Erzählung} handelt von einem alten Fischer.",
+          "zh": "這篇故事講的是一位老漁夫。",
+          "en": "The story is about an old fisherman.",
+          "distractors": [
+            "Steckdose",
+            "Kerze",
+            "Nadel"
+          ]
+        }
+      }
+    ]
+  },
+  "erziehen": {
+    "senses": [
+      {
+        "zh": "教養；養育",
+        "en": "to raise, bring up",
+        "ex": {
+          "de": "Eltern sollen ihre Kinder freundlich {erziehen}.",
+          "zh": "父母應該用友善的方式教養孩子。",
+          "en": "Parents should bring up their children kindly.",
+          "distractors": [
+            "füllen",
+            "gießen",
+            "polieren"
+          ]
+        }
+      }
+    ]
+  },
+  "erziehung": {
+    "senses": [
+      {
+        "zh": "教育；教養",
+        "en": "upbringing, education",
+        "ex": {
+          "de": "Die {Erziehung} der Kinder ist nicht immer einfach.",
+          "zh": "教養孩子並不總是容易的事。",
+          "en": "Raising children is not always easy.",
+          "distractors": [
+            "Bürste",
+            "Birne",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "es": {
+    "senses": [
+      {
+        "zh": "它；（虛主詞）",
+        "en": "it",
+        "ex": {
+          "de": "{Es} regnet seit dem Morgen ohne Pause.",
+          "zh": "從早上起就一直下雨沒停過。",
+          "en": "It has been raining without a break since morning.",
+          "distractors": [
+            "Ich",
+            "Wir",
+            "Ihr"
+          ]
+        }
+      }
+    ]
+  },
+  "essen": {
+    "senses": [
+      {
+        "zh": "吃",
+        "en": "to eat",
+        "ex": {
+          "de": "Zum Frühstück möchte ich nur Brot {essen}.",
+          "zh": "早餐我只想吃麵包。",
+          "en": "For breakfast I only want to eat bread.",
+          "distractors": [
+            "trinken",
+            "schreiben",
+            "tragen"
+          ]
+        }
+      }
+    ]
+  },
+  "essen-2": {
+    "senses": [
+      {
+        "zh": "食物；餐點；一餐",
+        "en": "food, meal",
+        "ex": {
+          "de": "Das {Essen} in dieser Kantine schmeckt richtig gut.",
+          "zh": "這間食堂的餐點真的很好吃。",
+          "en": "The food in this canteen tastes really good.",
+          "distractors": [
+            "Kissen",
+            "Heft",
+            "Messer"
+          ]
+        }
+      }
+    ]
+  },
+  "essig": {
+    "senses": [
+      {
+        "zh": "醋",
+        "en": "vinegar",
+        "ex": {
+          "de": "Für den Salat brauche ich Öl und etwas {Essig}.",
+          "zh": "做沙拉我需要油和一點醋。",
+          "en": "For the salad I need oil and a little vinegar.",
+          "distractors": [
+            "Sand",
+            "Beton",
+            "Teer"
+          ]
+        }
+      }
+    ]
+  },
+  "etage": {
+    "senses": [
+      {
+        "zh": "樓層",
+        "en": "floor, storey",
+        "ex": {
+          "de": "Das Büro des Chefs liegt in der dritten {Etage}.",
+          "zh": "老闆的辦公室在四樓（德式第三層）。",
+          "en": "The boss's office is on the third floor.",
+          "distractors": [
+            "Wiese",
+            "Küste",
+            "Nadel"
+          ]
+        }
+      }
+    ]
+  },
+  "etwa": {
+    "senses": [
+      {
+        "zh": "大約；差不多",
+        "en": "about, approximately",
+        "ex": {
+          "de": "Der Weg dauert {etwa} zwanzig Minuten zu Fuß.",
+          "zh": "走路大約要二十分鐘。",
+          "en": "The way takes about twenty minutes on foot.",
+          "distractors": [
+            "gestern",
+            "links",
+            "oben"
+          ]
+        }
+      }
+    ]
+  },
+  "etwas": {
+    "senses": [
+      {
+        "zh": "一些；某物",
+        "en": "some, something",
+        "ex": {
+          "de": "Möchtest du {etwas} Milch in den Kaffee?",
+          "zh": "你要在咖啡裡加一點牛奶嗎？",
+          "en": "Would you like some milk in your coffee?",
+          "distractors": [
+            "viele",
+            "mehrere",
+            "einige"
+          ]
+        }
+      }
+    ]
+  },
+  "eventuell": {
+    "senses": [
+      {
+        "zh": "可能；或許",
+        "en": "possibly, perhaps",
+        "ex": {
+          "de": "Wir können {eventuell} am Samstag zusammen ins Kino gehen.",
+          "zh": "我們或許可以星期六一起去看電影。",
+          "en": "We could possibly go to the cinema together on Saturday.",
+          "distractors": [
+            "unten",
+            "rechts",
+            "daheim"
+          ]
+        }
+      }
+    ]
+  },
+  "ewig": {
+    "senses": [
+      {
+        "zh": "永遠的；很久的",
+        "en": "eternal, forever",
+        "ex": {
+          "de": "Auf den Bus haben wir schon {ewig} gewartet.",
+          "zh": "我們等這班公車等了好久好久。",
+          "en": "We have been waiting for the bus forever.",
+          "distractors": [
+            "glatt",
+            "spitz",
+            "rosa"
+          ]
+        }
+      }
+    ]
+  },
+  "experte": {
+    "senses": [
+      {
+        "zh": "專家",
+        "en": "expert",
+        "ex": {
+          "de": "Für diese Frage brauchen wir einen {Experten}.",
+          "zh": "這個問題我們需要一位專家。",
+          "en": "For this question we need an expert.",
+          "distractors": [
+            "Hasen",
+            "Affen",
+            "Löwen"
+          ]
+        }
+      }
+    ]
+  },
+  "export": {
+    "senses": [
+      {
+        "zh": "出口；外銷",
+        "en": "export",
+        "ex": {
+          "de": "Der {Export} von Autos bringt dem Land viel Geld.",
+          "zh": "汽車出口為這個國家帶來很多收入。",
+          "en": "The export of cars brings the country a lot of money.",
+          "distractors": [
+            "Löffel",
+            "Schrank",
+            "Keller"
+          ]
+        }
+      }
+    ]
+  },
+  "extra": {
+    "senses": [
+      {
+        "zh": "特別地；額外的",
+        "en": "extra, especially",
+        "ex": {
+          "de": "Die Pizza ist heute {extra} scharf.",
+          "zh": "今天的披薩特別辣。",
+          "en": "The pizza is extra spicy today.",
+          "distractors": [
+            "gern",
+            "dort",
+            "hinten"
+          ]
+        }
+      }
+    ]
+  },
+  "extrem": {
+    "senses": [
+      {
+        "zh": "極度的；非常",
+        "en": "extreme, extremely",
+        "ex": {
+          "de": "Im Sommer wird es hier {extrem} heiß.",
+          "zh": "夏天這裡會變得極熱。",
+          "en": "In summer it gets extremely hot here.",
+          "distractors": [
+            "dort",
+            "hinten",
+            "daheim"
+          ]
+        }
+      }
+    ]
+  },
+  "fabrik": {
+    "senses": [
+      {
+        "zh": "工廠",
+        "en": "factory",
+        "ex": {
+          "de": "Mein Onkel arbeitet in einer {Fabrik} für Schokolade.",
+          "zh": "我叔叔在一間巧克力工廠工作。",
+          "en": "My uncle works in a chocolate factory.",
+          "distractors": [
+            "Brücke",
+            "Insel",
+            "Kirche"
+          ]
+        }
+      }
+    ]
+  },
+  "fach": {
+    "senses": [
+      {
+        "zh": "科目；格子；專業",
+        "en": "subject; compartment",
+        "ex": {
+          "de": "Mathe ist mein schwerstes {Fach} in der Schule.",
+          "zh": "數學是我在學校最困難的科目。",
+          "en": "Math is my hardest subject at school.",
+          "distractors": [
+            "Bett",
+            "Ohr",
+            "Boot"
+          ]
+        }
+      }
+    ]
+  },
+  "fachmann": {
+    "senses": [
+      {
+        "zh": "專家；內行人",
+        "en": "expert, specialist",
+        "ex": {
+          "de": "Das Problem kann nur ein {Fachmann} lösen.",
+          "zh": "這個問題只有內行人能解決。",
+          "en": "Only a specialist can solve the problem.",
+          "distractors": [
+            "Kühlschrank",
+            "Balkon",
+            "Gürtel"
+          ]
+        }
+      }
+    ]
+  },
+  "fachfrau": {
+    "senses": [
+      {
+        "zh": "女專家；女內行人",
+        "en": "female expert",
+        "ex": {
+          "de": "Die {Fachfrau} erklärte uns die neue Maschine.",
+          "zh": "那位女專家向我們說明了新機器。",
+          "en": "The expert explained the new machine to us.",
+          "distractors": [
+            "Tasche",
+            "Lampe",
+            "Banane"
+          ]
+        }
+      }
+    ]
+  },
+  "fachleute": {
+    "senses": [
+      {
+        "zh": "專業人士；行家",
+        "en": "experts, specialists",
+        "ex": {
+          "de": "Viele {Fachleute} warnen vor den hohen Kosten.",
+          "zh": "許多專家警告成本過高。",
+          "en": "Many experts warn about the high costs.",
+          "distractors": [
+            "Tische",
+            "Bäume",
+            "Berge"
+          ]
+        }
+      }
+    ]
+  },
+  "faehigkeit": {
+    "senses": [
+      {
+        "zh": "能力；才能",
+        "en": "ability, skill",
+        "ex": {
+          "de": "Sie hat die {Fähigkeit}, schnell neue Sprachen zu lernen.",
+          "zh": "她有快速學會新語言的能力。",
+          "en": "She has the ability to learn new languages quickly.",
+          "distractors": [
+            "Gurke",
+            "Tüte",
+            "Decke"
+          ]
+        }
+      }
+    ]
+  },
+  "fahren": {
+    "senses": [
+      {
+        "zh": "行駛；搭乘；開車",
+        "en": "to drive, go (by vehicle)",
+        "ex": {
+          "de": "Am Wochenende wollen wir ans Meer {fahren}.",
+          "zh": "週末我們想開車去海邊。",
+          "en": "At the weekend we want to drive to the sea.",
+          "distractors": [
+            "malen",
+            "nähen",
+            "rechnen"
+          ]
+        }
+      }
+    ]
+  },
+  "faehre": {
+    "senses": [
+      {
+        "zh": "渡輪",
+        "en": "ferry",
+        "ex": {
+          "de": "Die {Fähre} nach Dänemark fährt jeden Morgen um acht.",
+          "zh": "往丹麥的渡輪每天早上八點開。",
+          "en": "The ferry to Denmark leaves every morning at eight.",
+          "distractors": [
+            "Zeitung",
+            "Suppe",
+            "Bluse"
+          ]
+        }
+      }
+    ]
+  }
+}

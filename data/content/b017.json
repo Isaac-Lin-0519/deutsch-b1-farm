@@ -1,0 +1,958 @@
+{
+  "enkel": {
+    "senses": [
+      {
+        "zh": "孫子；外孫",
+        "en": "grandson, grandchild",
+        "ex": {
+          "de": "Meine Oma schenkt ihrem {Enkel} jedes Jahr ein Buch.",
+          "zh": "我奶奶每年都送她的孫子一本書。",
+          "en": "My grandma gives her grandson a book every year.",
+          "distractors": [
+            "Mantel",
+            "Hammer",
+            "Tisch"
+          ]
+        }
+      }
+    ]
+  },
+  "enkelin": {
+    "senses": [
+      {
+        "zh": "孫女；外孫女",
+        "en": "granddaughter",
+        "ex": {
+          "de": "Die Oma backt für ihre {Enkelin} einen Kuchen.",
+          "zh": "奶奶為她的孫女烤了一個蛋糕。",
+          "en": "Grandma bakes a cake for her granddaughter.",
+          "distractors": [
+            "Lampe",
+            "Straße",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "entdecken": {
+    "senses": [
+      {
+        "zh": "發現",
+        "en": "to discover",
+        "ex": {
+          "de": "Die Kinder wollen im Wald einen alten Brunnen {entdecken}.",
+          "zh": "孩子們想在森林裡發現一口古井。",
+          "en": "The children want to discover an old well in the forest.",
+          "distractors": [
+            "heiraten",
+            "kochen",
+            "unterschreiben"
+          ]
+        }
+      }
+    ]
+  },
+  "entfernen": {
+    "senses": [
+      {
+        "zh": "移除；去除",
+        "en": "to remove",
+        "ex": {
+          "de": "Du musst den Aufkleber vorsichtig {entfernen}.",
+          "zh": "你得小心地把貼紙撕掉。",
+          "en": "You have to remove the sticker carefully.",
+          "distractors": [
+            "anrufen",
+            "heiraten",
+            "begrüßen"
+          ]
+        }
+      }
+    ]
+  },
+  "entfernung": {
+    "senses": [
+      {
+        "zh": "距離",
+        "en": "distance",
+        "ex": {
+          "de": "Die {Entfernung} zwischen den beiden Städten beträgt hundert Kilometer.",
+          "zh": "這兩座城市之間的距離是一百公里。",
+          "en": "The distance between the two cities is one hundred kilometers.",
+          "distractors": [
+            "Suppe",
+            "Blume",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "entgegenkommen": {
+    "senses": [
+      {
+        "zh": "迎面而來",
+        "en": "to come toward",
+        "ex": {
+          "de": "Ein Radfahrer ist uns auf dem schmalen Weg {entgegengekommen}.",
+          "zh": "在窄路上有一位腳踏車騎士迎面朝我們而來。",
+          "en": "A cyclist came toward us on the narrow path.",
+          "distractors": [
+            "gewachsen",
+            "geschwommen",
+            "gestorben"
+          ]
+        }
+      },
+      {
+        "zh": "遷就；體諒",
+        "en": "to accommodate",
+        "ex": {
+          "de": "Der Chef ist uns bei der Arbeitszeit {entgegengekommen}.",
+          "zh": "老闆在工作時間上遷就了我們。",
+          "en": "The boss accommodated us regarding working hours.",
+          "distractors": [
+            "gewachsen",
+            "geschwommen",
+            "gestiegen"
+          ]
+        }
+      }
+    ]
+  },
+  "enthalten": {
+    "senses": [
+      {
+        "zh": "包含；含有",
+        "en": "to contain",
+        "ex": {
+          "de": "Dieses Brot {enthält} keine Nüsse und keinen Zucker.",
+          "zh": "這種麵包不含堅果，也不含糖。",
+          "en": "This bread contains no nuts and no sugar.",
+          "distractors": [
+            "kauft",
+            "trinkt",
+            "singt"
+          ]
+        }
+      }
+    ]
+  },
+  "entlang": {
+    "senses": [
+      {
+        "zh": "沿著",
+        "en": "along",
+        "ex": {
+          "de": "Wir gehen jeden Abend den Fluss {entlang}.",
+          "zh": "我們每天晚上沿著河邊走。",
+          "en": "Every evening we walk along the river.",
+          "distractors": [
+            "ohne",
+            "seit",
+            "wegen"
+          ]
+        }
+      }
+    ]
+  },
+  "entlassen": {
+    "senses": [
+      {
+        "zh": "解僱；讓…出院",
+        "en": "to dismiss, fire",
+        "ex": {
+          "de": "Die Firma musste im Winter zehn Arbeiter {entlassen}.",
+          "zh": "公司在冬天不得不解僱十名工人。",
+          "en": "The company had to dismiss ten workers in winter.",
+          "distractors": [
+            "reparieren",
+            "rasieren",
+            "buchstabieren"
+          ]
+        }
+      }
+    ]
+  },
+  "entlassung": {
+    "senses": [
+      {
+        "zh": "解僱；出院",
+        "en": "dismissal, discharge",
+        "ex": {
+          "de": "Nach der {Entlassung} suchte er sofort eine neue Stelle.",
+          "zh": "被解僱後，他馬上開始找新工作。",
+          "en": "After the dismissal he immediately looked for a new job.",
+          "distractors": [
+            "Brille",
+            "Tasse",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "entscheiden": {
+    "senses": [
+      {
+        "zh": "決定；裁決",
+        "en": "to decide",
+        "ex": {
+          "de": "Der Trainer muss bald {entscheiden}, wer im Tor steht.",
+          "zh": "教練很快就得決定誰來守門。",
+          "en": "The coach soon has to decide who plays in goal.",
+          "distractors": [
+            "schlafen",
+            "tanzen",
+            "duschen"
+          ]
+        }
+      }
+    ]
+  },
+  "entscheidung": {
+    "senses": [
+      {
+        "zh": "決定；決策",
+        "en": "decision",
+        "ex": {
+          "de": "Die {Entscheidung} über den Umzug fiel uns schwer.",
+          "zh": "關於搬家的決定讓我們很難下。",
+          "en": "The decision about the move was hard for us.",
+          "distractors": [
+            "Banane",
+            "Kerze",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "unentschieden": {
+    "senses": [
+      {
+        "zh": "平手；未決定的",
+        "en": "drawn, undecided",
+        "ex": {
+          "de": "Das Spiel gestern Abend endete {unentschieden}.",
+          "zh": "昨晚的比賽以平手收場。",
+          "en": "Last night's game ended in a draw.",
+          "distractors": [
+            "süß",
+            "rund",
+            "nass"
+          ]
+        }
+      }
+    ]
+  },
+  "entschliessen": {
+    "senses": [
+      {
+        "zh": "下定決心",
+        "en": "to decide, make up one's mind",
+        "ex": {
+          "de": "Ich habe mich {entschlossen}, den Job anzunehmen.",
+          "zh": "我決定接受這份工作。",
+          "en": "I have decided to accept the job.",
+          "distractors": [
+            "erholt",
+            "erkältet",
+            "geduscht"
+          ]
+        }
+      }
+    ]
+  },
+  "entschlossen": {
+    "senses": [
+      {
+        "zh": "堅決的；下定決心的",
+        "en": "determined",
+        "ex": {
+          "de": "Sie ist fest {entschlossen}, ihr Ziel zu erreichen.",
+          "zh": "她堅決要達成自己的目標。",
+          "en": "She is firmly determined to reach her goal.",
+          "distractors": [
+            "gelb",
+            "nass",
+            "laut"
+          ]
+        }
+      }
+    ]
+  },
+  "entschuldigen": {
+    "senses": [
+      {
+        "zh": "原諒；為…道歉",
+        "en": "to excuse",
+        "ex": {
+          "de": "Bitte {entschuldigen} Sie die Verspätung.",
+          "zh": "請原諒我們的遲到。",
+          "en": "Please excuse the delay.",
+          "distractors": [
+            "kochen",
+            "schneiden",
+            "tragen"
+          ]
+        }
+      }
+    ]
+  },
+  "entschuldigung": {
+    "senses": [
+      {
+        "zh": "道歉；歉意",
+        "en": "apology",
+        "ex": {
+          "de": "Du schuldest ihr noch eine {Entschuldigung} für gestern.",
+          "zh": "你還欠她一個昨天的道歉。",
+          "en": "You still owe her an apology for yesterday.",
+          "distractors": [
+            "Tomate",
+            "Gardine",
+            "Brücke"
+          ]
+        }
+      },
+      {
+        "zh": "不好意思（用來搭話）",
+        "en": "excuse me",
+        "ex": {
+          "de": "{Entschuldigung}, wie komme ich zum Bahnhof?",
+          "zh": "不好意思，請問車站怎麼走？",
+          "en": "Excuse me, how do I get to the station?",
+          "distractors": [
+            "Tomate",
+            "Gardine",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "entsorgen": {
+    "senses": [
+      {
+        "zh": "處理；丟棄（廢棄物）",
+        "en": "to dispose of",
+        "ex": {
+          "de": "Alte Batterien muss man im Supermarkt {entsorgen}.",
+          "zh": "舊電池要拿到超市回收處理。",
+          "en": "Old batteries have to be disposed of at the supermarket.",
+          "distractors": [
+            "streicheln",
+            "unterrichten",
+            "besuchen"
+          ]
+        }
+      }
+    ]
+  },
+  "entspannend": {
+    "senses": [
+      {
+        "zh": "令人放鬆的",
+        "en": "relaxing",
+        "ex": {
+          "de": "Ein warmes Bad am Abend ist wirklich {entspannend}.",
+          "zh": "晚上泡個熱水澡真的很放鬆。",
+          "en": "A warm bath in the evening is really relaxing.",
+          "distractors": [
+            "hungrig",
+            "ledig",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "entstehen": {
+    "senses": [
+      {
+        "zh": "產生；形成",
+        "en": "to come into being, arise",
+        "ex": {
+          "de": "Wie ist die Idee für das Spiel {entstanden}?",
+          "zh": "這個遊戲的點子是怎麼產生的？",
+          "en": "How did the idea for the game come about?",
+          "distractors": [
+            "gefahren",
+            "geschwommen",
+            "gestiegen"
+          ]
+        }
+      }
+    ]
+  },
+  "enttaeuschen": {
+    "senses": [
+      {
+        "zh": "使失望",
+        "en": "to disappoint",
+        "ex": {
+          "de": "Ich will meine Eltern bei der Prüfung nicht {enttäuschen}.",
+          "zh": "我不想在考試中讓父母失望。",
+          "en": "I don't want to disappoint my parents in the exam.",
+          "distractors": [
+            "lackieren",
+            "pflanzen",
+            "fällen"
+          ]
+        }
+      }
+    ]
+  },
+  "entweder-oder": {
+    "senses": [
+      {
+        "zh": "要麼…要麼…",
+        "en": "either ... or",
+        "ex": {
+          "de": "{Entweder} gehen wir ins Kino, oder wir bleiben zu Hause.",
+          "zh": "我們要麼去看電影，要麼待在家裡。",
+          "en": "Either we go to the cinema or we stay at home.",
+          "distractors": [
+            "Weil",
+            "Dass",
+            "Ob"
+          ]
+        }
+      }
+    ]
+  },
+  "entwickeln": {
+    "senses": [
+      {
+        "zh": "開發；發展",
+        "en": "to develop",
+        "ex": {
+          "de": "Die Firma will ein neues Programm für Kinder {entwickeln}.",
+          "zh": "這家公司想開發一套給孩子用的新軟體。",
+          "en": "The company wants to develop a new program for children.",
+          "distractors": [
+            "schälen",
+            "streichen",
+            "tanken"
+          ]
+        }
+      }
+    ]
+  },
+  "entwicklung": {
+    "senses": [
+      {
+        "zh": "發展；開發",
+        "en": "development",
+        "ex": {
+          "de": "Die {Entwicklung} des Kindes verlief in den ersten Jahren sehr schnell.",
+          "zh": "孩子的發展在最初幾年進行得很快。",
+          "en": "The child's development went very fast in the first years.",
+          "distractors": [
+            "Waschmaschine",
+            "Steckdose",
+            "Matratze"
+          ]
+        }
+      }
+    ]
+  },
+  "erde": {
+    "senses": [
+      {
+        "zh": "地球",
+        "en": "Earth",
+        "ex": {
+          "de": "Die {Erde} dreht sich in einem Jahr um die Sonne.",
+          "zh": "地球一年繞太陽轉一圈。",
+          "en": "The Earth goes around the sun in one year.",
+          "distractors": [
+            "Ente",
+            "Schule",
+            "Brille"
+          ]
+        }
+      },
+      {
+        "zh": "土壤；泥土",
+        "en": "soil, earth",
+        "ex": {
+          "de": "Die Blumen brauchen frische {Erde} im Topf.",
+          "zh": "花需要盆裡有新鮮的土。",
+          "en": "The flowers need fresh soil in the pot.",
+          "distractors": [
+            "Kreide",
+            "Wolle",
+            "Seife"
+          ]
+        }
+      }
+    ]
+  },
+  "erdapfel": {
+    "senses": [
+      {
+        "zh": "馬鈴薯（奧地利用語）",
+        "en": "potato (Austrian)",
+        "ex": {
+          "de": "In Österreich kocht man oft {Erdäpfel} mit Petersilie.",
+          "zh": "在奧地利常把馬鈴薯和香芹一起煮。",
+          "en": "In Austria people often cook potatoes with parsley.",
+          "distractors": [
+            "Mäntel",
+            "Stühle",
+            "Hüte"
+          ]
+        }
+      }
+    ]
+  },
+  "erdgeschoss-ergeschoss": {
+    "senses": [
+      {
+        "zh": "一樓；底層",
+        "en": "ground floor",
+        "ex": {
+          "de": "Das Café im {Erdgeschoss} hat auch am Sonntag geöffnet.",
+          "zh": "一樓的咖啡館星期天也有營業。",
+          "en": "The café on the ground floor is open on Sundays too.",
+          "distractors": [
+            "Bett",
+            "Ohr",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "ereignen": {
+    "senses": [
+      {
+        "zh": "發生",
+        "en": "to happen, occur",
+        "ex": {
+          "de": "Der Unfall hat sich gestern Abend an der Kreuzung {ereignet}.",
+          "zh": "那場意外昨晚發生在十字路口。",
+          "en": "The accident happened at the intersection last night.",
+          "distractors": [
+            "erholt",
+            "erkältet",
+            "gewaschen"
+          ]
+        }
+      }
+    ]
+  },
+  "erfahrung": {
+    "senses": [
+      {
+        "zh": "經驗；體驗",
+        "en": "experience",
+        "ex": {
+          "de": "Ich habe gute {Erfahrungen} mit diesem Online-Shop gemacht.",
+          "zh": "我對這家網路商店的使用經驗很好。",
+          "en": "I have had good experiences with this online shop.",
+          "distractors": [
+            "Lampen",
+            "Gurken",
+            "Zeitungen"
+          ]
+        }
+      }
+    ]
+  },
+  "erfinden": {
+    "senses": [
+      {
+        "zh": "發明",
+        "en": "to invent",
+        "ex": {
+          "de": "Wer hat eigentlich das Telefon {erfunden}?",
+          "zh": "到底是誰發明了電話？",
+          "en": "Who actually invented the telephone?",
+          "distractors": [
+            "gegessen",
+            "geheiratet",
+            "getrunken"
+          ]
+        }
+      },
+      {
+        "zh": "編造；杜撰",
+        "en": "to make up",
+        "ex": {
+          "de": "Du hast die Ausrede doch nur {erfunden}!",
+          "zh": "這個藉口根本是你編的！",
+          "en": "You just made up that excuse!",
+          "distractors": [
+            "gegessen",
+            "geheiratet",
+            "getrunken"
+          ]
+        }
+      }
+    ]
+  },
+  "erfindung": {
+    "senses": [
+      {
+        "zh": "發明",
+        "en": "invention",
+        "ex": {
+          "de": "Das Fahrrad war eine wichtige {Erfindung} für viele Menschen.",
+          "zh": "腳踏車對許多人來說是一項重要的發明。",
+          "en": "The bicycle was an important invention for many people.",
+          "distractors": [
+            "Banane",
+            "Ameise",
+            "Gurke"
+          ]
+        }
+      }
+    ]
+  },
+  "erfolg": {
+    "senses": [
+      {
+        "zh": "成功；成就",
+        "en": "success",
+        "ex": {
+          "de": "Das neue Café hatte von Anfang an großen {Erfolg}.",
+          "zh": "這家新咖啡館從一開始就很成功。",
+          "en": "The new café was a great success from the start.",
+          "distractors": [
+            "Schrank",
+            "Hammer",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "erfolgreich": {
+    "senses": [
+      {
+        "zh": "成功的",
+        "en": "successful",
+        "ex": {
+          "de": "Unsere Mannschaft war in diesem Jahr sehr {erfolgreich}.",
+          "zh": "我們的球隊今年非常成功。",
+          "en": "Our team was very successful this year.",
+          "distractors": [
+            "dunkel",
+            "rund",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "erforderlich": {
+    "senses": [
+      {
+        "zh": "必需的",
+        "en": "required, necessary",
+        "ex": {
+          "de": "Für diese Arbeit ist ein Führerschein unbedingt {erforderlich}.",
+          "zh": "做這份工作一定要有駕照。",
+          "en": "For this job a driver's license is absolutely required.",
+          "distractors": [
+            "lecker",
+            "nass",
+            "gelb"
+          ]
+        }
+      }
+    ]
+  },
+  "erfordern": {
+    "senses": [
+      {
+        "zh": "需要；要求",
+        "en": "to require",
+        "ex": {
+          "de": "Dieser Beruf {erfordert} viel Geduld und gute Nerven.",
+          "zh": "這個職業需要很大的耐心和強韌的神經。",
+          "en": "This profession requires a lot of patience and strong nerves.",
+          "distractors": [
+            "pflanzt",
+            "wäscht",
+            "mäht"
+          ]
+        }
+      }
+    ]
+  },
+  "erfuellen": {
+    "senses": [
+      {
+        "zh": "實現；滿足",
+        "en": "to fulfill",
+        "ex": {
+          "de": "Mein Chef kann leider nicht alle meine Wünsche {erfüllen}.",
+          "zh": "我老闆很遺憾無法滿足我所有的願望。",
+          "en": "My boss unfortunately can't fulfill all my wishes.",
+          "distractors": [
+            "füttern",
+            "tapezieren",
+            "parken"
+          ]
+        }
+      }
+    ]
+  },
+  "ergaenzen": {
+    "senses": [
+      {
+        "zh": "補充；補齊",
+        "en": "to complete, add",
+        "ex": {
+          "de": "Wir müssen die Einkaufsliste noch um Milch {ergänzen}.",
+          "zh": "我們還得在購物清單上補一項牛奶。",
+          "en": "We still have to add milk to the shopping list.",
+          "distractors": [
+            "parken",
+            "tanken",
+            "pflücken"
+          ]
+        }
+      }
+    ]
+  },
+  "ergebnis": {
+    "senses": [
+      {
+        "zh": "結果",
+        "en": "result",
+        "ex": {
+          "de": "Das {Ergebnis} der Untersuchung bekommst du nächste Woche.",
+          "zh": "檢查的結果你下星期會拿到。",
+          "en": "You will get the result of the examination next week.",
+          "distractors": [
+            "Messer",
+            "Fenster",
+            "Radio"
+          ]
+        }
+      }
+    ]
+  },
+  "erhalten": {
+    "senses": [
+      {
+        "zh": "收到；獲得",
+        "en": "to receive",
+        "ex": {
+          "de": "Ich habe gestern einen Brief von meiner Tante {erhalten}.",
+          "zh": "我昨天收到了阿姨寄來的一封信。",
+          "en": "Yesterday I received a letter from my aunt.",
+          "distractors": [
+            "getanzt",
+            "geschlafen",
+            "gesungen"
+          ]
+        }
+      }
+    ]
+  },
+  "erhoehen": {
+    "senses": [
+      {
+        "zh": "提高；增加",
+        "en": "to raise, increase",
+        "ex": {
+          "de": "Der Vermieter will die Miete im Januar {erhöhen}.",
+          "zh": "房東想在一月調漲房租。",
+          "en": "The landlord wants to raise the rent in January.",
+          "distractors": [
+            "singen",
+            "schälen",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "erhoehung": {
+    "senses": [
+      {
+        "zh": "提高；增加",
+        "en": "increase",
+        "ex": {
+          "de": "Die {Erhöhung} der Preise ärgert viele Kunden sehr.",
+          "zh": "價格上漲讓許多顧客很生氣。",
+          "en": "The increase in prices annoys many customers a lot.",
+          "distractors": [
+            "Lampe",
+            "Schaukel",
+            "Decke"
+          ]
+        }
+      }
+    ]
+  },
+  "erholen": {
+    "senses": [
+      {
+        "zh": "休養；恢復",
+        "en": "to recover, relax",
+        "ex": {
+          "de": "Nach der Operation muss er sich lange {erholen}.",
+          "zh": "手術後他得休養很久。",
+          "en": "After the operation he has to recover for a long time.",
+          "distractors": [
+            "verbeugen",
+            "beeilen",
+            "bewerben"
+          ]
+        }
+      }
+    ]
+  },
+  "erholung": {
+    "senses": [
+      {
+        "zh": "休養；放鬆",
+        "en": "rest, recovery",
+        "ex": {
+          "de": "Im Urlaub finde ich endlich {Erholung} und Ruhe.",
+          "zh": "度假時我終於能放鬆休息、找到寧靜。",
+          "en": "On vacation I finally find rest and quiet.",
+          "distractors": [
+            "Kreide",
+            "Wolle",
+            "Zahnpasta"
+          ]
+        }
+      }
+    ]
+  },
+  "erinnern": {
+    "senses": [
+      {
+        "zh": "使想起；提醒",
+        "en": "to remind",
+        "ex": {
+          "de": "Dieses Lied {erinnert} mich immer an unseren Urlaub.",
+          "zh": "這首歌總讓我想起我們的假期。",
+          "en": "This song always reminds me of our vacation.",
+          "distractors": [
+            "wäscht",
+            "kocht",
+            "sucht"
+          ]
+        }
+      }
+    ]
+  },
+  "erinnerung": {
+    "senses": [
+      {
+        "zh": "回憶；紀念",
+        "en": "memory, souvenir",
+        "ex": {
+          "de": "Das Foto ist eine schöne {Erinnerung} an unseren Urlaub.",
+          "zh": "這張照片是我們假期的美好回憶。",
+          "en": "The photo is a nice memory of our vacation.",
+          "distractors": [
+            "Tasse",
+            "Zwiebel",
+            "Kommode"
+          ]
+        }
+      }
+    ]
+  },
+  "erkaelten": {
+    "senses": [
+      {
+        "zh": "感冒；著涼",
+        "en": "to catch a cold",
+        "ex": {
+          "de": "Bei dem Wind könntest du dich leicht {erkälten}.",
+          "zh": "風這麼大，你很容易著涼。",
+          "en": "In this wind you could easily catch a cold.",
+          "distractors": [
+            "verloben",
+            "bewerben",
+            "bedanken"
+          ]
+        }
+      }
+    ]
+  },
+  "erkaeltet": {
+    "senses": [
+      {
+        "zh": "感冒的",
+        "en": "having a cold",
+        "ex": {
+          "de": "Ich bleibe heute zu Hause, weil ich {erkältet} bin.",
+          "zh": "我今天待在家，因為我感冒了。",
+          "en": "I'm staying home today because I have a cold.",
+          "distractors": [
+            "rund",
+            "gelb",
+            "eckig"
+          ]
+        }
+      }
+    ]
+  },
+  "erkaeltung": {
+    "senses": [
+      {
+        "zh": "感冒",
+        "en": "cold",
+        "ex": {
+          "de": "Mit einer starken {Erkältung} sollte man im Bett bleiben.",
+          "zh": "重感冒時最好待在床上。",
+          "en": "With a bad cold you should stay in bed.",
+          "distractors": [
+            "Brücke",
+            "Kommode",
+            "Straße"
+          ]
+        }
+      }
+    ]
+  },
+  "erkennen": {
+    "senses": [
+      {
+        "zh": "認出；辨認；察覺",
+        "en": "to recognize",
+        "ex": {
+          "de": "Ich konnte ihn im Dunkeln kaum {erkennen}.",
+          "zh": "在黑暗中我幾乎認不出他。",
+          "en": "I could hardly recognize him in the dark.",
+          "distractors": [
+            "pflanzen",
+            "tapezieren",
+            "schaukeln"
+          ]
+        }
+      }
+    ]
+  },
+  "erklaeren": {
+    "senses": [
+      {
+        "zh": "解釋；說明",
+        "en": "to explain",
+        "ex": {
+          "de": "Kannst du mir bitte die Aufgabe noch einmal {erklären}?",
+          "zh": "你可以再幫我講解一次這個習題嗎？",
+          "en": "Can you please explain the exercise to me once more?",
+          "distractors": [
+            "pflücken",
+            "rasieren",
+            "parken"
+          ]
+        }
+      }
+    ]
+  }
+}

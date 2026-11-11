@@ -1,0 +1,930 @@
+{
+  "einig": {
+    "senses": [
+      {
+        "zh": "一致的；意見相同的",
+        "en": "in agreement, united",
+        "ex": {
+          "de": "Am Ende waren sich alle Gäste {einig}.",
+          "zh": "最後所有的客人都意見一致。",
+          "en": "In the end all the guests agreed.",
+          "distractors": [
+            "satt",
+            "nass",
+            "kalt"
+          ]
+        }
+      }
+    ]
+  },
+  "einigen": {
+    "senses": [
+      {
+        "zh": "（sich einigen）達成協議",
+        "en": "to agree, reach an agreement",
+        "ex": {
+          "de": "Wir konnten uns schnell auf einen Preis {einigen}.",
+          "zh": "我們很快就談妥了價錢。",
+          "en": "We were quickly able to agree on a price.",
+          "distractors": [
+            "tanzen",
+            "reisen",
+            "wohnen"
+          ]
+        }
+      }
+    ]
+  },
+  "einkaufen": {
+    "senses": [
+      {
+        "zh": "買東西；採購",
+        "en": "to shop",
+        "ex": {
+          "de": "Am Samstag will ich im Supermarkt {einkaufen}.",
+          "zh": "星期六我想去超市買東西。",
+          "en": "On Saturday I want to shop at the supermarket.",
+          "distractors": [
+            "schwimmen",
+            "tanzen",
+            "studieren"
+          ]
+        }
+      }
+    ]
+  },
+  "einkauf": {
+    "senses": [
+      {
+        "zh": "購物；買來的東西",
+        "en": "shopping, purchase",
+        "ex": {
+          "de": "Den {Einkauf} trage ich zu Fuß nach Hause.",
+          "zh": "我走路把買的東西提回家。",
+          "en": "I carry the shopping home on foot.",
+          "distractors": [
+            "Himmel",
+            "Mond",
+            "Sommer"
+          ]
+        }
+      }
+    ]
+  },
+  "einkommen": {
+    "senses": [
+      {
+        "zh": "收入",
+        "en": "income",
+        "ex": {
+          "de": "Mein {Einkommen} reicht für eine kleine Wohnung.",
+          "zh": "我的收入夠租一間小公寓。",
+          "en": "My income is enough for a small flat.",
+          "distractors": [
+            "Fenster",
+            "Wetter",
+            "Frühstück"
+          ]
+        }
+      }
+    ]
+  },
+  "einladen": {
+    "senses": [
+      {
+        "zh": "邀請",
+        "en": "to invite",
+        "ex": {
+          "de": "Zu meinem Geburtstag möchte ich dich gern {einladen}.",
+          "zh": "我想邀請你來參加我的生日。",
+          "en": "I would like to invite you to my birthday.",
+          "distractors": [
+            "reparieren",
+            "tapezieren",
+            "übersetzen"
+          ]
+        }
+      }
+    ]
+  },
+  "einladung": {
+    "senses": [
+      {
+        "zh": "邀請；邀請函",
+        "en": "invitation",
+        "ex": {
+          "de": "Ich habe eine {Einladung} zur Hochzeit meiner Cousine bekommen.",
+          "zh": "我收到表姊婚禮的邀請函。",
+          "en": "I got an invitation to my cousin's wedding.",
+          "distractors": [
+            "Steckdose",
+            "Kartoffel",
+            "Schaukel"
+          ]
+        }
+      }
+    ]
+  },
+  "einmal": {
+    "senses": [
+      {
+        "zh": "一次；曾經",
+        "en": "once, at some point",
+        "ex": {
+          "de": "Ich war schon {einmal} in Berlin, aber nur kurz.",
+          "zh": "我曾經去過柏林，但只待了很短的時間。",
+          "en": "I have been to Berlin once, but only briefly.",
+          "distractors": [
+            "bitte",
+            "sehr",
+            "wohin"
+          ]
+        }
+      }
+    ]
+  },
+  "einnehmen": {
+    "senses": [
+      {
+        "zh": "服用（藥）；佔領；賺取",
+        "en": "to take (medicine); to occupy",
+        "ex": {
+          "de": "Dreimal am Tag muss er diese Tabletten {einnehmen}.",
+          "zh": "他每天必須吃三次這種藥。",
+          "en": "He has to take these tablets three times a day.",
+          "distractors": [
+            "pflücken",
+            "fangen",
+            "zeichnen"
+          ]
+        }
+      }
+    ]
+  },
+  "einnahme": {
+    "senses": [
+      {
+        "zh": "服用；（複數）收入",
+        "en": "intake; (pl.) takings, revenue",
+        "ex": {
+          "de": "Die {Einnahme} der Tabletten sollte man nicht vergessen.",
+          "zh": "不要忘記吃藥。",
+          "en": "You should not forget to take the tablets.",
+          "distractors": [
+            "Zwiebel",
+            "Leiter",
+            "Kommode"
+          ]
+        }
+      },
+      {
+        "zh": "（複數）收入；營收",
+        "en": "takings, revenue",
+        "ex": {
+          "de": "Die {Einnahmen} des Cafés sind im Sommer besonders hoch.",
+          "zh": "這家咖啡館夏天的營收特別高。",
+          "en": "The café's takings are especially high in summer.",
+          "distractors": [
+            "Katzen",
+            "Hosen",
+            "Uhren"
+          ]
+        }
+      }
+    ]
+  },
+  "einpacken": {
+    "senses": [
+      {
+        "zh": "包起來；裝進（行李）",
+        "en": "to pack, wrap",
+        "ex": {
+          "de": "Ich muss noch meine Zahnbürste {einpacken}.",
+          "zh": "我還得把牙刷放進行李。",
+          "en": "I still have to pack my toothbrush.",
+          "distractors": [
+            "schlafen",
+            "tanzen",
+            "lächeln"
+          ]
+        }
+      }
+    ]
+  },
+  "einrichten": {
+    "senses": [
+      {
+        "zh": "布置；設置",
+        "en": "to furnish, set up",
+        "ex": {
+          "de": "Wir wollen das Kinderzimmer bunt {einrichten}.",
+          "zh": "我們想把兒童房布置得色彩繽紛。",
+          "en": "We want to furnish the children's room in bright colours.",
+          "distractors": [
+            "singen",
+            "wandern",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "einrichtung": {
+    "senses": [
+      {
+        "zh": "布置；家具擺設",
+        "en": "furnishings, interior",
+        "ex": {
+          "de": "Die {Einrichtung} der Wohnung war modern und hell.",
+          "zh": "這間公寓的布置現代又明亮。",
+          "en": "The furnishing of the flat was modern and bright.",
+          "distractors": [
+            "Zwiebel",
+            "Schüssel",
+            "Haltestelle"
+          ]
+        }
+      },
+      {
+        "zh": "機構；設施",
+        "en": "institution, facility",
+        "ex": {
+          "de": "Das Krankenhaus ist eine wichtige {Einrichtung} in unserer Stadt.",
+          "zh": "醫院是我們城市裡重要的機構。",
+          "en": "The hospital is an important institution in our town.",
+          "distractors": [
+            "Kerze",
+            "Birne",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "einsam": {
+    "senses": [
+      {
+        "zh": "孤單的；寂寞的",
+        "en": "lonely",
+        "ex": {
+          "de": "Nach dem Umzug fühlte sie sich in der neuen Stadt {einsam}.",
+          "zh": "搬家後她在新城市裡覺得很孤單。",
+          "en": "After the move she felt lonely in the new city.",
+          "distractors": [
+            "gelb",
+            "wöchentlich",
+            "rechteckig"
+          ]
+        }
+      }
+    ]
+  },
+  "einschalten": {
+    "senses": [
+      {
+        "zh": "打開（電器）；開（燈）",
+        "en": "to switch on",
+        "ex": {
+          "de": "Kannst du bitte das Licht im Flur {einschalten}?",
+          "zh": "你可以幫我開走廊的燈嗎？",
+          "en": "Can you please switch on the light in the hall?",
+          "distractors": [
+            "füttern",
+            "gießen",
+            "kämmen"
+          ]
+        }
+      }
+    ]
+  },
+  "einschliesslich": {
+    "senses": [
+      {
+        "zh": "包括…在內",
+        "en": "including",
+        "ex": {
+          "de": "Das Hotel kostet 80 Euro, {einschließlich} Frühstück.",
+          "zh": "這間旅館一晚八十歐元，含早餐。",
+          "en": "The hotel costs 80 euros, including breakfast.",
+          "distractors": [
+            "gegenüber",
+            "entlang",
+            "während"
+          ]
+        }
+      }
+    ]
+  },
+  "einschreiben": {
+    "senses": [
+      {
+        "zh": "掛號信",
+        "en": "registered letter",
+        "ex": {
+          "de": "Der Brief kam als {Einschreiben}, ich musste unterschreiben.",
+          "zh": "這封信是掛號寄來的，我得簽收。",
+          "en": "The letter came as a registered letter; I had to sign.",
+          "distractors": [
+            "Gemüse",
+            "Gepäck",
+            "Hemd"
+          ]
+        }
+      }
+    ]
+  },
+  "einsetzen": {
+    "senses": [
+      {
+        "zh": "填入；放進去",
+        "en": "to insert, fill in",
+        "ex": {
+          "de": "In die Lücke musst du das richtige Wort {einsetzen}.",
+          "zh": "你要在空格裡填入正確的字。",
+          "en": "You must fill the right word into the gap.",
+          "distractors": [
+            "regnen",
+            "schwitzen",
+            "niesen"
+          ]
+        }
+      }
+    ]
+  },
+  "einsteigen": {
+    "senses": [
+      {
+        "zh": "上（車）",
+        "en": "to get on, board",
+        "ex": {
+          "de": "In Frankfurt müssen wir in den Zug nach Wien {einsteigen}.",
+          "zh": "我們要在法蘭克福上往維也納的火車。",
+          "en": "In Frankfurt we have to board the train to Vienna.",
+          "distractors": [
+            "ertrinken",
+            "verhungern",
+            "erwachen"
+          ]
+        }
+      }
+    ]
+  },
+  "einstellen": {
+    "senses": [
+      {
+        "zh": "僱用；調整",
+        "en": "to hire; to adjust",
+        "ex": {
+          "de": "Wir wollen im Herbst zwei neue Mitarbeiter {einstellen}.",
+          "zh": "我們打算在秋天僱用兩位新同事。",
+          "en": "We want to hire two new employees in autumn.",
+          "distractors": [
+            "ernten",
+            "löten",
+            "schälen"
+          ]
+        }
+      }
+    ]
+  },
+  "eintragen": {
+    "senses": [
+      {
+        "zh": "登記；填入",
+        "en": "to enter, register",
+        "ex": {
+          "de": "Du musst deinen Namen in die Liste {eintragen}.",
+          "zh": "你必須把名字登記到名單上。",
+          "en": "You have to enter your name on the list.",
+          "distractors": [
+            "aussteigen",
+            "verreisen",
+            "ankommen"
+          ]
+        }
+      }
+    ]
+  },
+  "eintritt": {
+    "senses": [
+      {
+        "zh": "入場；入場費",
+        "en": "entry, admission",
+        "ex": {
+          "de": "Der {Eintritt} ins Museum ist für Kinder frei.",
+          "zh": "兒童免費進入博物館。",
+          "en": "Admission to the museum is free for children.",
+          "distractors": [
+            "Schrank",
+            "Hafen",
+            "Apfel"
+          ]
+        }
+      }
+    ]
+  },
+  "einverstanden": {
+    "senses": [
+      {
+        "zh": "同意的",
+        "en": "in agreement, agreed",
+        "ex": {
+          "de": "Ich bin mit deinem Vorschlag völlig {einverstanden}.",
+          "zh": "我完全同意你的提議。",
+          "en": "I completely agree with your suggestion.",
+          "distractors": [
+            "blond",
+            "rund",
+            "hungrig"
+          ]
+        }
+      }
+    ]
+  },
+  "einwohner": {
+    "senses": [
+      {
+        "zh": "居民（男）",
+        "en": "inhabitant, resident",
+        "ex": {
+          "de": "Jeder {Einwohner} der Stadt bekommt einen Brief vom Bürgermeister.",
+          "zh": "這座城市的每位居民都會收到市長的信。",
+          "en": "Every resident of the town gets a letter from the mayor.",
+          "distractors": [
+            "Hammer",
+            "Korb",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "einwohnerin": {
+    "senses": [
+      {
+        "zh": "居民（女）",
+        "en": "female inhabitant, resident",
+        "ex": {
+          "de": "Die {Einwohnerin} im Erdgeschoss spricht nur Spanisch.",
+          "zh": "住在一樓的那位女住戶只會說西班牙語。",
+          "en": "The female resident on the ground floor only speaks Spanish.",
+          "distractors": [
+            "Treppe",
+            "Tür",
+            "Küche"
+          ]
+        }
+      }
+    ]
+  },
+  "einzahlen": {
+    "senses": [
+      {
+        "zh": "存入（錢）；繳款",
+        "en": "to pay in, deposit",
+        "ex": {
+          "de": "Ich möchte Geld auf mein Konto {einzahlen}.",
+          "zh": "我想把錢存進我的帳戶。",
+          "en": "I would like to pay money into my account.",
+          "distractors": [
+            "trinken",
+            "kochen",
+            "streicheln"
+          ]
+        }
+      }
+    ]
+  },
+  "einzeln": {
+    "senses": [
+      {
+        "zh": "單獨的；一個一個地",
+        "en": "single, individually",
+        "ex": {
+          "de": "Die Äpfel werden {einzeln} verkauft.",
+          "zh": "蘋果是一顆一顆分開賣的。",
+          "en": "The apples are sold individually.",
+          "distractors": [
+            "winzig",
+            "gebogen",
+            "schief"
+          ]
+        }
+      }
+    ]
+  },
+  "einzel": {
+    "senses": [
+      {
+        "zh": "單人的；單獨的（複合字首）",
+        "en": "single (prefix)",
+        "ex": {
+          "de": "Ich habe ein {Einzel}zimmer für zwei Nächte gebucht.",
+          "zh": "我訂了兩晚的單人房。",
+          "en": "I booked a single room for two nights.",
+          "distractors": [
+            "Wasser",
+            "Schuh",
+            "Hunde"
+          ]
+        }
+      }
+    ]
+  },
+  "einzelheit": {
+    "senses": [
+      {
+        "zh": "細節",
+        "en": "detail",
+        "ex": {
+          "de": "Der Zeuge erzählte jede {Einzelheit} des Unfalls.",
+          "zh": "目擊者講述了事故的每個細節。",
+          "en": "The witness described every detail of the accident.",
+          "distractors": [
+            "Schere",
+            "Gurke",
+            "Pfanne"
+          ]
+        }
+      }
+    ]
+  },
+  "einzig": {
+    "senses": [
+      {
+        "zh": "唯一的",
+        "en": "only, sole",
+        "ex": {
+          "de": "Das ist mein {einziges} Problem im Moment.",
+          "zh": "這是我目前唯一的問題。",
+          "en": "That is my only problem at the moment.",
+          "distractors": [
+            "gelbes",
+            "rundes",
+            "nasses"
+          ]
+        }
+      }
+    ]
+  },
+  "einziehen": {
+    "senses": [
+      {
+        "zh": "搬進去",
+        "en": "to move in",
+        "ex": {
+          "de": "Nächste Woche wollen wir in die neue Wohnung {einziehen}.",
+          "zh": "下週我們要搬進新家。",
+          "en": "Next week we want to move into the new flat.",
+          "distractors": [
+            "verblühen",
+            "erfrieren",
+            "einrosten"
+          ]
+        }
+      }
+    ]
+  },
+  "eis": {
+    "senses": [
+      {
+        "zh": "冰淇淋；冰",
+        "en": "ice cream; ice",
+        "ex": {
+          "de": "Im Sommer esse ich jeden Tag ein {Eis} mit Schokolade.",
+          "zh": "夏天我每天都吃一支巧克力冰淇淋。",
+          "en": "In summer I eat a chocolate ice cream every day.",
+          "distractors": [
+            "Buch",
+            "Fahrrad",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "eis-2": {
+    "senses": [
+      {
+        "zh": "冰淇淋",
+        "en": "ice cream",
+        "ex": {
+          "de": "Nach dem Essen gibt es für alle {Eis} mit Früchten.",
+          "zh": "飯後每個人都有水果冰淇淋。",
+          "en": "After the meal there is ice cream with fruit for everyone.",
+          "distractors": [
+            "Sofa",
+            "Telefon",
+            "Hemd"
+          ]
+        }
+      }
+    ]
+  },
+  "eisenbahn": {
+    "senses": [
+      {
+        "zh": "鐵路；火車",
+        "en": "railway",
+        "ex": {
+          "de": "Die {Eisenbahn} verbindet unsere Stadt mit der Hauptstadt.",
+          "zh": "鐵路把我們的城市和首都連起來。",
+          "en": "The railway connects our town with the capital.",
+          "distractors": [
+            "Schere",
+            "Gurke",
+            "Pfanne"
+          ]
+        }
+      }
+    ]
+  },
+  "elegant": {
+    "senses": [
+      {
+        "zh": "優雅的",
+        "en": "elegant",
+        "ex": {
+          "de": "Auf der Hochzeit trug sie ein sehr {elegantes} Kleid.",
+          "zh": "在婚禮上她穿了一件很優雅的洋裝。",
+          "en": "At the wedding she wore a very elegant dress.",
+          "distractors": [
+            "saures",
+            "hungriges",
+            "flüssiges"
+          ]
+        }
+      }
+    ]
+  },
+  "elektrisch": {
+    "senses": [
+      {
+        "zh": "電的；電動的",
+        "en": "electric",
+        "ex": {
+          "de": "Mein Bruder hat sich ein {elektrisches} Fahrrad gekauft.",
+          "zh": "我哥哥買了一輛電動腳踏車。",
+          "en": "My brother bought himself an electric bike.",
+          "distractors": [
+            "mündliches",
+            "wöchentliches",
+            "durstiges"
+          ]
+        }
+      }
+    ]
+  },
+  "elektro": {
+    "senses": [
+      {
+        "zh": "電…（複合字首）",
+        "en": "electro- (prefix)",
+        "ex": {
+          "de": "Mein Nachbar fährt ein {Elektro}auto.",
+          "zh": "我的鄰居開電動車。",
+          "en": "My neighbour drives an electric car.",
+          "distractors": [
+            "Himmel",
+            "Zahn",
+            "Kaffee"
+          ]
+        }
+      }
+    ]
+  },
+  "elektronisch": {
+    "senses": [
+      {
+        "zh": "電子的",
+        "en": "electronic",
+        "ex": {
+          "de": "Du kannst das Formular auch {elektronisch} ausfüllen.",
+          "zh": "你也可以用電子方式填寫這份表格。",
+          "en": "You can also fill in the form electronically.",
+          "distractors": [
+            "bergauf",
+            "blau",
+            "rückwärts"
+          ]
+        }
+      }
+    ]
+  },
+  "eltern": {
+    "senses": [
+      {
+        "zh": "父母",
+        "en": "parents",
+        "ex": {
+          "de": "Meine {Eltern} wohnen in einem kleinen Dorf am Meer.",
+          "zh": "我的父母住在海邊的小村莊。",
+          "en": "My parents live in a small village by the sea.",
+          "distractors": [
+            "Schuhe",
+            "Bäume",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "empfangen": {
+    "senses": [
+      {
+        "zh": "接待；收到",
+        "en": "to receive, welcome",
+        "ex": {
+          "de": "Die Gäste wurden vom Bürgermeister herzlich {empfangen}.",
+          "zh": "客人受到市長熱情的接待。",
+          "en": "The guests were warmly welcomed by the mayor.",
+          "distractors": [
+            "gepflückt",
+            "gestrichen",
+            "gebohrt"
+          ]
+        }
+      }
+    ]
+  },
+  "empfang": {
+    "senses": [
+      {
+        "zh": "接待；（旅館）櫃檯；收訊",
+        "en": "reception, welcome",
+        "ex": {
+          "de": "Am {Empfang} des Hotels bekommst du den Schlüssel.",
+          "zh": "你在旅館的櫃檯可以拿到鑰匙。",
+          "en": "You get the key at the hotel reception.",
+          "distractors": [
+            "Mond",
+            "Zahn",
+            "Hals"
+          ]
+        }
+      }
+    ]
+  },
+  "empfaenger": {
+    "senses": [
+      {
+        "zh": "收件人；接收者",
+        "en": "recipient",
+        "ex": {
+          "de": "Der {Empfänger} muss das Paket unterschreiben.",
+          "zh": "收件人必須簽收這個包裹。",
+          "en": "The recipient has to sign for the parcel.",
+          "distractors": [
+            "Teller",
+            "Ofen",
+            "Stuhl"
+          ]
+        }
+      }
+    ]
+  },
+  "empfehlen": {
+    "senses": [
+      {
+        "zh": "推薦；建議",
+        "en": "to recommend",
+        "ex": {
+          "de": "Kannst du mir ein gutes Restaurant {empfehlen}?",
+          "zh": "你可以推薦我一家好餐廳嗎？",
+          "en": "Can you recommend a good restaurant to me?",
+          "distractors": [
+            "pflanzen",
+            "bohren",
+            "kratzen"
+          ]
+        }
+      }
+    ]
+  },
+  "empfehlung": {
+    "senses": [
+      {
+        "zh": "推薦；建議",
+        "en": "recommendation",
+        "ex": {
+          "de": "Danke für die {Empfehlung}, das Buch war toll.",
+          "zh": "謝謝你的推薦，這本書很棒。",
+          "en": "Thanks for the recommendation, the book was great.",
+          "distractors": [
+            "Schraube",
+            "Kommode",
+            "Zitrone"
+          ]
+        }
+      }
+    ]
+  },
+  "enden": {
+    "senses": [
+      {
+        "zh": "結束",
+        "en": "to end",
+        "ex": {
+          "de": "Der Film {endet} erst gegen Mitternacht.",
+          "zh": "這部電影到接近午夜才結束。",
+          "en": "The film does not end until around midnight.",
+          "distractors": [
+            "wächst",
+            "blüht",
+            "friert"
+          ]
+        }
+      }
+    ]
+  },
+  "ende": {
+    "senses": [
+      {
+        "zh": "結尾；盡頭",
+        "en": "end",
+        "ex": {
+          "de": "Am {Ende} des Monats ziehen wir um.",
+          "zh": "月底我們要搬家。",
+          "en": "At the end of the month we are moving.",
+          "distractors": [
+            "Messer",
+            "Zimmer",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "endgueltig": {
+    "senses": [
+      {
+        "zh": "最終的；確定的",
+        "en": "final, definite",
+        "ex": {
+          "de": "Die Entscheidung ist {endgültig}, daran ändert sich nichts.",
+          "zh": "這個決定是最終的，不會再改變。",
+          "en": "The decision is final; nothing will change that.",
+          "distractors": [
+            "blau",
+            "salzig",
+            "lecker"
+          ]
+        }
+      }
+    ]
+  },
+  "endlich": {
+    "senses": [
+      {
+        "zh": "終於",
+        "en": "finally, at last",
+        "ex": {
+          "de": "Nach langem Warten ist der Zug {endlich} gekommen.",
+          "zh": "等了很久，火車終於來了。",
+          "en": "After a long wait the train finally came.",
+          "distractors": [
+            "nirgends",
+            "wöchentlich",
+            "bergab"
+          ]
+        }
+      }
+    ]
+  },
+  "energie": {
+    "senses": [
+      {
+        "zh": "能源；精力",
+        "en": "energy",
+        "ex": {
+          "de": "Wir sparen {Energie}, wenn wir das Licht ausmachen.",
+          "zh": "我們把燈關掉就能節省能源。",
+          "en": "We save energy when we turn off the light.",
+          "distractors": [
+            "Ananas",
+            "Nadel",
+            "Bürste"
+          ]
+        }
+      }
+    ]
+  },
+  "eng": {
+    "senses": [
+      {
+        "zh": "窄的；緊的",
+        "en": "narrow, tight",
+        "ex": {
+          "de": "Die Hose ist mir zu {eng}, ich brauche eine größere.",
+          "zh": "這件褲子對我來說太緊了，我需要大一點的。",
+          "en": "The trousers are too tight for me; I need bigger ones.",
+          "distractors": [
+            "sauer",
+            "laut",
+            "freundlich"
+          ]
+        }
+      }
+    ]
+  }
+}
