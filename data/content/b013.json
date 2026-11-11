@@ -1,0 +1,916 @@
+{
+  "buerger": {
+    "senses": [
+      {
+        "zh": "市民；公民",
+        "en": "citizen",
+        "ex": {
+          "de": "Jeder {Bürger} darf in dieser Stadt bei der Wahl mitmachen.",
+          "zh": "這個城市的每位市民都可以參加選舉。",
+          "en": "Every citizen may take part in the election in this city.",
+          "distractors": [
+            "Löffel",
+            "Rucksack",
+            "Kühlschrank"
+          ]
+        }
+      }
+    ]
+  },
+  "buero": {
+    "senses": [
+      {
+        "zh": "辦公室",
+        "en": "office",
+        "ex": {
+          "de": "Mein {Büro} liegt im dritten Stock neben der Treppe.",
+          "zh": "我的辦公室在三樓樓梯旁邊。",
+          "en": "My office is on the third floor next to the stairs.",
+          "distractors": [
+            "Handtuch",
+            "Frühstück",
+            "Gewitter"
+          ]
+        }
+      }
+    ]
+  },
+  "buerste": {
+    "senses": [
+      {
+        "zh": "刷子",
+        "en": "brush",
+        "ex": {
+          "de": "Mit einer harten {Bürste} kann man die Schuhe sauber machen.",
+          "zh": "用一把硬刷子可以把鞋子刷乾淨。",
+          "en": "You can clean shoes with a hard brush.",
+          "distractors": [
+            "Zwiebel",
+            "Gardine",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "zahnbuerste": {
+    "senses": [
+      {
+        "zh": "牙刷",
+        "en": "toothbrush",
+        "ex": {
+          "de": "Morgens und abends putze ich mir mit der {Zahnbürste} die Zähne.",
+          "zh": "我早晚都用牙刷刷牙。",
+          "en": "Morning and evening I brush my teeth with the toothbrush.",
+          "distractors": [
+            "Suppe",
+            "Landkarte",
+            "Waschmaschine"
+          ]
+        }
+      }
+    ]
+  },
+  "bus": {
+    "senses": [
+      {
+        "zh": "公車",
+        "en": "bus",
+        "ex": {
+          "de": "Der {Bus} fährt jeden Morgen um acht Uhr zur Schule.",
+          "zh": "公車每天早上八點開往學校。",
+          "en": "The bus goes to the school every morning at eight.",
+          "distractors": [
+            "Regenschirm",
+            "Fisch",
+            "Apfel"
+          ]
+        }
+      }
+    ]
+  },
+  "butter": {
+    "senses": [
+      {
+        "zh": "奶油；牛油",
+        "en": "butter",
+        "ex": {
+          "de": "Die {Butter} ist im Kühlschrank zu hart zum Streichen.",
+          "zh": "奶油放在冰箱裡太硬，抹不開。",
+          "en": "The butter is too hard to spread in the fridge.",
+          "distractors": [
+            "Lampe",
+            "Hose",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "cafe": {
+    "senses": [
+      {
+        "zh": "咖啡館",
+        "en": "café",
+        "ex": {
+          "de": "Wir treffen uns heute Nachmittag in einem kleinen {Café}.",
+          "zh": "我們今天下午約在一間小咖啡館見面。",
+          "en": "We are meeting this afternoon in a small café.",
+          "distractors": [
+            "Hemd",
+            "Fahrrad",
+            "Ei"
+          ]
+        }
+      }
+    ]
+  },
+  "cafeteria": {
+    "senses": [
+      {
+        "zh": "自助餐廳；學生餐廳",
+        "en": "cafeteria",
+        "ex": {
+          "de": "In der {Cafeteria} der Schule gibt es günstiges Mittagessen.",
+          "zh": "學校的餐廳有便宜的午餐。",
+          "en": "The school cafeteria serves cheap lunch.",
+          "distractors": [
+            "Garage",
+            "Treppe",
+            "Toilette"
+          ]
+        }
+      }
+    ]
+  },
+  "chance": {
+    "senses": [
+      {
+        "zh": "機會",
+        "en": "chance, opportunity",
+        "ex": {
+          "de": "Das ist deine letzte {Chance}, den Zug zu erreichen.",
+          "zh": "這是你趕上火車的最後機會。",
+          "en": "This is your last chance to catch the train.",
+          "distractors": [
+            "Kreuzung",
+            "Tomate",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "chef": {
+    "senses": [
+      {
+        "zh": "老闆；主管（男）",
+        "en": "boss, manager",
+        "ex": {
+          "de": "Mein {Chef} ist heute auf einer Reise in Berlin.",
+          "zh": "我的老闆今天出差去柏林了。",
+          "en": "My boss is on a trip to Berlin today.",
+          "distractors": [
+            "Kuchen",
+            "Tisch",
+            "Bahnhof"
+          ]
+        }
+      }
+    ]
+  },
+  "chefin": {
+    "senses": [
+      {
+        "zh": "老闆；主管（女）",
+        "en": "boss, manager (female)",
+        "ex": {
+          "de": "Unsere {Chefin} lobt uns oft für gute Arbeit.",
+          "zh": "我們的女主管常常稱讚我們工作做得好。",
+          "en": "Our boss often praises us for good work.",
+          "distractors": [
+            "Schere",
+            "Kerze",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "coiffeur": {
+    "senses": [
+      {
+        "zh": "理髮師（瑞士用語，男）",
+        "en": "hairdresser (Swiss, male)",
+        "ex": {
+          "de": "Der {Coiffeur} hat mir die Haare sehr kurz geschnitten.",
+          "zh": "理髮師把我的頭髮剪得很短。",
+          "en": "The hairdresser cut my hair very short.",
+          "distractors": [
+            "Schlüssel",
+            "Teller",
+            "Mantel"
+          ]
+        }
+      }
+    ]
+  },
+  "coiffeuse": {
+    "senses": [
+      {
+        "zh": "理髮師（瑞士用語，女）",
+        "en": "hairdresser (Swiss, female)",
+        "ex": {
+          "de": "Die {Coiffeuse} wäscht mir zuerst die Haare.",
+          "zh": "理髮師先幫我洗頭髮。",
+          "en": "The hairdresser washes my hair first.",
+          "distractors": [
+            "Kartoffel",
+            "Zeitung",
+            "Tasse"
+          ]
+        }
+      }
+    ]
+  },
+  "couch": {
+    "senses": [
+      {
+        "zh": "沙發",
+        "en": "couch, sofa",
+        "ex": {
+          "de": "Abends sitzen wir gemütlich auf der {Couch} und sehen fern.",
+          "zh": "晚上我們舒服地坐在沙發上看電視。",
+          "en": "In the evening we sit comfortably on the couch and watch TV.",
+          "distractors": [
+            "Banane",
+            "Kreide",
+            "Weste"
+          ]
+        }
+      }
+    ]
+  },
+  "creme": {
+    "senses": [
+      {
+        "zh": "乳霜；面霜",
+        "en": "cream",
+        "ex": {
+          "de": "Die {Creme} ist gut für trockene Haut an den Händen.",
+          "zh": "這條乳霜對手上的乾燥肌膚很好。",
+          "en": "The cream is good for dry skin on the hands.",
+          "distractors": [
+            "Pfanne",
+            "Wand",
+            "Kuh"
+          ]
+        }
+      }
+    ]
+  },
+  "cousin": {
+    "senses": [
+      {
+        "zh": "表哥；表弟；堂兄弟",
+        "en": "cousin (male)",
+        "ex": {
+          "de": "Mein {Cousin} wohnt in München und studiert dort.",
+          "zh": "我的表哥住在慕尼黑，在那裡念書。",
+          "en": "My cousin lives in Munich and studies there.",
+          "distractors": [
+            "Ball",
+            "Zug",
+            "Himmel"
+          ]
+        }
+      }
+    ]
+  },
+  "cousine": {
+    "senses": [
+      {
+        "zh": "表姊；表妹；堂姊妹",
+        "en": "cousin (female)",
+        "ex": {
+          "de": "Meine {Cousine} hat nächste Woche Geburtstag.",
+          "zh": "我的表姊下週生日。",
+          "en": "My cousin has her birthday next week.",
+          "distractors": [
+            "Tür",
+            "Mütze",
+            "Birne"
+          ]
+        }
+      }
+    ]
+  },
+  "couvert": {
+    "senses": [
+      {
+        "zh": "信封（瑞士用語）",
+        "en": "envelope (Swiss)",
+        "ex": {
+          "de": "Ich brauche ein {Couvert} und eine Briefmarke für den Brief.",
+          "zh": "我需要一個信封和一張郵票來寄這封信。",
+          "en": "I need an envelope and a stamp for the letter.",
+          "distractors": [
+            "Messer",
+            "Zelt",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "da": {
+    "senses": [
+      {
+        "zh": "在那裡；在場",
+        "en": "there, present",
+        "ex": {
+          "de": "Ich bin gleich {da}, wartet bitte kurz auf mich.",
+          "zh": "我馬上就到，請你們稍等我一下。",
+          "en": "I'll be there in a moment, please wait for me briefly.",
+          "distractors": [
+            "sehr",
+            "vorgestern",
+            "kaum"
+          ]
+        }
+      }
+    ]
+  },
+  "dabei": {
+    "senses": [
+      {
+        "zh": "同時；在這過程中",
+        "en": "at the same time, while doing so",
+        "ex": {
+          "de": "Ich lese gern Zeitung und trinke {dabei} einen Tee.",
+          "zh": "我喜歡看報紙，同時喝杯茶。",
+          "en": "I like reading the paper and drinking a tea while doing so.",
+          "distractors": [
+            "gestern",
+            "ziemlich",
+            "sehr"
+          ]
+        }
+      }
+    ]
+  },
+  "dach": {
+    "senses": [
+      {
+        "zh": "屋頂",
+        "en": "roof",
+        "ex": {
+          "de": "Auf dem {Dach} unseres Hauses sitzen viele Tauben.",
+          "zh": "我們家的屋頂上停著很多鴿子。",
+          "en": "Many pigeons sit on the roof of our house.",
+          "distractors": [
+            "Brot",
+            "Fieber",
+            "Heft"
+          ]
+        }
+      }
+    ]
+  },
+  "dafuer": {
+    "senses": [
+      {
+        "zh": "相對地；為此",
+        "en": "on the other hand, in return",
+        "ex": {
+          "de": "Der Kuchen war teuer, {dafür} aber richtig lecker.",
+          "zh": "這蛋糕很貴，不過相對地真的很好吃。",
+          "en": "The cake was expensive, but really tasty in return.",
+          "distractors": [
+            "zuerst",
+            "vorgestern",
+            "kaum"
+          ]
+        }
+      }
+    ]
+  },
+  "dagegen": {
+    "senses": [
+      {
+        "zh": "反對；對此",
+        "en": "against it; on the other hand",
+        "ex": {
+          "de": "Ich habe nichts {dagegen}, wenn du später kommst.",
+          "zh": "如果你晚點來，我不介意。",
+          "en": "I have nothing against it if you come later.",
+          "distractors": [
+            "damals",
+            "hierher",
+            "oben"
+          ]
+        }
+      }
+    ]
+  },
+  "daher": {
+    "senses": [
+      {
+        "zh": "因此；所以",
+        "en": "therefore, that's why",
+        "ex": {
+          "de": "Es regnet stark, {daher} bleiben wir heute zu Hause.",
+          "zh": "雨下得很大，所以我們今天待在家。",
+          "en": "It's raining hard, so we are staying home today.",
+          "distractors": [
+            "gestern",
+            "links",
+            "oben"
+          ]
+        }
+      }
+    ]
+  },
+  "dahin": {
+    "senses": [
+      {
+        "zh": "到那裡",
+        "en": "(to) there",
+        "ex": {
+          "de": "Der Bahnhof ist weit weg, wie komme ich {dahin}?",
+          "zh": "車站很遠，我要怎麼去那裡？",
+          "en": "The station is far away, how do I get there?",
+          "distractors": [
+            "damals",
+            "oben",
+            "sehr"
+          ]
+        }
+      }
+    ]
+  },
+  "damals": {
+    "senses": [
+      {
+        "zh": "當時；那時候",
+        "en": "back then",
+        "ex": {
+          "de": "{Damals} hatte ich noch kein Handy und kein Internet.",
+          "zh": "那時候我還沒有手機，也沒有網路。",
+          "en": "Back then I had no mobile phone and no internet yet.",
+          "distractors": [
+            "Morgen",
+            "Bald",
+            "Übermorgen"
+          ]
+        }
+      }
+    ]
+  },
+  "dame": {
+    "senses": [
+      {
+        "zh": "女士",
+        "en": "lady",
+        "ex": {
+          "de": "Die alte {Dame} hat mir im Bus ihren Platz angeboten.",
+          "zh": "那位老太太在公車上讓位給我。",
+          "en": "The old lady offered me her seat on the bus.",
+          "distractors": [
+            "Tasse",
+            "Dusche",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "damit": {
+    "senses": [
+      {
+        "zh": "為了；以便",
+        "en": "so that",
+        "ex": {
+          "de": "Ich fahre früh los, {damit} ich nicht zu spät komme.",
+          "zh": "我很早出發，以免遲到。",
+          "en": "I leave early so that I don't arrive late.",
+          "distractors": [
+            "ob",
+            "sondern",
+            "als"
+          ]
+        }
+      }
+    ]
+  },
+  "danach": {
+    "senses": [
+      {
+        "zh": "之後；然後",
+        "en": "afterwards",
+        "ex": {
+          "de": "Zuerst essen wir, {danach} gehen wir im Park spazieren.",
+          "zh": "我們先吃飯，之後去公園散步。",
+          "en": "First we eat, afterwards we go for a walk in the park.",
+          "distractors": [
+            "hierher",
+            "nirgends",
+            "ziemlich"
+          ]
+        }
+      }
+    ]
+  },
+  "daneben": {
+    "senses": [
+      {
+        "zh": "在旁邊",
+        "en": "next to it",
+        "ex": {
+          "de": "Das Kino ist groß, {daneben} steht ein kleines Café.",
+          "zh": "電影院很大，旁邊有一間小咖啡館。",
+          "en": "The cinema is big, next to it stands a small café.",
+          "distractors": [
+            "bald",
+            "kaum",
+            "gestern"
+          ]
+        }
+      }
+    ]
+  },
+  "danken": {
+    "senses": [
+      {
+        "zh": "感謝；道謝",
+        "en": "to thank",
+        "ex": {
+          "de": "Ich möchte meiner Lehrerin für ihre Hilfe {danken}.",
+          "zh": "我想感謝我的老師的幫忙。",
+          "en": "I would like to thank my teacher for her help.",
+          "distractors": [
+            "tanzen",
+            "schwimmen",
+            "wachsen"
+          ]
+        }
+      }
+    ]
+  },
+  "dank": {
+    "senses": [
+      {
+        "zh": "感謝；謝意",
+        "en": "thanks, gratitude",
+        "ex": {
+          "de": "Mein herzlicher {Dank} geht an alle Helfer.",
+          "zh": "我由衷的謝意要送給所有幫忙的人。",
+          "en": "My heartfelt thanks go to all the helpers.",
+          "distractors": [
+            "Bleistift",
+            "Nebel",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "dankbar": {
+    "senses": [
+      {
+        "zh": "感激的",
+        "en": "grateful",
+        "ex": {
+          "de": "Nach der Operation war meine Mutter allen Ärzten sehr {dankbar}.",
+          "zh": "手術後，我媽媽對所有醫生都非常感激。",
+          "en": "After the operation my mother was very grateful to all the doctors.",
+          "distractors": [
+            "krank",
+            "billig",
+            "sauber"
+          ]
+        }
+      }
+    ]
+  },
+  "danke": {
+    "senses": [
+      {
+        "zh": "謝謝",
+        "en": "thanks",
+        "ex": {
+          "de": "{Danke} für den Tipp, das hat mir wirklich geholfen!",
+          "zh": "謝謝你的建議，真的幫了我大忙！",
+          "en": "Thanks for the tip, that really helped me!",
+          "distractors": [
+            "Hallo",
+            "Tschüss",
+            "Willkommen"
+          ]
+        }
+      }
+    ]
+  },
+  "dann": {
+    "senses": [
+      {
+        "zh": "然後；接著",
+        "en": "then",
+        "ex": {
+          "de": "Zuerst dusche ich, {dann} frühstücke ich in Ruhe.",
+          "zh": "我先洗澡，然後安靜地吃早餐。",
+          "en": "First I shower, then I have breakfast in peace.",
+          "distractors": [
+            "links",
+            "sehr",
+            "vorgestern"
+          ]
+        }
+      }
+    ]
+  },
+  "darstellen": {
+    "senses": [
+      {
+        "zh": "表現；描繪；代表",
+        "en": "to depict, represent",
+        "ex": {
+          "de": "Das Bild soll eine Familie beim Essen {darstellen}.",
+          "zh": "這幅畫要描繪一家人吃飯的樣子。",
+          "en": "The picture is meant to depict a family eating.",
+          "distractors": [
+            "erben",
+            "kochen",
+            "waschen"
+          ]
+        }
+      }
+    ]
+  },
+  "darstellung": {
+    "senses": [
+      {
+        "zh": "描述；呈現；圖示",
+        "en": "description, depiction",
+        "ex": {
+          "de": "Die {Darstellung} im Buch war klar und leicht zu verstehen.",
+          "zh": "書裡的說明清楚又好懂。",
+          "en": "The depiction in the book was clear and easy to understand.",
+          "distractors": [
+            "Hose",
+            "Gardine",
+            "Bohne"
+          ]
+        }
+      }
+    ]
+  },
+  "dass": {
+    "senses": [
+      {
+        "zh": "（連接詞）…這件事",
+        "en": "that",
+        "ex": {
+          "de": "Ich glaube, {dass} es morgen regnen wird.",
+          "zh": "我覺得明天會下雨。",
+          "en": "I think that it will rain tomorrow.",
+          "distractors": [
+            "ob",
+            "als",
+            "sondern"
+          ]
+        }
+      }
+    ]
+  },
+  "datei": {
+    "senses": [
+      {
+        "zh": "檔案",
+        "en": "file",
+        "ex": {
+          "de": "Ich habe die {Datei} per E-Mail an den Lehrer geschickt.",
+          "zh": "我把這個檔案用電子郵件寄給老師了。",
+          "en": "I sent the file to the teacher by e-mail.",
+          "distractors": [
+            "Wiese",
+            "Zahnpasta",
+            "Gurke"
+          ]
+        }
+      }
+    ]
+  },
+  "datum": {
+    "senses": [
+      {
+        "zh": "日期",
+        "en": "date",
+        "ex": {
+          "de": "Bitte schreiben Sie das heutige {Datum} oben auf das Blatt.",
+          "zh": "請在紙的最上方寫上今天的日期。",
+          "en": "Please write today's date at the top of the sheet.",
+          "distractors": [
+            "Gewitter",
+            "Eis",
+            "Schaf"
+          ]
+        }
+      }
+    ]
+  },
+  "daten": {
+    "senses": [
+      {
+        "zh": "資料；數據",
+        "en": "data",
+        "ex": {
+          "de": "Alle persönlichen {Daten} sind auf meinem Computer gespeichert.",
+          "zh": "我所有的個人資料都存在我的電腦裡。",
+          "en": "All my personal data is stored on my computer.",
+          "distractors": [
+            "Birnen",
+            "Kühe",
+            "Schuhe"
+          ]
+        }
+      }
+    ]
+  },
+  "dauern": {
+    "senses": [
+      {
+        "zh": "持續；花（時間）",
+        "en": "to last, take (time)",
+        "ex": {
+          "de": "Die Fahrt zum Flughafen wird etwa eine Stunde {dauern}.",
+          "zh": "到機場的車程大約要一小時。",
+          "en": "The trip to the airport will take about an hour.",
+          "distractors": [
+            "wohnen",
+            "lachen",
+            "schmecken"
+          ]
+        }
+      }
+    ]
+  },
+  "dauer": {
+    "senses": [
+      {
+        "zh": "持續時間；期間",
+        "en": "duration",
+        "ex": {
+          "de": "Die {Dauer} des Films beträgt fast drei Stunden.",
+          "zh": "這部電影的片長將近三小時。",
+          "en": "The film lasts almost three hours.",
+          "distractors": [
+            "Farbe",
+            "Wand",
+            "Nadel"
+          ]
+        }
+      }
+    ]
+  },
+  "dauernd": {
+    "senses": [
+      {
+        "zh": "不斷地；老是",
+        "en": "constantly",
+        "ex": {
+          "de": "Warum stellst du mir {dauernd} dieselbe Frage?",
+          "zh": "你為什麼老是問我同一個問題？",
+          "en": "Why do you keep asking me the same question?",
+          "distractors": [
+            "sehr",
+            "links",
+            "hinten"
+          ]
+        }
+      }
+    ]
+  },
+  "decke": {
+    "senses": [
+      {
+        "zh": "毯子；被子",
+        "en": "blanket",
+        "ex": {
+          "de": "Im Winter schlafe ich unter einer dicken {Decke}.",
+          "zh": "冬天我睡在一條厚毯子下面。",
+          "en": "In winter I sleep under a thick blanket.",
+          "distractors": [
+            "Brille",
+            "Münze",
+            "Möhre"
+          ]
+        }
+      },
+      {
+        "zh": "天花板",
+        "en": "ceiling",
+        "ex": {
+          "de": "Die {Decke} in meinem Zimmer ist sehr hoch.",
+          "zh": "我房間的天花板很高。",
+          "en": "The ceiling in my room is very high.",
+          "distractors": [
+            "Gurke",
+            "Tasse",
+            "Birne"
+          ]
+        }
+      }
+    ]
+  },
+  "dekorieren": {
+    "senses": [
+      {
+        "zh": "裝飾；佈置",
+        "en": "to decorate",
+        "ex": {
+          "de": "Wir wollen den Saal für die Party mit Ballons {dekorieren}.",
+          "zh": "我們想用氣球佈置派對的會場。",
+          "en": "We want to decorate the hall for the party with balloons.",
+          "distractors": [
+            "trinken",
+            "rennen",
+            "lernen"
+          ]
+        }
+      }
+    ]
+  },
+  "denken": {
+    "senses": [
+      {
+        "zh": "想；思考；認為",
+        "en": "to think",
+        "ex": {
+          "de": "Woran {denkst} du gerade? Du siehst so ernst aus.",
+          "zh": "你在想什麼？你看起來好嚴肅。",
+          "en": "What are you thinking about? You look so serious.",
+          "distractors": [
+            "kochst",
+            "tanzt",
+            "schwimmst"
+          ]
+        }
+      }
+    ]
+  },
+  "gedanke": {
+    "senses": [
+      {
+        "zh": "想法；念頭",
+        "en": "thought, idea",
+        "ex": {
+          "de": "Der {Gedanke} an die Prüfung macht mich ganz nervös.",
+          "zh": "一想到考試我就很緊張。",
+          "en": "The thought of the exam makes me very nervous.",
+          "distractors": [
+            "Hammer",
+            "Salat",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "denkmal": {
+    "senses": [
+      {
+        "zh": "紀念碑；古蹟",
+        "en": "monument",
+        "ex": {
+          "de": "Vor dem Rathaus steht ein altes {Denkmal} aus Stein.",
+          "zh": "市政廳前面有一座石頭做的舊紀念碑。",
+          "en": "In front of the town hall stands an old stone monument.",
+          "distractors": [
+            "Wörterbuch",
+            "Radio",
+            "Lineal"
+          ]
+        }
+      }
+    ]
+  },
+  "denn": {
+    "senses": [
+      {
+        "zh": "因為",
+        "en": "because, for",
+        "ex": {
+          "de": "Ich bleibe heute zu Hause, {denn} ich bin sehr müde.",
+          "zh": "我今天待在家，因為我很累。",
+          "en": "I'm staying home today because I am very tired.",
+          "distractors": [
+            "weil",
+            "dass",
+            "ob"
+          ]
+        }
+      }
+    ]
+  }
+}

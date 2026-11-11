@@ -1,0 +1,902 @@
+{
+  "besprechung": {
+    "senses": [
+      {
+        "zh": "會議；商談",
+        "en": "meeting, discussion",
+        "ex": {
+          "de": "Die {Besprechung} im Büro beginnt um neun Uhr.",
+          "zh": "辦公室的會議九點開始。",
+          "en": "The meeting in the office starts at nine.",
+          "distractors": [
+            "Tomate",
+            "Brille",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "bestaetigen": {
+    "senses": [
+      {
+        "zh": "確認；證實",
+        "en": "to confirm",
+        "ex": {
+          "de": "Können Sie bitte meine Reservierung per E-Mail {bestätigen}?",
+          "zh": "您可以用電子郵件確認我的訂位嗎？",
+          "en": "Could you please confirm my reservation by email?",
+          "distractors": [
+            "kochen",
+            "waschen",
+            "streichen"
+          ]
+        }
+      }
+    ]
+  },
+  "bestehen": {
+    "senses": [
+      {
+        "zh": "通過（考試）；存在",
+        "en": "to pass (an exam); to exist",
+        "ex": {
+          "de": "Meine Schwester hat die Prüfung endlich {bestanden}.",
+          "zh": "我姊姊終於通過考試了。",
+          "en": "My sister has finally passed the exam.",
+          "distractors": [
+            "geschlafen",
+            "gewaschen",
+            "gesungen"
+          ]
+        }
+      }
+    ]
+  },
+  "bestellen": {
+    "senses": [
+      {
+        "zh": "訂；點（餐）",
+        "en": "to order",
+        "ex": {
+          "de": "Wir möchten zwei Kaffee und einen Kuchen {bestellen}.",
+          "zh": "我們想點兩杯咖啡和一塊蛋糕。",
+          "en": "We would like to order two coffees and a cake.",
+          "distractors": [
+            "schlafen",
+            "wandern",
+            "lächeln"
+          ]
+        }
+      }
+    ]
+  },
+  "bestimmt": {
+    "senses": [
+      {
+        "zh": "一定；肯定",
+        "en": "certainly, surely",
+        "ex": {
+          "de": "Du schaffst die Prüfung {bestimmt}, du hast so viel gelernt.",
+          "zh": "你一定能通過考試，你學了那麼多。",
+          "en": "You will surely pass the exam; you have studied so much.",
+          "distractors": [
+            "gestern",
+            "links",
+            "damals"
+          ]
+        }
+      }
+    ]
+  },
+  "bestrafen": {
+    "senses": [
+      {
+        "zh": "處罰",
+        "en": "to punish",
+        "ex": {
+          "de": "Der Lehrer wollte den Schüler nicht {bestrafen}.",
+          "zh": "老師不想處罰那個學生。",
+          "en": "The teacher did not want to punish the student.",
+          "distractors": [
+            "pflanzen",
+            "mähen",
+            "streichen"
+          ]
+        }
+      }
+    ]
+  },
+  "besuchen": {
+    "senses": [
+      {
+        "zh": "拜訪；參觀",
+        "en": "to visit",
+        "ex": {
+          "de": "Am Wochenende wollen wir unsere Oma im Krankenhaus {besuchen}.",
+          "zh": "週末我們想去醫院探望奶奶。",
+          "en": "At the weekend we want to visit our grandma in the hospital.",
+          "distractors": [
+            "gießen",
+            "pflücken",
+            "reparieren"
+          ]
+        }
+      }
+    ]
+  },
+  "besuch": {
+    "senses": [
+      {
+        "zh": "拜訪；訪客",
+        "en": "visit; visitor",
+        "ex": {
+          "de": "Der {Besuch} aus Berlin kommt heute um drei Uhr an.",
+          "zh": "從柏林來的訪客今天三點到。",
+          "en": "The visitor from Berlin arrives today at three o'clock.",
+          "distractors": [
+            "Schrank",
+            "Apfel",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "beteiligen": {
+    "senses": [
+      {
+        "zh": "參與",
+        "en": "to take part",
+        "ex": {
+          "de": "Alle Schüler sollen sich am Projekt {beteiligen}.",
+          "zh": "所有學生都應該參與這個專案。",
+          "en": "All the students should take part in the project.",
+          "distractors": [
+            "verlaufen",
+            "rasieren",
+            "erkälten"
+          ]
+        }
+      }
+    ]
+  },
+  "betrag": {
+    "senses": [
+      {
+        "zh": "金額",
+        "en": "amount (of money)",
+        "ex": {
+          "de": "Der {Betrag} auf der Rechnung ist viel höher als gedacht.",
+          "zh": "帳單上的金額比預期高很多。",
+          "en": "The amount on the invoice is much higher than expected.",
+          "distractors": [
+            "Hund",
+            "Mantel",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "betreuen": {
+    "senses": [
+      {
+        "zh": "照顧；照料",
+        "en": "to look after, care for",
+        "ex": {
+          "de": "Im Sommer muss ich meine kleine Schwester {betreuen}.",
+          "zh": "夏天我得照顧我的妹妹。",
+          "en": "In summer I have to look after my little sister.",
+          "distractors": [
+            "melken",
+            "tapezieren",
+            "sägen"
+          ]
+        }
+      }
+    ]
+  },
+  "betreuer": {
+    "senses": [
+      {
+        "zh": "（男）照顧者；輔導員",
+        "en": "carer, supervisor (male)",
+        "ex": {
+          "de": "Der {Betreuer} im Ferienlager spielt jeden Abend Gitarre.",
+          "zh": "營隊的輔導員每天晚上彈吉他。",
+          "en": "The counselor at the holiday camp plays guitar every evening.",
+          "distractors": [
+            "Zaun",
+            "Teller",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "betreuerin": {
+    "senses": [
+      {
+        "zh": "（女）照顧者；輔導員",
+        "en": "carer, supervisor (female)",
+        "ex": {
+          "de": "Unsere {Betreuerin} im Kindergarten heißt Frau Weber.",
+          "zh": "我們幼稚園的老師叫韋伯女士。",
+          "en": "Our carer at the kindergarten is called Mrs. Weber.",
+          "distractors": [
+            "Kartoffel",
+            "Zahnbürste",
+            "Kreide"
+          ]
+        }
+      }
+    ]
+  },
+  "betreuung": {
+    "senses": [
+      {
+        "zh": "照顧；托育",
+        "en": "care, supervision",
+        "ex": {
+          "de": "Die {Betreuung} der Kinder kostet im Monat 200 Euro.",
+          "zh": "孩子的托育每個月要 200 歐元。",
+          "en": "The childcare costs 200 euros a month.",
+          "distractors": [
+            "Pfütze",
+            "Wespe",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "betrieb": {
+    "senses": [
+      {
+        "zh": "公司；工廠；營運",
+        "en": "company, business; operation",
+        "ex": {
+          "de": "Mein Vater arbeitet seit zehn Jahren in einem {Betrieb} in Köln.",
+          "zh": "我爸爸在科隆的一家公司工作十年了。",
+          "en": "My father has worked for ten years at a company in Cologne.",
+          "distractors": [
+            "Sessel",
+            "Kürbis",
+            "Fluss"
+          ]
+        }
+      }
+    ]
+  },
+  "betriebsraetin": {
+    "senses": [
+      {
+        "zh": "（女）職工代表",
+        "en": "works council member (female)",
+        "ex": {
+          "de": "Die {Betriebsrätin} spricht mit dem Chef über die Arbeitszeiten.",
+          "zh": "職工代表正和老闆談工作時間。",
+          "en": "The works council member talks to the boss about working hours.",
+          "distractors": [
+            "Gurke",
+            "Schere",
+            "Matratze"
+          ]
+        }
+      }
+    ]
+  },
+  "betruegen": {
+    "senses": [
+      {
+        "zh": "欺騙；背叛",
+        "en": "to cheat, deceive",
+        "ex": {
+          "de": "Der Händler wollte seine Kunden nicht {betrügen}.",
+          "zh": "那個商人不想欺騙他的客人。",
+          "en": "The dealer did not want to cheat his customers.",
+          "distractors": [
+            "sägen",
+            "pflücken",
+            "gießen"
+          ]
+        }
+      }
+    ]
+  },
+  "betrunken": {
+    "senses": [
+      {
+        "zh": "喝醉的",
+        "en": "drunk",
+        "ex": {
+          "de": "Nach der Party war mein Bruder völlig {betrunken}.",
+          "zh": "派對之後我哥哥完全喝醉了。",
+          "en": "After the party my brother was completely drunk.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "bewölkt"
+          ]
+        }
+      }
+    ]
+  },
+  "bett": {
+    "senses": [
+      {
+        "zh": "床",
+        "en": "bed",
+        "ex": {
+          "de": "Ich lese abends gern ein Buch in meinem {Bett}.",
+          "zh": "我晚上喜歡在自己的床上看書。",
+          "en": "In the evening I like to read a book in my bed.",
+          "distractors": [
+            "Fenster",
+            "Radio",
+            "Messer"
+          ]
+        }
+      }
+    ]
+  },
+  "bevoelkerung": {
+    "senses": [
+      {
+        "zh": "人口；居民",
+        "en": "population",
+        "ex": {
+          "de": "Die {Bevölkerung} der Stadt wächst jedes Jahr.",
+          "zh": "這座城市的人口每年都在增加。",
+          "en": "The population of the city grows every year.",
+          "distractors": [
+            "Zitrone",
+            "Brücke",
+            "Kartoffel"
+          ]
+        }
+      }
+    ]
+  },
+  "bevor": {
+    "senses": [
+      {
+        "zh": "在…之前",
+        "en": "before (conjunction)",
+        "ex": {
+          "de": "Ruf mich bitte an, {bevor} du aus dem Haus gehst.",
+          "zh": "出門之前請打電話給我。",
+          "en": "Please call me before you leave the house.",
+          "distractors": [
+            "ob",
+            "dass",
+            "indem"
+          ]
+        }
+      }
+    ]
+  },
+  "bewegung": {
+    "senses": [
+      {
+        "zh": "運動；活動",
+        "en": "movement, exercise",
+        "ex": {
+          "de": "Für den Rücken ist {Bewegung} sehr wichtig.",
+          "zh": "運動對背部非常重要。",
+          "en": "Exercise is very important for the back.",
+          "distractors": [
+            "Seide",
+            "Butter",
+            "Wolle"
+          ]
+        }
+      }
+    ]
+  },
+  "beweisen": {
+    "senses": [
+      {
+        "zh": "證明",
+        "en": "to prove",
+        "ex": {
+          "de": "Der Schüler konnte seine Unschuld nicht {beweisen}.",
+          "zh": "那個學生無法證明自己的清白。",
+          "en": "The student could not prove his innocence.",
+          "distractors": [
+            "kämmen",
+            "pflücken",
+            "schälen"
+          ]
+        }
+      }
+    ]
+  },
+  "beweis": {
+    "senses": [
+      {
+        "zh": "證據；證明",
+        "en": "proof, evidence",
+        "ex": {
+          "de": "Ein Foto ist kein sicherer {Beweis}.",
+          "zh": "一張照片不是可靠的證據。",
+          "en": "A photo is not reliable proof.",
+          "distractors": [
+            "Garten",
+            "Mantel",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "bewerben": {
+    "senses": [
+      {
+        "zh": "應徵；申請",
+        "en": "to apply (for)",
+        "ex": {
+          "de": "Ich möchte mich um die Stelle als Lehrerin {bewerben}.",
+          "zh": "我想應徵那個老師的職缺。",
+          "en": "I would like to apply for the position as a teacher.",
+          "distractors": [
+            "verlaufen",
+            "erkälten",
+            "verspäten"
+          ]
+        }
+      }
+    ]
+  },
+  "bewerbung": {
+    "senses": [
+      {
+        "zh": "應徵；申請書",
+        "en": "application",
+        "ex": {
+          "de": "Meine {Bewerbung} habe ich gestern per E-Mail geschickt.",
+          "zh": "我昨天用電子郵件寄出了我的應徵資料。",
+          "en": "I sent my application by email yesterday.",
+          "distractors": [
+            "Hose",
+            "Karotte",
+            "Banane"
+          ]
+        }
+      }
+    ]
+  },
+  "bewohner": {
+    "senses": [
+      {
+        "zh": "（男）居民；住戶",
+        "en": "resident (male)",
+        "ex": {
+          "de": "Jeder {Bewohner} des Hauses bekommt einen eigenen Schlüssel.",
+          "zh": "這棟房子的每位住戶都有自己的鑰匙。",
+          "en": "Every resident of the house gets his own key.",
+          "distractors": [
+            "Apfel",
+            "Hammer",
+            "Kuchen"
+          ]
+        }
+      }
+    ]
+  },
+  "bewohnerin": {
+    "senses": [
+      {
+        "zh": "（女）居民；住戶",
+        "en": "resident (female)",
+        "ex": {
+          "de": "Die {Bewohnerin} im dritten Stock hat mir heute Brot gebracht.",
+          "zh": "三樓的住戶今天給我送來了麵包。",
+          "en": "The resident on the third floor brought me bread today.",
+          "distractors": [
+            "Lampe",
+            "Wiese",
+            "Gurke"
+          ]
+        }
+      }
+    ]
+  },
+  "bezahlen": {
+    "senses": [
+      {
+        "zh": "付款；支付",
+        "en": "to pay",
+        "ex": {
+          "de": "Ich möchte bitte mit Karte {bezahlen}.",
+          "zh": "我想用卡付款。",
+          "en": "I would like to pay by card, please.",
+          "distractors": [
+            "zelten",
+            "frieren",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "beziehung": {
+    "senses": [
+      {
+        "zh": "關係；感情",
+        "en": "relationship",
+        "ex": {
+          "de": "Sie hat eine sehr gute {Beziehung} zu ihren Eltern.",
+          "zh": "她和父母的關係非常好。",
+          "en": "She has a very good relationship with her parents.",
+          "distractors": [
+            "Socke",
+            "Muschel",
+            "Feder"
+          ]
+        }
+      }
+    ]
+  },
+  "bibliothek": {
+    "senses": [
+      {
+        "zh": "圖書館",
+        "en": "library",
+        "ex": {
+          "de": "Ich leihe jede Woche drei Bücher in der {Bibliothek} aus.",
+          "zh": "我每週都在圖書館借三本書。",
+          "en": "Every week I borrow three books from the library.",
+          "distractors": [
+            "Waschmaschine",
+            "Schublade",
+            "Badewanne"
+          ]
+        }
+      }
+    ]
+  },
+  "bier": {
+    "senses": [
+      {
+        "zh": "啤酒",
+        "en": "beer",
+        "ex": {
+          "de": "Zum Fußballspiel trinken wir immer ein kaltes {Bier}.",
+          "zh": "看足球賽時我們總是喝一杯冰啤酒。",
+          "en": "During the football match we always drink a cold beer.",
+          "distractors": [
+            "Messer",
+            "Fenster",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "bieten": {
+    "senses": [
+      {
+        "zh": "提供；出價",
+        "en": "to offer",
+        "ex": {
+          "de": "Das Hotel kann uns leider kein Zimmer mehr {bieten}.",
+          "zh": "旅館很遺憾沒辦法再提供我們房間了。",
+          "en": "Unfortunately the hotel cannot offer us a room any more.",
+          "distractors": [
+            "trinken",
+            "singen",
+            "würfeln"
+          ]
+        }
+      }
+    ]
+  },
+  "bild": {
+    "senses": [
+      {
+        "zh": "圖片；畫",
+        "en": "picture, painting",
+        "ex": {
+          "de": "Über dem Sofa hängt ein großes {Bild} von meiner Familie.",
+          "zh": "沙發上方掛著一幅我家人的大照片。",
+          "en": "Above the sofa hangs a big picture of my family.",
+          "distractors": [
+            "Fenster",
+            "Pferd",
+            "Messer"
+          ]
+        }
+      }
+    ]
+  },
+  "bildschirm": {
+    "senses": [
+      {
+        "zh": "螢幕",
+        "en": "screen",
+        "ex": {
+          "de": "Der {Bildschirm} im Büro flackert und zeigt kein Bild mehr.",
+          "zh": "辦公室的螢幕在閃爍，不再顯示畫面了。",
+          "en": "The screen in the office flickers and shows no picture any more.",
+          "distractors": [
+            "Stuhl",
+            "Teller",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "billett": {
+    "senses": [
+      {
+        "zh": "（瑞士）車票；門票",
+        "en": "ticket (Swiss)",
+        "ex": {
+          "de": "Ich zeige dem Schaffner mein {Billett}.",
+          "zh": "我把車票拿給列車長看。",
+          "en": "I show my ticket to the conductor.",
+          "distractors": [
+            "Klavier",
+            "Gebirge",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "billig": {
+    "senses": [
+      {
+        "zh": "便宜的",
+        "en": "cheap",
+        "ex": {
+          "de": "Die Schuhe waren zwar {billig}, aber sie gingen schnell kaputt.",
+          "zh": "這雙鞋雖然便宜，卻很快就壞了。",
+          "en": "The shoes were cheap, but they broke quickly.",
+          "distractors": [
+            "nördlich",
+            "mündlich",
+            "jährlich"
+          ]
+        }
+      }
+    ]
+  },
+  "biologie": {
+    "senses": [
+      {
+        "zh": "生物學；生物課",
+        "en": "biology",
+        "ex": {
+          "de": "In {Biologie} lernen wir viel über Pflanzen und Tiere.",
+          "zh": "在生物課我們學到很多關於植物和動物的知識。",
+          "en": "In biology we learn a lot about plants and animals.",
+          "distractors": [
+            "Milch",
+            "Sahne",
+            "Seife"
+          ]
+        }
+      }
+    ]
+  },
+  "bio": {
+    "senses": [
+      {
+        "zh": "有機的（Bio-…）",
+        "en": "organic (Bio-)",
+        "ex": {
+          "de": "Ich kaufe nur {Bio}-Gemüse auf dem Wochenmarkt.",
+          "zh": "我在傳統市場只買有機蔬菜。",
+          "en": "I only buy organic vegetables at the weekly market.",
+          "distractors": [
+            "Gummi",
+            "Stahl",
+            "Beton"
+          ]
+        }
+      }
+    ]
+  },
+  "bio-2": {
+    "senses": [
+      {
+        "zh": "有機的；生態的",
+        "en": "organic, ecological",
+        "ex": {
+          "de": "Die Eier kommen aus {biologischer} Haltung.",
+          "zh": "這些蛋來自有機飼養。",
+          "en": "The eggs come from organic farming.",
+          "distractors": [
+            "mündlicher",
+            "nördlicher",
+            "viereckiger"
+          ]
+        }
+      }
+    ]
+  },
+  "birne": {
+    "senses": [
+      {
+        "zh": "梨子；燈泡",
+        "en": "pear; light bulb",
+        "ex": {
+          "de": "Zum Nachtisch gab es eine süße {Birne} mit Schokolade.",
+          "zh": "甜點是配巧克力的甜梨子。",
+          "en": "For dessert there was a sweet pear with chocolate.",
+          "distractors": [
+            "Zange",
+            "Kerze",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "bis": {
+    "senses": [
+      {
+        "zh": "到…為止",
+        "en": "until, up to",
+        "ex": {
+          "de": "Das Geschäft ist heute nur {bis} sechs Uhr geöffnet.",
+          "zh": "這家店今天只營業到六點。",
+          "en": "The shop is only open until six o'clock today.",
+          "distractors": [
+            "ohne",
+            "wegen",
+            "mit"
+          ]
+        }
+      }
+    ]
+  },
+  "bisher": {
+    "senses": [
+      {
+        "zh": "到目前為止",
+        "en": "so far, until now",
+        "ex": {
+          "de": "Ich habe {bisher} noch keine Antwort von der Firma bekommen.",
+          "zh": "到目前為止我還沒收到公司的回覆。",
+          "en": "So far I have not received an answer from the company.",
+          "distractors": [
+            "morgen",
+            "gestern",
+            "nachher"
+          ]
+        }
+      }
+    ]
+  },
+  "ein-bisschen": {
+    "senses": [
+      {
+        "zh": "一點點",
+        "en": "a little, a bit",
+        "ex": {
+          "de": "Kannst du mir {ein bisschen} Salz geben?",
+          "zh": "你可以給我一點鹽嗎？",
+          "en": "Can you give me a little salt?",
+          "distractors": [
+            "ein Dach",
+            "ein Bein",
+            "ein Ohr"
+          ]
+        }
+      }
+    ]
+  },
+  "bitten": {
+    "senses": [
+      {
+        "zh": "請求；拜託",
+        "en": "to ask, request",
+        "ex": {
+          "de": "Darf ich dich um einen kleinen Gefallen {bitten}?",
+          "zh": "我可以請你幫個小忙嗎？",
+          "en": "May I ask you for a small favor?",
+          "distractors": [
+            "kochen",
+            "husten",
+            "tanzen"
+          ]
+        }
+      }
+    ]
+  },
+  "bitte": {
+    "senses": [
+      {
+        "zh": "請求；願望",
+        "en": "request, favor",
+        "ex": {
+          "de": "Ich habe eine {Bitte} an dich: Kannst du mir helfen?",
+          "zh": "我有件事想拜託你：你可以幫我嗎？",
+          "en": "I have a request for you: can you help me?",
+          "distractors": [
+            "Karotte",
+            "Zitrone",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "bitte-2": {
+    "senses": [
+      {
+        "zh": "請；不客氣",
+        "en": "please; you're welcome",
+        "ex": {
+          "de": "{Bitte}, komm doch herein und setz dich.",
+          "zh": "請進來坐吧。",
+          "en": "Please, do come in and sit down.",
+          "distractors": [
+            "Leider",
+            "Gestern",
+            "Vielleicht"
+          ]
+        }
+      }
+    ]
+  },
+  "bitter": {
+    "senses": [
+      {
+        "zh": "苦的",
+        "en": "bitter",
+        "ex": {
+          "de": "Der Kaffee ohne Zucker schmeckt mir einfach zu {bitter}.",
+          "zh": "不加糖的咖啡我覺得太苦了。",
+          "en": "Coffee without sugar simply tastes too bitter to me.",
+          "distractors": [
+            "neblig",
+            "täglich",
+            "schriftlich"
+          ]
+        }
+      }
+    ]
+  },
+  "blass": {
+    "senses": [
+      {
+        "zh": "蒼白的",
+        "en": "pale",
+        "ex": {
+          "de": "Nach der Grippe sah sie noch sehr {blass} aus.",
+          "zh": "感冒後她看起來還很蒼白。",
+          "en": "After the flu she still looked very pale.",
+          "distractors": [
+            "wöchentlich",
+            "östlich",
+            "eintägig"
+          ]
+        }
+      }
+    ]
+  },
+  "blatt": {
+    "senses": [
+      {
+        "zh": "葉子；（一張）紙",
+        "en": "leaf; sheet of paper",
+        "ex": {
+          "de": "Auf dem Boden lag ein gelbes {Blatt} von der Birke.",
+          "zh": "地上躺著一片來自樺樹的黃葉。",
+          "en": "On the ground lay a yellow leaf from the birch tree.",
+          "distractors": [
+            "Regal",
+            "Auto",
+            "Hemd"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,930 @@
+{
+  "bleiben": {
+    "senses": [
+      {
+        "zh": "留；待；保持",
+        "en": "to stay, remain",
+        "ex": {
+          "de": "Wir {bleiben} nur eine Woche in Berlin.",
+          "zh": "我們只在柏林待一個星期。",
+          "en": "We are only staying in Berlin for a week.",
+          "distractors": [
+            "öffnen",
+            "lachen",
+            "tragen"
+          ]
+        }
+      }
+    ]
+  },
+  "bleistift": {
+    "senses": [
+      {
+        "zh": "鉛筆",
+        "en": "pencil",
+        "ex": {
+          "de": "Mit dem {Bleistift} kann man Fehler leicht wegradieren.",
+          "zh": "用鉛筆寫的錯誤很容易擦掉。",
+          "en": "With a pencil you can easily erase mistakes.",
+          "distractors": [
+            "Bahnhof",
+            "Käse",
+            "Garten"
+          ]
+        }
+      }
+    ]
+  },
+  "blick": {
+    "senses": [
+      {
+        "zh": "視線；景色；一瞥",
+        "en": "look, view",
+        "ex": {
+          "de": "Vom Balkon hat man einen schönen {Blick} auf den See.",
+          "zh": "從陽台可以看到很美的湖景。",
+          "en": "From the balcony you have a lovely view of the lake.",
+          "distractors": [
+            "Mantel",
+            "Schlüssel",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "blind": {
+    "senses": [
+      {
+        "zh": "盲的；看不見的",
+        "en": "blind",
+        "ex": {
+          "de": "Der alte Hund ist fast {blind} und läuft gegen die Tür.",
+          "zh": "那隻老狗幾乎看不見，還撞到了門。",
+          "en": "The old dog is almost blind and runs into the door.",
+          "distractors": [
+            "kostenlos",
+            "verheiratet",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "blitzen": {
+    "senses": [
+      {
+        "zh": "閃電；（照相機）閃光",
+        "en": "to flash with lightning",
+        "ex": {
+          "de": "Draußen hat es die ganze Nacht {geblitzt} und gedonnert.",
+          "zh": "外面整晚都在打雷閃電。",
+          "en": "Outside it lightninged and thundered all night.",
+          "distractors": [
+            "gelacht",
+            "gesungen",
+            "getanzt"
+          ]
+        }
+      }
+    ]
+  },
+  "blitz": {
+    "senses": [
+      {
+        "zh": "閃電",
+        "en": "lightning",
+        "ex": {
+          "de": "Der {Blitz} hat letzte Nacht in einen Baum eingeschlagen.",
+          "zh": "昨晚閃電劈中了一棵樹。",
+          "en": "Lightning struck a tree last night.",
+          "distractors": [
+            "Fisch",
+            "Schuh",
+            "Kaffee"
+          ]
+        }
+      }
+    ]
+  },
+  "blond": {
+    "senses": [
+      {
+        "zh": "金髮的",
+        "en": "blond",
+        "ex": {
+          "de": "Der kleine Junge hat dicke {blonde} Locken.",
+          "zh": "那個小男孩有一頭濃密的金色捲髮。",
+          "en": "The little boy has thick blond curls.",
+          "distractors": [
+            "saure",
+            "leere",
+            "tote"
+          ]
+        }
+      }
+    ]
+  },
+  "bloss": {
+    "senses": [
+      {
+        "zh": "千萬；到底；只是",
+        "en": "just, only (emphatic)",
+        "ex": {
+          "de": "Mach {bloß} keinen Lärm, das Baby schläft!",
+          "zh": "千萬別吵，寶寶在睡覺！",
+          "en": "Don't make any noise, the baby is sleeping!",
+          "distractors": [
+            "gestern",
+            "sehr",
+            "jemals"
+          ]
+        }
+      }
+    ]
+  },
+  "bluehen": {
+    "senses": [
+      {
+        "zh": "開花",
+        "en": "to bloom",
+        "ex": {
+          "de": "Im Mai {blühen} im Garten die Tulpen.",
+          "zh": "五月時花園裡的鬱金香盛開。",
+          "en": "In May the tulips bloom in the garden.",
+          "distractors": [
+            "bellen",
+            "landen",
+            "schwimmen"
+          ]
+        }
+      }
+    ]
+  },
+  "blume": {
+    "senses": [
+      {
+        "zh": "花",
+        "en": "flower",
+        "ex": {
+          "de": "Die Biene sammelt Nektar aus der {Blume}.",
+          "zh": "蜜蜂從花裡採集花蜜。",
+          "en": "The bee collects nectar from the flower.",
+          "distractors": [
+            "Straße",
+            "Treppe",
+            "Steckdose"
+          ]
+        }
+      }
+    ]
+  },
+  "bluse": {
+    "senses": [
+      {
+        "zh": "女用襯衫",
+        "en": "blouse",
+        "ex": {
+          "de": "Ich trage heute eine blaue {Bluse} zur Arbeit.",
+          "zh": "我今天穿一件藍色襯衫去上班。",
+          "en": "Today I'm wearing a blue blouse to work.",
+          "distractors": [
+            "Kerze",
+            "Wiese",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "bluten": {
+    "senses": [
+      {
+        "zh": "流血",
+        "en": "to bleed",
+        "ex": {
+          "de": "Meine Nase hat plötzlich stark {geblutet}.",
+          "zh": "我的鼻子突然流了很多血。",
+          "en": "My nose suddenly bled a lot.",
+          "distractors": [
+            "gebellt",
+            "geschneit",
+            "gelacht"
+          ]
+        }
+      }
+    ]
+  },
+  "bogen": {
+    "senses": [
+      {
+        "zh": "拱形；弧線",
+        "en": "arch, curve",
+        "ex": {
+          "de": "Die alte Brücke hat nur einen {Bogen} aus Stein.",
+          "zh": "這座老橋只有一個石頭拱。",
+          "en": "The old bridge has only one stone arch.",
+          "distractors": [
+            "Salat",
+            "Kuchen",
+            "Schnee"
+          ]
+        }
+      },
+      {
+        "zh": "（一張）紙",
+        "en": "sheet (of paper)",
+        "ex": {
+          "de": "Bitte geben Sie mir noch einen {Bogen} Papier.",
+          "zh": "請再給我一張紙。",
+          "en": "Please give me another sheet of paper.",
+          "distractors": [
+            "Löffel",
+            "Schluck",
+            "Becher"
+          ]
+        }
+      }
+    ]
+  },
+  "bohne": {
+    "senses": [
+      {
+        "zh": "豆子",
+        "en": "bean",
+        "ex": {
+          "de": "Ich mahle den Kaffee aus frischen {Bohnen} selbst.",
+          "zh": "我自己用新鮮的咖啡豆磨咖啡。",
+          "en": "I grind the coffee myself from fresh beans.",
+          "distractors": [
+            "Tassen",
+            "Zitronen",
+            "Gurken"
+          ]
+        }
+      }
+    ]
+  },
+  "boot": {
+    "senses": [
+      {
+        "zh": "船；小艇",
+        "en": "boat",
+        "ex": {
+          "de": "Wir fahren mit einem kleinen {Boot} über den See.",
+          "zh": "我們搭一艘小船渡過湖面。",
+          "en": "We cross the lake in a small boat.",
+          "distractors": [
+            "Dach",
+            "Zimmer",
+            "Bett"
+          ]
+        }
+      }
+    ]
+  },
+  "botschaft": {
+    "senses": [
+      {
+        "zh": "大使館",
+        "en": "embassy",
+        "ex": {
+          "de": "Ich war gestern bei der deutschen {Botschaft}, um ein Visum zu beantragen.",
+          "zh": "我昨天去德國大使館申請簽證。",
+          "en": "Yesterday I went to the German embassy to apply for a visa.",
+          "distractors": [
+            "Apotheke",
+            "Tankstelle",
+            "Metzgerei"
+          ]
+        }
+      },
+      {
+        "zh": "訊息；要傳達的意思",
+        "en": "message",
+        "ex": {
+          "de": "Die {Botschaft} des Films ist einfach und klar.",
+          "zh": "這部電影要傳達的訊息簡單又清楚。",
+          "en": "The message of the film is simple and clear.",
+          "distractors": [
+            "Waschmaschine",
+            "Zahnbürste",
+            "Haltestelle"
+          ]
+        }
+      }
+    ]
+  },
+  "boese": {
+    "senses": [
+      {
+        "zh": "生氣的；壞的",
+        "en": "angry; bad, evil",
+        "ex": {
+          "de": "Der Nachbar war gestern sehr {böse} auf uns.",
+          "zh": "鄰居昨天非常生我們的氣。",
+          "en": "The neighbour was very angry with us yesterday.",
+          "distractors": [
+            "müde",
+            "nass",
+            "hungrig"
+          ]
+        }
+      }
+    ]
+  },
+  "braten": {
+    "senses": [
+      {
+        "zh": "煎；烤",
+        "en": "to fry, roast",
+        "ex": {
+          "de": "Am Sonntag {braten} wir Fisch in der Pfanne.",
+          "zh": "星期天我們在平底鍋裡煎魚。",
+          "en": "On Sunday we fry fish in the pan.",
+          "distractors": [
+            "singen",
+            "lesen",
+            "reisen"
+          ]
+        }
+      }
+    ]
+  },
+  "braten-2": {
+    "senses": [
+      {
+        "zh": "烤肉",
+        "en": "roast (meat)",
+        "ex": {
+          "de": "Zum Mittagessen gibt es heute einen {Braten} mit Kartoffeln.",
+          "zh": "今天午餐有烤肉配馬鈴薯。",
+          "en": "For lunch today there is a roast with potatoes.",
+          "distractors": [
+            "Hut",
+            "Stuhl",
+            "Regen"
+          ]
+        }
+      }
+    ]
+  },
+  "brauchen": {
+    "senses": [
+      {
+        "zh": "需要",
+        "en": "to need",
+        "ex": {
+          "de": "Für den Kuchen {brauchen} wir noch vier Eier.",
+          "zh": "做蛋糕我們還需要四顆蛋。",
+          "en": "For the cake we still need four eggs.",
+          "distractors": [
+            "schlafen",
+            "winken",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "breit": {
+    "senses": [
+      {
+        "zh": "寬的",
+        "en": "wide, broad",
+        "ex": {
+          "de": "Das Sofa ist zu {breit} für unsere Tür.",
+          "zh": "這張沙發對我們的門來說太寬了。",
+          "en": "The sofa is too wide for our door.",
+          "distractors": [
+            "freundlich",
+            "pünktlich",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "breite": {
+    "senses": [
+      {
+        "zh": "寬度",
+        "en": "width",
+        "ex": {
+          "de": "Die {Breite} des Tisches beträgt genau einen Meter.",
+          "zh": "這張桌子的寬度剛好一公尺。",
+          "en": "The width of the table is exactly one metre.",
+          "distractors": [
+            "Suppe",
+            "Kerze",
+            "Reise"
+          ]
+        }
+      }
+    ]
+  },
+  "bremse": {
+    "senses": [
+      {
+        "zh": "煞車",
+        "en": "brake",
+        "ex": {
+          "de": "Die {Bremse} an meinem Fahrrad funktioniert nicht mehr.",
+          "zh": "我腳踏車的煞車壞了。",
+          "en": "The brake on my bike no longer works.",
+          "distractors": [
+            "Zwiebel",
+            "Wiese",
+            "Banane"
+          ]
+        }
+      }
+    ]
+  },
+  "brennen": {
+    "senses": [
+      {
+        "zh": "燃燒；（燈）亮著",
+        "en": "to burn",
+        "ex": {
+          "de": "Im Wohnzimmer {brennt} noch Licht, obwohl niemand zu Hause ist.",
+          "zh": "客廳的燈還亮著，雖然沒人在家。",
+          "en": "The light is still on in the living room although nobody is home.",
+          "distractors": [
+            "schwimmt",
+            "bellt",
+            "wächst"
+          ]
+        }
+      }
+    ]
+  },
+  "brief": {
+    "senses": [
+      {
+        "zh": "信",
+        "en": "letter",
+        "ex": {
+          "de": "Ich habe meiner Oma einen langen {Brief} geschrieben.",
+          "zh": "我寫了一封長信給奶奶。",
+          "en": "I wrote my grandma a long letter.",
+          "distractors": [
+            "Hut",
+            "Zaun",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "briefkasten": {
+    "senses": [
+      {
+        "zh": "信箱；郵筒",
+        "en": "mailbox",
+        "ex": {
+          "de": "Ich werfe die Karte gleich in den {Briefkasten} vor dem Haus.",
+          "zh": "我馬上把卡片投進屋前的信箱。",
+          "en": "I'll drop the card into the mailbox in front of the house right away.",
+          "distractors": [
+            "Fernseher",
+            "Wasserhahn",
+            "Gürtel"
+          ]
+        }
+      }
+    ]
+  },
+  "briefmarke": {
+    "senses": [
+      {
+        "zh": "郵票",
+        "en": "stamp",
+        "ex": {
+          "de": "Auf den Umschlag klebe ich eine {Briefmarke} und schicke ihn ab.",
+          "zh": "我在信封上貼一張郵票然後寄出去。",
+          "en": "I put a stamp on the envelope and send it off.",
+          "distractors": [
+            "Kartoffel",
+            "Zitrone",
+            "Nudel"
+          ]
+        }
+      }
+    ]
+  },
+  "brieftraeger": {
+    "senses": [
+      {
+        "zh": "郵差",
+        "en": "postman",
+        "ex": {
+          "de": "Der {Briefträger} bringt die Post jeden Morgen um neun.",
+          "zh": "郵差每天早上九點送信來。",
+          "en": "The postman brings the mail every morning at nine.",
+          "distractors": [
+            "Himmel",
+            "Käse",
+            "Regen"
+          ]
+        }
+      }
+    ]
+  },
+  "poestler": {
+    "senses": [
+      {
+        "zh": "郵差（瑞士用語）",
+        "en": "postman (Swiss)",
+        "ex": {
+          "de": "Der {Pöstler} hat heute ein Paket für dich gebracht.",
+          "zh": "郵差今天送來了一個你的包裹。",
+          "en": "The postman brought a parcel for you today.",
+          "distractors": [
+            "Mond",
+            "Schnee",
+            "Hunger"
+          ]
+        }
+      }
+    ]
+  },
+  "briefumschlag": {
+    "senses": [
+      {
+        "zh": "信封",
+        "en": "envelope",
+        "ex": {
+          "de": "Ich brauche noch einen großen {Briefumschlag} für die Unterlagen.",
+          "zh": "我還需要一個大信封來裝文件。",
+          "en": "I still need a big envelope for the documents.",
+          "distractors": [
+            "Hund",
+            "Ofen",
+            "Baum"
+          ]
+        }
+      }
+    ]
+  },
+  "brille": {
+    "senses": [
+      {
+        "zh": "眼鏡",
+        "en": "glasses",
+        "ex": {
+          "de": "Ohne meine {Brille} kann ich die Schrift nicht lesen.",
+          "zh": "沒有眼鏡我看不清這些字。",
+          "en": "Without my glasses I can't read the writing.",
+          "distractors": [
+            "Wiese",
+            "Treppe",
+            "Gurke"
+          ]
+        }
+      }
+    ]
+  },
+  "bringen": {
+    "senses": [
+      {
+        "zh": "帶來；拿來；送",
+        "en": "to bring",
+        "ex": {
+          "de": "Soll ich dir morgen ein Stück Kuchen {bringen}?",
+          "zh": "明天要我帶一塊蛋糕給你嗎？",
+          "en": "Shall I bring you a piece of cake tomorrow?",
+          "distractors": [
+            "tanzen",
+            "besuchen",
+            "ändern"
+          ]
+        }
+      }
+    ]
+  },
+  "broschuere": {
+    "senses": [
+      {
+        "zh": "小冊子",
+        "en": "brochure",
+        "ex": {
+          "de": "Im Reisebüro habe ich eine {Broschüre} über Spanien mitgenommen.",
+          "zh": "我在旅行社拿了一本介紹西班牙的小冊子。",
+          "en": "At the travel agency I took a brochure about Spain.",
+          "distractors": [
+            "Zahnbürste",
+            "Matratze",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "brot": {
+    "senses": [
+      {
+        "zh": "麵包",
+        "en": "bread",
+        "ex": {
+          "de": "Zum Frühstück esse ich gern ein Stück {Brot} mit Butter.",
+          "zh": "早餐我喜歡吃一片抹奶油的麵包。",
+          "en": "For breakfast I like eating a piece of bread with butter.",
+          "distractors": [
+            "Papier",
+            "Holz",
+            "Metall"
+          ]
+        }
+      }
+    ]
+  },
+  "broetchen": {
+    "senses": [
+      {
+        "zh": "小圓麵包",
+        "en": "bread roll",
+        "ex": {
+          "de": "Ich hole am Sonntag frische {Brötchen} vom Bäcker.",
+          "zh": "星期天我去麵包店買新鮮的小麵包。",
+          "en": "On Sunday I get fresh rolls from the bakery.",
+          "distractors": [
+            "Schuhe",
+            "Hefte",
+            "Kerzen"
+          ]
+        }
+      }
+    ]
+  },
+  "broetli": {
+    "senses": [
+      {
+        "zh": "小圓麵包（瑞士用語）",
+        "en": "bread roll (Swiss)",
+        "ex": {
+          "de": "In der Schweiz kaufe ich morgens zwei {Brötli} zum Frühstück.",
+          "zh": "在瑞士我早上會買兩個小麵包當早餐。",
+          "en": "In Switzerland I buy two bread rolls for breakfast in the morning.",
+          "distractors": [
+            "Stiefel",
+            "Fenster",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "bruecke": {
+    "senses": [
+      {
+        "zh": "橋",
+        "en": "bridge",
+        "ex": {
+          "de": "Wir gehen zu Fuß über die {Brücke} zum Bahnhof.",
+          "zh": "我們走路過橋去車站。",
+          "en": "We walk over the bridge to the station.",
+          "distractors": [
+            "Torte",
+            "Zeitung",
+            "Banane"
+          ]
+        }
+      }
+    ]
+  },
+  "bruder": {
+    "senses": [
+      {
+        "zh": "哥哥；弟弟；兄弟",
+        "en": "brother",
+        "ex": {
+          "de": "Mein {Bruder} wohnt seit einem Jahr in Hamburg.",
+          "zh": "我的哥哥已經在漢堡住一年了。",
+          "en": "My brother has lived in Hamburg for a year.",
+          "distractors": [
+            "Computer",
+            "Regen",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "brust": {
+    "senses": [
+      {
+        "zh": "胸；胸部",
+        "en": "chest, breast",
+        "ex": {
+          "de": "Nach dem Sport tut mir die {Brust} weh.",
+          "zh": "運動後我的胸口會痛。",
+          "en": "After exercise my chest hurts.",
+          "distractors": [
+            "Tasse",
+            "Tür",
+            "Hose"
+          ]
+        }
+      }
+    ]
+  },
+  "bub": {
+    "senses": [
+      {
+        "zh": "男孩（奧地利、瑞士用語）",
+        "en": "boy (A, CH)",
+        "ex": {
+          "de": "Der kleine {Bub} spielt im Garten mit seinem Ball.",
+          "zh": "那個小男孩在花園裡玩球。",
+          "en": "The little boy plays with his ball in the garden.",
+          "distractors": [
+            "Schrank",
+            "Teller",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "buch": {
+    "senses": [
+      {
+        "zh": "書",
+        "en": "book",
+        "ex": {
+          "de": "Dieses {Buch} habe ich in einer Nacht gelesen.",
+          "zh": "這本書我一個晚上就讀完了。",
+          "en": "I read this book in a single night.",
+          "distractors": [
+            "Haus",
+            "Messer",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "buchhandlung": {
+    "senses": [
+      {
+        "zh": "書店",
+        "en": "bookshop",
+        "ex": {
+          "de": "Das Wörterbuch kaufe ich morgen in der {Buchhandlung}.",
+          "zh": "那本字典我明天去書店買。",
+          "en": "I'll buy the dictionary at the bookshop tomorrow.",
+          "distractors": [
+            "Metzgerei",
+            "Werkstatt",
+            "Wäscherei"
+          ]
+        }
+      }
+    ]
+  },
+  "buchen": {
+    "senses": [
+      {
+        "zh": "預訂；預約",
+        "en": "to book",
+        "ex": {
+          "de": "Ich möchte einen Flug nach Rom {buchen}.",
+          "zh": "我想訂一張去羅馬的機票。",
+          "en": "I would like to book a flight to Rome.",
+          "distractors": [
+            "essen",
+            "waschen",
+            "pflanzen"
+          ]
+        }
+      }
+    ]
+  },
+  "buchstabieren": {
+    "senses": [
+      {
+        "zh": "拼寫；逐字母念",
+        "en": "to spell",
+        "ex": {
+          "de": "Der Lehrer lässt uns schwierige Wörter laut {buchstabieren}.",
+          "zh": "老師要我們把難的單字大聲拼出來。",
+          "en": "The teacher has us spell difficult words aloud.",
+          "distractors": [
+            "rauchen",
+            "füttern",
+            "kochen"
+          ]
+        }
+      }
+    ]
+  },
+  "buchstabe": {
+    "senses": [
+      {
+        "zh": "字母",
+        "en": "letter (of alphabet)",
+        "ex": {
+          "de": "Mein Name hat nur vier {Buchstaben}.",
+          "zh": "我的名字只有四個字母。",
+          "en": "My name has only four letters.",
+          "distractors": [
+            "Fische",
+            "Wände",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "buechse": {
+    "senses": [
+      {
+        "zh": "罐頭；罐子",
+        "en": "tin, can",
+        "ex": {
+          "de": "Die {Büchse} mit Bohnen steht im Schrank.",
+          "zh": "豆子罐頭放在櫃子裡。",
+          "en": "The tin of beans is in the cupboard.",
+          "distractors": [
+            "Gardine",
+            "Bürste",
+            "Kette"
+          ]
+        }
+      }
+    ]
+  },
+  "buffet": {
+    "senses": [
+      {
+        "zh": "自助餐；餐檯",
+        "en": "buffet",
+        "ex": {
+          "de": "Auf der Hochzeit gab es ein großes {Buffet} mit Salaten.",
+          "zh": "婚禮上有一個擺滿沙拉的大自助餐檯。",
+          "en": "At the wedding there was a big buffet with salads.",
+          "distractors": [
+            "Telefon",
+            "Rathaus",
+            "Fahrrad"
+          ]
+        }
+      }
+    ]
+  },
+  "buehne": {
+    "senses": [
+      {
+        "zh": "舞台",
+        "en": "stage",
+        "ex": {
+          "de": "Die Sängerin steht schon seit zwei Stunden auf der {Bühne}.",
+          "zh": "那位歌手已經在舞台上站了兩個小時。",
+          "en": "The singer has been on stage for two hours already.",
+          "distractors": [
+            "Tasse",
+            "Gurke",
+            "Nudel"
+          ]
+        }
+      }
+    ]
+  },
+  "bunt": {
+    "senses": [
+      {
+        "zh": "色彩繽紛的",
+        "en": "colourful",
+        "ex": {
+          "de": "Auf dem Markt gibt es viele {bunte} Früchte.",
+          "zh": "市場上有很多色彩繽紛的水果。",
+          "en": "At the market there is lots of colourful fruit.",
+          "distractors": [
+            "traurige",
+            "schlaue",
+            "ehrliche"
+          ]
+        }
+      }
+    ]
+  },
+  "burg": {
+    "senses": [
+      {
+        "zh": "城堡",
+        "en": "castle",
+        "ex": {
+          "de": "Auf dem Berg steht eine alte {Burg} mit einem Turm.",
+          "zh": "山上有一座帶塔樓的古老城堡。",
+          "en": "On the mountain stands an old castle with a tower.",
+          "distractors": [
+            "Schere",
+            "Mütze",
+            "Katze"
+          ]
+        }
+      }
+    ]
+  }
+}
