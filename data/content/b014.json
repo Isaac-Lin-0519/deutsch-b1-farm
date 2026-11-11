@@ -729,9 +729,9 @@
           "zh": "孩子們在屋裡玩，因為外面在下雨。",
           "en": "The children play inside because it's raining outside.",
           "distractors": [
-            "draußen",
             "gestern",
-            "früher"
+            "früher",
+            "vorhin"
           ]
         }
       }
