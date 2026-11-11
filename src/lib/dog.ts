@@ -1,7 +1,7 @@
 // 邊牧在家裡的行為：一連串步驟（走到某處、維持某個姿勢、做一件事），做完再挑下一個活動
-import { LIE_H, LIE_W, MOUTH_X, MOUTH_Y, SIT_H, SIT_W, TAIL_DX, WALK_H, WALK_W } from './collie';
+import { HELD_H, HELD_W, LIE_H, LIE_W, MOUTH_X, MOUTH_Y, SIT_H, SIT_W, TAIL_DX, WALK_H, WALK_W } from './collie';
 
-export type Pose = 'sit' | 'ball' | 'walk' | 'sleep';
+export type Pose = 'sit' | 'ball' | 'walk' | 'sleep' | 'held';
 type Point = [number, number];
 
 export type Step =
@@ -21,6 +21,9 @@ export const SPOTS = {
 };
 
 const SPEED = 20; // 每秒幾個美術像素
+const GRAVITY = 900; // 放手後往下掉的加速度
+/** 身體中心在這個範圍內放手，就會落在狗窩裡 */
+const BED_ZONE = { x0: 88, x1: 118, y0: 114, y1: 142 };
 
 export interface World {
   ball: { x: number; y: number };
@@ -41,6 +44,9 @@ export class Dog {
   begging = false;
   wagUntil = 0;
   hopUntil = 0;
+  /** 被拎在半空中 */
+  held = false;
+  private fall: { x: number; y: number; vy: number; bed: boolean } | null = null;
   private q: Step[] = [];
   private cur: Step | null = null;
   private started = 0;
@@ -67,6 +73,52 @@ export class Dog {
 
   get busy(): boolean {
     return this.cur !== null || this.q.length > 0;
+  }
+
+  // ---- 被拎起來 ----
+  /** 還在半空中（被拎著或正在往下掉） */
+  get inAir(): boolean {
+    return this.held || this.fall !== null;
+  }
+
+  pickUp() {
+    this.do([]);
+    this.held = true;
+    this.fall = null;
+    this.pose = 'held';
+  }
+
+  /** 被拎著時跟著手移動，x、y 是腳底中心 */
+  moveHeld(x: number, y: number) {
+    if (!this.held) return;
+    this.fx = x;
+    this.fy = y;
+  }
+
+  /** 現在放手的話會落在哪裡 */
+  dropPoint(): { x: number; y: number; bed: boolean } {
+    const cy = this.fy - HELD_H / 2;
+    if (this.fx >= BED_ZONE.x0 && this.fx <= BED_ZONE.x1 && cy >= BED_ZONE.y0 && cy <= BED_ZONE.y1)
+      return { x: SPOTS.bed[0], y: SPOTS.bed[1], bed: true };
+    return { x: clamp(this.fx, FLOOR.x0, FLOOR.x1), y: clamp(this.fy, FLOOR.y0, FLOOR.y1), bed: false };
+  }
+
+  letGo() {
+    if (!this.held) return;
+    this.held = false;
+    this.fall = { ...this.dropPoint(), vy: 0 };
+  }
+
+  private land(t: number) {
+    const f = this.fall!;
+    this.fx = f.x;
+    this.fy = f.y;
+    this.fall = null;
+    this.pose = 'sit';
+    this.wagUntil = t + 1500;
+    // 放在狗窩裡就順便睡一下；落地前已經排了別的事（例如餵食）就照做
+    if (!this.q.length) this.q = f.bed ? [{ pose: 'sit', dur: 1200 }, { pose: 'sleep', dur: this.r(9000, 14000) }, { pose: 'sit', dur: 1200 }] : [{ pose: 'sit', dur: 2500 }];
+    this.cur = null;
   }
 
   // ---- 活動 ----
@@ -154,6 +206,15 @@ export class Dog {
   }
 
   step(t: number, dt: number) {
+    if (this.held) return;
+    if (this.fall) {
+      const f = this.fall;
+      f.vy += (GRAVITY * dt) / 1000;
+      this.fy += (f.vy * dt) / 1000;
+      this.fx += (f.x - this.fx) * Math.min(1, dt / 60);
+      if (this.fy >= f.y) this.land(t);
+      return;
+    }
     if (!this.cur) {
       if (!this.q.length) this.q = this.idle();
       this.cur = this.q.shift()!;
@@ -189,6 +250,7 @@ export class Dog {
 
   /** 目前姿勢佔的範圍（點擊判定用） */
   box() {
+    if (this.pose === 'held') return { x: this.fx - HELD_W / 2, y: this.fy - HELD_H, w: HELD_W, h: HELD_H };
     if (this.pose === 'walk') return { x: this.fx - WALK_W / 2, y: this.fy - WALK_H, w: WALK_W, h: WALK_H };
     if (this.pose === 'sleep') return { x: this.fx - LIE_W / 2, y: this.fy - LIE_H, w: LIE_W, h: LIE_H };
     // 尾巴拖在身後，朝右時在左邊

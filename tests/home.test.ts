@@ -1,7 +1,7 @@
 import { describe, expect, it } from 'vitest';
 import { freshCare, hearts, knows, toNextHeart } from '../src/lib/affection';
 import { BALL, LIE, SIT, WALK_A, WALK_B, WALK_H, WALK_W } from '../src/lib/collie';
-import { Dog, SPOTS, type World } from '../src/lib/dog';
+import { Dog, FLOOR, SPOTS, type World } from '../src/lib/dog';
 import { seasonOf, timeOfDay, weatherFor } from '../src/lib/env';
 
 describe('好感度', () => {
@@ -84,6 +84,25 @@ describe('邊牧的行為', () => {
     expect([dog.fx, dog.fy]).toEqual(SPOTS.front);
     dog.do(dog.wander());
     expect(dog.carry).toBe(false);
+  });
+  it('被拎起來不會自己動，放手後落在地板範圍內坐好', () => {
+    const dog = new Dog(world());
+    dog.pickUp();
+    dog.moveHeld(5, 100);
+    for (let t = 0; t < 500; t += 16) dog.step(t, 16);
+    expect([dog.fx, dog.fy, dog.pose]).toEqual([5, 100, 'held']);
+    dog.letGo();
+    for (let t = 500; t < 3000 && dog.inAir; t += 16) dog.step(t, 16);
+    expect([dog.fx, dog.fy, dog.pose]).toEqual([FLOOR.x0, FLOOR.y0, 'sit']);
+  });
+  it('在狗窩上面放手會落進狗窩，然後睡覺', () => {
+    const dog = new Dog(world());
+    dog.pickUp();
+    dog.moveHeld(104, 140);
+    expect(dog.dropPoint().bed).toBe(true);
+    dog.letGo();
+    for (let t = 0; t < 4000; t += 16) dog.step(t, 16);
+    expect([dog.fx, dog.fy, dog.pose]).toEqual([...SPOTS.bed, 'sleep']);
   });
   it('球在右邊牆角時從左邊靠近', () => {
     const w = world();

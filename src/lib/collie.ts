@@ -88,6 +88,39 @@ export const LIE = [
   'wwwkkkkkkkkwwwwwtwtwwwtwtw..',
 ];
 
+/** 被從後頸拎起來：頭和坐姿一樣，身體垂下來、四隻腳懸空 */
+export const HELD = [
+  ...SIT.slice(0, 12),
+  '..........kkkkkkwwwwwwwwww..',
+  '.........kkkkkwwwwwwwwwwwww.',
+  '.........kkKkkkwwwwwwwwwwww.',
+  '.........kkKkkwwwwwwwwwwww..',
+  '........kkkKkkkkwVwwwwwwV...',
+  '........kkkkkkkkkwwVwwww....',
+  '........kkkkkkkkkkwwwVww....',
+  '........kkkkkkkkkkww.www....',
+  '........kkkkkkkkkwww.www....',
+  '........kkkkkkkkkwtw.wtw....',
+  '........kkkkkkkkkww.........',
+  '........kkkkkkkkkkw.........',
+  '.....kkkkkkkKkkkkkk.........',
+  '....kkkkkkkKkkkkkkk.........',
+  '....kkk.kkkk..kkkk..........',
+  '....kkk.kkkk..kkkk..........',
+  '....kkw..kkk...kkk..........',
+  '.....ww..www...www..........',
+  '.....w...wtw...wtw..........',
+];
+/** 下半身晃向左、晃向右（拖動時腳會慢半拍） */
+const SWING_FROM = 24;
+export const HELD_L = HELD.map((r, j) => (j >= SWING_FROM ? r.slice(1) + '.' : r));
+export const HELD_R = HELD.map((r, j) => (j >= SWING_FROM ? '.' + r.slice(0, -1) : r));
+export const HELD_W = 28;
+export const HELD_H = HELD.length;
+/** 後頸（手抓的地方）在精靈圖上的位置（朝右時） */
+export const SCRUFF_X = 10;
+export const SCRUFF_Y = 11;
+
 /** 坐姿的尾巴（拖在身後的地上），兩格輪流就是搖尾巴 */
 export const TAIL_A = ['.........', '...kkkk..', '.kkkkkkkk', 'wwkkkkkkk', 'wwwkkkkkk', '.wwwkkkk.'];
 export const TAIL_B = ['ww.......', 'wwkk.....', '.wkkkkk..', '..kkkkkkk', '...kkkkkk', '....kkkk.'];

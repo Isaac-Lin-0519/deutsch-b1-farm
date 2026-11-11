@@ -248,16 +248,62 @@
     return [((e.clientX - r.left) / r.width) * W, ((e.clientY - r.top) / r.height) * H];
   }
 
+  // ---- 拖動：按住邊牧拖就從後頸拎起來，放手落到地板（或狗窩） ----
+  let grab: { id: number; x: number; y: number; drag: boolean } | null = null;
+  let sway = 0;
+  let lastX = 0;
+  const clamp = (v: number, a: number, b: number) => Math.max(a, Math.min(b, v));
+
+  function hold(p: [number, number]) {
+    const x = clamp(p[0], 6, W - 6);
+    const y = clamp(p[1], C.SCRUFF_Y + 2, H - 24);
+    sway = clamp(sway + (x - lastX), -3, 3);
+    lastX = x;
+    const sx = dog.dir < 0 ? C.HELD_W - 1 - C.SCRUFF_X : C.SCRUFF_X;
+    dog.moveHeld(x - sx + C.HELD_W / 2, y - C.SCRUFF_Y + C.HELD_H);
+  }
+
+  function drop() {
+    grab = null;
+    dog.letGo();
+  }
+
   function onmove(e: PointerEvent) {
-    if (e.pointerType === 'mouse') mouse = artXY(e);
+    const p = artXY(e);
+    if (grab && e.pointerId === grab.id) {
+      if (!grab.drag && Math.hypot(p[0] - grab.x, p[1] - grab.y) > 3) {
+        grab.drag = true;
+        clearTimeout(lpTimer);
+        lpShown = false;
+        hover = null;
+        mouse = null;
+        bubbleUntil = 0;
+        sway = 0;
+        lastX = p[0];
+        dog.pickUp();
+      }
+      if (grab.drag) {
+        hold(p);
+        return;
+      }
+    }
+    if (e.pointerType === 'mouse') mouse = p;
   }
   function onleave() {
     mouse = null;
     hover = null;
   }
   function ondown(e: PointerEvent) {
-    if (e.pointerType === 'mouse') return;
     const p = artXY(e);
+    if (!grab && !dog.inAir && hitAt(...p)?.kind === 'dog') {
+      grab = { id: e.pointerId, x: p[0], y: p[1], drag: false };
+      try {
+        canvas.setPointerCapture(e.pointerId);
+      } catch {
+        // 指標已經不在了就不用抓住
+      }
+    }
+    if (e.pointerType === 'mouse') return;
     clearTimeout(lpTimer);
     lpTimer = setTimeout(() => {
       hover = hitAt(...p);
@@ -266,6 +312,15 @@
   }
   function onup(e: PointerEvent) {
     clearTimeout(lpTimer);
+    if (grab?.id === e.pointerId) {
+      const dragged = grab.drag;
+      grab = null;
+      if (dragged) {
+        dog.letGo();
+        if (e.pointerType === 'mouse') mouse = artXY(e);
+        return;
+      }
+    }
     if (lpShown) {
       lpShown = false;
       setTimeout(() => (hover = null), 1500);
@@ -329,6 +384,16 @@
       P.blit(c, P.cached('lie', C.LIE, pal, ol, dog.dir < 0), dog.fx - C.LIE_W / 2, dog.fy - C.LIE_H);
       return;
     }
+    if (dog.pose === 'held') {
+      const flip = dog.dir < 0;
+      // 下半身慢半拍：往右拖時腳晃向左。鏡像後左右要對調
+      const lag = sway > 0.6 ? -1 : sway < -0.6 ? 1 : 0;
+      const v = (flip ? -lag : lag) as -1 | 0 | 1;
+      const rows = v < 0 ? C.HELD_L : v > 0 ? C.HELD_R : C.HELD;
+      P.blit(c, P.cached(`held${v}`, rows, pal, ol, flip), dog.fx - C.HELD_W / 2, dog.fy - C.HELD_H);
+      sway *= 0.75;
+      return;
+    }
     const fast = t < dog.wagUntil;
     const wagging = fast || Math.floor(t / 3000) % 3 === 0;
     const tf = wagging && Math.floor(t / (fast ? 110 : 600)) % 2 === 1;
@@ -363,8 +428,16 @@
       }
       P.blit(c, P.cached('tennis', C.TENNIS, C.TENNIS_PAL, C.DOG_OUTLINE), x, y);
     }
+    if (dog.inAir) {
+      // 落點的影子
+      const d = dog.dropPoint();
+      c.globalAlpha = 0.28;
+      P.rect(c, d.x - 8, d.y - 2, 16, 3, '#000');
+      P.rect(c, d.x - 6, d.y - 3, 12, 5, '#000');
+      c.globalAlpha = 1;
+    }
     drawDog(c, t);
-    if (dog.fx > R.BED.x + 4 && dog.fy <= R.BED.y + 12) R.bedFront(c);
+    if (!dog.inAir && dog.fx > R.BED.x + 4 && dog.fy <= R.BED.y + 12) R.bedFront(c);
 
     P.blit(c, P.cached('basket', P.BASKET, P.BPAL, P.OUT), R.BASKET_AT.x, R.BASKET_AT.y);
     P.ptext(c, `×${fruits}`, 32, 372, P.LABEL, '#3a2414');
@@ -390,9 +463,10 @@
       else R.heart(c, pops[i].x, pops[i].y - Math.round(a / 90), true);
     }
 
-    if (mouse) {
+    if (grab?.drag) canvas.style.cursor = 'grabbing';
+    else if (mouse) {
       hover = hitAt(...mouse);
-      canvas.style.cursor = hover ? 'pointer' : 'default';
+      canvas.style.cursor = hover?.kind === 'dog' ? 'grab' : hover ? 'pointer' : 'default';
     }
     if (flash && t > flash.until) flash = null;
     if (toast && t > toast.until) toast = null;
@@ -444,7 +518,10 @@
       onpointerleave={onleave}
       onpointerdown={ondown}
       onpointerup={onup}
-      onpointercancel={() => clearTimeout(lpTimer)}
+      onpointercancel={() => {
+        clearTimeout(lpTimer);
+        drop();
+      }}
       oncontextmenu={(e) => e.preventDefault()}
     ></canvas>
     <!-- 給鍵盤和螢幕閱讀器用；滑鼠和手指由畫布處理 -->
@@ -489,7 +566,7 @@
     display: block;
     image-rendering: pixelated;
     box-shadow: 0 0 0 3px var(--out);
-    touch-action: manipulation;
+    touch-action: none;
     -webkit-touch-callout: none;
   }
   .hit {
