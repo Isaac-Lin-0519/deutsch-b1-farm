@@ -1,0 +1,362 @@
+{
+  "zusammenfassen": {
+    "senses": [
+      {
+        "zh": "總結；概述",
+        "en": "to summarize",
+        "ex": {
+          "de": "Kannst du den langen Text in drei Sätzen {zusammenfassen}?",
+          "zh": "你可以用三句話總結這篇長文嗎？",
+          "en": "Can you summarize the long text in three sentences?",
+          "distractors": [
+            "pflanzen",
+            "rasieren",
+            "sägen"
+          ]
+        }
+      }
+    ]
+  },
+  "zusammenhang": {
+    "senses": [
+      {
+        "zh": "關聯；關係",
+        "en": "connection, context",
+        "ex": {
+          "de": "Zwischen Rauchen und Husten gibt es einen deutlichen {Zusammenhang}.",
+          "zh": "抽菸和咳嗽之間有明顯的關聯。",
+          "en": "There is a clear connection between smoking and coughing.",
+          "distractors": [
+            "Bürgersteig",
+            "Löffel",
+            "Sessel"
+          ]
+        }
+      }
+    ]
+  },
+  "zusaetzlich": {
+    "senses": [
+      {
+        "zh": "額外；另外",
+        "en": "additionally, in addition",
+        "ex": {
+          "de": "Zum Gehalt bekommt er {zusätzlich} einen Firmenwagen.",
+          "zh": "除了薪水，他另外還有一輛公司車。",
+          "en": "In addition to his salary he also gets a company car.",
+          "distractors": [
+            "gestern",
+            "vorhin",
+            "neulich"
+          ]
+        }
+      }
+    ]
+  },
+  "zuschauen-2": {
+    "senses": [
+      {
+        "zh": "旁觀；觀看",
+        "en": "to watch",
+        "ex": {
+          "de": "Die Kinder dürfen beim Fußballtraining nur {zuschauen}.",
+          "zh": "孩子們在足球訓練時只能在旁邊看。",
+          "en": "The children may only watch during football training.",
+          "distractors": [
+            "zusammenfalten",
+            "zuschrauben",
+            "zukleben"
+          ]
+        }
+      }
+    ]
+  },
+  "zuschauer": {
+    "senses": [
+      {
+        "zh": "觀眾",
+        "en": "spectator, viewer",
+        "ex": {
+          "de": "Im Stadion jubelten fast alle {Zuschauer} nach dem Tor.",
+          "zh": "進球後，球場上幾乎所有觀眾都歡呼起來。",
+          "en": "In the stadium almost all the spectators cheered after the goal.",
+          "distractors": [
+            "Löffel",
+            "Sessel",
+            "Pinsel"
+          ]
+        }
+      }
+    ]
+  },
+  "zuschlag": {
+    "senses": [
+      {
+        "zh": "附加費",
+        "en": "surcharge, supplement",
+        "ex": {
+          "de": "Für den Schnellzug musst du einen {Zuschlag} bezahlen.",
+          "zh": "搭快速列車要多付一筆附加費。",
+          "en": "You have to pay a supplement for the fast train.",
+          "distractors": [
+            "Husten",
+            "Traum",
+            "Geruch"
+          ]
+        }
+      }
+    ]
+  },
+  "zu-sein": {
+    "senses": [
+      {
+        "zh": "關著的；不營業的",
+        "en": "closed, shut",
+        "ex": {
+          "de": "Am Feiertag ist der Supermarkt {zu}.",
+          "zh": "國定假日超市不營業。",
+          "en": "On the public holiday the supermarket is closed.",
+          "distractors": [
+            "gelb",
+            "klug",
+            "laut"
+          ]
+        }
+      }
+    ]
+  },
+  "zu-gewesen": {
+    "senses": [
+      {
+        "zh": "（用完成式）關著、沒營業",
+        "en": "(perfect) was closed",
+        "ex": {
+          "de": "Das Geschäft ist am Montag {zu gewesen}.",
+          "zh": "那間店星期一沒營業。",
+          "en": "The shop was closed on Monday.",
+          "distractors": [
+            "gelb gewesen",
+            "klug gewesen",
+            "müde gewesen"
+          ]
+        }
+      }
+    ]
+  },
+  "zustand": {
+    "senses": [
+      {
+        "zh": "狀態；狀況",
+        "en": "condition, state",
+        "ex": {
+          "de": "Der {Zustand} des alten Autos ist erstaunlich gut.",
+          "zh": "這輛舊車的狀況好得出人意料。",
+          "en": "The condition of the old car is surprisingly good.",
+          "distractors": [
+            "Bürgersteig",
+            "Löffel",
+            "Sessel"
+          ]
+        }
+      }
+    ]
+  },
+  "zustaendig": {
+    "senses": [
+      {
+        "zh": "負責的；主管的",
+        "en": "responsible, in charge",
+        "ex": {
+          "de": "Für Beschwerden ist unsere Kollegin im ersten Stock {zuständig}.",
+          "zh": "客訴由我們二樓的同事負責。",
+          "en": "Our colleague on the first floor is responsible for complaints.",
+          "distractors": [
+            "blau",
+            "salzig",
+            "eckig"
+          ]
+        }
+      }
+    ]
+  },
+  "zustimmen": {
+    "senses": [
+      {
+        "zh": "同意；贊成",
+        "en": "to agree",
+        "ex": {
+          "de": "Alle Kollegen wollten dem Vorschlag sofort {zustimmen}.",
+          "zh": "所有同事都立刻想同意這個提議。",
+          "en": "All the colleagues immediately wanted to agree to the proposal.",
+          "distractors": [
+            "zuschrauben",
+            "zukleben",
+            "zumachen"
+          ]
+        }
+      }
+    ]
+  },
+  "zustimmung": {
+    "senses": [
+      {
+        "zh": "同意；許可",
+        "en": "agreement, consent",
+        "ex": {
+          "de": "Ohne die {Zustimmung} der Eltern darf das Kind nicht mitfahren.",
+          "zh": "沒有父母的同意，小孩不能一起去。",
+          "en": "Without the parents' consent the child may not come along.",
+          "distractors": [
+            "Treppe",
+            "Gurke",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "zutaten": {
+    "senses": [
+      {
+        "zh": "（食物的）材料",
+        "en": "ingredients",
+        "ex": {
+          "de": "Für den Kuchen brauche ich nur wenige {Zutaten}.",
+          "zh": "做這個蛋糕只需要很少的材料。",
+          "en": "For the cake I only need a few ingredients.",
+          "distractors": [
+            "Pinsel",
+            "Nägel",
+            "Schuhe"
+          ]
+        }
+      }
+    ]
+  },
+  "zuverlaessig": {
+    "senses": [
+      {
+        "zh": "可靠的",
+        "en": "reliable",
+        "ex": {
+          "de": "Mein Mechaniker arbeitet immer schnell und {zuverlässig}.",
+          "zh": "我的技師做事總是又快又可靠。",
+          "en": "My mechanic always works quickly and reliably.",
+          "distractors": [
+            "salzig",
+            "glatt",
+            "bläulich"
+          ]
+        }
+      }
+    ]
+  },
+  "zvieri-znueni": {
+    "senses": [
+      {
+        "zh": "（瑞士）小點心；茶點",
+        "en": "(Swiss) snack",
+        "ex": {
+          "de": "In der Schweiz essen viele Kinder um zehn Uhr ihr {Znüni}.",
+          "zh": "在瑞士，很多孩子十點會吃他們的小點心。",
+          "en": "In Switzerland many children eat their snack at ten o'clock.",
+          "distractors": [
+            "Fahrrad",
+            "Zelt",
+            "Messer"
+          ]
+        }
+      }
+    ]
+  },
+  "zwar": {
+    "senses": [
+      {
+        "zh": "雖然（常與 aber 連用）",
+        "en": "admittedly, it's true (that)",
+        "ex": {
+          "de": "Ich habe {zwar} Hunger, aber ich habe keine Zeit zum Essen.",
+          "zh": "我雖然餓，但沒有時間吃東西。",
+          "en": "I am hungry, it's true, but I have no time to eat.",
+          "distractors": [
+            "deshalb",
+            "nämlich",
+            "also"
+          ]
+        }
+      }
+    ]
+  },
+  "zweifeln": {
+    "senses": [
+      {
+        "zh": "懷疑；不確定",
+        "en": "to doubt",
+        "ex": {
+          "de": "Ich {zweifle} ein bisschen daran, dass er pünktlich kommt.",
+          "zh": "我有點懷疑他會不會準時到。",
+          "en": "I doubt a little that he will arrive on time.",
+          "distractors": [
+            "schwimme",
+            "koche",
+            "tanze"
+          ]
+        }
+      }
+    ]
+  },
+  "zweifel": {
+    "senses": [
+      {
+        "zh": "疑問；懷疑",
+        "en": "doubt",
+        "ex": {
+          "de": "Es gibt keinen {Zweifel}: Er hat die Prüfung bestanden.",
+          "zh": "毫無疑問，他通過了考試。",
+          "en": "There is no doubt: he has passed the exam.",
+          "distractors": [
+            "Husten",
+            "Traum",
+            "Geruch"
+          ]
+        }
+      }
+    ]
+  },
+  "zwingen": {
+    "senses": [
+      {
+        "zh": "強迫",
+        "en": "to force",
+        "ex": {
+          "de": "Niemand kann dich {zwingen}, diesen Vertrag zu unterschreiben.",
+          "zh": "沒有人能強迫你簽這份合約。",
+          "en": "Nobody can force you to sign this contract.",
+          "distractors": [
+            "tragen",
+            "wiegen",
+            "wecken"
+          ]
+        }
+      }
+    ]
+  },
+  "zwischen": {
+    "senses": [
+      {
+        "zh": "在…之間",
+        "en": "between",
+        "ex": {
+          "de": "Die Apotheke liegt {zwischen} dem Bahnhof und dem Rathaus.",
+          "zh": "藥局位在火車站和市政廳之間。",
+          "en": "The pharmacy is between the station and the town hall.",
+          "distractors": [
+            "gegen",
+            "seit",
+            "ohne"
+          ]
+        }
+      }
+    ]
+  }
+}
