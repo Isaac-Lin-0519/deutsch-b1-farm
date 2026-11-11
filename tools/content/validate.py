@@ -55,6 +55,8 @@ def originality_check(root: Path, words: dict) -> list[str]:
     if not raw.exists():
         return []
     originals = json.loads(raw.read_text(encoding="utf-8"))
+    # PDF 換行誤拆出 Kuvert 的對應詞註記，並非獨立詞條。
+    originals = [entry for entry in originals if entry.get("raw") != "Briefumschlag; CH: Cou-vert"]
     ids = list(words)
     if len(ids) != len(originals):
         return ["原文詞條數和 wordlist.json 對不上，請重新執行解析"]

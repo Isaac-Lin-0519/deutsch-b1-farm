@@ -1,0 +1,902 @@
+{
+  "messen": {
+    "senses": [
+      {
+        "zh": "測量",
+        "en": "to measure",
+        "ex": {
+          "de": "Wir müssen die Länge des Tisches genau {messen}.",
+          "zh": "我們必須準確測量桌子的長度。",
+          "en": "We must measure the length of the table accurately.",
+          "distractors": [
+            "vergessen",
+            "verkaufen",
+            "verlieren"
+          ]
+        }
+      }
+    ]
+  },
+  "messer": {
+    "senses": [
+      {
+        "zh": "刀子",
+        "en": "knife",
+        "ex": {
+          "de": "Mit diesem {Messer} schneide ich das frische Brot.",
+          "zh": "我用這把刀切新鮮麵包。",
+          "en": "I cut the fresh bread with this knife.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "methode": {
+    "senses": [
+      {
+        "zh": "方法",
+        "en": "method",
+        "ex": {
+          "de": "Mit dieser {Methode} kann ich neue Wörter besser lernen.",
+          "zh": "用這個方法我能更好地學習新單字。",
+          "en": "With this method I can learn new words better.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "metropole": {
+    "senses": [
+      {
+        "zh": "大都會",
+        "en": "metropolis",
+        "ex": {
+          "de": "Berlin ist eine große {Metropole} mit vielen Museen.",
+          "zh": "柏林是一個有許多博物館的大都會。",
+          "en": "Berlin is a large metropolis with many museums.",
+          "distractors": [
+            "Gabel",
+            "Tasse",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "metzger": {
+    "senses": [
+      {
+        "zh": "肉商；屠夫",
+        "en": "butcher",
+        "ex": {
+          "de": "Der {Metzger} verkauft frisches Fleisch auf dem Markt.",
+          "zh": "肉商在市場販售新鮮肉品。",
+          "en": "The butcher sells fresh meat at the market.",
+          "distractors": [
+            "Mechaniker",
+            "Briefträger",
+            "Polizist"
+          ]
+        }
+      }
+    ]
+  },
+  "mieten": {
+    "senses": [
+      {
+        "zh": "租用",
+        "en": "to rent",
+        "ex": {
+          "de": "Für den Urlaub möchten wir ein kleines Auto {mieten}.",
+          "zh": "我們想租一輛小車度假使用。",
+          "en": "We would like to rent a small car for the holiday.",
+          "distractors": [
+            "verkaufen",
+            "verlieren",
+            "vergessen"
+          ]
+        }
+      }
+    ]
+  },
+  "miete": {
+    "senses": [
+      {
+        "zh": "租金",
+        "en": "rent",
+        "ex": {
+          "de": "Die {Miete} für unsere Wohnung ist dieses Jahr gestiegen.",
+          "zh": "我們公寓的租金今年漲了。",
+          "en": "The rent for our apartment went up this year.",
+          "distractors": [
+            "Gabel",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "mieter": {
+    "senses": [
+      {
+        "zh": "男性房客",
+        "en": "male tenant",
+        "ex": {
+          "de": "Der {Mieter} meldet den kaputten Wasserhahn beim Vermieter.",
+          "zh": "男房客向房東反映水龍頭壞了。",
+          "en": "The tenant reports the broken tap to the landlord.",
+          "distractors": [
+            "Bäcker",
+            "Polizist",
+            "Mechaniker"
+          ]
+        }
+      }
+    ]
+  },
+  "mieterin": {
+    "senses": [
+      {
+        "zh": "女性房客",
+        "en": "female tenant",
+        "ex": {
+          "de": "Die {Mieterin} überweist jeden Monat pünktlich das Geld.",
+          "zh": "女房客每個月都準時匯款。",
+          "en": "The tenant transfers the money on time every month.",
+          "distractors": [
+            "Bäckerin",
+            "Polizistin",
+            "Mechanikerin"
+          ]
+        }
+      }
+    ]
+  },
+  "migrant": {
+    "senses": [
+      {
+        "zh": "男性移民",
+        "en": "male migrant",
+        "ex": {
+          "de": "Der {Migrant} besucht einen Sprachkurs in seiner neuen Stadt.",
+          "zh": "這位男性移民在新城市上語言課。",
+          "en": "The migrant attends a language course in his new city.",
+          "distractors": [
+            "Kühlschrank",
+            "Teppich",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "migrantin": {
+    "senses": [
+      {
+        "zh": "女性移民",
+        "en": "female migrant",
+        "ex": {
+          "de": "Die {Migrantin} erzählt von ihrem Leben in zwei Ländern.",
+          "zh": "這位女性移民講述她在兩個國家的生活。",
+          "en": "The migrant talks about her life in two countries.",
+          "distractors": [
+            "Tasche",
+            "Brille",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "migration": {
+    "senses": [
+      {
+        "zh": "移民；遷徙",
+        "en": "migration",
+        "ex": {
+          "de": "Das Buch handelt von {Migration} und dem Leben in einer neuen Heimat.",
+          "zh": "這本書談論移民與在新家鄉的生活。",
+          "en": "The book is about migration and life in a new home.",
+          "distractors": [
+            "Butter",
+            "Milch",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "milch": {
+    "senses": [
+      {
+        "zh": "牛奶",
+        "en": "milk",
+        "ex": {
+          "de": "Für den Kaffee brauche ich noch etwas {Milch}.",
+          "zh": "我還需要一點牛奶加進咖啡。",
+          "en": "I still need some milk for the coffee.",
+          "distractors": [
+            "Seife",
+            "Butter",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "mild": {
+    "senses": [
+      {
+        "zh": "溫和的；不辣的",
+        "en": "mild",
+        "ex": {
+          "de": "Die Soße ist sehr {mild} und schmeckt auch Kindern.",
+          "zh": "這個醬汁味道溫和，孩子也喜歡。",
+          "en": "The sauce is very mild and children like it too.",
+          "distractors": [
+            "laut",
+            "traurig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "minderheit": {
+    "senses": [
+      {
+        "zh": "少數群體",
+        "en": "minority",
+        "ex": {
+          "de": "Die Sprache wird nur von einer kleinen {Minderheit} gesprochen.",
+          "zh": "只有一小部分人說這種語言。",
+          "en": "The language is spoken by only a small minority.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "mindestens": {
+    "senses": [
+      {
+        "zh": "至少",
+        "en": "at least",
+        "ex": {
+          "de": "Für den Kuchen brauchst du {mindestens} drei Eier.",
+          "zh": "做蛋糕至少需要三顆蛋。",
+          "en": "You need at least three eggs for the cake.",
+          "distractors": [
+            "gestern",
+            "nie",
+            "selten"
+          ]
+        }
+      }
+    ]
+  },
+  "mineralwasser": {
+    "senses": [
+      {
+        "zh": "礦泉水",
+        "en": "mineral water",
+        "ex": {
+          "de": "Beim Wandern trinken wir viel {Mineralwasser} aus der Flasche.",
+          "zh": "健行時我們喝很多瓶裝礦泉水。",
+          "en": "We drink lots of bottled mineral water while hiking.",
+          "distractors": [
+            "Mehl",
+            "Salz",
+            "Brot"
+          ]
+        }
+      }
+    ]
+  },
+  "minimal": {
+    "senses": [
+      {
+        "zh": "極小的；最低程度的",
+        "en": "minimal",
+        "ex": {
+          "de": "Der Unterschied zwischen den beiden Preisen ist {minimal}.",
+          "zh": "這兩個價格之間的差異極小。",
+          "en": "The difference between the two prices is minimal.",
+          "distractors": [
+            "hungrig",
+            "müde",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "mischen": {
+    "senses": [
+      {
+        "zh": "混合",
+        "en": "to mix",
+        "ex": {
+          "de": "Für den Teig muss man Mehl und Wasser {mischen}.",
+          "zh": "做麵糰必須混合麵粉和水。",
+          "en": "To make the dough you have to mix flour and water.",
+          "distractors": [
+            "verlieren",
+            "verkaufen",
+            "vergessen"
+          ]
+        }
+      }
+    ]
+  },
+  "miss": {
+    "senses": [
+      {
+        "zh": "錯誤地（前綴）",
+        "en": "wrongly (prefix)",
+        "ex": {
+          "de": "Er hat meine Nachricht {miss}verstanden und kam zu spät.",
+          "zh": "他誤解了我的訊息，因此遲到了。",
+          "en": "He misunderstood my message and arrived late.",
+          "distractors": [
+            "ab",
+            "aus",
+            "zu"
+          ]
+        }
+      }
+    ]
+  },
+  "mit": {
+    "senses": [
+      {
+        "zh": "和；帶著",
+        "en": "with",
+        "ex": {
+          "de": "Morgen fahre ich {mit} meiner Schwester ans Meer.",
+          "zh": "明天我要和姊姊去海邊。",
+          "en": "Tomorrow I am going to the sea with my sister.",
+          "distractors": [
+            "gegen",
+            "statt",
+            "trotz"
+          ]
+        }
+      }
+    ]
+  },
+  "mitarbeiter": {
+    "senses": [
+      {
+        "zh": "男性員工",
+        "en": "male employee",
+        "ex": {
+          "de": "Ein {Mitarbeiter} erklärt uns das neue Programm im Büro.",
+          "zh": "一位男員工在辦公室向我們說明新程式。",
+          "en": "An employee explains the new program to us in the office.",
+          "distractors": [
+            "Kühlschrank",
+            "Schrank",
+            "Teppich"
+          ]
+        }
+      }
+    ]
+  },
+  "mitarbeiterin": {
+    "senses": [
+      {
+        "zh": "女性員工",
+        "en": "female employee",
+        "ex": {
+          "de": "Die {Mitarbeiterin} beantwortet die Fragen unserer Gäste.",
+          "zh": "女員工回答客人的問題。",
+          "en": "The employee answers our guests' questions.",
+          "distractors": [
+            "Jacke",
+            "Flasche",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "miteinander": {
+    "senses": [
+      {
+        "zh": "彼此；一起",
+        "en": "with one another",
+        "ex": {
+          "de": "Nach dem Streit sprechen die Nachbarn wieder {miteinander}.",
+          "zh": "爭吵之後，鄰居們又開始互相交談。",
+          "en": "After the quarrel the neighbors talk to each other again.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "selten"
+          ]
+        }
+      }
+    ]
+  },
+  "mitglied": {
+    "senses": [
+      {
+        "zh": "成員",
+        "en": "member",
+        "ex": {
+          "de": "Seit Januar ist sie {Mitglied} in unserem Sportverein.",
+          "zh": "從一月起她就是我們運動社團的成員。",
+          "en": "She has been a member of our sports club since January.",
+          "distractors": [
+            "Fenster",
+            "Kissen",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "mitte": {
+    "senses": [
+      {
+        "zh": "中間；中心",
+        "en": "middle, center",
+        "ex": {
+          "de": "In der {Mitte} des Tisches steht eine Vase.",
+          "zh": "桌子中央放著一個花瓶。",
+          "en": "There is a vase in the middle of the table.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "mitteilen": {
+    "senses": [
+      {
+        "zh": "告知",
+        "en": "to inform",
+        "ex": {
+          "de": "Bitte können Sie uns Ihre neue Adresse schriftlich {mitteilen}?",
+          "zh": "請問您可以書面告知我們您的新地址嗎？",
+          "en": "Could you please inform us of your new address in writing?",
+          "distractors": [
+            "vergessen",
+            "verlieren",
+            "verkaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "mittel": {
+    "senses": [
+      {
+        "zh": "方法；手段",
+        "en": "means, method",
+        "ex": {
+          "de": "Das Fahrrad ist ein gutes {Mittel}, um fit zu bleiben.",
+          "zh": "腳踏車是保持健康的好方法。",
+          "en": "A bicycle is a good means of staying fit.",
+          "distractors": [
+            "Fenster",
+            "Kissen",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "mitten": {
+    "senses": [
+      {
+        "zh": "在正中央",
+        "en": "in the middle",
+        "ex": {
+          "de": "Das Hotel liegt {mitten} in der Altstadt.",
+          "zh": "旅館位於舊城區正中央。",
+          "en": "The hotel is right in the middle of the old town.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "nie"
+          ]
+        }
+      }
+    ]
+  },
+  "mittler": {
+    "senses": [
+      {
+        "zh": "中間的",
+        "en": "middle",
+        "ex": {
+          "de": "Die {mittlere} Schublade ist voller alter Fotos.",
+          "zh": "中間那個抽屜裝滿了舊照片。",
+          "en": "The middle drawer is full of old photos.",
+          "distractors": [
+            "hungrige",
+            "kranke",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "mittlerweile": {
+    "senses": [
+      {
+        "zh": "到現在；如今",
+        "en": "by now, meanwhile",
+        "ex": {
+          "de": "Am Anfang war er schüchtern, aber {mittlerweile} spricht er viel.",
+          "zh": "一開始他很害羞，但現在話很多。",
+          "en": "At first he was shy, but by now he talks a lot.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "nie"
+          ]
+        }
+      }
+    ]
+  },
+  "moebel": {
+    "senses": [
+      {
+        "zh": "家具",
+        "en": "furniture",
+        "ex": {
+          "de": "Die neuen {Möbel} passen gut in unser Wohnzimmer.",
+          "zh": "新家具很適合我們的客廳。",
+          "en": "The new furniture fits well in our living room.",
+          "distractors": [
+            "Fenster",
+            "Handtücher",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "moebliert": {
+    "senses": [
+      {
+        "zh": "附家具的",
+        "en": "furnished",
+        "ex": {
+          "de": "Das Zimmer ist bereits {möbliert}, du brauchst kein Bett.",
+          "zh": "房間已經附家具，你不需要床。",
+          "en": "The room is already furnished; you do not need a bed.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "traurig"
+          ]
+        }
+      }
+    ]
+  },
+  "moechten": {
+    "senses": [
+      {
+        "zh": "想要",
+        "en": "would like",
+        "ex": {
+          "de": "Ich {möchte} heute Abend einen ruhigen Film sehen.",
+          "zh": "我今晚想看一部平靜的電影。",
+          "en": "I would like to watch a quiet film tonight.",
+          "distractors": [
+            "schlafe",
+            "esse",
+            "renne"
+          ]
+        }
+      }
+    ]
+  },
+  "mobil-mobil": {
+    "senses": [
+      {
+        "zh": "可移動的；行動的",
+        "en": "mobile",
+        "ex": {
+          "de": "Mit diesem kleinen Gerät bleibe ich unterwegs {mobil}.",
+          "zh": "有了這個小裝置，我外出時仍能保持行動力。",
+          "en": "With this small device I remain mobile on the go.",
+          "distractors": [
+            "hungrig",
+            "krank",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "mobilbox": {
+    "senses": [
+      {
+        "zh": "手機語音信箱（奧地利）",
+        "en": "voicemail (Austria)",
+        "ex": {
+          "de": "Bitte sprechen Sie nach dem Signal auf meine {Mobilbox}.",
+          "zh": "請在提示音後留言到我的語音信箱。",
+          "en": "Please leave a message on my voicemail after the beep.",
+          "distractors": [
+            "Kaffeetasse",
+            "Brille",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "mobilitaet": {
+    "senses": [
+      {
+        "zh": "行動能力",
+        "en": "mobility",
+        "ex": {
+          "de": "Das neue Angebot verbessert die {Mobilität} älterer Menschen.",
+          "zh": "這項新服務改善了長者的行動能力。",
+          "en": "The new service improves older people's mobility.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "mobiltelefon": {
+    "senses": [
+      {
+        "zh": "手機",
+        "en": "mobile phone",
+        "ex": {
+          "de": "Ihr {Mobiltelefon} ist leer, deshalb kann sie nicht anrufen.",
+          "zh": "她的手機沒電了，所以無法打電話。",
+          "en": "Her mobile phone is out of power, so she cannot call.",
+          "distractors": [
+            "Kissen",
+            "Handtuch",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "mode": {
+    "senses": [
+      {
+        "zh": "時尚",
+        "en": "fashion",
+        "ex": {
+          "de": "Meine Schwester interessiert sich sehr für {Mode}.",
+          "zh": "我姊姊對時尚很感興趣。",
+          "en": "My sister is very interested in fashion.",
+          "distractors": [
+            "Butter",
+            "Suppe",
+            "Milch"
+          ]
+        }
+      }
+    ]
+  },
+  "modell": {
+    "senses": [
+      {
+        "zh": "模型",
+        "en": "model",
+        "ex": {
+          "de": "Die Kinder bauen ein {Modell} aus Holz und Papier.",
+          "zh": "孩子們用木頭和紙做一個模型。",
+          "en": "The children build a model out of wood and paper.",
+          "distractors": [
+            "Bett",
+            "Handtuch",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "modern": {
+    "senses": [
+      {
+        "zh": "現代的",
+        "en": "modern",
+        "ex": {
+          "de": "Das alte Haus hat jetzt eine {moderne} Küche.",
+          "zh": "這棟老房子現在有一間現代化的廚房。",
+          "en": "The old house now has a modern kitchen.",
+          "distractors": [
+            "hungrige",
+            "durstige",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "moegen": {
+    "senses": [
+      {
+        "zh": "喜歡",
+        "en": "to like",
+        "ex": {
+          "de": "Ich {mag} frisches Brot mit Käse sehr gern.",
+          "zh": "我很喜歡新鮮麵包配乳酪。",
+          "en": "I really like fresh bread with cheese.",
+          "distractors": [
+            "hasse",
+            "verkaufe",
+            "vergesse"
+          ]
+        }
+      }
+    ]
+  },
+  "moeglich": {
+    "senses": [
+      {
+        "zh": "可能的",
+        "en": "possible",
+        "ex": {
+          "de": "Ist es {möglich}, den Termin auf Freitag zu verschieben?",
+          "zh": "可以把約定改到星期五嗎？",
+          "en": "Is it possible to move the appointment to Friday?",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "moeglichkeit": {
+    "senses": [
+      {
+        "zh": "可能性；機會",
+        "en": "possibility, opportunity",
+        "ex": {
+          "de": "Es gibt eine {Möglichkeit}, mit dem Zug dorthin zu fahren.",
+          "zh": "有一個搭火車去那裡的方式。",
+          "en": "There is a way to get there by train.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "moeglichst": {
+    "senses": [
+      {
+        "zh": "盡可能",
+        "en": "as ... as possible",
+        "ex": {
+          "de": "Bitte komm {möglichst} früh, damit wir genug Zeit haben.",
+          "zh": "請盡可能早來，好讓我們有足夠時間。",
+          "en": "Please come as early as possible so we have enough time.",
+          "distractors": [
+            "niemals",
+            "gestern",
+            "selten"
+          ]
+        }
+      }
+    ]
+  },
+  "moehre": {
+    "senses": [
+      {
+        "zh": "紅蘿蔔",
+        "en": "carrot",
+        "ex": {
+          "de": "Für die Suppe schneidet er eine {Möhre} klein.",
+          "zh": "他為了煮湯把一根紅蘿蔔切碎。",
+          "en": "He chops a carrot for the soup.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "moment": {
+    "senses": [
+      {
+        "zh": "片刻",
+        "en": "moment",
+        "ex": {
+          "de": "Warte bitte einen {Moment}, ich bin gleich fertig.",
+          "zh": "請稍等一下，我馬上就好。",
+          "en": "Please wait a moment; I will be ready soon.",
+          "distractors": [
+            "Schrank",
+            "Koffer",
+            "Teppich"
+          ]
+        }
+      }
+    ]
+  },
+  "mond": {
+    "senses": [
+      {
+        "zh": "月亮",
+        "en": "moon",
+        "ex": {
+          "de": "Heute Nacht scheint der {Mond} hell durch mein Fenster.",
+          "zh": "今晚月光明亮地照進我的窗戶。",
+          "en": "Tonight the moon shines brightly through my window.",
+          "distractors": [
+            "Schrank",
+            "Teppich",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "monitor": {
+    "senses": [
+      {
+        "zh": "螢幕",
+        "en": "monitor",
+        "ex": {
+          "de": "Auf dem {Monitor} sehe ich die Fotos vom Urlaub.",
+          "zh": "我在螢幕上看到度假照片。",
+          "en": "I see the holiday photos on the monitor.",
+          "distractors": [
+            "Kühlschrank",
+            "Koffer",
+            "Schirm"
+          ]
+        }
+      }
+    ]
+  },
+  "motor": {
+    "senses": [
+      {
+        "zh": "馬達；引擎",
+        "en": "motor, engine",
+        "ex": {
+          "de": "Der {Motor} des Autos macht ein seltsames Geräusch.",
+          "zh": "汽車的引擎發出奇怪的聲音。",
+          "en": "The car engine makes a strange noise.",
+          "distractors": [
+            "Teppich",
+            "Schlüssel",
+            "Hut"
+          ]
+        }
+      }
+    ]
+  }
+}

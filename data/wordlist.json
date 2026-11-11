@@ -15019,8 +15019,12 @@
  {
   "id": "kriminaldie-kriminalpolizei",
   "level": "B1",
-  "lemma": "Kriminaldie Kriminalpolizei",
-  "raw": "Kriminaldie Kriminalpolizei"
+  "lemma": "Kriminalpolizei",
+  "pos": "noun",
+  "articles": [
+   "die"
+  ],
+  "raw": "die Kriminalpolizei"
  },
  {
   "id": "krimi",
@@ -15374,18 +15378,18 @@
   "articles": [
    "das"
   ],
-  "plural_suffix": "-s→der",
-  "plural": "Kuverts→der",
+  "plural_suffix": "-s",
+  "plural": "Kuverts",
   "regions": [
    "A"
   ],
-  "raw": "das Kuvert, -s (A) → der"
- },
- {
-  "id": "briefumschlag-ch-cou-vert",
-  "level": "B1",
-  "lemma": "Briefumschlag; CH: Cou-vert",
-  "raw": "Briefumschlag; CH: Cou-vert"
+  "variant_of": {
+   "regions": [
+    "D"
+   ],
+   "word": "Briefumschlag"
+  },
+  "raw": "das Kuvert, -s (A) → der Briefumschlag; CH: Couvert"
  },
  {
   "id": "laecheln",

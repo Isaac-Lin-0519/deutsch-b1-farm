@@ -1,0 +1,902 @@
+{
+  "motorrad": {
+    "senses": [
+      {
+        "zh": "摩托車",
+        "en": "motorcycle",
+        "ex": {
+          "de": "Mein Bruder fährt im Sommer gern mit dem {Motorrad}.",
+          "zh": "我哥哥夏天喜歡騎摩托車。",
+          "en": "My brother likes riding his motorcycle in summer.",
+          "distractors": [
+            "Kissen",
+            "Frühstück",
+            "Wetter"
+          ]
+        }
+      }
+    ]
+  },
+  "muede": {
+    "senses": [
+      {
+        "zh": "疲倦的",
+        "en": "tired",
+        "ex": {
+          "de": "Nach der langen Wanderung waren alle sehr {müde}.",
+          "zh": "長途健行後大家都很疲倦。",
+          "en": "Everyone was very tired after the long hike.",
+          "distractors": [
+            "rechteckig",
+            "hölzern",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "muehe": {
+    "senses": [
+      {
+        "zh": "辛勞；費心",
+        "en": "effort; trouble",
+        "ex": {
+          "de": "Sie hat sich viel {Mühe} mit dem Geschenk gegeben.",
+          "zh": "她為這份禮物花了很多心思。",
+          "en": "She put a lot of effort into the gift.",
+          "distractors": [
+            "Zahnpasta",
+            "Socke",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "muell": {
+    "senses": [
+      {
+        "zh": "垃圾",
+        "en": "rubbish; trash",
+        "ex": {
+          "de": "Bitte wirf den {Müll} in die richtige Tonne.",
+          "zh": "請把垃圾丟進正確的垃圾桶。",
+          "en": "Please put the rubbish in the correct bin.",
+          "distractors": [
+            "Schnee",
+            "Regen",
+            "Hunger"
+          ]
+        }
+      }
+    ]
+  },
+  "muellabfuhr": {
+    "senses": [
+      {
+        "zh": "垃圾清運",
+        "en": "rubbish collection",
+        "ex": {
+          "de": "Die {Müllabfuhr} kommt bei uns immer am Dienstag.",
+          "zh": "我們這裡的垃圾車總是在星期二來。",
+          "en": "The rubbish collection comes to our area every Tuesday.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Socke"
+          ]
+        }
+      }
+    ]
+  },
+  "muelltonne": {
+    "senses": [
+      {
+        "zh": "垃圾桶",
+        "en": "rubbish bin",
+        "ex": {
+          "de": "Die leere Flasche gehört nicht in diese {Mülltonne}.",
+          "zh": "空瓶子不應該丟進這個垃圾桶。",
+          "en": "The empty bottle does not belong in this rubbish bin.",
+          "distractors": [
+            "Wolke",
+            "Prüfung",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "mund": {
+    "senses": [
+      {
+        "zh": "嘴巴",
+        "en": "mouth",
+        "ex": {
+          "de": "Der Zahnarzt bittet mich, den {Mund} weit zu öffnen.",
+          "zh": "牙醫請我把嘴巴張大。",
+          "en": "The dentist asks me to open my mouth wide.",
+          "distractors": [
+            "Koffer",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "muendlich": {
+    "senses": [
+      {
+        "zh": "口頭的",
+        "en": "oral; spoken",
+        "ex": {
+          "de": "Die Prüfung findet nächste Woche {mündlich} statt.",
+          "zh": "考試下週以口試方式進行。",
+          "en": "The examination will be oral next week.",
+          "distractors": [
+            "hölzern",
+            "durstig",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "muenze": {
+    "senses": [
+      {
+        "zh": "硬幣",
+        "en": "coin",
+        "ex": {
+          "de": "Für den Automaten brauche ich eine kleine {Münze}.",
+          "zh": "我需要一枚小硬幣來使用販賣機。",
+          "en": "I need a small coin for the vending machine.",
+          "distractors": [
+            "Wolke",
+            "Karotte",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "museum": {
+    "senses": [
+      {
+        "zh": "博物館",
+        "en": "museum",
+        "ex": {
+          "de": "Am Sonntag besuchen wir ein {Museum} für moderne Kunst.",
+          "zh": "星期天我們要參觀一間現代藝術博物館。",
+          "en": "On Sunday we are visiting a museum of modern art.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Frühstück"
+          ]
+        }
+      }
+    ]
+  },
+  "musik": {
+    "senses": [
+      {
+        "zh": "音樂",
+        "en": "music",
+        "ex": {
+          "de": "Beim Kochen hört mein Vater gern leise {Musik}.",
+          "zh": "爸爸做飯時喜歡輕輕地聽音樂。",
+          "en": "My father likes listening to quiet music while cooking.",
+          "distractors": [
+            "Zahnpasta",
+            "Treppe",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "musikalisch": {
+    "senses": [
+      {
+        "zh": "有音樂天分的",
+        "en": "musical; musically talented",
+        "ex": {
+          "de": "Schon als Kind war Lena {musikalisch} und erfand eigene Melodien.",
+          "zh": "莉娜從小就有音樂天分，還會創作自己的旋律。",
+          "en": "Even as a child, Lena was musical and invented her own melodies.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "musiker": {
+    "senses": [
+      {
+        "zh": "男音樂家；音樂家",
+        "en": "musician",
+        "ex": {
+          "de": "Der {Musiker} spielt heute Abend Geige im Konzert.",
+          "zh": "這位音樂家今晚在音樂會上演奏小提琴。",
+          "en": "The musician is playing the violin at the concert tonight.",
+          "distractors": [
+            "Kühlschrank",
+            "Löffel",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "musikerin": {
+    "senses": [
+      {
+        "zh": "女音樂家",
+        "en": "female musician",
+        "ex": {
+          "de": "Die {Musikerin} spielt ein neues Lied auf dem Klavier.",
+          "zh": "這位女音樂家用鋼琴演奏一首新曲子。",
+          "en": "The musician plays a new piece on the piano.",
+          "distractors": [
+            "Karotte",
+            "Wolke",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "muskel": {
+    "senses": [
+      {
+        "zh": "肌肉",
+        "en": "muscle",
+        "ex": {
+          "de": "Nach dem Training tut mir ein {Muskel} im Bein weh.",
+          "zh": "訓練過後我腿上的一塊肌肉很痛。",
+          "en": "After training a muscle in my leg hurts.",
+          "distractors": [
+            "Löffel",
+            "Regenschirm",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "muessen": {
+    "senses": [
+      {
+        "zh": "必須",
+        "en": "must; have to",
+        "ex": {
+          "de": "Morgen {muss} ich früh zum Arzt gehen.",
+          "zh": "明天我必須早點去看醫生。",
+          "en": "Tomorrow I have to go to the doctor early.",
+          "distractors": [
+            "schläft",
+            "friert",
+            "hustet"
+          ]
+        }
+      }
+    ]
+  },
+  "mut": {
+    "senses": [
+      {
+        "zh": "勇氣",
+        "en": "courage",
+        "ex": {
+          "de": "Sie hatte den {Mut}, vor vielen Leuten zu sprechen.",
+          "zh": "她有勇氣在很多人面前發言。",
+          "en": "She had the courage to speak in front of many people.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "mutig": {
+    "senses": [
+      {
+        "zh": "勇敢的",
+        "en": "brave",
+        "ex": {
+          "de": "Der Junge war sehr {mutig} und half dem verletzten Hund.",
+          "zh": "那個男孩很勇敢，幫助了受傷的狗。",
+          "en": "The boy was very brave and helped the injured dog.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "mutter": {
+    "senses": [
+      {
+        "zh": "母親",
+        "en": "mother",
+        "ex": {
+          "de": "Meine {Mutter} holt meine kleine Schwester vom Bahnhof ab.",
+          "zh": "我媽媽去車站接我的妹妹。",
+          "en": "My mother is picking up my little sister from the station.",
+          "distractors": [
+            "Gabel",
+            "Karotte",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "nach": {
+    "senses": [
+      {
+        "zh": "到；在……之後",
+        "en": "to; after",
+        "ex": {
+          "de": "Nach dem Unterricht fahren wir zusammen {nach} Berlin.",
+          "zh": "下課後我們一起去柏林。",
+          "en": "After class we are traveling to Berlin together.",
+          "distractors": [
+            "trotz",
+            "während",
+            "wegen"
+          ]
+        }
+      }
+    ]
+  },
+  "nachbar": {
+    "senses": [
+      {
+        "zh": "男鄰居；鄰居",
+        "en": "neighbor",
+        "ex": {
+          "de": "Unser {Nachbar} gießt unsere Pflanzen während unseres Urlaubs.",
+          "zh": "我們的鄰居在我們度假時幫忙澆植物。",
+          "en": "Our neighbor waters our plants while we are on holiday.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "nachbarin": {
+    "senses": [
+      {
+        "zh": "女鄰居",
+        "en": "female neighbor",
+        "ex": {
+          "de": "Die {Nachbarin} hat uns gestern ihren Garten gezeigt.",
+          "zh": "昨天女鄰居帶我們看了她的花園。",
+          "en": "The neighbor showed us her garden yesterday.",
+          "distractors": [
+            "Karotte",
+            "Gabel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "nachdem": {
+    "senses": [
+      {
+        "zh": "在……之後",
+        "en": "after",
+        "ex": {
+          "de": "{Nachdem} er gegessen hatte, räumte er die Küche auf.",
+          "zh": "他吃完飯後整理了廚房。",
+          "en": "After he had eaten, he tidied up the kitchen.",
+          "distractors": [
+            "Trotz",
+            "Wegen",
+            "Währenddessen"
+          ]
+        }
+      }
+    ]
+  },
+  "nachdenken": {
+    "senses": [
+      {
+        "zh": "思考",
+        "en": "to think; reflect",
+        "ex": {
+          "de": "Über diese wichtige Frage muss ich noch {nachdenken}.",
+          "zh": "關於這個重要問題，我還需要再想想。",
+          "en": "I still need to think about this important question.",
+          "distractors": [
+            "schlafen",
+            "backen",
+            "schwimmen"
+          ]
+        }
+      }
+    ]
+  },
+  "nachfrage": {
+    "senses": [
+      {
+        "zh": "需求",
+        "en": "demand",
+        "ex": {
+          "de": "Im Sommer ist die {Nachfrage} nach Eis besonders hoch.",
+          "zh": "夏天對冰淇淋的需求特別高。",
+          "en": "Demand for ice cream is particularly high in summer.",
+          "distractors": [
+            "Zahnbürste",
+            "Socke",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "nachher": {
+    "senses": [
+      {
+        "zh": "之後；等一下",
+        "en": "afterwards; later",
+        "ex": {
+          "de": "Ich muss erst arbeiten; {nachher} können wir spazieren gehen.",
+          "zh": "我得先工作；等一下我們可以去散步。",
+          "en": "I have to work first; we can go for a walk afterwards.",
+          "distractors": [
+            "rechteckig",
+            "hölzern",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "nachhilfe": {
+    "senses": [
+      {
+        "zh": "課業輔導；補習",
+        "en": "private tutoring",
+        "ex": {
+          "de": "Seit Februar bekommt mein Sohn {Nachhilfe} in Mathematik.",
+          "zh": "從二月起我兒子接受數學課業輔導。",
+          "en": "My son has been receiving maths tutoring since February.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "nachricht": {
+    "senses": [
+      {
+        "zh": "訊息",
+        "en": "message",
+        "ex": {
+          "de": "Ich habe dir gestern eine {Nachricht} aufs Handy geschickt.",
+          "zh": "昨天我傳了一則訊息到你的手機。",
+          "en": "I sent a message to your phone yesterday.",
+          "distractors": [
+            "Wolke",
+            "Treppe",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "nachschlagen": {
+    "senses": [
+      {
+        "zh": "查閱",
+        "en": "to look up",
+        "ex": {
+          "de": "Ich werde die Adresse später im Telefonbuch {nachschlagen}.",
+          "zh": "我等一下會在電話簿裡查這個地址。",
+          "en": "I will look up the address in the telephone book later.",
+          "distractors": [
+            "schwimmen",
+            "frieren",
+            "schlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "nachspeise": {
+    "senses": [
+      {
+        "zh": "甜點",
+        "en": "dessert",
+        "ex": {
+          "de": "Als {Nachspeise} bestellen wir heute einen Obstsalat.",
+          "zh": "今天我們點水果沙拉當甜點。",
+          "en": "Today we are ordering a fruit salad for dessert.",
+          "distractors": [
+            "Zahnbürste",
+            "Socke",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "naechst": {
+    "senses": [
+      {
+        "zh": "下一個的",
+        "en": "next",
+        "ex": {
+          "de": "Am {nächsten} Dienstag habe ich einen Termin beim Zahnarzt.",
+          "zh": "下週二我預約了牙醫。",
+          "en": "Next Tuesday I have an appointment with the dentist.",
+          "distractors": [
+            "hölzernen",
+            "durstigen",
+            "rechteckigen"
+          ]
+        }
+      }
+    ]
+  },
+  "nachteil": {
+    "senses": [
+      {
+        "zh": "缺點",
+        "en": "disadvantage",
+        "ex": {
+          "de": "Ein {Nachteil} der Wohnung ist die laute Straße davor.",
+          "zh": "這間公寓的一個缺點是前面的馬路很吵。",
+          "en": "A disadvantage of the apartment is the noisy street in front.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "nachwuchs": {
+    "senses": [
+      {
+        "zh": "後代；新生兒",
+        "en": "offspring; new arrival",
+        "ex": {
+          "de": "Im Zoo gibt es {Nachwuchs}: Zwei kleine Löwen wurden geboren.",
+          "zh": "動物園有新成員：兩隻小獅子出生了。",
+          "en": "There are new arrivals at the zoo: two lion cubs were born.",
+          "distractors": [
+            "Regen",
+            "Schnee",
+            "Hunger"
+          ]
+        }
+      }
+    ]
+  },
+  "nadel": {
+    "senses": [
+      {
+        "zh": "針",
+        "en": "needle",
+        "ex": {
+          "de": "Mit einer {Nadel} und Faden repariere ich das Hemd.",
+          "zh": "我用針和線修補襯衫。",
+          "en": "I repair the shirt with a needle and thread.",
+          "distractors": [
+            "Wolke",
+            "Karotte",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "nagel": {
+    "senses": [
+      {
+        "zh": "釘子",
+        "en": "nail",
+        "ex": {
+          "de": "Um das Bild aufzuhängen, brauche ich einen {Nagel}.",
+          "zh": "我要掛畫，需要一根釘子。",
+          "en": "I need a nail to hang the picture.",
+          "distractors": [
+            "Regen",
+            "Kühlschrank",
+            "Hunger"
+          ]
+        }
+      }
+    ]
+  },
+  "nah": {
+    "senses": [
+      {
+        "zh": "近的",
+        "en": "near",
+        "ex": {
+          "de": "Der Supermarkt ist ganz {nah} an unserer Wohnung.",
+          "zh": "超市離我們的公寓很近。",
+          "en": "The supermarket is very close to our apartment.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "naehe": {
+    "senses": [
+      {
+        "zh": "附近",
+        "en": "vicinity; nearby",
+        "ex": {
+          "de": "In der {Nähe} unseres Hauses gibt es eine Apotheke.",
+          "zh": "我們家附近有一間藥局。",
+          "en": "There is a pharmacy near our house.",
+          "distractors": [
+            "Zahnbürste",
+            "Socke",
+            "Marmelade"
+          ]
+        }
+      }
+    ]
+  },
+  "naehen": {
+    "senses": [
+      {
+        "zh": "縫紉",
+        "en": "to sew",
+        "ex": {
+          "de": "Meine Oma kann aus alten Stoffen Taschen {nähen}.",
+          "zh": "我奶奶會用舊布料縫製袋子。",
+          "en": "My grandmother can sew bags from old fabrics.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "naehern": {
+    "senses": [
+      {
+        "zh": "靠近",
+        "en": "to approach",
+        "ex": {
+          "de": "Wir wollen uns dem scheuen Vogel langsam {nähern}.",
+          "zh": "我們想慢慢靠近那隻怕人的鳥。",
+          "en": "We want to approach the shy bird slowly.",
+          "distractors": [
+            "rasieren",
+            "waschen",
+            "anziehen"
+          ]
+        }
+      }
+    ]
+  },
+  "nahrungsmittel": {
+    "senses": [
+      {
+        "zh": "食物；食品",
+        "en": "food; foodstuff",
+        "ex": {
+          "de": "Reis ist in vielen Ländern ein wichtiges {Nahrungsmittel}.",
+          "zh": "米在許多國家是重要的食物。",
+          "en": "Rice is an important food in many countries.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "name": {
+    "senses": [
+      {
+        "zh": "名字",
+        "en": "name",
+        "ex": {
+          "de": "Bitte schreiben Sie Ihren {Namen} auf das Formular.",
+          "zh": "請在表格上寫下您的名字。",
+          "en": "Please write your name on the form.",
+          "distractors": [
+            "Regen",
+            "Schnee",
+            "Hunger"
+          ]
+        }
+      }
+    ]
+  },
+  "familienname": {
+    "senses": [
+      {
+        "zh": "姓氏",
+        "en": "surname; family name",
+        "ex": {
+          "de": "Ihr {Familienname} steht auf Ihrem Ausweis hinter dem Vornamen.",
+          "zh": "您的證件上，姓氏寫在名字後面。",
+          "en": "Your surname comes after your first name on your ID.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "vorname": {
+    "senses": [
+      {
+        "zh": "名字（相對於姓）",
+        "en": "first name; given name",
+        "ex": {
+          "de": "Mein {Vorname} steht auf dem Formular vor meinem Nachnamen.",
+          "zh": "表格上我的名字寫在姓氏前面。",
+          "en": "My first name comes before my surname on the form.",
+          "distractors": [
+            "Regenschirm",
+            "Kühlschrank",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "naemlich": {
+    "senses": [
+      {
+        "zh": "因為；也就是",
+        "en": "namely; because",
+        "ex": {
+          "de": "Ich gehe heute früh ins Bett, ich bin {nämlich} krank.",
+          "zh": "我今天要早點睡，因為我生病了。",
+          "en": "I am going to bed early today because I am ill.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "nase": {
+    "senses": [
+      {
+        "zh": "鼻子",
+        "en": "nose",
+        "ex": {
+          "de": "Der Hund berührt meine Hand mit seiner kalten {Nase}.",
+          "zh": "那隻狗用冰涼的鼻子碰我的手。",
+          "en": "The dog touches my hand with its cold nose.",
+          "distractors": [
+            "Wolke",
+            "Treppe",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "nass": {
+    "senses": [
+      {
+        "zh": "濕的",
+        "en": "wet",
+        "ex": {
+          "de": "Meine Schuhe sind nach dem Regen völlig {nass}.",
+          "zh": "下雨過後我的鞋子全濕了。",
+          "en": "My shoes are completely wet after the rain.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "national-national": {
+    "senses": [
+      {
+        "zh": "國家的；全國性的",
+        "en": "national",
+        "ex": {
+          "de": "Dieser Feiertag ist ein {nationaler} Feiertag in Frankreich.",
+          "zh": "這個節日是法國的全國性假日。",
+          "en": "This holiday is a national holiday in France.",
+          "distractors": [
+            "durstiger",
+            "hungriger",
+            "hölzerner"
+          ]
+        }
+      }
+    ]
+  },
+  "natur": {
+    "senses": [
+      {
+        "zh": "大自然",
+        "en": "nature",
+        "ex": {
+          "de": "Am Wochenende verbringen wir gern Zeit in der {Natur}.",
+          "zh": "週末我們喜歡待在大自然中。",
+          "en": "At weekends we like spending time in nature.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Socke"
+          ]
+        }
+      }
+    ]
+  },
+  "natuerlich": {
+    "senses": [
+      {
+        "zh": "當然；自然的",
+        "en": "of course; natural",
+        "ex": {
+          "de": "Kann ich dir helfen? — Ja, {natürlich}, vielen Dank!",
+          "zh": "我可以幫你嗎？——好，當然可以，謝謝！",
+          "en": "Can I help you? — Yes, of course, thank you!",
+          "distractors": [
+            "rechteckig",
+            "hölzern",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "nebel": {
+    "senses": [
+      {
+        "zh": "霧",
+        "en": "fog",
+        "ex": {
+          "de": "Wegen des dichten {Nebels} sehen wir die Berge nicht.",
+          "zh": "因為濃霧，我們看不見山。",
+          "en": "Because of the thick fog we cannot see the mountains.",
+          "distractors": [
+            "Kühlschranks",
+            "Löffels",
+            "Regenschirms"
+          ]
+        }
+      }
+    ]
+  }
+}

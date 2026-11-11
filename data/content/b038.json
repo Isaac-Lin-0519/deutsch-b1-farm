@@ -1,0 +1,902 @@
+{
+  "das-der-obers": {
+    "senses": [
+      {
+        "zh": "鮮奶油（奧地利用法）",
+        "en": "cream (Austrian usage)",
+        "ex": {
+          "de": "Für die Torte schlägt sie frisches {Obers} mit Zucker.",
+          "zh": "她為蛋糕把新鮮鮮奶油和糖打發。",
+          "en": "She whips fresh cream with sugar for the cake.",
+          "distractors": [
+            "Kissen",
+            "Fahrrad",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "obst": {
+    "senses": [
+      {
+        "zh": "水果",
+        "en": "fruit",
+        "ex": {
+          "de": "Auf dem Markt kaufen wir frisches {Obst} für die Woche.",
+          "zh": "我們在市場買這週要吃的新鮮水果。",
+          "en": "At the market we buy fresh fruit for the week.",
+          "distractors": [
+            "Wetter",
+            "Kissen",
+            "Fahrrad"
+          ]
+        }
+      }
+    ]
+  },
+  "obwohl": {
+    "senses": [
+      {
+        "zh": "雖然",
+        "en": "although",
+        "ex": {
+          "de": "Wir gehen spazieren, {obwohl} es draußen stark regnet.",
+          "zh": "雖然外面雨下很大，我們還是去散步。",
+          "en": "We are going for a walk although it is raining heavily outside.",
+          "distractors": [
+            "wegen",
+            "trotz",
+            "deshalb"
+          ]
+        }
+      }
+    ]
+  },
+  "oder": {
+    "senses": [
+      {
+        "zh": "或者",
+        "en": "or",
+        "ex": {
+          "de": "Möchtest du heute lieber Tee {oder} Kaffee trinken?",
+          "zh": "你今天比較想喝茶還是咖啡？",
+          "en": "Would you prefer to drink tea or coffee today?",
+          "distractors": [
+            "weil",
+            "obwohl",
+            "damit"
+          ]
+        }
+      }
+    ]
+  },
+  "der-ofen": {
+    "senses": [
+      {
+        "zh": "烤箱；爐子",
+        "en": "oven; stove",
+        "ex": {
+          "de": "Der Kuchen bleibt noch zehn Minuten im {Ofen}.",
+          "zh": "蛋糕還要在烤箱裡待十分鐘。",
+          "en": "The cake stays in the oven for another ten minutes.",
+          "distractors": [
+            "Regenschirm",
+            "Bleistift",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "offen": {
+    "senses": [
+      {
+        "zh": "開著的",
+        "en": "open",
+        "ex": {
+          "de": "Das Fenster steht noch {offen}, obwohl es draußen kalt ist.",
+          "zh": "雖然外面很冷，窗戶還開著。",
+          "en": "The window is still open although it is cold outside.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "oeffentlich": {
+    "senses": [
+      {
+        "zh": "公開的；公共的",
+        "en": "public",
+        "ex": {
+          "de": "Die Sitzung ist {öffentlich}, jeder darf daran teilnehmen.",
+          "zh": "這場會議是公開的，每個人都可以參加。",
+          "en": "The meeting is public; everyone may attend.",
+          "distractors": [
+            "hölzern",
+            "durstig",
+            "rechteckig"
+          ]
+        }
+      }
+    ]
+  },
+  "oeffentlichkeit": {
+    "senses": [
+      {
+        "zh": "公眾",
+        "en": "public",
+        "ex": {
+          "de": "Der Plan wurde gestern der {Öffentlichkeit} vorgestellt.",
+          "zh": "這項計畫昨天向公眾公布。",
+          "en": "The plan was presented to the public yesterday.",
+          "distractors": [
+            "Zahnpasta",
+            "Karotte",
+            "Socke"
+          ]
+        }
+      }
+    ]
+  },
+  "veroeffentlichen": {
+    "senses": [
+      {
+        "zh": "發表；公布",
+        "en": "to publish",
+        "ex": {
+          "de": "Die Zeitung wird morgen einen Bericht darüber {veröffentlichen}.",
+          "zh": "報紙明天會發表一篇相關報導。",
+          "en": "The newspaper will publish a report about it tomorrow.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "offenbar": {
+    "senses": [
+      {
+        "zh": "顯然",
+        "en": "apparently",
+        "ex": {
+          "de": "Der Zug hat {offenbar} Verspätung, denn niemand steigt ein.",
+          "zh": "火車顯然誤點了，因為沒有人上車。",
+          "en": "The train is apparently delayed, as nobody is boarding.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "offiziell": {
+    "senses": [
+      {
+        "zh": "正式的；官方的",
+        "en": "official",
+        "ex": {
+          "de": "Die Ergebnisse sind noch nicht {offiziell} bestätigt.",
+          "zh": "結果還沒有正式確認。",
+          "en": "The results have not yet been officially confirmed.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "oeffnen": {
+    "senses": [
+      {
+        "zh": "打開",
+        "en": "to open",
+        "ex": {
+          "de": "Bitte {öffnen} Sie das Fenster vor dem Schlafengehen.",
+          "zh": "睡前請打開窗戶。",
+          "en": "Please open the window before going to sleep.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "oft-oefter": {
+    "senses": [
+      {
+        "zh": "經常；更常",
+        "en": "often; more often",
+        "ex": {
+          "de": "Seit dem Umzug besuche ich meine Freunde {öfter}.",
+          "zh": "搬家之後，我更常拜訪朋友。",
+          "en": "Since moving, I visit my friends more often.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "ohne": {
+    "senses": [
+      {
+        "zh": "沒有",
+        "en": "without",
+        "ex": {
+          "de": "Ich gehe nie {ohne} meinen Schlüssel aus dem Haus.",
+          "zh": "我出門從來不會不帶鑰匙。",
+          "en": "I never leave the house without my key.",
+          "distractors": [
+            "während",
+            "wegen",
+            "trotz"
+          ]
+        }
+      }
+    ]
+  },
+  "ohr": {
+    "senses": [
+      {
+        "zh": "耳朵",
+        "en": "ear",
+        "ex": {
+          "de": "Das Kind hält sich ein {Ohr} zu, weil es laut ist.",
+          "zh": "因為聲音很大，孩子摀住一隻耳朵。",
+          "en": "The child covers one ear because it is loud.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "oeko": {
+    "senses": [
+      {
+        "zh": "生態的；環保的",
+        "en": "eco-; ecological",
+        "ex": {
+          "de": "Auf dem Markt kaufe ich Gemüse aus {ökologischem} Anbau.",
+          "zh": "我在市場買有機種植的蔬菜。",
+          "en": "At the market I buy organically grown vegetables.",
+          "distractors": [
+            "durstigem",
+            "verheiratetem",
+            "schwangerem"
+          ]
+        }
+      }
+    ]
+  },
+  "oel": {
+    "senses": [
+      {
+        "zh": "油",
+        "en": "oil",
+        "ex": {
+          "de": "Für den Salat brauchen wir etwas {Öl} und Essig.",
+          "zh": "做沙拉我們需要一些油和醋。",
+          "en": "For the salad we need some oil and vinegar.",
+          "distractors": [
+            "Kissen",
+            "Fahrrad",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "oma": {
+    "senses": [
+      {
+        "zh": "奶奶；外婆",
+        "en": "grandma",
+        "ex": {
+          "de": "Meine {Oma} erzählt uns Geschichten aus ihrer Kindheit.",
+          "zh": "我奶奶會告訴我們她小時候的故事。",
+          "en": "My grandma tells us stories from her childhood.",
+          "distractors": [
+            "Gabel",
+            "Wolke",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "onkel": {
+    "senses": [
+      {
+        "zh": "叔叔；舅舅；伯父",
+        "en": "uncle",
+        "ex": {
+          "de": "Mein {Onkel} wohnt mit seiner Familie am Bodensee.",
+          "zh": "我叔叔和家人住在博登湖畔。",
+          "en": "My uncle lives with his family by Lake Constance.",
+          "distractors": [
+            "Regenschirm",
+            "Kühlschrank",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "opa": {
+    "senses": [
+      {
+        "zh": "爺爺；外公",
+        "en": "grandpa",
+        "ex": {
+          "de": "Mein {Opa} zeigt mir alte Fotos aus seiner Schulzeit.",
+          "zh": "爺爺給我看他學生時代的舊照片。",
+          "en": "My grandpa shows me old photos from his school days.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "oper": {
+    "senses": [
+      {
+        "zh": "歌劇；歌劇院",
+        "en": "opera; opera house",
+        "ex": {
+          "de": "Am Samstag sehen wir eine {Oper} im Theater.",
+          "zh": "星期六我們要在劇院看一齣歌劇。",
+          "en": "On Saturday we are seeing an opera at the theater.",
+          "distractors": [
+            "Zahnbürste",
+            "Gabel",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "operieren": {
+    "senses": [
+      {
+        "zh": "動手術",
+        "en": "to operate",
+        "ex": {
+          "de": "Die Ärztin muss den verletzten Patienten morgen {operieren}.",
+          "zh": "醫師明天必須替受傷的病人動手術。",
+          "en": "The doctor has to operate on the injured patient tomorrow.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "opfer": {
+    "senses": [
+      {
+        "zh": "受害者",
+        "en": "victim",
+        "ex": {
+          "de": "Die Polizei hilft dem {Opfer} des Unfalls.",
+          "zh": "警察幫助事故的受害者。",
+          "en": "The police are helping the victim of the accident.",
+          "distractors": [
+            "Fenster",
+            "Kissen",
+            "Fahrrad"
+          ]
+        }
+      }
+    ]
+  },
+  "optimistisch": {
+    "senses": [
+      {
+        "zh": "樂觀的",
+        "en": "optimistic",
+        "ex": {
+          "de": "Trotz der Probleme bleibt sie für die Zukunft {optimistisch}.",
+          "zh": "儘管有困難，她對未來仍保持樂觀。",
+          "en": "Despite the problems she remains optimistic about the future.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "orange": {
+    "senses": [
+      {
+        "zh": "柳橙",
+        "en": "orange",
+        "ex": {
+          "de": "Zum Frühstück esse ich eine saftige {Orange}.",
+          "zh": "早餐我吃一顆多汁的柳橙。",
+          "en": "For breakfast I eat a juicy orange.",
+          "distractors": [
+            "Schraube",
+            "Gabel",
+            "Socke"
+          ]
+        }
+      }
+    ]
+  },
+  "orchester": {
+    "senses": [
+      {
+        "zh": "管弦樂團",
+        "en": "orchestra",
+        "ex": {
+          "de": "Das {Orchester} spielt heute Abend im großen Konzertsaal.",
+          "zh": "管弦樂團今晚在大音樂廳演出。",
+          "en": "The orchestra is playing in the large concert hall tonight.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "ordentlich": {
+    "senses": [
+      {
+        "zh": "整齊的；認真的",
+        "en": "tidy; proper",
+        "ex": {
+          "de": "Nach dem Aufräumen sieht dein Zimmer wieder {ordentlich} aus.",
+          "zh": "整理後你的房間看起來又整齊了。",
+          "en": "After tidying up, your room looks tidy again.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "ordination": {
+    "senses": [
+      {
+        "zh": "診所（奧地利用法）",
+        "en": "doctor’s office (Austrian usage)",
+        "ex": {
+          "de": "In der {Ordination} wartet sie auf ihren Termin beim Arzt.",
+          "zh": "她在診所等著看醫師。",
+          "en": "She is waiting at the doctor’s office for her appointment.",
+          "distractors": [
+            "Zahnbürste",
+            "Wolke",
+            "Marmelade"
+          ]
+        }
+      }
+    ]
+  },
+  "ordnen": {
+    "senses": [
+      {
+        "zh": "整理；排列",
+        "en": "to sort; organize",
+        "ex": {
+          "de": "Ich möchte meine Fotos nach dem Datum {ordnen}.",
+          "zh": "我想依照日期整理照片。",
+          "en": "I want to sort my photos by date.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "ordner": {
+    "senses": [
+      {
+        "zh": "資料夾",
+        "en": "folder; binder",
+        "ex": {
+          "de": "Die Rechnungen liegen im roten {Ordner} im Regal.",
+          "zh": "帳單放在架上的紅色資料夾裡。",
+          "en": "The bills are in the red binder on the shelf.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "ordnung": {
+    "senses": [
+      {
+        "zh": "整齊；秩序",
+        "en": "order; tidiness",
+        "ex": {
+          "de": "Bitte bring deine Bücher wieder in {Ordnung}.",
+          "zh": "請把你的書再整理整齊。",
+          "en": "Please put your books back in order.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "organisieren": {
+    "senses": [
+      {
+        "zh": "組織；籌辦",
+        "en": "to organize",
+        "ex": {
+          "de": "Wir wollen ein kleines Fest für unsere Nachbarn {organisieren}.",
+          "zh": "我們想為鄰居籌辦一個小派對。",
+          "en": "We want to organize a small party for our neighbors.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "organisation": {
+    "senses": [
+      {
+        "zh": "組織；籌辦",
+        "en": "organization",
+        "ex": {
+          "de": "Die {Organisation} des Festes hat viel Zeit gekostet.",
+          "zh": "籌辦這場派對花了很多時間。",
+          "en": "Organizing the party took a lot of time.",
+          "distractors": [
+            "Zahnbürste",
+            "Karotte",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "original": {
+    "senses": [
+      {
+        "zh": "原件；原作",
+        "en": "original",
+        "ex": {
+          "de": "Bitte bewahren Sie das {Original} des Vertrags sicher auf.",
+          "zh": "請將合約正本妥善保存。",
+          "en": "Please keep the original contract safe.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "original-2": {
+    "senses": [
+      {
+        "zh": "原版的；原汁原味的",
+        "en": "original; authentic",
+        "ex": {
+          "de": "Der Film läuft heute in der {originalen} englischen Fassung.",
+          "zh": "這部電影今天放映英文原版。",
+          "en": "The film is showing today in its original English version.",
+          "distractors": [
+            "hungrigen",
+            "durstigen",
+            "schwangeren"
+          ]
+        }
+      }
+    ]
+  },
+  "ort": {
+    "senses": [
+      {
+        "zh": "地方；城鎮",
+        "en": "place; town",
+        "ex": {
+          "de": "Dieser kleine {Ort} liegt direkt an der Grenze.",
+          "zh": "這個小鎮就在邊境旁。",
+          "en": "This small town lies right on the border.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "vorort": {
+    "senses": [
+      {
+        "zh": "郊區",
+        "en": "suburb",
+        "ex": {
+          "de": "Sie wohnen in einem ruhigen {Vorort} von München.",
+          "zh": "他們住在慕尼黑一個安靜的郊區。",
+          "en": "They live in a quiet suburb of Munich.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "wohnort": {
+    "senses": [
+      {
+        "zh": "居住地",
+        "en": "place of residence",
+        "ex": {
+          "de": "Bitte geben Sie Ihren {Wohnort} auf dem Formular an.",
+          "zh": "請在表格上填寫您的居住地。",
+          "en": "Please enter your place of residence on the form.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "ozean": {
+    "senses": [
+      {
+        "zh": "海洋",
+        "en": "ocean",
+        "ex": {
+          "de": "Der Atlantische {Ozean} liegt zwischen Europa und Amerika.",
+          "zh": "大西洋位於歐洲和美洲之間。",
+          "en": "The Atlantic Ocean lies between Europe and America.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "paar": {
+    "senses": [
+      {
+        "zh": "幾個",
+        "en": "a few",
+        "ex": {
+          "de": "Ich brauche noch ein {paar} Minuten für meine Hausaufgabe.",
+          "zh": "我還需要幾分鐘完成作業。",
+          "en": "I need a few more minutes for my homework.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "paar-2": {
+    "senses": [
+      {
+        "zh": "一對；一雙",
+        "en": "pair; couple",
+        "ex": {
+          "de": "Zum Wandern brauche ich ein neues {Paar} Schuhe.",
+          "zh": "健行時我需要一雙新鞋。",
+          "en": "I need a new pair of shoes for hiking.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "packen": {
+    "senses": [
+      {
+        "zh": "打包",
+        "en": "to pack",
+        "ex": {
+          "de": "Wir {packen} die Bücher vorsichtig in einen Karton.",
+          "zh": "我們小心地把書裝進紙箱。",
+          "en": "We carefully pack the books into a box.",
+          "distractors": [
+            "husten",
+            "schlafen",
+            "regnen"
+          ]
+        }
+      }
+    ]
+  },
+  "paket": {
+    "senses": [
+      {
+        "zh": "包裹",
+        "en": "parcel",
+        "ex": {
+          "de": "Ein großes {Paket} wartet vor unserer Wohnungstür.",
+          "zh": "一個大包裹放在我們公寓門前。",
+          "en": "A large parcel is waiting outside our apartment door.",
+          "distractors": [
+            "Wetter",
+            "Frühstück",
+            "Meer"
+          ]
+        }
+      }
+    ]
+  },
+  "panne": {
+    "senses": [
+      {
+        "zh": "故障；意外狀況",
+        "en": "breakdown; mishap",
+        "ex": {
+          "de": "Wegen einer {Panne} blieb unser Auto auf der Autobahn stehen.",
+          "zh": "因為故障，我們的車停在高速公路上。",
+          "en": "Our car stopped on the motorway because of a breakdown.",
+          "distractors": [
+            "Zahnbürste",
+            "Karotte",
+            "Marmelade"
+          ]
+        }
+      }
+    ]
+  },
+  "papier": {
+    "senses": [
+      {
+        "zh": "紙",
+        "en": "paper",
+        "ex": {
+          "de": "Schreib die Adresse bitte auf ein Stück {Papier}.",
+          "zh": "請把地址寫在一張紙上。",
+          "en": "Please write the address on a piece of paper.",
+          "distractors": [
+            "Wetter",
+            "Frühstück",
+            "Fahrrad"
+          ]
+        }
+      }
+    ]
+  },
+  "paradeiser": {
+    "senses": [
+      {
+        "zh": "番茄（奧地利用法）",
+        "en": "tomato (Austrian usage)",
+        "ex": {
+          "de": "Für den Salat schneidet er einen roten {Paradeiser}.",
+          "zh": "他切了一顆紅番茄做沙拉。",
+          "en": "He cuts a red tomato for the salad.",
+          "distractors": [
+            "Regenschirm",
+            "Kühlschrank",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "parallel": {
+    "senses": [
+      {
+        "zh": "平行的；同時的",
+        "en": "parallel; at the same time",
+        "ex": {
+          "de": "Die beiden Straßen verlaufen {parallel} zum Fluss.",
+          "zh": "這兩條街與河流平行。",
+          "en": "The two streets run parallel to the river.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "parfuem": {
+    "senses": [
+      {
+        "zh": "香水",
+        "en": "perfume",
+        "ex": {
+          "de": "Zum Geburtstag bekam sie ein kleines Fläschchen {Parfüm}.",
+          "zh": "她生日收到一小瓶香水。",
+          "en": "For her birthday she received a small bottle of perfume.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "park": {
+    "senses": [
+      {
+        "zh": "公園",
+        "en": "park",
+        "ex": {
+          "de": "Im {Park} spielen Kinder zwischen den hohen Bäumen.",
+          "zh": "孩子們在公園裡的高大樹木之間玩耍。",
+          "en": "Children are playing among the tall trees in the park.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "parken": {
+    "senses": [
+      {
+        "zh": "停車",
+        "en": "to park",
+        "ex": {
+          "de": "Hier dürfen Sie Ihr Auto nur eine Stunde {parken}.",
+          "zh": "您在這裡只能停車一小時。",
+          "en": "You may park your car here for only one hour.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  }
+}

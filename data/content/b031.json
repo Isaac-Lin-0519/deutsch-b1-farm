@@ -880,5 +880,23 @@
         }
       }
     ]
+  },
+  "kriminaldie-kriminalpolizei": {
+    "senses": [
+      {
+        "zh": "刑事警察；刑事警察局",
+        "en": "criminal police",
+        "ex": {
+          "de": "Die {Kriminalpolizei} sucht nach dem gestohlenen Fahrrad.",
+          "zh": "刑事警察正在尋找那輛被偷的腳踏車。",
+          "en": "The criminal police are looking for the stolen bicycle.",
+          "distractors": [
+            "Bäckerei",
+            "Bibliothek",
+            "Apotheke"
+          ]
+        }
+      }
+    ]
   }
 }

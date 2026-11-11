@@ -1,0 +1,884 @@
+{
+  "neblig": {
+    "senses": [
+      {
+        "zh": "有霧的",
+        "en": "foggy",
+        "ex": {
+          "de": "Heute Morgen war es {neblig} auf der Autobahn.",
+          "zh": "今天早上高速公路上有霧。",
+          "en": "It was foggy on the motorway this morning.",
+          "distractors": [
+            "hungrig",
+            "traurig",
+            "teuer"
+          ]
+        }
+      }
+    ]
+  },
+  "neben": {
+    "senses": [
+      {
+        "zh": "在旁邊",
+        "en": "next to",
+        "ex": {
+          "de": "Die Katze schläft {neben} dem warmen Ofen.",
+          "zh": "貓睡在溫暖的爐子旁邊。",
+          "en": "The cat is sleeping next to the warm stove.",
+          "distractors": [
+            "wegen",
+            "trotz",
+            "statt"
+          ]
+        }
+      }
+    ]
+  },
+  "nebenan": {
+    "senses": [
+      {
+        "zh": "在隔壁",
+        "en": "next door",
+        "ex": {
+          "de": "Meine Großeltern wohnen gleich {nebenan} in dem gelben Haus.",
+          "zh": "我的祖父母就住在隔壁的黃色房子裡。",
+          "en": "My grandparents live next door in the yellow house.",
+          "distractors": [
+            "gestern",
+            "nie",
+            "morgen"
+          ]
+        }
+      }
+    ]
+  },
+  "nebenbei": {
+    "senses": [
+      {
+        "zh": "順便；同時",
+        "en": "in passing, on the side",
+        "ex": {
+          "de": "Beim Kochen hört sie {nebenbei} gern Musik.",
+          "zh": "她做飯時喜歡順便聽音樂。",
+          "en": "She likes listening to music while cooking.",
+          "distractors": [
+            "niemals",
+            "gestern",
+            "morgen"
+          ]
+        }
+      }
+    ]
+  },
+  "negativ": {
+    "senses": [
+      {
+        "zh": "負面的；陰性的",
+        "en": "negative",
+        "ex": {
+          "de": "Das Ergebnis des Tests war zum Glück {negativ}.",
+          "zh": "幸好檢測結果是陰性。",
+          "en": "Fortunately the test result was negative.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "nehmen": {
+    "senses": [
+      {
+        "zh": "拿；取",
+        "en": "to take",
+        "ex": {
+          "de": "Du kannst dir ein Stück Kuchen vom Teller {nehmen}.",
+          "zh": "你可以從盤子裡拿一塊蛋糕。",
+          "en": "You can take a piece of cake from the plate.",
+          "distractors": [
+            "vergessen",
+            "verlieren",
+            "verkaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "nein": {
+    "senses": [
+      {
+        "zh": "不",
+        "en": "no",
+        "ex": {
+          "de": "Sie fragte ihn, aber er antwortete mit einem klaren {Nein}.",
+          "zh": "她問了他，但他明確回答了不。",
+          "en": "She asked him, but he gave a clear no.",
+          "distractors": [
+            "Apfel",
+            "Schlüssel",
+            "Teppich"
+          ]
+        }
+      }
+    ]
+  },
+  "nennen": {
+    "senses": [
+      {
+        "zh": "稱呼；命名",
+        "en": "to call, name",
+        "ex": {
+          "de": "Wir wollen unseren neuen Hund Bruno {nennen}.",
+          "zh": "我們想把新狗取名叫 Bruno。",
+          "en": "We want to call our new dog Bruno.",
+          "distractors": [
+            "verkaufen",
+            "vergessen",
+            "verlieren"
+          ]
+        }
+      }
+    ]
+  },
+  "nerv": {
+    "senses": [
+      {
+        "zh": "神經",
+        "en": "nerve",
+        "ex": {
+          "de": "Bei dem Unfall wurde ein {Nerv} im Arm verletzt.",
+          "zh": "事故中手臂的一條神經受傷了。",
+          "en": "A nerve in the arm was injured in the accident.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "nervoes": {
+    "senses": [
+      {
+        "zh": "緊張的",
+        "en": "nervous",
+        "ex": {
+          "de": "Vor dem ersten Auftritt war die Sängerin sehr {nervös}.",
+          "zh": "第一次登台前，女歌手很緊張。",
+          "en": "The singer was very nervous before her first performance.",
+          "distractors": [
+            "nass",
+            "kaputt",
+            "schmutzig"
+          ]
+        }
+      }
+    ]
+  },
+  "nett": {
+    "senses": [
+      {
+        "zh": "友善的",
+        "en": "nice, friendly",
+        "ex": {
+          "de": "Unsere neue Nachbarin ist sehr {nett} und hilfsbereit.",
+          "zh": "我們的新鄰居很親切又樂於助人。",
+          "en": "Our new neighbor is very nice and helpful.",
+          "distractors": [
+            "kaputt",
+            "schmutzig",
+            "nass"
+          ]
+        }
+      }
+    ]
+  },
+  "netz": {
+    "senses": [
+      {
+        "zh": "網；網路",
+        "en": "net, network",
+        "ex": {
+          "de": "Der Fischer repariert das kaputte {Netz} am Hafen.",
+          "zh": "漁夫在港口修補破掉的網子。",
+          "en": "The fisherman repairs the broken net at the harbor.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "netzwerk": {
+    "senses": [
+      {
+        "zh": "網絡",
+        "en": "network",
+        "ex": {
+          "de": "Über ein berufliches {Netzwerk} hat sie die Stelle gefunden.",
+          "zh": "她透過職業人脈網絡找到了這份工作。",
+          "en": "She found the job through a professional network.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "neu": {
+    "senses": [
+      {
+        "zh": "新的",
+        "en": "new",
+        "ex": {
+          "de": "Mein alter Computer ist kaputt, ich brauche einen {neuen}.",
+          "zh": "我的舊電腦壞了，我需要一台新的。",
+          "en": "My old computer is broken; I need a new one.",
+          "distractors": [
+            "kranken",
+            "hungrigen",
+            "müden"
+          ]
+        }
+      }
+    ]
+  },
+  "neuigkeit": {
+    "senses": [
+      {
+        "zh": "新消息",
+        "en": "news",
+        "ex": {
+          "de": "Hast du schon die {Neuigkeit} über unsere Nachbarn gehört?",
+          "zh": "你已經聽到關於鄰居的新消息了嗎？",
+          "en": "Have you heard the news about our neighbors?",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "neugierig": {
+    "senses": [
+      {
+        "zh": "好奇的",
+        "en": "curious",
+        "ex": {
+          "de": "Das Kind ist {neugierig} und stellt viele Fragen.",
+          "zh": "這個孩子很好奇，問了很多問題。",
+          "en": "The child is curious and asks many questions.",
+          "distractors": [
+            "kaputt",
+            "nass",
+            "schmutzig"
+          ]
+        }
+      }
+    ]
+  },
+  "neulich": {
+    "senses": [
+      {
+        "zh": "不久前",
+        "en": "the other day",
+        "ex": {
+          "de": "Er hat {neulich} zum ersten Mal selbst Brot gebacken.",
+          "zh": "他不久前第一次自己烤了麵包。",
+          "en": "He baked bread himself for the first time recently.",
+          "distractors": [
+            "morgen",
+            "bald",
+            "demnächst"
+          ]
+        }
+      }
+    ]
+  },
+  "nicht": {
+    "senses": [
+      {
+        "zh": "不；沒有",
+        "en": "not",
+        "ex": {
+          "de": "Heute kann ich leider {nicht} zum Treffen kommen.",
+          "zh": "很抱歉，我今天不能來聚會。",
+          "en": "Unfortunately I cannot come to the meeting today.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "draußen"
+          ]
+        }
+      }
+    ]
+  },
+  "nichte": {
+    "senses": [
+      {
+        "zh": "姪女；外甥女",
+        "en": "niece",
+        "ex": {
+          "de": "Meine {Nichte} hat zum Geburtstag ein Fahrrad bekommen.",
+          "zh": "我的姪女生日收到了一台腳踏車。",
+          "en": "My niece got a bicycle for her birthday.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "nichtraucher": {
+    "senses": [
+      {
+        "zh": "不吸菸的男性",
+        "en": "male non-smoker",
+        "ex": {
+          "de": "Der {Nichtraucher} bittet seinen Freund, draußen zu rauchen.",
+          "zh": "這位不吸菸的男士請朋友到外面吸菸。",
+          "en": "The non-smoker asks his friend to smoke outside.",
+          "distractors": [
+            "Kühlschrank",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "nichtraucherin": {
+    "senses": [
+      {
+        "zh": "不吸菸的女性",
+        "en": "female non-smoker",
+        "ex": {
+          "de": "Als {Nichtraucherin} möchte sie ein Zimmer ohne Rauchgeruch.",
+          "zh": "身為不吸菸者，她想要一間沒有菸味的房間。",
+          "en": "As a non-smoker she wants a room without the smell of smoke.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "nichts": {
+    "senses": [
+      {
+        "zh": "沒有東西；什麼也不",
+        "en": "nothing",
+        "ex": {
+          "de": "Im Kühlschrank ist fast {nichts} mehr zu essen.",
+          "zh": "冰箱裡幾乎沒有東西可以吃了。",
+          "en": "There is almost nothing left to eat in the fridge.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "draußen"
+          ]
+        }
+      }
+    ]
+  },
+  "nie": {
+    "senses": [
+      {
+        "zh": "從不",
+        "en": "never",
+        "ex": {
+          "de": "Mein Bruder trinkt {nie} Kaffee vor dem Schlafengehen.",
+          "zh": "我弟弟睡前從不喝咖啡。",
+          "en": "My brother never drinks coffee before going to bed.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "draußen"
+          ]
+        }
+      }
+    ]
+  },
+  "niedrig": {
+    "senses": [
+      {
+        "zh": "低的",
+        "en": "low",
+        "ex": {
+          "de": "Die Decke im alten Keller ist sehr {niedrig}.",
+          "zh": "老地下室的天花板很低。",
+          "en": "The ceiling in the old cellar is very low.",
+          "distractors": [
+            "hungrig",
+            "traurig",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "niemand": {
+    "senses": [
+      {
+        "zh": "沒有人",
+        "en": "nobody",
+        "ex": {
+          "de": "Als ich ankam, war {niemand} mehr im Büro.",
+          "zh": "我到的時候，辦公室已經沒有人了。",
+          "en": "When I arrived, nobody was in the office anymore.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "draußen"
+          ]
+        }
+      }
+    ]
+  },
+  "nirgends": {
+    "senses": [
+      {
+        "zh": "任何地方都不",
+        "en": "nowhere",
+        "ex": {
+          "de": "Ich habe überall gesucht, aber meinen Schlüssel {nirgends} gefunden.",
+          "zh": "我到處找了，但哪裡都找不到鑰匙。",
+          "en": "I searched everywhere but found my key nowhere.",
+          "distractors": [
+            "morgen",
+            "gestern",
+            "bald"
+          ]
+        }
+      }
+    ]
+  },
+  "nirgendwo": {
+    "senses": [
+      {
+        "zh": "任何地方都不",
+        "en": "nowhere",
+        "ex": {
+          "de": "In diesem kleinen Dorf gibt es {nirgendwo} einen Geldautomaten.",
+          "zh": "這個小村莊裡沒有任何地方有提款機。",
+          "en": "There is no cash machine anywhere in this small village.",
+          "distractors": [
+            "morgen",
+            "gestern",
+            "bald"
+          ]
+        }
+      }
+    ]
+  },
+  "noch": {
+    "senses": [
+      {
+        "zh": "還；仍然",
+        "en": "still",
+        "ex": {
+          "de": "Obwohl es spät ist, arbeitet sie {noch} im Büro.",
+          "zh": "雖然很晚了，她仍然在辦公室工作。",
+          "en": "Although it is late, she is still working in the office.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "draußen"
+          ]
+        }
+      }
+    ]
+  },
+  "noch-mal": {
+    "senses": [
+      {
+        "zh": "再一次",
+        "en": "again",
+        "ex": {
+          "de": "Kannst du deinen Namen bitte {noch mal} sagen?",
+          "zh": "請你再說一次你的名字好嗎？",
+          "en": "Can you say your name again, please?",
+          "distractors": [
+            "gestern",
+            "niemals",
+            "draußen"
+          ]
+        }
+      }
+    ]
+  },
+  "nochmals": {
+    "senses": [
+      {
+        "zh": "再次",
+        "en": "once more",
+        "ex": {
+          "de": "Bitte prüfen Sie vor dem Abschicken {nochmals} Ihre Adresse.",
+          "zh": "寄出前請再次確認您的地址。",
+          "en": "Please check your address once more before sending.",
+          "distractors": [
+            "niemals",
+            "gestern",
+            "morgen"
+          ]
+        }
+      }
+    ]
+  },
+  "normal": {
+    "senses": [
+      {
+        "zh": "正常的",
+        "en": "normal",
+        "ex": {
+          "de": "Nach der Pause fühlt sie sich wieder ganz {normal}.",
+          "zh": "休息之後，她覺得自己又恢復正常了。",
+          "en": "After the break she feels completely normal again.",
+          "distractors": [
+            "kaputt",
+            "schmutzig",
+            "nass"
+          ]
+        }
+      }
+    ]
+  },
+  "normalerweise": {
+    "senses": [
+      {
+        "zh": "通常",
+        "en": "normally",
+        "ex": {
+          "de": "Am Sonntag schlafen wir {normalerweise} etwas länger.",
+          "zh": "星期天我們通常睡得久一點。",
+          "en": "On Sundays we normally sleep a little longer.",
+          "distractors": [
+            "niemals",
+            "gestern",
+            "morgen"
+          ]
+        }
+      }
+    ]
+  },
+  "notausgang": {
+    "senses": [
+      {
+        "zh": "緊急出口",
+        "en": "emergency exit",
+        "ex": {
+          "de": "Im Kino zeigt ein grünes Schild den {Notausgang}.",
+          "zh": "電影院裡有綠色標誌指出緊急出口。",
+          "en": "A green sign shows the emergency exit in the cinema.",
+          "distractors": [
+            "Regenschirm",
+            "Teppich",
+            "Schal"
+          ]
+        }
+      }
+    ]
+  },
+  "notfall": {
+    "senses": [
+      {
+        "zh": "緊急情況",
+        "en": "emergency",
+        "ex": {
+          "de": "Im {Notfall} kannst du jederzeit diese Nummer anrufen.",
+          "zh": "緊急時你隨時可以打這個號碼。",
+          "en": "In an emergency you can call this number at any time.",
+          "distractors": [
+            "Koffer",
+            "Schrank",
+            "Teppich"
+          ]
+        }
+      }
+    ]
+  },
+  "notruf": {
+    "senses": [
+      {
+        "zh": "緊急求救電話",
+        "en": "emergency call",
+        "ex": {
+          "de": "Nach dem Unfall setzte sie sofort einen {Notruf} ab.",
+          "zh": "事故後她立刻打了緊急求救電話。",
+          "en": "After the accident she immediately made an emergency call.",
+          "distractors": [
+            "Teppich",
+            "Schal",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "note": {
+    "senses": [
+      {
+        "zh": "成績；分數",
+        "en": "grade",
+        "ex": {
+          "de": "Für ihre Prüfung hat sie eine gute {Note} bekommen.",
+          "zh": "她的考試得到了好成績。",
+          "en": "She received a good grade for her exam.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "notieren": {
+    "senses": [
+      {
+        "zh": "記下",
+        "en": "to note down",
+        "ex": {
+          "de": "Bitte {notieren} Sie die Adresse auf einem Blatt Papier.",
+          "zh": "請把地址記在一張紙上。",
+          "en": "Please write the address down on a sheet of paper.",
+          "distractors": [
+            "vergessen",
+            "verlieren",
+            "verkaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "noetig": {
+    "senses": [
+      {
+        "zh": "必要的",
+        "en": "necessary",
+        "ex": {
+          "de": "Für diesen kurzen Weg ist kein Auto {nötig}.",
+          "zh": "這麼短的路程不需要開車。",
+          "en": "A car is not necessary for this short journey.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "notiz": {
+    "senses": [
+      {
+        "zh": "筆記",
+        "en": "note",
+        "ex": {
+          "de": "Er schreibt eine kurze {Notiz} für seine Kollegin.",
+          "zh": "他寫了一張簡短的便條給女同事。",
+          "en": "He writes a short note for his colleague.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "notwendig": {
+    "senses": [
+      {
+        "zh": "必要的",
+        "en": "necessary",
+        "ex": {
+          "de": "Ein gültiger Ausweis ist für die Anmeldung {notwendig}.",
+          "zh": "報名需要有效的身分證件。",
+          "en": "A valid ID is necessary for registration.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "nudel": {
+    "senses": [
+      {
+        "zh": "麵條",
+        "en": "noodle",
+        "ex": {
+          "de": "Eine {Nudel} ist beim Kochen auf den Boden gefallen.",
+          "zh": "煮飯時一根麵條掉到了地板上。",
+          "en": "A noodle fell onto the floor while cooking.",
+          "distractors": [
+            "Brille",
+            "Jacke",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "nummer": {
+    "senses": [
+      {
+        "zh": "號碼",
+        "en": "number",
+        "ex": {
+          "de": "Schreib bitte deine {Nummer} auf diesen Zettel.",
+          "zh": "請把你的號碼寫在這張紙上。",
+          "en": "Please write your number on this piece of paper.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "nun": {
+    "senses": [
+      {
+        "zh": "現在；於是",
+        "en": "now",
+        "ex": {
+          "de": "Der Regen hat aufgehört, und {nun} gehen wir spazieren.",
+          "zh": "雨停了，現在我們要去散步。",
+          "en": "The rain has stopped and now we are going for a walk.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "niemals"
+          ]
+        }
+      }
+    ]
+  },
+  "nur": {
+    "senses": [
+      {
+        "zh": "只有",
+        "en": "only",
+        "ex": {
+          "de": "Im Kühlschrank steht {nur} noch eine Flasche Wasser.",
+          "zh": "冰箱裡只剩下一瓶水。",
+          "en": "There is only one bottle of water left in the fridge.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "draußen"
+          ]
+        }
+      }
+    ]
+  },
+  "nutzen": {
+    "senses": [
+      {
+        "zh": "使用；利用",
+        "en": "to use",
+        "ex": {
+          "de": "Wir können den freien Nachmittag für einen Ausflug {nutzen}.",
+          "zh": "我們可以利用空閒的下午去郊遊。",
+          "en": "We can use the free afternoon for an outing.",
+          "distractors": [
+            "vergessen",
+            "verlieren",
+            "verkaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "nuetzlich": {
+    "senses": [
+      {
+        "zh": "有用的",
+        "en": "useful",
+        "ex": {
+          "de": "Diese Karte ist sehr {nützlich} für unsere Wanderung.",
+          "zh": "這張地圖對我們的健行很有用。",
+          "en": "This map is very useful for our hike.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "oben": {
+    "senses": [
+      {
+        "zh": "在上方",
+        "en": "above, upstairs",
+        "ex": {
+          "de": "Die Handtücher liegen ganz {oben} im Schrank.",
+          "zh": "毛巾放在櫃子的最上層。",
+          "en": "The towels are right at the top of the cupboard.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "niemals"
+          ]
+        }
+      }
+    ]
+  },
+  "ober": {
+    "senses": [
+      {
+        "zh": "上面的（詞首）",
+        "en": "upper (prefix)",
+        "ex": {
+          "de": "Im {Ober}geschoss befinden sich zwei kleine Schlafzimmer.",
+          "zh": "樓上有兩間小臥室。",
+          "en": "There are two small bedrooms on the upper floor.",
+          "distractors": [
+            "Keller",
+            "Dach",
+            "Tief"
+          ]
+        }
+      }
+    ]
+  },
+  "ober-2": {
+    "senses": [
+      {
+        "zh": "服務生（男性）",
+        "en": "waiter",
+        "ex": {
+          "de": "Der {Ober} bringt uns die Rechnung an den Tisch.",
+          "zh": "服務生把帳單拿到我們桌邊。",
+          "en": "The waiter brings the bill to our table.",
+          "distractors": [
+            "Teppich",
+            "Koffer",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  }
+}
