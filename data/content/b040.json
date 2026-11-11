@@ -1,0 +1,902 @@
+{
+  "politiker": {
+    "senses": [
+      {
+        "zh": "政治人物",
+        "en": "politician",
+        "ex": {
+          "de": "Der {Politiker} beantwortet Fragen der Bürger im Rathaus.",
+          "zh": "這位政治人物在市政廳回答市民的問題。",
+          "en": "The politician answers citizens’ questions at the town hall.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "politikerin": {
+    "senses": [
+      {
+        "zh": "女性政治人物",
+        "en": "female politician",
+        "ex": {
+          "de": "Die {Politikerin} spricht vor vielen Menschen über Bildung.",
+          "zh": "這位政治人物在許多人面前談論教育。",
+          "en": "The politician speaks about education in front of many people.",
+          "distractors": [
+            "Gabel",
+            "Karotte",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "politisch": {
+    "senses": [
+      {
+        "zh": "政治的",
+        "en": "political",
+        "ex": {
+          "de": "Sie interessiert sich für {politische} Fragen in Europa.",
+          "zh": "她對歐洲的政治議題有興趣。",
+          "en": "She is interested in political issues in Europe.",
+          "distractors": [
+            "durstige",
+            "hungrige",
+            "schwangere"
+          ]
+        }
+      }
+    ]
+  },
+  "polizei": {
+    "senses": [
+      {
+        "zh": "警察；警方",
+        "en": "police",
+        "ex": {
+          "de": "Nach dem Unfall ruft eine Frau sofort die {Polizei}.",
+          "zh": "事故發生後，一位女士立刻報警。",
+          "en": "After the accident a woman immediately calls the police.",
+          "distractors": [
+            "Marmelade",
+            "Zahnpasta",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "polizist": {
+    "senses": [
+      {
+        "zh": "男警察；警察",
+        "en": "police officer",
+        "ex": {
+          "de": "Der {Polizist} hilft dem Kind, seine Eltern zu finden.",
+          "zh": "警察幫助孩子找到父母。",
+          "en": "The police officer helps the child find their parents.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "polizistin": {
+    "senses": [
+      {
+        "zh": "女警察",
+        "en": "female police officer",
+        "ex": {
+          "de": "Eine {Polizistin} regelt den Verkehr vor der Schule.",
+          "zh": "一位女警察在學校前指揮交通。",
+          "en": "A police officer directs traffic in front of the school.",
+          "distractors": [
+            "Gabel",
+            "Wolke",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "pommes-frites": {
+    "senses": [
+      {
+        "zh": "薯條",
+        "en": "French fries",
+        "ex": {
+          "de": "Die Kinder bestellen zu ihrem Essen {Pommes frites}.",
+          "zh": "孩子們點薯條搭配餐點。",
+          "en": "The children order French fries with their meal.",
+          "distractors": [
+            "Handschuhe",
+            "Zeitungen",
+            "Regenschirme"
+          ]
+        }
+      }
+    ]
+  },
+  "populaer": {
+    "senses": [
+      {
+        "zh": "受歡迎的",
+        "en": "popular",
+        "ex": {
+          "de": "Dieser Sänger ist besonders bei jungen Leuten sehr {populär}.",
+          "zh": "這位歌手在年輕人之間特別受歡迎。",
+          "en": "This singer is especially popular among young people.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "portemonnaie-portmonee": {
+    "senses": [
+      {
+        "zh": "錢包",
+        "en": "wallet",
+        "ex": {
+          "de": "Mein {Portemonnaie} liegt noch auf dem Küchentisch.",
+          "zh": "我的錢包還放在廚房桌上。",
+          "en": "My wallet is still on the kitchen table.",
+          "distractors": [
+            "Wetter",
+            "Frühstück",
+            "Meer"
+          ]
+        }
+      }
+    ]
+  },
+  "portion": {
+    "senses": [
+      {
+        "zh": "一份（食物）",
+        "en": "portion; serving",
+        "ex": {
+          "de": "Für mich bitte eine kleine {Portion} Reis.",
+          "zh": "請給我一小份飯。",
+          "en": "A small portion of rice for me, please.",
+          "distractors": [
+            "Treppe",
+            "Wolke",
+            "Socke"
+          ]
+        }
+      }
+    ]
+  },
+  "positiv": {
+    "senses": [
+      {
+        "zh": "正面的；陽性的",
+        "en": "positive",
+        "ex": {
+          "de": "Die Rückmeldung zu unserem Projekt war überwiegend {positiv}.",
+          "zh": "對我們專案的回饋大部分是正面的。",
+          "en": "The feedback on our project was mostly positive.",
+          "distractors": [
+            "durstig",
+            "hungrig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "post": {
+    "senses": [
+      {
+        "zh": "郵件；郵政",
+        "en": "post; mail",
+        "ex": {
+          "de": "Heute ist noch keine {Post} für dich angekommen.",
+          "zh": "今天還沒有你的郵件送到。",
+          "en": "No mail has arrived for you yet today.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "postleitzahl": {
+    "senses": [
+      {
+        "zh": "郵遞區號",
+        "en": "postal code",
+        "ex": {
+          "de": "Bitte tragen Sie Ihre {Postleitzahl} neben dem Wohnort ein.",
+          "zh": "請在居住地旁邊填寫郵遞區號。",
+          "en": "Please enter your postal code next to your place of residence.",
+          "distractors": [
+            "Zahnbürste",
+            "Kartoffel",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "poestler-2": {
+    "senses": [
+      {
+        "zh": "郵差（瑞士用法）",
+        "en": "postal worker (Swiss usage)",
+        "ex": {
+          "de": "Der {Pöstler} bringt jeden Morgen Briefe in unser Dorf.",
+          "zh": "郵差每天早上把信送到我們村子。",
+          "en": "The postal worker brings letters to our village every morning.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "praktikum": {
+    "senses": [
+      {
+        "zh": "實習",
+        "en": "internship",
+        "ex": {
+          "de": "Im Sommer macht sie ein {Praktikum} in einem Krankenhaus.",
+          "zh": "夏天她在一間醫院實習。",
+          "en": "In summer she is doing an internship at a hospital.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "praktikant": {
+    "senses": [
+      {
+        "zh": "男性實習生；實習生",
+        "en": "intern",
+        "ex": {
+          "de": "Der {Praktikant} lernt heute die Mitarbeiter der Firma kennen.",
+          "zh": "實習生今天要認識公司的員工。",
+          "en": "The intern is meeting the company’s employees today.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "praktikantin": {
+    "senses": [
+      {
+        "zh": "女性實習生",
+        "en": "female intern",
+        "ex": {
+          "de": "Die {Praktikantin} arbeitet für drei Monate in unserer Abteilung.",
+          "zh": "這位實習生在我們部門工作三個月。",
+          "en": "The intern is working in our department for three months.",
+          "distractors": [
+            "Wolke",
+            "Karotte",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "praktisch": {
+    "senses": [
+      {
+        "zh": "實用的；方便的",
+        "en": "practical; convenient",
+        "ex": {
+          "de": "Eine Tasche mit vielen Fächern finde ich sehr {praktisch}.",
+          "zh": "我覺得有很多隔層的包包很實用。",
+          "en": "I find a bag with many compartments very practical.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "praesentieren": {
+    "senses": [
+      {
+        "zh": "介紹；展示",
+        "en": "to present",
+        "ex": {
+          "de": "Morgen wird unsere Gruppe die Ergebnisse der Klasse {präsentieren}.",
+          "zh": "明天我們組會向全班展示結果。",
+          "en": "Tomorrow our group will present the results to the class.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "praesentation": {
+    "senses": [
+      {
+        "zh": "簡報；展示",
+        "en": "presentation",
+        "ex": {
+          "de": "Für die {Präsentation} bereiten wir Bilder und kurze Texte vor.",
+          "zh": "為了簡報，我們準備圖片和簡短文字。",
+          "en": "For the presentation we are preparing pictures and short texts.",
+          "distractors": [
+            "Zahnbürste",
+            "Karotte",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "praxis": {
+    "senses": [
+      {
+        "zh": "實務；實踐",
+        "en": "practice",
+        "ex": {
+          "de": "In der {Praxis} ist die Aufgabe schwieriger als in der Theorie.",
+          "zh": "實際上這項任務比理論上困難。",
+          "en": "In practice the task is harder than in theory.",
+          "distractors": [
+            "Zahnbürste",
+            "Karotte",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "praxis-2": {
+    "senses": [
+      {
+        "zh": "診所",
+        "en": "doctor’s practice; surgery",
+        "ex": {
+          "de": "Die {Praxis} unserer Ärztin öffnet morgens um acht Uhr.",
+          "zh": "我們醫師的診所早上八點開門。",
+          "en": "Our doctor’s practice opens at eight in the morning.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "preis": {
+    "senses": [
+      {
+        "zh": "價格",
+        "en": "price",
+        "ex": {
+          "de": "Der {Preis} für das Fahrrad steht auf dem Schild.",
+          "zh": "腳踏車的價格寫在牌子上。",
+          "en": "The price of the bicycle is on the sign.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "preiswert": {
+    "senses": [
+      {
+        "zh": "價格合理的；便宜的",
+        "en": "inexpensive; good value",
+        "ex": {
+          "de": "Im kleinen Restaurant kann man mittags sehr {preiswert} essen.",
+          "zh": "中午在這間小餐廳吃飯價格很實惠。",
+          "en": "You can eat very inexpensively at lunchtime in the small restaurant.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "presse": {
+    "senses": [
+      {
+        "zh": "新聞界；媒體",
+        "en": "press",
+        "ex": {
+          "de": "Die {Presse} berichtet heute über die neue Entscheidung.",
+          "zh": "媒體今天報導了這項新決定。",
+          "en": "The press is reporting on the new decision today.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "privat": {
+    "senses": [
+      {
+        "zh": "私人的",
+        "en": "private",
+        "ex": {
+          "de": "Meine Telefonnummer ist {privat}, bitte geben Sie sie nicht weiter.",
+          "zh": "我的電話號碼是私人的，請不要轉給別人。",
+          "en": "My telephone number is private; please do not pass it on.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "pro": {
+    "senses": [
+      {
+        "zh": "每；按",
+        "en": "per",
+        "ex": {
+          "de": "Das Hotelzimmer kostet achtzig Euro {pro} Nacht.",
+          "zh": "這間旅館房間每晚八十歐元。",
+          "en": "The hotel room costs eighty euros per night.",
+          "distractors": [
+            "trotz",
+            "wegen",
+            "während"
+          ]
+        }
+      }
+    ]
+  },
+  "probieren": {
+    "senses": [
+      {
+        "zh": "嘗試",
+        "en": "to try",
+        "ex": {
+          "de": "Du kannst es noch einmal mit einem anderen Schlüssel {probieren}.",
+          "zh": "你可以用另一把鑰匙再試一次。",
+          "en": "You can try it again with a different key.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "probieren-2": {
+    "senses": [
+      {
+        "zh": "品嘗",
+        "en": "to taste; try",
+        "ex": {
+          "de": "Möchtest du ein Stück von meinem Kuchen {probieren}?",
+          "zh": "你想嚐一塊我的蛋糕嗎？",
+          "en": "Would you like to try a piece of my cake?",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "problem": {
+    "senses": [
+      {
+        "zh": "問題",
+        "en": "problem",
+        "ex": {
+          "de": "Bei einem technischen {Problem} hilft Ihnen unser Team.",
+          "zh": "遇到技術問題時，我們的團隊會幫助您。",
+          "en": "Our team will help you with a technical problem.",
+          "distractors": [
+            "Kissen",
+            "Fahrrad",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "produzieren": {
+    "senses": [
+      {
+        "zh": "生產",
+        "en": "to produce",
+        "ex": {
+          "de": "Diese kleine Fabrik kann tausend Flaschen am Tag {produzieren}.",
+          "zh": "這間小工廠一天能生產一千個瓶子。",
+          "en": "This small factory can produce a thousand bottles a day.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "produkt": {
+    "senses": [
+      {
+        "zh": "產品",
+        "en": "product",
+        "ex": {
+          "de": "Dieses {Produkt} wird aus Holz und Papier hergestellt.",
+          "zh": "這項產品由木材和紙製成。",
+          "en": "This product is made from wood and paper.",
+          "distractors": [
+            "Wetter",
+            "Frühstück",
+            "Meer"
+          ]
+        }
+      }
+    ]
+  },
+  "produktion": {
+    "senses": [
+      {
+        "zh": "生產；製作",
+        "en": "production",
+        "ex": {
+          "de": "Die {Produktion} der Fahrräder beginnt nächsten Monat.",
+          "zh": "這批腳踏車下個月開始生產。",
+          "en": "Production of the bicycles starts next month.",
+          "distractors": [
+            "Zahnpasta",
+            "Wolke",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "professor": {
+    "senses": [
+      {
+        "zh": "教授",
+        "en": "professor",
+        "ex": {
+          "de": "Der {Professor} erklärt die Aufgabe noch einmal für alle.",
+          "zh": "教授再向所有人解釋一次這道題目。",
+          "en": "The professor explains the task once more for everyone.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "professorin": {
+    "senses": [
+      {
+        "zh": "女教授",
+        "en": "female professor",
+        "ex": {
+          "de": "Die {Professorin} forscht an einer Universität in Wien.",
+          "zh": "這位女教授在維也納的一所大學做研究。",
+          "en": "The professor conducts research at a university in Vienna.",
+          "distractors": [
+            "Wolke",
+            "Gabel",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "profi": {
+    "senses": [
+      {
+        "zh": "專業人士",
+        "en": "professional; expert",
+        "ex": {
+          "de": "Bei diesem schwierigen Problem sollten wir einen {Profi} fragen.",
+          "zh": "遇到這個棘手問題，我們應該請教專業人士。",
+          "en": "For this difficult problem we should ask an expert.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "profisportler": {
+    "senses": [
+      {
+        "zh": "職業運動員（男性）",
+        "en": "professional athlete",
+        "ex": {
+          "de": "Der {Profisportler} trainiert täglich mehrere Stunden für den Wettkampf.",
+          "zh": "這位職業運動員每天訓練數小時準備比賽。",
+          "en": "The professional athlete trains several hours daily for the competition.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "profisportlerin": {
+    "senses": [
+      {
+        "zh": "職業運動員（女性）",
+        "en": "female professional athlete",
+        "ex": {
+          "de": "Die {Profisportlerin} bereitet sich auf das nächste Rennen vor.",
+          "zh": "這位職業運動員正在準備下一場比賽。",
+          "en": "The professional athlete is preparing for the next race.",
+          "distractors": [
+            "Wolke",
+            "Karotte",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "programm": {
+    "senses": [
+      {
+        "zh": "節目；計畫",
+        "en": "program; schedule",
+        "ex": {
+          "de": "Im {Programm} steht, wann das Konzert beginnt.",
+          "zh": "節目表上寫著音樂會何時開始。",
+          "en": "The program says when the concert starts.",
+          "distractors": [
+            "Frühstück",
+            "Wetter",
+            "Meer"
+          ]
+        }
+      }
+    ]
+  },
+  "projekt": {
+    "senses": [
+      {
+        "zh": "專案；計畫",
+        "en": "project",
+        "ex": {
+          "de": "Unsere Klasse arbeitet gemeinsam an einem {Projekt} über die Umwelt.",
+          "zh": "我們班一起做一個關於環境的專題。",
+          "en": "Our class is working together on a project about the environment.",
+          "distractors": [
+            "Kissen",
+            "Fahrrad",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "prospekt": {
+    "senses": [
+      {
+        "zh": "宣傳冊",
+        "en": "brochure; leaflet",
+        "ex": {
+          "de": "Im {Prospekt} stehen die Angebote für diese Woche.",
+          "zh": "宣傳冊裡列出本週的優惠。",
+          "en": "The leaflet lists this week’s special offers.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "prost": {
+    "senses": [
+      {
+        "zh": "乾杯",
+        "en": "cheers",
+        "ex": {
+          "de": "Alle heben ihr Glas und rufen laut: „{Prost}!“",
+          "zh": "大家舉起杯子大聲說：「乾杯！」",
+          "en": "Everyone raises a glass and calls out: “Cheers!”",
+          "distractors": [
+            "Schrank",
+            "Kissen",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "protestieren": {
+    "senses": [
+      {
+        "zh": "抗議",
+        "en": "to protest",
+        "ex": {
+          "de": "Viele Menschen wollen gegen die neue Regelung {protestieren}.",
+          "zh": "許多人想抗議這項新規定。",
+          "en": "Many people want to protest against the new rule.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "protest": {
+    "senses": [
+      {
+        "zh": "抗議",
+        "en": "protest",
+        "ex": {
+          "de": "Aus {Protest} gegen die Entscheidung blieb er zu Hause.",
+          "zh": "為了抗議這項決定，他留在家裡。",
+          "en": "In protest against the decision he stayed at home.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "prozess": {
+    "senses": [
+      {
+        "zh": "過程；訴訟",
+        "en": "process; trial",
+        "ex": {
+          "de": "Das Lernen einer Sprache ist ein langer {Prozess}.",
+          "zh": "學習一門語言是漫長的過程。",
+          "en": "Learning a language is a long process.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "pruefen": {
+    "senses": [
+      {
+        "zh": "檢查；測試",
+        "en": "to check; test",
+        "ex": {
+          "de": "Bitte {prüfen} Sie vor der Abfahrt den Reifendruck.",
+          "zh": "出發前請檢查輪胎氣壓。",
+          "en": "Please check the tire pressure before leaving.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "pruefung": {
+    "senses": [
+      {
+        "zh": "考試",
+        "en": "exam; test",
+        "ex": {
+          "de": "Für die {Prüfung} lernen wir jeden Abend zusammen.",
+          "zh": "我們為了考試每天晚上一起讀書。",
+          "en": "We study together every evening for the exam.",
+          "distractors": [
+            "Zahnbürste",
+            "Wolke",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "publikum": {
+    "senses": [
+      {
+        "zh": "觀眾",
+        "en": "audience",
+        "ex": {
+          "de": "Das {Publikum} klatscht lange nach dem letzten Lied.",
+          "zh": "最後一首歌結束後觀眾鼓掌許久。",
+          "en": "The audience applauds for a long time after the last song.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "pullover": {
+    "senses": [
+      {
+        "zh": "毛衣",
+        "en": "sweater",
+        "ex": {
+          "de": "Bei kaltem Wetter trägt er einen dicken {Pullover}.",
+          "zh": "天氣冷的時候他穿一件厚毛衣。",
+          "en": "He wears a thick sweater in cold weather.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "punkt": {
+    "senses": [
+      {
+        "zh": "點；分數",
+        "en": "point; dot",
+        "ex": {
+          "de": "Am Ende dieses Satzes fehlt noch ein {Punkt}.",
+          "zh": "這個句子最後還少一個句點。",
+          "en": "A full stop is still missing at the end of this sentence.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  }
+}

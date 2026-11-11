@@ -81,9 +81,9 @@
           "zh": "肉商在市場販售新鮮肉品。",
           "en": "The butcher sells fresh meat at the market.",
           "distractors": [
-            "Mechaniker",
-            "Briefträger",
-            "Polizist"
+            "Kühlschrank",
+            "Teppich",
+            "Löffel"
           ]
         }
       }
@@ -99,9 +99,9 @@
           "zh": "我們想租一輛小車度假使用。",
           "en": "We would like to rent a small car for the holiday.",
           "distractors": [
-            "verkaufen",
-            "verlieren",
-            "vergessen"
+            "verpacken",
+            "bügeln",
+            "bellen"
           ]
         }
       }
@@ -135,9 +135,9 @@
           "zh": "男房客向房東反映水龍頭壞了。",
           "en": "The tenant reports the broken tap to the landlord.",
           "distractors": [
-            "Bäcker",
-            "Polizist",
-            "Mechaniker"
+            "Kühlschrank",
+            "Teppich",
+            "Löffel"
           ]
         }
       }
@@ -153,9 +153,9 @@
           "zh": "女房客每個月都準時匯款。",
           "en": "The tenant transfers the money on time every month.",
           "distractors": [
-            "Bäckerin",
-            "Polizistin",
-            "Mechanikerin"
+            "Wolke",
+            "Karotte",
+            "Treppe"
           ]
         }
       }
@@ -226,7 +226,7 @@
           "en": "I still need some milk for the coffee.",
           "distractors": [
             "Seife",
-            "Butter",
+            "Zahnpasta",
             "Jacke"
           ]
         }
@@ -333,9 +333,9 @@
           "zh": "做麵糰必須混合麵粉和水。",
           "en": "To make the dough you have to mix flour and water.",
           "distractors": [
-            "verlieren",
-            "verkaufen",
-            "vergessen"
+            "bellen",
+            "schlafen",
+            "niesen"
           ]
         }
       }
@@ -567,7 +567,7 @@
           "zh": "新家具很適合我們的客廳。",
           "en": "The new furniture fits well in our living room.",
           "distractors": [
-            "Fenster",
+            "Krokodile",
             "Handtücher",
             "Teller"
           ]

@@ -167,9 +167,9 @@
         "zh": "顯然",
         "en": "apparently",
         "ex": {
-          "de": "Der Zug hat {offenbar} Verspätung, denn niemand steigt ein.",
-          "zh": "火車顯然誤點了，因為沒有人上車。",
-          "en": "The train is apparently delayed, as nobody is boarding.",
+          "de": "Der Zug hat {offenbar} Verspätung, denn auf der Anzeige steht eine spätere Uhrzeit.",
+          "zh": "火車顯然誤點了，因為顯示板上的時間延後了。",
+          "en": "The train is apparently delayed, as the display shows a later time.",
           "distractors": [
             "hölzern",
             "rechteckig",
@@ -743,9 +743,9 @@
         "zh": "打包",
         "en": "to pack",
         "ex": {
-          "de": "Wir {packen} die Bücher vorsichtig in einen Karton.",
-          "zh": "我們小心地把書裝進紙箱。",
-          "en": "We carefully pack the books into a box.",
+          "de": "Für den Umzug wollen wir heute alle Bücher in Kartons {packen}.",
+          "zh": "為了搬家，我們今天要把所有書裝進紙箱。",
+          "en": "For the move we want to pack all the books into boxes today.",
           "distractors": [
             "husten",
             "schlafen",

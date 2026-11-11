@@ -1,0 +1,902 @@
+{
+  "puenktlich": {
+    "senses": [
+      {
+        "zh": "準時的",
+        "en": "punctual",
+        "ex": {
+          "de": "Unser Zug kam heute trotz des Regens {pünktlich} an.",
+          "zh": "儘管下雨，我們的火車今天還是準時到達。",
+          "en": "Despite the rain our train arrived on time today.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "krank"
+          ]
+        }
+      }
+    ]
+  },
+  "puppe": {
+    "senses": [
+      {
+        "zh": "玩偶",
+        "en": "doll",
+        "ex": {
+          "de": "Das Kind legt seine {Puppe} abends ins Bett.",
+          "zh": "孩子晚上把玩偶放到床上。",
+          "en": "The child puts their doll to bed in the evening.",
+          "distractors": [
+            "Tasche",
+            "Brille",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "putzen": {
+    "senses": [
+      {
+        "zh": "清潔",
+        "en": "to clean",
+        "ex": {
+          "de": "Am Samstag muss ich die Fenster im Wohnzimmer {putzen}.",
+          "zh": "星期六我必須清潔客廳的窗戶。",
+          "en": "On Saturday I have to clean the living room windows.",
+          "distractors": [
+            "verkaufen",
+            "verlieren",
+            "vergessen"
+          ]
+        }
+      }
+    ]
+  },
+  "qualifikation": {
+    "senses": [
+      {
+        "zh": "資格；資歷",
+        "en": "qualification",
+        "ex": {
+          "de": "Für diese Stelle braucht man eine passende {Qualifikation}.",
+          "zh": "這個職位需要合適的資格。",
+          "en": "A suitable qualification is needed for this position.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "qualitaet": {
+    "senses": [
+      {
+        "zh": "品質",
+        "en": "quality",
+        "ex": {
+          "de": "Die {Qualität} dieses Brotes ist wirklich gut.",
+          "zh": "這個麵包的品質真的很好。",
+          "en": "The quality of this bread is really good.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "quer": {
+    "senses": [
+      {
+        "zh": "橫跨；斜穿",
+        "en": "across",
+        "ex": {
+          "de": "Die Kinder laufen {quer} über die grüne Wiese.",
+          "zh": "孩子們橫越綠色的草地。",
+          "en": "The children run across the green meadow.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "niemals"
+          ]
+        }
+      }
+    ]
+  },
+  "quittung": {
+    "senses": [
+      {
+        "zh": "收據",
+        "en": "receipt",
+        "ex": {
+          "de": "Bitte bewahren Sie die {Quittung} für den Umtausch auf.",
+          "zh": "請保留收據以便換貨。",
+          "en": "Please keep the receipt for an exchange.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "quiz": {
+    "senses": [
+      {
+        "zh": "問答遊戲",
+        "en": "quiz",
+        "ex": {
+          "de": "Beim {Quiz} hat unser Team alle Fragen richtig beantwortet.",
+          "zh": "在問答遊戲中，我們隊答對了所有問題。",
+          "en": "Our team answered all the questions correctly in the quiz.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "rabatt": {
+    "senses": [
+      {
+        "zh": "折扣",
+        "en": "discount",
+        "ex": {
+          "de": "Mit dem Gutschein erhältst du beim Kauf einen {Rabatt}.",
+          "zh": "使用優惠券購物可以獲得折扣。",
+          "en": "With the voucher you receive a discount on your purchase.",
+          "distractors": [
+            "Schrank",
+            "Teppich",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "rad": {
+    "senses": [
+      {
+        "zh": "車輪",
+        "en": "wheel",
+        "ex": {
+          "de": "Das vordere {Rad} meines Fahrrads ist kaputt.",
+          "zh": "我腳踏車的前輪壞了。",
+          "en": "The front wheel of my bicycle is broken.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "rad-2": {
+    "senses": [
+      {
+        "zh": "腳踏車",
+        "en": "bicycle",
+        "ex": {
+          "de": "Sein altes {Rad} steht seit dem Winter im Keller.",
+          "zh": "他的舊腳踏車從冬天起就放在地下室。",
+          "en": "His old bicycle has been in the cellar since winter.",
+          "distractors": [
+            "Kissen",
+            "Handtuch",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "radfahrer": {
+    "senses": [
+      {
+        "zh": "男性自行車騎士",
+        "en": "male cyclist",
+        "ex": {
+          "de": "Der {Radfahrer} trägt auf der Straße einen Helm.",
+          "zh": "這位男性騎士在路上騎車時戴著安全帽。",
+          "en": "The cyclist wears a helmet on the road.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "radfahrerin": {
+    "senses": [
+      {
+        "zh": "女性自行車騎士",
+        "en": "female cyclist",
+        "ex": {
+          "de": "Die {Radfahrerin} hält an der roten Ampel an.",
+          "zh": "這位女性騎士在紅燈前停下。",
+          "en": "The cyclist stops at the red traffic light.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "radio": {
+    "senses": [
+      {
+        "zh": "收音機；廣播",
+        "en": "radio",
+        "ex": {
+          "de": "Beim Frühstück läuft leise das {Radio} in der Küche.",
+          "zh": "早餐時廚房裡的收音機輕聲播放著。",
+          "en": "The radio plays quietly in the kitchen during breakfast.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "der-rahm": {
+    "senses": [
+      {
+        "zh": "鮮奶油（瑞士）",
+        "en": "cream (Switzerland)",
+        "ex": {
+          "de": "Für die Soße gibt sie etwas {Rahm} in den Topf.",
+          "zh": "她在鍋裡加了一些鮮奶油做醬汁。",
+          "en": "She adds some cream to the pot for the sauce.",
+          "distractors": [
+            "Regen",
+            "Lärm",
+            "Schnee"
+          ]
+        }
+      }
+    ]
+  },
+  "rand": {
+    "senses": [
+      {
+        "zh": "邊緣",
+        "en": "edge",
+        "ex": {
+          "de": "Am {Rand} des Sees wachsen viele alte Bäume.",
+          "zh": "湖邊長著許多老樹。",
+          "en": "Many old trees grow at the edge of the lake.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "rasen": {
+    "senses": [
+      {
+        "zh": "草坪",
+        "en": "lawn",
+        "ex": {
+          "de": "Auf dem {Rasen} vor dem Haus spielen zwei Kinder.",
+          "zh": "兩個孩子在房子前的草坪玩耍。",
+          "en": "Two children are playing on the lawn in front of the house.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "rasieren": {
+    "senses": [
+      {
+        "zh": "刮鬍子；剃毛",
+        "en": "to shave",
+        "ex": {
+          "de": "Vor der Arbeit möchte er sich noch {rasieren}.",
+          "zh": "上班前他還想刮鬍子。",
+          "en": "He wants to shave before work.",
+          "distractors": [
+            "verlaufen",
+            "erkälten",
+            "verschlucken"
+          ]
+        }
+      }
+    ]
+  },
+  "raten": {
+    "senses": [
+      {
+        "zh": "建議",
+        "en": "to advise",
+        "ex": {
+          "de": "Ich würde dir {raten}, früh einen Termin zu buchen.",
+          "zh": "我建議你早點預約。",
+          "en": "I would advise you to book an appointment early.",
+          "distractors": [
+            "schlafen",
+            "rennen",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "rat": {
+    "senses": [
+      {
+        "zh": "建議",
+        "en": "advice",
+        "ex": {
+          "de": "Mein Vater gab mir einen guten {Rat} für das Gespräch.",
+          "zh": "爸爸給了我一個關於談話的好建議。",
+          "en": "My father gave me good advice for the conversation.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "ratschlag": {
+    "senses": [
+      {
+        "zh": "建議",
+        "en": "piece of advice",
+        "ex": {
+          "de": "Den {Ratschlag} meiner Freundin fand ich sehr hilfreich.",
+          "zh": "我覺得朋友的建議很有幫助。",
+          "en": "I found my friend's advice very helpful.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "raetsel": {
+    "senses": [
+      {
+        "zh": "謎題",
+        "en": "riddle, puzzle",
+        "ex": {
+          "de": "Dieses {Rätsel} ist schwer, aber wir lösen es zusammen.",
+          "zh": "這個謎題很難，但我們一起解開它。",
+          "en": "This puzzle is difficult, but we will solve it together.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "rathaus": {
+    "senses": [
+      {
+        "zh": "市政廳",
+        "en": "town hall",
+        "ex": {
+          "de": "Vor dem {Rathaus} findet heute ein großer Markt statt.",
+          "zh": "今天市政廳前有大型市集。",
+          "en": "A large market is taking place in front of the town hall today.",
+          "distractors": [
+            "Kissen",
+            "Handtuch",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "rauchen": {
+    "senses": [
+      {
+        "zh": "抽菸",
+        "en": "to smoke",
+        "ex": {
+          "de": "Im Treppenhaus darf niemand eine Zigarette {rauchen}.",
+          "zh": "任何人都不能在樓梯間抽菸。",
+          "en": "No one may smoke a cigarette in the stairwell.",
+          "distractors": [
+            "kochen",
+            "waschen",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "raucher": {
+    "senses": [
+      {
+        "zh": "男性吸菸者",
+        "en": "male smoker",
+        "ex": {
+          "de": "Der {Raucher} geht für seine Zigarette vor die Tür.",
+          "zh": "這位吸菸男士到門外抽菸。",
+          "en": "The smoker goes outside for his cigarette.",
+          "distractors": [
+            "Teppich",
+            "Koffer",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "raucherin": {
+    "senses": [
+      {
+        "zh": "女性吸菸者",
+        "en": "female smoker",
+        "ex": {
+          "de": "Die {Raucherin} möchte mit dem Rauchen aufhören.",
+          "zh": "這位吸菸女士想戒菸。",
+          "en": "The smoker wants to stop smoking.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "raum": {
+    "senses": [
+      {
+        "zh": "房間；空間",
+        "en": "room, space",
+        "ex": {
+          "de": "Für das Treffen brauchen wir einen größeren {Raum}.",
+          "zh": "這場聚會需要一個更大的房間。",
+          "en": "We need a larger room for the meeting.",
+          "distractors": [
+            "Teppich",
+            "Koffer",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "raus-raus": {
+    "senses": [
+      {
+        "zh": "出去",
+        "en": "out",
+        "ex": {
+          "de": "Wenn es klingelt, laufen die Kinder sofort {raus}.",
+          "zh": "鈴聲響起時，孩子們立刻跑出去。",
+          "en": "When the bell rings, the children immediately run out.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "niemals"
+          ]
+        }
+      }
+    ]
+  },
+  "reagieren": {
+    "senses": [
+      {
+        "zh": "反應",
+        "en": "to react",
+        "ex": {
+          "de": "Auf diese Nachricht konnte ich nicht sofort {reagieren}.",
+          "zh": "我無法立刻對這個消息做出反應。",
+          "en": "I could not react to this news immediately.",
+          "distractors": [
+            "schlafen",
+            "singen",
+            "kochen"
+          ]
+        }
+      }
+    ]
+  },
+  "reaktion": {
+    "senses": [
+      {
+        "zh": "反應",
+        "en": "reaction",
+        "ex": {
+          "de": "Seine freundliche {Reaktion} hat mich sehr überrascht.",
+          "zh": "他友善的反應讓我很驚訝。",
+          "en": "His friendly reaction surprised me a lot.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "realisieren": {
+    "senses": [
+      {
+        "zh": "實現；意識到",
+        "en": "to realize",
+        "ex": {
+          "de": "Sie möchte ihren Traum von einem eigenen Café {realisieren}.",
+          "zh": "她想實現擁有自己咖啡廳的夢想。",
+          "en": "She wants to realize her dream of having her own café.",
+          "distractors": [
+            "vergessen",
+            "verlieren",
+            "verkaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "realitaet": {
+    "senses": [
+      {
+        "zh": "現實",
+        "en": "reality",
+        "ex": {
+          "de": "Im Urlaub vergisst er für eine Weile die {Realität}.",
+          "zh": "度假時他暫時忘記現實生活。",
+          "en": "On holiday he forgets reality for a while.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "realistisch": {
+    "senses": [
+      {
+        "zh": "現實的；切合實際的",
+        "en": "realistic",
+        "ex": {
+          "de": "Der Zeitplan ist nicht {realistisch}, wir brauchen mehr Zeit.",
+          "zh": "這個時程不切實際，我們需要更多時間。",
+          "en": "The schedule is not realistic; we need more time.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "recherche": {
+    "senses": [
+      {
+        "zh": "資料蒐集；研究",
+        "en": "research",
+        "ex": {
+          "de": "Für ihren Artikel macht sie eine gründliche {Recherche}.",
+          "zh": "為了寫文章，她做了徹底的資料蒐集。",
+          "en": "She does thorough research for her article.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "rechnen": {
+    "senses": [
+      {
+        "zh": "計算",
+        "en": "to calculate",
+        "ex": {
+          "de": "Im Kopf kann er schnell mit großen Zahlen {rechnen}.",
+          "zh": "他能很快地心算大數字。",
+          "en": "He can quickly calculate with large numbers in his head.",
+          "distractors": [
+            "schlafen",
+            "rennen",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "rechner": {
+    "senses": [
+      {
+        "zh": "電腦",
+        "en": "computer",
+        "ex": {
+          "de": "Auf meinem {Rechner} speichere ich die Fotos vom Urlaub.",
+          "zh": "我在電腦上儲存度假照片。",
+          "en": "I save the holiday photos on my computer.",
+          "distractors": [
+            "Teppich",
+            "Koffer",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "rechnung": {
+    "senses": [
+      {
+        "zh": "帳單",
+        "en": "bill",
+        "ex": {
+          "de": "Nach dem Essen bitten wir um die {Rechnung}.",
+          "zh": "用餐後我們請服務生拿帳單來。",
+          "en": "After the meal we ask for the bill.",
+          "distractors": [
+            "Tasche",
+            "Brille",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "recht": {
+    "senses": [
+      {
+        "zh": "權利",
+        "en": "right",
+        "ex": {
+          "de": "Jedes Kind hat ein {Recht} auf Bildung.",
+          "zh": "每個孩子都有受教育的權利。",
+          "en": "Every child has a right to education.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "rechtlich": {
+    "senses": [
+      {
+        "zh": "法律上的",
+        "en": "legal",
+        "ex": {
+          "de": "Vor der Unterschrift möchte sie sich {rechtlich} beraten lassen.",
+          "zh": "簽名之前她想先取得法律諮詢。",
+          "en": "Before signing she wants to get legal advice.",
+          "distractors": [
+            "hungrig",
+            "schmutzig",
+            "durstig"
+          ]
+        }
+      }
+    ]
+  },
+  "recht-2": {
+    "senses": [
+      {
+        "zh": "相當",
+        "en": "quite",
+        "ex": {
+          "de": "Der Weg zum Bahnhof ist von hier aus {recht} weit.",
+          "zh": "從這裡到車站的路相當遠。",
+          "en": "The way to the station is quite far from here.",
+          "distractors": [
+            "niemals",
+            "gestern",
+            "morgen"
+          ]
+        }
+      }
+    ]
+  },
+  "rechts": {
+    "senses": [
+      {
+        "zh": "右邊",
+        "en": "to the right",
+        "ex": {
+          "de": "Die Bäckerei liegt {rechts} neben dem Eingang.",
+          "zh": "麵包店就在入口右側。",
+          "en": "The bakery is to the right of the entrance.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "niemals"
+          ]
+        }
+      }
+    ]
+  },
+  "recht-3": {
+    "senses": [
+      {
+        "zh": "右邊的",
+        "en": "right",
+        "ex": {
+          "de": "Am {rechten} Fuß trägt er einen blauen Schuh.",
+          "zh": "他右腳穿了一隻藍色的鞋子。",
+          "en": "He wears a blue shoe on his right foot.",
+          "distractors": [
+            "hungrigen",
+            "durstigen",
+            "müden"
+          ]
+        }
+      }
+    ]
+  },
+  "rechtzeitig": {
+    "senses": [
+      {
+        "zh": "及時",
+        "en": "in time",
+        "ex": {
+          "de": "Wir sind {rechtzeitig} am Flughafen angekommen und konnten einchecken.",
+          "zh": "我們及時抵達機場並完成報到。",
+          "en": "We arrived at the airport in time and could check in.",
+          "distractors": [
+            "hölzern",
+            "dreieckig",
+            "quadratisch"
+          ]
+        }
+      }
+    ]
+  },
+  "reden": {
+    "senses": [
+      {
+        "zh": "談話",
+        "en": "to talk",
+        "ex": {
+          "de": "Nach dem Streit möchten die Freunde in Ruhe {reden}.",
+          "zh": "爭吵之後，朋友們想平靜地談一談。",
+          "en": "After the argument the friends want to talk calmly.",
+          "distractors": [
+            "schlafen",
+            "kochen",
+            "rennen"
+          ]
+        }
+      }
+    ]
+  },
+  "rede": {
+    "senses": [
+      {
+        "zh": "演說",
+        "en": "speech",
+        "ex": {
+          "de": "Die Bürgermeisterin hält eine kurze {Rede} vor dem Rathaus.",
+          "zh": "市長在市政廳前發表簡短演說。",
+          "en": "The mayor gives a short speech outside the town hall.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "reduzieren": {
+    "senses": [
+      {
+        "zh": "減少",
+        "en": "to reduce",
+        "ex": {
+          "de": "Um Strom zu sparen, wollen wir den Verbrauch {reduzieren}.",
+          "zh": "為了節電，我們想減少用電量。",
+          "en": "To save electricity, we want to reduce consumption.",
+          "distractors": [
+            "vergessen",
+            "verkaufen",
+            "verlieren"
+          ]
+        }
+      }
+    ]
+  },
+  "referat": {
+    "senses": [
+      {
+        "zh": "報告",
+        "en": "presentation",
+        "ex": {
+          "de": "Morgen hält sie ein {Referat} über erneuerbare Energie.",
+          "zh": "明天她要做一場關於再生能源的報告。",
+          "en": "Tomorrow she will give a presentation on renewable energy.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "reform": {
+    "senses": [
+      {
+        "zh": "改革",
+        "en": "reform",
+        "ex": {
+          "de": "Die neue {Reform} soll das Bildungssystem verbessern.",
+          "zh": "新的改革希望改善教育制度。",
+          "en": "The new reform aims to improve the education system.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "regal": {
+    "senses": [
+      {
+        "zh": "層架；書架",
+        "en": "shelf",
+        "ex": {
+          "de": "Die Bücher stehen im {Regal} neben dem Fenster.",
+          "zh": "書放在窗邊的書架上。",
+          "en": "The books are on the shelf next to the window.",
+          "distractors": [
+            "Kissen",
+            "Handtuch",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "regel": {
+    "senses": [
+      {
+        "zh": "規則",
+        "en": "rule",
+        "ex": {
+          "de": "In unserer Schule gilt eine klare {Regel} für Handys.",
+          "zh": "我們學校對手機有一項明確的規則。",
+          "en": "There is a clear rule about mobile phones in our school.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  }
+}

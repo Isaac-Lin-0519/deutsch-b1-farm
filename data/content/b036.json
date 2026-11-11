@@ -186,7 +186,7 @@
         "en": "music",
         "ex": {
           "de": "Beim Kochen hört mein Vater gern leise {Musik}.",
-          "zh": "爸爸做飯時喜歡輕輕地聽音樂。",
+          "zh": "爸爸做飯時喜歡聽輕柔的音樂。",
           "en": "My father likes listening to quiet music while cooking.",
           "distractors": [
             "Zahnpasta",
@@ -279,9 +279,9 @@
           "zh": "明天我必須早點去看醫生。",
           "en": "Tomorrow I have to go to the doctor early.",
           "distractors": [
-            "schläft",
-            "friert",
-            "hustet"
+            "schlafe",
+            "lache",
+            "huste"
           ]
         }
       }
@@ -599,7 +599,7 @@
         "zh": "針",
         "en": "needle",
         "ex": {
-          "de": "Mit einer {Nadel} und Faden repariere ich das Hemd.",
+          "de": "Mit einer {Nadel} und einem Faden repariere ich das Hemd.",
           "zh": "我用針和線修補襯衫。",
           "en": "I repair the shirt with a needle and thread.",
           "distractors": [
@@ -833,9 +833,9 @@
         "zh": "國家的；全國性的",
         "en": "national",
         "ex": {
-          "de": "Dieser Feiertag ist ein {nationaler} Feiertag in Frankreich.",
-          "zh": "這個節日是法國的全國性假日。",
-          "en": "This holiday is a national holiday in France.",
+          "de": "Der 14. Juli ist ein {nationaler} Feiertag in Frankreich.",
+          "zh": "七月十四日是法國的全國性假日。",
+          "en": "The 14th of July is a national holiday in France.",
           "distractors": [
             "durstiger",
             "hungriger",

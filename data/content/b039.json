@@ -1,0 +1,848 @@
+{
+  "parkieren": {
+    "senses": [
+      {
+        "zh": "停車（瑞士）",
+        "en": "to park (Switzerland)",
+        "ex": {
+          "de": "In dieser Straße darf man nur eine Stunde {parkieren}.",
+          "zh": "這條街只能停車一小時。",
+          "en": "You may park on this street for only one hour.",
+          "distractors": [
+            "schlafen",
+            "kochen",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "partner": {
+    "senses": [
+      {
+        "zh": "男性伴侶；夥伴",
+        "en": "male partner",
+        "ex": {
+          "de": "Ihr {Partner} begleitet sie zum Termin beim Arzt.",
+          "zh": "她的伴侶陪她去看醫生。",
+          "en": "Her partner accompanies her to the doctor's appointment.",
+          "distractors": [
+            "Teppich",
+            "Koffer",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "partnerin": {
+    "senses": [
+      {
+        "zh": "女性伴侶；夥伴",
+        "en": "female partner",
+        "ex": {
+          "de": "Seine {Partnerin} arbeitet seit Kurzem in einer Schule.",
+          "zh": "他的伴侶最近開始在學校工作。",
+          "en": "His partner recently started working in a school.",
+          "distractors": [
+            "Tasche",
+            "Brille",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "party": {
+    "senses": [
+      {
+        "zh": "派對",
+        "en": "party",
+        "ex": {
+          "de": "Wir feiern am Samstag eine kleine {Party} im Garten.",
+          "zh": "我們星期六要在花園辦小派對。",
+          "en": "We are having a small party in the garden on Saturday.",
+          "distractors": [
+            "Brille",
+            "Jacke",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "pass": {
+    "senses": [
+      {
+        "zh": "護照",
+        "en": "passport",
+        "ex": {
+          "de": "Für die Reise ins Ausland braucht er einen gültigen {Pass}.",
+          "zh": "他出國旅行需要一本有效護照。",
+          "en": "He needs a valid passport for the trip abroad.",
+          "distractors": [
+            "Schal",
+            "Schuh",
+            "Hut"
+          ]
+        }
+      }
+    ]
+  },
+  "passagier": {
+    "senses": [
+      {
+        "zh": "男性乘客",
+        "en": "male passenger",
+        "ex": {
+          "de": "Der {Passagier} wartet am Flughafen auf seinen Flug.",
+          "zh": "男乘客在機場等候班機。",
+          "en": "The passenger waits at the airport for his flight.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "passagierin": {
+    "senses": [
+      {
+        "zh": "女性乘客",
+        "en": "female passenger",
+        "ex": {
+          "de": "Eine {Passagierin} hat ihre Tasche im Zug vergessen.",
+          "zh": "一名女乘客把包包忘在火車上。",
+          "en": "A female passenger left her bag on the train.",
+          "distractors": [
+            "Flasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "passen": {
+    "senses": [
+      {
+        "zh": "合身；適合",
+        "en": "to fit, suit",
+        "ex": {
+          "de": "Diese Schuhe sind zu klein und {passen} mir nicht.",
+          "zh": "這雙鞋太小，我穿不下。",
+          "en": "These shoes are too small and do not fit me.",
+          "distractors": [
+            "schlafen",
+            "kochen",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "passieren": {
+    "senses": [
+      {
+        "zh": "發生",
+        "en": "to happen",
+        "ex": {
+          "de": "Auf dieser Straße kann schnell ein Unfall {passieren}.",
+          "zh": "這條路上很容易發生事故。",
+          "en": "An accident can easily happen on this road.",
+          "distractors": [
+            "schlafen",
+            "singen",
+            "lachen"
+          ]
+        }
+      }
+    ]
+  },
+  "passiv": {
+    "senses": [
+      {
+        "zh": "被動的",
+        "en": "passive",
+        "ex": {
+          "de": "Im Unterricht bleibt er nicht {passiv}, sondern stellt Fragen.",
+          "zh": "在課堂上他沒有被動旁聽，而是提出問題。",
+          "en": "In class he does not remain passive but asks questions.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "patient": {
+    "senses": [
+      {
+        "zh": "男性病人",
+        "en": "male patient",
+        "ex": {
+          "de": "Der {Patient} wartet auf das Ergebnis seiner Untersuchung.",
+          "zh": "這位男病人等待檢查結果。",
+          "en": "The patient is waiting for the results of his examination.",
+          "distractors": [
+            "Teppich",
+            "Koffer",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "pause": {
+    "senses": [
+      {
+        "zh": "休息",
+        "en": "break",
+        "ex": {
+          "de": "Nach zwei Stunden Arbeit brauchen wir eine kurze {Pause}.",
+          "zh": "工作兩小時後，我們需要短暫休息。",
+          "en": "After two hours of work we need a short break.",
+          "distractors": [
+            "Brille",
+            "Tasche",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "pech": {
+    "senses": [
+      {
+        "zh": "倒楣",
+        "en": "bad luck",
+        "ex": {
+          "de": "Was für ein {Pech}, dass es am Ausflugstag regnet!",
+          "zh": "真倒楣，郊遊那天下雨了！",
+          "en": "What bad luck that it is raining on the day of the outing!",
+          "distractors": [
+            "Brot",
+            "Fenster",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "peinlich": {
+    "senses": [
+      {
+        "zh": "尷尬的",
+        "en": "embarrassing",
+        "ex": {
+          "de": "Es war mir {peinlich}, dass ich ihren Namen vergessen hatte.",
+          "zh": "我忘了她的名字，覺得很尷尬。",
+          "en": "I was embarrassed that I had forgotten her name.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "pension": {
+    "senses": [
+      {
+        "zh": "小旅館",
+        "en": "guesthouse",
+        "ex": {
+          "de": "In der kleinen {Pension} am See gibt es Frühstück.",
+          "zh": "湖邊的小旅館提供早餐。",
+          "en": "The small guesthouse by the lake serves breakfast.",
+          "distractors": [
+            "Brille",
+            "Tasche",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "pension-2": {
+    "senses": [
+      {
+        "zh": "退休金",
+        "en": "pension",
+        "ex": {
+          "de": "Nach vielen Arbeitsjahren erhält sie eine monatliche {Pension}.",
+          "zh": "工作多年後，她每個月領取退休金。",
+          "en": "After many years of work she receives a monthly pension.",
+          "distractors": [
+            "Brille",
+            "Tasche",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "in-pension-gehen-sein": {
+    "senses": [
+      {
+        "zh": "退休",
+        "en": "to retire",
+        "ex": {
+          "de": "Nächstes Jahr möchte mein Vater in {Pension} gehen.",
+          "zh": "我爸爸明年想退休。",
+          "en": "My father wants to retire next year.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "pensioniert-werden-sein": {
+    "senses": [
+      {
+        "zh": "退休",
+        "en": "to retire, be retired",
+        "ex": {
+          "de": "Meine Tante wird im nächsten Jahr {pensioniert}.",
+          "zh": "我的阿姨明年將退休。",
+          "en": "My aunt will retire next year.",
+          "distractors": [
+            "gekocht",
+            "gewaschen",
+            "gemalt"
+          ]
+        }
+      }
+    ]
+  },
+  "pensionist": {
+    "senses": [
+      {
+        "zh": "男性退休者（奧地利）",
+        "en": "male retiree (Austria)",
+        "ex": {
+          "de": "Der {Pensionist} verbringt viel Zeit in seinem Garten.",
+          "zh": "這位退休男士在花園裡度過很多時間。",
+          "en": "The retiree spends a lot of time in his garden.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "pensionistin": {
+    "senses": [
+      {
+        "zh": "女性退休者（奧地利）",
+        "en": "female retiree (Austria)",
+        "ex": {
+          "de": "Die {Pensionistin} besucht jede Woche ihre Enkelkinder.",
+          "zh": "這位退休女士每週探望孫子女。",
+          "en": "The retiree visits her grandchildren every week.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "per": {
+    "senses": [
+      {
+        "zh": "以；透過",
+        "en": "by, via",
+        "ex": {
+          "de": "Bitte schicken Sie uns die Unterlagen {per} Post.",
+          "zh": "請以郵寄方式將文件寄給我們。",
+          "en": "Please send us the documents by post.",
+          "distractors": [
+            "gegen",
+            "trotz",
+            "statt"
+          ]
+        }
+      }
+    ]
+  },
+  "perfekt": {
+    "senses": [
+      {
+        "zh": "完美的",
+        "en": "perfect",
+        "ex": {
+          "de": "Das Wetter ist {perfekt} für einen Tag am See.",
+          "zh": "這個天氣非常適合在湖邊待一天。",
+          "en": "The weather is perfect for a day at the lake.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "perron": {
+    "senses": [
+      {
+        "zh": "月台（瑞士）",
+        "en": "platform (Switzerland)",
+        "ex": {
+          "de": "Der Zug fährt heute vom dritten {Perron} ab.",
+          "zh": "今天火車從第三月台出發。",
+          "en": "The train leaves from the third platform today.",
+          "distractors": [
+            "Teppich",
+            "Schrank",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "person": {
+    "senses": [
+      {
+        "zh": "人",
+        "en": "person",
+        "ex": {
+          "de": "Für jede {Person} steht ein Glas auf dem Tisch.",
+          "zh": "桌上為每個人準備了一個杯子。",
+          "en": "There is a glass on the table for each person.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "persoenlich": {
+    "senses": [
+      {
+        "zh": "親自；個人的",
+        "en": "personally, personal",
+        "ex": {
+          "de": "Ich möchte mich {persönlich} für deine Hilfe bedanken.",
+          "zh": "我想親自感謝你的幫忙。",
+          "en": "I would like to thank you personally for your help.",
+          "distractors": [
+            "hölzern",
+            "dreieckig",
+            "quadratisch"
+          ]
+        }
+      }
+    ]
+  },
+  "personalien": {
+    "senses": [
+      {
+        "zh": "個人資料",
+        "en": "personal details",
+        "ex": {
+          "de": "Die Polizei nahm nach dem Unfall seine {Personalien} auf.",
+          "zh": "事故後警方記錄了他的個人資料。",
+          "en": "After the accident the police recorded his personal details.",
+          "distractors": [
+            "Fenster",
+            "Schuhe",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "personenstand": {
+    "senses": [
+      {
+        "zh": "婚姻狀況",
+        "en": "marital status",
+        "ex": {
+          "de": "Auf dem Formular muss sie ihren {Personenstand} angeben.",
+          "zh": "她必須在表格上填寫婚姻狀況。",
+          "en": "She has to state her marital status on the form.",
+          "distractors": [
+            "Koffer",
+            "Teppich",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "personal": {
+    "senses": [
+      {
+        "zh": "全體員工",
+        "en": "staff",
+        "ex": {
+          "de": "Das {Personal} im Hotel war freundlich und hilfsbereit.",
+          "zh": "旅館的員工親切又樂於助人。",
+          "en": "The hotel staff were friendly and helpful.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "pfanne": {
+    "senses": [
+      {
+        "zh": "平底鍋",
+        "en": "frying pan",
+        "ex": {
+          "de": "In der {Pfanne} brät er Gemüse mit etwas Öl.",
+          "zh": "他在平底鍋裡用一點油炒蔬菜。",
+          "en": "He fries vegetables in a pan with some oil.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "pfeffer": {
+    "senses": [
+      {
+        "zh": "胡椒",
+        "en": "pepper",
+        "ex": {
+          "de": "Die Suppe braucht noch ein bisschen Salz und {Pfeffer}.",
+          "zh": "這湯還需要一點鹽和胡椒。",
+          "en": "The soup needs a little more salt and pepper.",
+          "distractors": [
+            "Schrank",
+            "Teppich",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "pflanzen": {
+    "senses": [
+      {
+        "zh": "種植",
+        "en": "to plant",
+        "ex": {
+          "de": "Im Frühling möchte sie Blumen auf dem Balkon {pflanzen}.",
+          "zh": "春天她想在陽台上種花。",
+          "en": "She wants to plant flowers on the balcony in spring.",
+          "distractors": [
+            "schlafen",
+            "husten",
+            "niesen"
+          ]
+        }
+      }
+    ]
+  },
+  "pflanze": {
+    "senses": [
+      {
+        "zh": "植物",
+        "en": "plant",
+        "ex": {
+          "de": "Diese {Pflanze} braucht viel Sonne und wenig Wasser.",
+          "zh": "這株植物需要充足的陽光和少量水分。",
+          "en": "This plant needs lots of sun and little water.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "pflaster": {
+    "senses": [
+      {
+        "zh": "膠布；OK繃",
+        "en": "adhesive bandage",
+        "ex": {
+          "de": "Auf den kleinen Schnitt klebt sie ein {Pflaster}.",
+          "zh": "她在小傷口上貼了一片 OK 繃。",
+          "en": "She puts a bandage on the small cut.",
+          "distractors": [
+            "Kissen",
+            "Fenster",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "pflaume": {
+    "senses": [
+      {
+        "zh": "李子",
+        "en": "plum",
+        "ex": {
+          "de": "Die reife {Pflaume} schmeckt süß und saftig.",
+          "zh": "熟透的李子吃起來又甜又多汁。",
+          "en": "The ripe plum tastes sweet and juicy.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "pflegen": {
+    "senses": [
+      {
+        "zh": "照顧；護理",
+        "en": "to care for",
+        "ex": {
+          "de": "Sie möchte ihren kranken Vater zu Hause {pflegen}.",
+          "zh": "她想在家照顧生病的父親。",
+          "en": "She wants to care for her sick father at home.",
+          "distractors": [
+            "vergessen",
+            "verkaufen",
+            "verlieren"
+          ]
+        }
+      }
+    ]
+  },
+  "pflicht": {
+    "senses": [
+      {
+        "zh": "義務",
+        "en": "duty",
+        "ex": {
+          "de": "Es ist deine {Pflicht}, dich an die Regeln zu halten.",
+          "zh": "遵守規則是你的義務。",
+          "en": "It is your duty to follow the rules.",
+          "distractors": [
+            "Jacke",
+            "Brille",
+            "Tasche"
+          ]
+        }
+      }
+    ]
+  },
+  "phantasie-fantasie": {
+    "senses": [
+      {
+        "zh": "想像力",
+        "en": "imagination",
+        "ex": {
+          "de": "Mit viel {Fantasie} erfindet das Kind eigene Geschichten.",
+          "zh": "孩子憑著豐富想像力編出自己的故事。",
+          "en": "The child invents stories with a lot of imagination.",
+          "distractors": [
+            "Butter",
+            "Milch",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "picknick": {
+    "senses": [
+      {
+        "zh": "野餐",
+        "en": "picnic",
+        "ex": {
+          "de": "Für das {Picknick} packt sie Käse und Obst ein.",
+          "zh": "她為野餐準備了乳酪和水果。",
+          "en": "She packs cheese and fruit for the picnic.",
+          "distractors": [
+            "Fenster",
+            "Kissen",
+            "Handtuch"
+          ]
+        }
+      }
+    ]
+  },
+  "pizza": {
+    "senses": [
+      {
+        "zh": "披薩",
+        "en": "pizza",
+        "ex": {
+          "de": "Zum Abendessen backen wir eine {Pizza} mit frischem Gemüse.",
+          "zh": "晚餐我們烤了一個有新鮮蔬菜的披薩。",
+          "en": "For dinner we bake a pizza with fresh vegetables.",
+          "distractors": [
+            "Jacke",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "plakat": {
+    "senses": [
+      {
+        "zh": "海報",
+        "en": "poster",
+        "ex": {
+          "de": "An der Wand hängt ein buntes {Plakat} für das Konzert.",
+          "zh": "牆上掛著一張色彩繽紛的音樂會海報。",
+          "en": "A colorful poster for the concert hangs on the wall.",
+          "distractors": [
+            "Kissen",
+            "Handtuch",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "planen": {
+    "senses": [
+      {
+        "zh": "計畫",
+        "en": "to plan",
+        "ex": {
+          "de": "Wir wollen unsere Reise nach Berlin gemeinsam {planen}.",
+          "zh": "我們想一起規劃柏林之旅。",
+          "en": "We want to plan our trip to Berlin together.",
+          "distractors": [
+            "verlieren",
+            "vergessen",
+            "verkaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "plan": {
+    "senses": [
+      {
+        "zh": "計畫",
+        "en": "plan",
+        "ex": {
+          "de": "Unser {Plan} für das Wochenende hängt vom Wetter ab.",
+          "zh": "我們週末的計畫取決於天氣。",
+          "en": "Our plan for the weekend depends on the weather.",
+          "distractors": [
+            "Teppich",
+            "Koffer",
+            "Schrank"
+          ]
+        }
+      }
+    ]
+  },
+  "planung": {
+    "senses": [
+      {
+        "zh": "規劃",
+        "en": "planning",
+        "ex": {
+          "de": "Die {Planung} des Festes hat mehrere Wochen gedauert.",
+          "zh": "這場慶祝活動的規劃花了好幾週。",
+          "en": "Planning the celebration took several weeks.",
+          "distractors": [
+            "Tasche",
+            "Jacke",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "plastik": {
+    "senses": [
+      {
+        "zh": "塑膠",
+        "en": "plastic",
+        "ex": {
+          "de": "Diese Flasche besteht aus {Plastik} und ist sehr leicht.",
+          "zh": "這個瓶子由塑膠製成，非常輕。",
+          "en": "This bottle is made of plastic and is very light.",
+          "distractors": [
+            "Regen",
+            "Schnee",
+            "Lärm"
+          ]
+        }
+      }
+    ]
+  },
+  "platz": {
+    "senses": [
+      {
+        "zh": "位置；空位",
+        "en": "place, seat",
+        "ex": {
+          "de": "Im Zug ist neben mir noch ein {Platz} frei.",
+          "zh": "火車上我旁邊還有一個空位。",
+          "en": "There is still a free seat next to me on the train.",
+          "distractors": [
+            "Mond",
+            "Husten",
+            "Hunger"
+          ]
+        }
+      }
+    ]
+  },
+  "ploetzlich": {
+    "senses": [
+      {
+        "zh": "突然",
+        "en": "suddenly",
+        "ex": {
+          "de": "Der Himmel wurde dunkel und {plötzlich} begann es zu regnen.",
+          "zh": "天空變暗，突然開始下雨。",
+          "en": "The sky went dark and suddenly it began to rain.",
+          "distractors": [
+            "niemals",
+            "gestern",
+            "morgen"
+          ]
+        }
+      }
+    ]
+  },
+  "politik": {
+    "senses": [
+      {
+        "zh": "政治",
+        "en": "politics",
+        "ex": {
+          "de": "Am Abend sprechen sie oft über {Politik} und Gesellschaft.",
+          "zh": "晚上他們常談論政治與社會。",
+          "en": "In the evening they often talk about politics and society.",
+          "distractors": [
+            "Butter",
+            "Milch",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  }
+}

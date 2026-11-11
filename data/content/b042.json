@@ -1,0 +1,884 @@
+{
+  "regelmaessig": {
+    "senses": [
+      {
+        "zh": "定期地；規律地",
+        "en": "regularly",
+        "ex": {
+          "de": "Seit Januar gehe ich {regelmäßig} zweimal pro Woche schwimmen.",
+          "zh": "從一月起我固定每週游泳兩次。",
+          "en": "Since January I have regularly gone swimming twice a week.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "regeln": {
+    "senses": [
+      {
+        "zh": "處理；解決",
+        "en": "to settle; arrange",
+        "ex": {
+          "de": "Wir müssen die Frage mit dem Vermieter noch {regeln}.",
+          "zh": "我們還需要和房東處理這個問題。",
+          "en": "We still have to settle the matter with the landlord.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "regnen": {
+    "senses": [
+      {
+        "zh": "下雨",
+        "en": "to rain",
+        "ex": {
+          "de": "Laut Wetterbericht wird es morgen den ganzen Tag {regnen}.",
+          "zh": "根據天氣預報，明天會下整天的雨。",
+          "en": "According to the weather forecast, it will rain all day tomorrow.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "kochen"
+          ]
+        }
+      }
+    ]
+  },
+  "regen": {
+    "senses": [
+      {
+        "zh": "雨",
+        "en": "rain",
+        "ex": {
+          "de": "Wegen des starken {Regens} bleiben wir heute zu Hause.",
+          "zh": "因為雨很大，我們今天待在家。",
+          "en": "Because of the heavy rain we are staying home today.",
+          "distractors": [
+            "Kühlschranks",
+            "Regenschirms",
+            "Bleistifts"
+          ]
+        }
+      }
+    ]
+  },
+  "region": {
+    "senses": [
+      {
+        "zh": "地區",
+        "en": "region",
+        "ex": {
+          "de": "Diese {Region} ist für ihren guten Käse bekannt.",
+          "zh": "這個地區以優質乳酪聞名。",
+          "en": "This region is known for its good cheese.",
+          "distractors": [
+            "Zahnbürste",
+            "Gabel",
+            "Socke"
+          ]
+        }
+      }
+    ]
+  },
+  "reich": {
+    "senses": [
+      {
+        "zh": "富有的",
+        "en": "rich; wealthy",
+        "ex": {
+          "de": "Auch wer nicht {reich} ist, kann anderen Menschen helfen.",
+          "zh": "即使不富有，也能幫助別人。",
+          "en": "Even someone who is not rich can help other people.",
+          "distractors": [
+            "rechteckig",
+            "hölzern",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "reichen": {
+    "senses": [
+      {
+        "zh": "足夠",
+        "en": "to be enough",
+        "ex": {
+          "de": "Die Suppe wird für alle Gäste {reichen}.",
+          "zh": "這鍋湯足夠所有客人吃。",
+          "en": "The soup will be enough for all the guests.",
+          "distractors": [
+            "schlafen",
+            "frieren",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "reif": {
+    "senses": [
+      {
+        "zh": "成熟的",
+        "en": "ripe",
+        "ex": {
+          "de": "Die Tomaten sind schon rot und {reif}.",
+          "zh": "番茄已經變紅，成熟了。",
+          "en": "The tomatoes are already red and ripe.",
+          "distractors": [
+            "schwanger",
+            "verheiratet",
+            "hungrig"
+          ]
+        }
+      }
+    ]
+  },
+  "reifen": {
+    "senses": [
+      {
+        "zh": "輪胎",
+        "en": "tire",
+        "ex": {
+          "de": "Am Fahrrad ist ein {Reifen} kaputt und muss ersetzt werden.",
+          "zh": "腳踏車的一個輪胎壞了，需要更換。",
+          "en": "A tire on the bicycle is broken and has to be replaced.",
+          "distractors": [
+            "Regenschirm",
+            "Kühlschrank",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "reihe": {
+    "senses": [
+      {
+        "zh": "排；列",
+        "en": "row",
+        "ex": {
+          "de": "Wir sitzen im Kino in der dritten {Reihe}.",
+          "zh": "我們坐在電影院第三排。",
+          "en": "We are sitting in the third row at the cinema.",
+          "distractors": [
+            "Zahnpasta",
+            "Wolke",
+            "Marmelade"
+          ]
+        }
+      }
+    ]
+  },
+  "reihenfolge": {
+    "senses": [
+      {
+        "zh": "順序",
+        "en": "order; sequence",
+        "ex": {
+          "de": "Bitte legen Sie die Bilder in die richtige {Reihenfolge}.",
+          "zh": "請把圖片按正確的順序排列。",
+          "en": "Please put the pictures in the correct order.",
+          "distractors": [
+            "Karotte",
+            "Zahnbürste",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "rein": {
+    "senses": [
+      {
+        "zh": "乾淨的；純淨的",
+        "en": "clean; pure",
+        "ex": {
+          "de": "Das Wasser aus dieser Quelle ist {rein} und klar.",
+          "zh": "這個泉源的水純淨清澈。",
+          "en": "The water from this spring is pure and clear.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "reinigen": {
+    "senses": [
+      {
+        "zh": "清潔",
+        "en": "to clean",
+        "ex": {
+          "de": "Bitte {reinigen} Sie die Maschine nach jeder Benutzung.",
+          "zh": "每次使用後請清潔機器。",
+          "en": "Please clean the machine after every use.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "reinigung": {
+    "senses": [
+      {
+        "zh": "清潔；乾洗店",
+        "en": "cleaning; dry cleaner",
+        "ex": {
+          "de": "Den Anzug bringe ich morgen in die {Reinigung}.",
+          "zh": "我明天要把西裝送去乾洗店。",
+          "en": "I am taking the suit to the dry cleaner tomorrow.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Wolke"
+          ]
+        }
+      }
+    ]
+  },
+  "reis": {
+    "senses": [
+      {
+        "zh": "米；飯",
+        "en": "rice",
+        "ex": {
+          "de": "Zu dem Gemüse kochen wir heute etwas {Reis}.",
+          "zh": "今天我們煮一些飯搭配蔬菜。",
+          "en": "Today we are cooking some rice to go with the vegetables.",
+          "distractors": [
+            "Regenschirm",
+            "Kühlschrank",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "reisen": {
+    "senses": [
+      {
+        "zh": "旅行",
+        "en": "to travel",
+        "ex": {
+          "de": "Nächstes Jahr möchten wir mit dem Zug durch Europa {reisen}.",
+          "zh": "明年我們想搭火車遊歐洲。",
+          "en": "Next year we want to travel through Europe by train.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "reise": {
+    "senses": [
+      {
+        "zh": "旅行",
+        "en": "journey; trip",
+        "ex": {
+          "de": "Für die {Reise} nach Wien haben wir schon Karten gekauft.",
+          "zh": "我們已經買好去維也納旅行的票了。",
+          "en": "We have already bought tickets for the trip to Vienna.",
+          "distractors": [
+            "Zahnbürste",
+            "Gabel",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "reisebuero": {
+    "senses": [
+      {
+        "zh": "旅行社",
+        "en": "travel agency",
+        "ex": {
+          "de": "Im {Reisebüro} lassen wir uns über Zugreisen beraten.",
+          "zh": "我們在旅行社諮詢火車旅行的事。",
+          "en": "At the travel agency we get advice about train journeys.",
+          "distractors": [
+            "Kissen",
+            "Fahrrad",
+            "Frühstück"
+          ]
+        }
+      }
+    ]
+  },
+  "reiten": {
+    "senses": [
+      {
+        "zh": "騎馬",
+        "en": "to ride a horse",
+        "ex": {
+          "de": "Meine Tochter möchte auf dem Bauernhof ein Pony {reiten}.",
+          "zh": "我女兒想在農場騎小馬。",
+          "en": "My daughter wants to ride a pony at the farm.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "reklame": {
+    "senses": [
+      {
+        "zh": "廣告",
+        "en": "advertising",
+        "ex": {
+          "de": "Im Fernsehen läuft oft {Reklame} für neue Autos.",
+          "zh": "電視上經常播放新車廣告。",
+          "en": "Advertisements for new cars often run on television.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "rekord": {
+    "senses": [
+      {
+        "zh": "紀錄",
+        "en": "record",
+        "ex": {
+          "de": "Die Läuferin hat einen neuen {Rekord} aufgestellt.",
+          "zh": "這位跑者創下了新紀錄。",
+          "en": "The runner set a new record.",
+          "distractors": [
+            "Regenschirm",
+            "Kühlschrank",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "relativ": {
+    "senses": [
+      {
+        "zh": "相對地；比較",
+        "en": "relatively",
+        "ex": {
+          "de": "Für die Stadt ist diese Wohnung noch {relativ} günstig.",
+          "zh": "以這個城市來說，這間公寓還算便宜。",
+          "en": "For this city, this apartment is still relatively inexpensive.",
+          "distractors": [
+            "hölzern",
+            "rechteckig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "religion": {
+    "senses": [
+      {
+        "zh": "宗教",
+        "en": "religion",
+        "ex": {
+          "de": "In der Schule lernen die Kinder etwas über verschiedene {Religionen}.",
+          "zh": "孩子們在學校學習不同宗教的知識。",
+          "en": "At school the children learn about different religions.",
+          "distractors": [
+            "Zahnbürsten",
+            "Gabeln",
+            "Karotten"
+          ]
+        }
+      }
+    ]
+  },
+  "rennen": {
+    "senses": [
+      {
+        "zh": "奔跑",
+        "en": "to run",
+        "ex": {
+          "de": "Die Kinder {rennen} schnell zum Bus, damit sie ihn erreichen.",
+          "zh": "孩子們快速跑向公車，以免搭不上。",
+          "en": "The children run quickly to the bus so they can catch it.",
+          "distractors": [
+            "kochen",
+            "bügeln",
+            "telefonieren"
+          ]
+        }
+      }
+    ]
+  },
+  "in-rente-gehen-sein": {
+    "senses": [
+      {
+        "zh": "退休；已退休",
+        "en": "to retire; be retired",
+        "ex": {
+          "de": "Nach vierzig Jahren Arbeit möchte sie nächstes Jahr {in Rente gehen}.",
+          "zh": "工作四十年後，她想明年退休。",
+          "en": "After forty years of work she wants to retire next year.",
+          "distractors": [
+            "Steine bügeln",
+            "Wolken waschen",
+            "Regen reparieren"
+          ]
+        }
+      }
+    ]
+  },
+  "rentner": {
+    "senses": [
+      {
+        "zh": "男性退休者；退休者",
+        "en": "retiree; pensioner",
+        "ex": {
+          "de": "Der {Rentner} arbeitet zweimal pro Woche freiwillig im Gartenverein.",
+          "zh": "這位退休者每週在園藝協會做兩次志工。",
+          "en": "The retiree volunteers at the gardening club twice a week.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "rentnerin": {
+    "senses": [
+      {
+        "zh": "女性退休者",
+        "en": "female retiree",
+        "ex": {
+          "de": "Die {Rentnerin} besucht jeden Donnerstag ihre Enkelkinder.",
+          "zh": "這位退休女士每週四去看孫子女。",
+          "en": "The retiree visits her grandchildren every Thursday.",
+          "distractors": [
+            "Wolke",
+            "Karotte",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "reparieren": {
+    "senses": [
+      {
+        "zh": "修理",
+        "en": "to repair",
+        "ex": {
+          "de": "Kannst du bitte das Licht an meinem Fahrrad {reparieren}?",
+          "zh": "你可以幫我修理腳踏車的燈嗎？",
+          "en": "Can you please repair the light on my bicycle?",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "reparatur": {
+    "senses": [
+      {
+        "zh": "修理；維修",
+        "en": "repair",
+        "ex": {
+          "de": "Die {Reparatur} des Computers dauert etwa zwei Tage.",
+          "zh": "電腦維修大約需要兩天。",
+          "en": "Repairing the computer takes about two days.",
+          "distractors": [
+            "Zahnbürste",
+            "Karotte",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "reportage": {
+    "senses": [
+      {
+        "zh": "報導；紀實節目",
+        "en": "report; documentary feature",
+        "ex": {
+          "de": "Die {Reportage} zeigt das Leben auf einer kleinen Insel.",
+          "zh": "這篇報導呈現一座小島上的生活。",
+          "en": "The report shows life on a small island.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Socke"
+          ]
+        }
+      }
+    ]
+  },
+  "reporter": {
+    "senses": [
+      {
+        "zh": "記者",
+        "en": "reporter",
+        "ex": {
+          "de": "Der {Reporter} stellt nach dem Spiel viele Fragen.",
+          "zh": "比賽結束後，記者問了很多問題。",
+          "en": "The reporter asks many questions after the game.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "reporterin": {
+    "senses": [
+      {
+        "zh": "女記者",
+        "en": "female reporter",
+        "ex": {
+          "de": "Die {Reporterin} spricht mit den Gästen vor dem Theater.",
+          "zh": "女記者在劇院前採訪來賓。",
+          "en": "The reporter speaks to the guests outside the theater.",
+          "distractors": [
+            "Wolke",
+            "Gabel",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "reservieren": {
+    "senses": [
+      {
+        "zh": "預訂",
+        "en": "to reserve",
+        "ex": {
+          "de": "Für Samstag möchten wir einen Tisch am Fenster {reservieren}.",
+          "zh": "我們想預訂星期六靠窗的座位。",
+          "en": "We would like to reserve a table by the window for Saturday.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "reservierung": {
+    "senses": [
+      {
+        "zh": "預訂",
+        "en": "reservation",
+        "ex": {
+          "de": "Ihre {Reservierung} für zwei Personen ist bereits bestätigt.",
+          "zh": "您預訂的兩人座位已經確認。",
+          "en": "Your reservation for two people has already been confirmed.",
+          "distractors": [
+            "Zahnbürste",
+            "Gabel",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "respekt": {
+    "senses": [
+      {
+        "zh": "尊重",
+        "en": "respect",
+        "ex": {
+          "de": "Kinder und Erwachsene verdienen den gleichen {Respekt}.",
+          "zh": "孩子和大人都值得同樣的尊重。",
+          "en": "Children and adults deserve the same respect.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "rest": {
+    "senses": [
+      {
+        "zh": "剩餘部分",
+        "en": "remainder; rest",
+        "ex": {
+          "de": "Den {Rest} der Suppe stellen wir in den Kühlschrank.",
+          "zh": "我們把剩下的湯放進冰箱。",
+          "en": "We put the rest of the soup in the fridge.",
+          "distractors": [
+            "Regenschirm",
+            "Bleistift",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "restaurant": {
+    "senses": [
+      {
+        "zh": "餐廳",
+        "en": "restaurant",
+        "ex": {
+          "de": "Im neuen {Restaurant} an der Ecke gibt es vegetarisches Essen.",
+          "zh": "轉角的新餐廳有素食。",
+          "en": "The new restaurant on the corner serves vegetarian food.",
+          "distractors": [
+            "Kissen",
+            "Fahrrad",
+            "Frühstück"
+          ]
+        }
+      }
+    ]
+  },
+  "retten": {
+    "senses": [
+      {
+        "zh": "拯救",
+        "en": "to rescue; save",
+        "ex": {
+          "de": "Die Feuerwehr konnte den Hund aus dem Wasser {retten}.",
+          "zh": "消防隊成功把狗從水裡救出來。",
+          "en": "The fire brigade managed to rescue the dog from the water.",
+          "distractors": [
+            "frieren",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "rezept": {
+    "senses": [
+      {
+        "zh": "食譜；處方",
+        "en": "recipe; prescription",
+        "ex": {
+          "de": "Für diesen Kuchen benutze ich das {Rezept} meiner Oma.",
+          "zh": "做這個蛋糕我用的是奶奶的食譜。",
+          "en": "For this cake I use my grandmother’s recipe.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "rezeption-reception": {
+    "senses": [
+      {
+        "zh": "接待處",
+        "en": "reception desk",
+        "ex": {
+          "de": "An der {Rezeption} fragt ein Gast nach einem Stadtplan.",
+          "zh": "一位旅客在接待處詢問是否有城市地圖。",
+          "en": "A guest asks for a city map at the reception desk.",
+          "distractors": [
+            "Zahnpasta",
+            "Marmelade",
+            "Karotte"
+          ]
+        }
+      }
+    ]
+  },
+  "richtig": {
+    "senses": [
+      {
+        "zh": "正確的",
+        "en": "correct; right",
+        "ex": {
+          "de": "Deine Antwort ist {richtig}, du hast alle Punkte bekommen.",
+          "zh": "你的答案正確，你得了滿分。",
+          "en": "Your answer is correct; you got all the points.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "richtung": {
+    "senses": [
+      {
+        "zh": "方向",
+        "en": "direction",
+        "ex": {
+          "de": "Der Zug fährt jetzt in {Richtung} Hamburg.",
+          "zh": "這列火車現在往漢堡方向行駛。",
+          "en": "The train is now traveling in the direction of Hamburg.",
+          "distractors": [
+            "Zahnbürste",
+            "Marmelade",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "riechen": {
+    "senses": [
+      {
+        "zh": "聞起來；聞",
+        "en": "to smell",
+        "ex": {
+          "de": "Die frischen Blumen {riechen} im ganzen Zimmer angenehm.",
+          "zh": "新鮮的花讓整個房間聞起來很香。",
+          "en": "The fresh flowers smell pleasant throughout the room.",
+          "distractors": [
+            "kochen",
+            "schlafen",
+            "husten"
+          ]
+        }
+      }
+    ]
+  },
+  "rind": {
+    "senses": [
+      {
+        "zh": "牛",
+        "en": "cattle; cow",
+        "ex": {
+          "de": "Auf der Wiese steht ein braunes {Rind} neben dem Zaun.",
+          "zh": "草地上有一頭棕色的牛站在圍欄旁。",
+          "en": "A brown cow is standing next to the fence in the meadow.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "ring": {
+    "senses": [
+      {
+        "zh": "戒指",
+        "en": "ring",
+        "ex": {
+          "de": "Zum Geburtstag schenkt er ihr einen silbernen {Ring}.",
+          "zh": "生日的時候他送給她一枚銀戒指。",
+          "en": "For her birthday he gives her a silver ring.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "risiko": {
+    "senses": [
+      {
+        "zh": "風險",
+        "en": "risk",
+        "ex": {
+          "de": "Bei starkem Sturm ist das {Risiko} für Unfälle höher.",
+          "zh": "暴風雨很強時，發生事故的風險比較高。",
+          "en": "During a strong storm the risk of accidents is higher.",
+          "distractors": [
+            "Fahrrad",
+            "Kissen",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "rock": {
+    "senses": [
+      {
+        "zh": "裙子",
+        "en": "skirt",
+        "ex": {
+          "de": "Zu der Bluse trägt sie einen langen blauen {Rock}.",
+          "zh": "她穿著長長的藍色裙子搭配這件上衣。",
+          "en": "She wears a long blue skirt with the blouse.",
+          "distractors": [
+            "Kühlschrank",
+            "Regenschirm",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "roh": {
+    "senses": [
+      {
+        "zh": "生的；未煮熟的",
+        "en": "raw",
+        "ex": {
+          "de": "Diese Karotten kann man auch {roh} essen.",
+          "zh": "這些紅蘿蔔也可以生吃。",
+          "en": "These carrots can also be eaten raw.",
+          "distractors": [
+            "hungrig",
+            "durstig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "das-rohr": {
+    "senses": [
+      {
+        "zh": "烤箱（奧地利用法）",
+        "en": "oven (Austrian usage)",
+        "ex": {
+          "de": "Den Auflauf backen wir noch zwanzig Minuten im {Rohr}.",
+          "zh": "我們再把焗烤放在烤箱裡烤二十分鐘。",
+          "en": "We bake the casserole in the oven for another twenty minutes.",
+          "distractors": [
+            "Kissen",
+            "Fahrrad",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  }
+}

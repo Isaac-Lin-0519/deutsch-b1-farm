@@ -27,9 +27,9 @@
           "zh": "貓睡在溫暖的爐子旁邊。",
           "en": "The cat is sleeping next to the warm stove.",
           "distractors": [
-            "wegen",
-            "trotz",
-            "statt"
+            "ohne",
+            "durch",
+            "für"
           ]
         }
       }
@@ -45,9 +45,9 @@
           "zh": "我的祖父母就住在隔壁的黃色房子裡。",
           "en": "My grandparents live next door in the yellow house.",
           "distractors": [
-            "gestern",
-            "nie",
-            "morgen"
+            "bergauf",
+            "rückwärts",
+            "kopfüber"
           ]
         }
       }
@@ -63,9 +63,9 @@
           "zh": "她做飯時喜歡順便聽音樂。",
           "en": "She likes listening to music while cooking.",
           "distractors": [
-            "niemals",
-            "gestern",
-            "morgen"
+            "rückwärts",
+            "bergauf",
+            "kopfüber"
           ]
         }
       }
@@ -495,9 +495,9 @@
           "zh": "雖然很晚了，她仍然在辦公室工作。",
           "en": "Although it is late, she is still working in the office.",
           "distractors": [
-            "gestern",
-            "morgen",
-            "draußen"
+            "bergauf",
+            "kopfüber",
+            "rückwärts"
           ]
         }
       }
@@ -855,9 +855,9 @@
           "zh": "樓上有兩間小臥室。",
           "en": "There are two small bedrooms on the upper floor.",
           "distractors": [
-            "Keller",
-            "Dach",
-            "Tief"
+            "Apfel",
+            "Wasser",
+            "Brot"
           ]
         }
       }
