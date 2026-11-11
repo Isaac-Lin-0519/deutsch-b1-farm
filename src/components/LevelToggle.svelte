@@ -1,10 +1,10 @@
 <script lang="ts">
-  import { LEVEL_NAMES } from '../lib/region';
-  import type { RegionLevel } from '../lib/types';
+  import { AMOUNT_NAMES } from '../lib/region';
+  import type { Amount } from '../lib/types';
 
-  let { value, label, onchange }: { value: RegionLevel; label: string; onchange: (v: RegionLevel) => void } = $props();
+  let { value, label, onchange }: { value: Amount; label: string; onchange: (v: Amount) => void } = $props();
 
-  const STEPS: RegionLevel[] = ['none', 'mid', 'high'];
+  const STEPS: Amount[] = ['none', 'mid', 'high'];
   const idx = $derived(STEPS.indexOf(value));
 </script>
 
@@ -13,11 +13,11 @@
     <div class="fill" data-v={value}></div>
     <div class="knob"></div>
     {#each STEPS as s (s)}
-      <button type="button" role="radio" aria-checked={s === value} aria-label={LEVEL_NAMES[s]} class="hit" onclick={() => onchange(s)}></button>
+      <button type="button" role="radio" aria-checked={s === value} aria-label={AMOUNT_NAMES[s]} class="hit" onclick={() => onchange(s)}></button>
     {/each}
   </div>
   <div class="names" aria-hidden="true">
-    {#each STEPS as s (s)}<span class:on={s === value}>{LEVEL_NAMES[s]}</span>{/each}
+    {#each STEPS as s (s)}<span class:on={s === value}>{AMOUNT_NAMES[s]}</span>{/each}
   </div>
 </div>
 

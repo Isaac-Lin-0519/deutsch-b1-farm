@@ -1,6 +1,6 @@
 import { addDays, dayKey, daysBetween, endOfDay, ROLLOVER_HOURS } from './day';
 import * as db from './db';
-import { dailyQuota, EXAM_STOP_DAYS, hash, remainingInBag, reviewCap, seedOrder } from './plan';
+import { dailyQuota, EXAM_STOP_DAYS, hash, levelsFromBag, remainingInBag, reviewCap, seedOrder } from './plan';
 import { isLearning, makeScheduler, newCard, nextStage, Rating, tooEasyCard, type Grade } from './srs';
 import { FEED_GAIN, FEED_PER_DAY, freshCare, hearts, PET_GAIN, PET_PER_DAY, WATER_GAIN } from './affection';
 import {
@@ -11,6 +11,7 @@ import {
   type FruitKind,
   type Profile,
   type ReviewLog,
+  type LegacySeedBag,
   type Settings,
   type Word,
 } from './types';
@@ -55,6 +56,13 @@ async function loadWords(): Promise<Word[]> {
   return res.json();
 }
 
+/** 讀回存檔的設定：補上新欄位，並把舊版的「種子袋」換算成等級開關 */
+export function mergeSettings(saved: Partial<Settings> & { seedBag?: LegacySeedBag }): Settings {
+  const { seedBag, ...rest } = saved;
+  const levels = rest.levels ?? (seedBag ? levelsFromBag(seedBag) : DEFAULT_SETTINGS.levels);
+  return { ...DEFAULT_SETTINGS, ...rest, levels: { ...DEFAULT_SETTINGS.levels, ...levels }, regions: { ...DEFAULT_SETTINGS.regions, ...rest.regions } };
+}
+
 export async function init() {
   try {
     const [words, cards, settings, profile, daily] = await Promise.all([
@@ -67,7 +75,7 @@ export async function init() {
     app.words = words;
     app.byId = new Map(words.map((w) => [w.id, w]));
     app.cards = Object.fromEntries(cards.filter((c) => app.byId.has(c.id)).map((c) => [c.id, c]));
-    if (settings) app.settings = { ...DEFAULT_SETTINGS, ...settings, regions: { ...DEFAULT_SETTINGS.regions, ...settings.regions } };
+    if (settings) app.settings = mergeSettings(settings);
     if (profile) app.profile = { ...defaultProfile(), ...profile };
     if (daily) app.daily = daily;
     rollDay();
@@ -94,7 +102,7 @@ export function today(): string {
 export function rollDay() {
   const day = dayKey(new Date());
   if (app.daily.day === day) return;
-  const remaining = remainingInBag(app.words, app.settings.seedBag, plantedSet(), app.settings.regions);
+  const remaining = remainingInBag(app.words, app.settings.levels, plantedSet(), app.settings.regions);
   app.daily = { day, quota: dailyQuota(app.settings, remaining, day), planted: 0, reviewed: 0 };
   void db.setKV('daily', snap(app.daily));
 }
@@ -102,7 +110,7 @@ export function rollDay() {
 /** 改了設定後重算今天的量（已經種的不算進剩下的） */
 export function recomputeQuota() {
   const day = today();
-  const remaining = remainingInBag(app.words, app.settings.seedBag, plantedSet(), app.settings.regions);
+  const remaining = remainingInBag(app.words, app.settings.levels, plantedSet(), app.settings.regions);
   const q = dailyQuota(app.settings, remaining, day);
   app.daily.quota = app.settings.planMode === 'exam' ? app.daily.planted + q : q;
   void db.setKV('daily', snap(app.daily));
@@ -159,7 +167,7 @@ export function seedsLeftToday(): number {
 
 /** 今天還能種的新字（只會種已經有三語內容的字） */
 export function todaysSeeds(): Word[] {
-  return seedOrder(app.words, app.settings.seedBag, plantedSet(), app.settings.regions).slice(0, seedsLeftToday());
+  return seedOrder(app.words, app.settings.levels, plantedSet(), app.settings.regions).slice(0, seedsLeftToday());
 }
 
 export function plotState(r: CardRecord, now = app.now) {

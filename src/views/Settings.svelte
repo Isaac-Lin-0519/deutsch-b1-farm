@@ -1,13 +1,12 @@
 <script lang="ts">
   import { exportAll, importAll, type Backup } from '../lib/db';
   import { remainingInBag } from '../lib/plan';
-  import { REGION_NAMES } from '../lib/region';
   import { app, plantedSet, saveSettings, today } from '../lib/store.svelte';
-  import { REGIONS, type Direction, type HintLang, type Pace, type Region, type RegionLevel, type SeedBag } from '../lib/types';
+  import type { Direction, HintLang, Pace } from '../lib/types';
   import { FEED_GAIN, FEED_PER_DAY, hearts, MAX_HEARTS, PET_GAIN, PET_PER_DAY, toNextHeart, TRICKS, WATER_GAIN } from '../lib/affection';
   import { BUILD, checkForUpdate } from '../lib/pwa';
   import DogPortrait from '../components/DogPortrait.svelte';
-  import LevelToggle from '../components/LevelToggle.svelte';
+  import SeedPrefs from '../components/SeedPrefs.svelte';
   import PlanPicker from '../components/PlanPicker.svelte';
 
   const s = app.settings;
@@ -35,7 +34,7 @@
     else dogName = app.settings.dogName;
   }
 
-  const remaining = $derived(remainingInBag(app.words, app.settings.seedBag, plantedSet(), app.settings.regions));
+  const remaining = $derived(remainingInBag(app.words, app.settings.levels, plantedSet(), app.settings.regions));
   const planValid = $derived(plan.mode === 'fixed' ? plan.perDay >= 1 : !!plan.examDate);
   const planChanged = $derived(
     plan.mode !== app.settings.planMode ||
@@ -55,19 +54,10 @@
     setTimeout(() => (saved = false), 1500);
   }
 
-  function setRegion(r: Region, l: RegionLevel) {
-    void saveSettings({ regions: { ...app.settings.regions, [r]: l } });
-  }
-
   const PACES: [Pace, string, string][] = [
     ['easy', '輕鬆', '複習少，比較容易忘'],
     ['standard', '標準', '大約記得九成'],
     ['sprint', '衝刺', '複習多，記得最牢'],
-  ];
-  const BAGS: [SeedBag, string][] = [
-    ['A1+', '從 A1 開始'],
-    ['A2+', '從 A2 開始'],
-    ['B1', '只種 B1 新字'],
   ];
   const DIRS: [Direction, string][] = [
     ['de2x', '德文 → 意思'],
@@ -150,20 +140,13 @@
 
   <div class="panel stack">
     <h2>種子袋</h2>
-    <div class="row">
-      {#each BAGS as [v, label] (v)}
-        <button class="btn" class:on={app.settings.seedBag === v} onclick={() => saveSettings({ seedBag: v })}>{label}</button>
-      {/each}
-    </div>
-    <p class="soft">低等級先種，同一等級裡隨機抽。只會種已經有三語內容的字。</p>
-    <h3>德奧瑞說法</h3>
-    {#each REGIONS as r (r)}
-      <div class="row">
-        <span class="regname">{REGION_NAMES[r]}</span>
-        <LevelToggle value={app.settings.regions[r]} label={REGION_NAMES[r]} onchange={(l) => setRegion(r, l)} />
-      </div>
-    {/each}
-    <p class="soft">各地區的說法分別設定：高＝正常出現、中＝少一點（排到後面才種）、無＝不種也不翻到。一個字在好幾個地區都用，就看最高的那個；三地通用的字不受影響。已經種下的字照常澆水。</p>
+    <SeedPrefs
+      levels={app.settings.levels}
+      regions={app.settings.regions}
+      onlevels={(levels) => saveSettings({ levels })}
+      onregions={(regions) => saveSettings({ regions })}
+    />
+    <p class="soft">只會種已經有三語內容的字。</p>
   </div>
 
   <div class="panel stack">
@@ -240,9 +223,6 @@
 </div>
 
 <style>
-  .regname {
-    min-width: 5em;
-  }
   .hearts {
     margin: 0;
     color: #8a6a50;

@@ -1,9 +1,10 @@
 import { describe, expect, it } from 'vitest';
 import { addDays, dayKey, daysBetween, endOfDay } from '../src/lib/day';
-import { dailyQuota, examDaysLeft, examPerDay, remainingInBag, reviewCap, seedOrder } from '../src/lib/plan';
+import { dailyQuota, examDaysLeft, examPerDay, levelShares, levelsFromBag, remainingInBag, reviewCap, seedOrder } from '../src/lib/plan';
 import { regionAllows, wordLevel, wordRegions } from '../src/lib/region';
 import { makeScheduler, newCard, nextStage, Rating, stageByInterval, State, tooEasyCard } from '../src/lib/srs';
-import { DEFAULT_SETTINGS, type RegionLevel, type RegionPrefs, type Word } from '../src/lib/types';
+import { mergeSettings } from '../src/lib/store.svelte';
+import { DEFAULT_SETTINGS, type Amount, type LevelPrefs, type RegionPrefs, type Word } from '../src/lib/types';
 
 describe('day', () => {
   it('凌晨 4 點前還算前一天', () => {
@@ -34,21 +35,63 @@ describe('考試日期自動分配', () => {
   });
 });
 
-describe('種子袋', () => {
-  const w = (id: string, level: Word['level'], content = true): Word => ({
+describe('各等級的新字比例', () => {
+  const w = (id: string, level: Word['level'], content = true, extra: Partial<Word> = {}): Word => ({
     id, level, lemma: id, pos: 'other',
     senses: content ? [{ zh: '', en: '', ex: { de: '{x}', zh: '', en: '', distractors: [] } }] : undefined,
+    ...extra,
   });
-  const words = [w('b1a', 'B1'), w('a2a', 'A2'), w('a1a', 'A1'), w('a1b', 'A1'), w('a1c', 'A1', false), w('a2b', 'A2')];
-  it('低等級先種，沒有內容的不種，已種的跳過', () => {
-    const order = seedOrder(words, 'A1+', new Set(['a1b'])).map((x) => x.id);
-    expect(order[0]).toBe('a1a');
-    expect(order.slice(1, 3).sort()).toEqual(['a2a', 'a2b']);
-    expect(order[3]).toBe('b1a');
-    expect(order).not.toContain('a1c');
+  const many = (level: Word['level'], n: number) => Array.from({ length: n }, (_, i) => w(`${level}-${i}`, level));
+  const L = (A1: Amount, A2: Amount, B1: Amount): LevelPrefs => ({ A1, A2, B1 });
+  const count = (ws: Word[], level: string) => ws.filter((x) => x.level === level).length;
+
+  it('沒有內容的不種、已種的跳過、設成無的等級不種', () => {
+    const words = [w('b1a', 'B1'), w('a2a', 'A2'), w('a1a', 'A1'), w('a1b', 'A1'), w('a1c', 'A1', false)];
+    const order = seedOrder(words, L('high', 'high', 'high'), new Set(['a1b'])).map((x) => x.id);
+    expect(order.sort()).toEqual(['a1a', 'a2a', 'b1a']);
+    expect(seedOrder(words, L('none', 'none', 'high'), new Set()).map((x) => x.id)).toEqual(['b1a']);
   });
-  it('只種 B1', () => {
-    expect(seedOrder(words, 'B1', new Set()).map((x) => x.id)).toEqual(['b1a']);
+  it('高比中多：A1 高、A2 中、B1 中，新字大約六成是 A1', () => {
+    const words = [...many('A1', 100), ...many('A2', 100), ...many('B1', 100)];
+    const top = seedOrder(words, L('high', 'mid', 'mid'), new Set()).slice(0, 100);
+    expect(count(top, 'A1')).toBeGreaterThan(48);
+    expect(count(top, 'A1')).toBeLessThan(72);
+    expect(count(top, 'A2')).toBeGreaterThan(10);
+    expect(count(top, 'B1')).toBeGreaterThan(10);
+  });
+  it('字少的等級不會因為字少就被忽略：兩個都是高，A1 只有 30 個也會穩定出現', () => {
+    const words = [...many('A1', 30), ...many('B1', 300)];
+    const top = seedOrder(words, L('high', 'none', 'high'), new Set()).slice(0, 40);
+    expect(count(top, 'A1')).toBeGreaterThan(9); // 約 16；A1 只有 30 個，抽著抽著會變少
+    expect(count(top, 'A1')).toBeLessThan(25);
+  });
+  it('某個等級種完了，就由其他等級補上', () => {
+    const words = [...many('A1', 5), ...many('A2', 20)];
+    const planted = new Set(words.filter((x) => x.level === 'A1').map((x) => x.id));
+    const order = seedOrder(words, L('high', 'mid', 'none'), planted);
+    expect(order).toHaveLength(20);
+    expect(count(order, 'A2')).toBe(20);
+  });
+  it('同樣的設定每次排出來的順序一樣', () => {
+    const words = [...many('A1', 40), ...many('B1', 40)];
+    const a = seedOrder(words, L('high', 'none', 'mid'), new Set()).map((x) => x.id);
+    expect(seedOrder(words, L('high', 'none', 'mid'), new Set()).map((x) => x.id)).toEqual(a);
+  });
+  it('levelShares：高:中＝3:1，無的等級是 0，沒有字可種的等級不算', () => {
+    const words = [...many('A1', 10), ...many('A2', 10), ...many('B1', 10)];
+    expect(levelShares(words, L('high', 'mid', 'none'), new Set())).toEqual({ A1: 0.75, A2: 0.25, B1: 0 });
+    const noA2 = new Set(words.filter((x) => x.level === 'A2').map((x) => x.id));
+    expect(levelShares(words, L('high', 'mid', 'high'), noA2)).toEqual({ A1: 0.5, A2: 0, B1: 0.5 });
+  });
+  it('舊版種子袋換算成等級開關，沒有等級設定的舊存檔會自動轉換', () => {
+    expect(levelsFromBag('A1+')).toEqual({ A1: 'high', A2: 'mid', B1: 'mid' });
+    expect(levelsFromBag('A2+')).toEqual({ A1: 'none', A2: 'high', B1: 'mid' });
+    expect(levelsFromBag('B1')).toEqual({ A1: 'none', A2: 'none', B1: 'high' });
+    const old = mergeSettings({ onboarded: true, seedBag: 'B1' });
+    expect(old.levels).toEqual({ A1: 'none', A2: 'none', B1: 'high' });
+    expect('seedBag' in old).toBe(false);
+    expect(mergeSettings({ levels: { A1: 'none', A2: 'high', B1: 'high' } }).levels.A2).toBe('high');
+    expect(mergeSettings({}).levels).toEqual(DEFAULT_SETTINGS.levels);
   });
 });
 
@@ -101,8 +144,9 @@ describe('德奧瑞地區偏好', () => {
     mk('briefumschlag', { variant_of: { word: 'Kuvert', regions: ['A'] } }),
     mk('haus'),
   ];
-  const P = (D: RegionLevel, A: RegionLevel, CH: RegionLevel): RegionPrefs => ({ D, A, CH });
-  const ids = (p: RegionPrefs, planted: string[] = []) => seedOrder(words, 'A1+', new Set(planted), p).map((x) => x.id);
+  const P = (D: Amount, A: Amount, CH: Amount): RegionPrefs => ({ D, A, CH });
+  const ALL: LevelPrefs = { A1: 'high', A2: 'high', B1: 'high' };
+  const ids = (p: RegionPrefs, planted: string[] = []) => seedOrder(words, ALL, new Set(planted), p).map((x) => x.id);
 
   it('wordRegions：自己的標記優先；只有「某地區用另一個字」的註記，就是其餘地區的說法；都沒有就是通用', () => {
     expect(wordRegions(words[0])).toEqual(['D']);
@@ -116,7 +160,7 @@ describe('德奧瑞地區偏好', () => {
   it('奧地利、瑞士設無：只留德國用法和通用字，已種下的不受影響', () => {
     const p = P('high', 'none', 'none');
     expect(ids(p).sort()).toEqual(['aufzug', 'briefumschlag', 'broetchen', 'haus']);
-    expect(remainingInBag(words, 'A1+', new Set(), p)).toBe(4);
+    expect(remainingInBag(words, ALL, new Set(), p)).toBe(4);
     expect(regionAllows(words[1], p)).toBe(false);
   });
   it('多個地區都用的字，看最高的那個', () => {
@@ -124,10 +168,13 @@ describe('德奧瑞地區偏好', () => {
     expect(wordLevel(words[3], P('none', 'mid', 'none'))).toBe('mid');
     expect(wordLevel(words[3], P('none', 'none', 'high'))).toBe('none');
   });
-  it('設成中：都還會種，只是排在後面；通用字永遠不受影響', () => {
-    const o = ids(P('high', 'mid', 'mid'));
-    expect(o).toHaveLength(7);
-    expect(o.slice(-3).sort()).toEqual(['billett', 'broetli', 'semmel']);
+  it('設成中：都還會種，只是出現得比高少；通用字永遠不受影響', () => {
+    expect(ids(P('high', 'mid', 'mid'))).toHaveLength(7);
+    const general = Array.from({ length: 200 }, (_, i) => mk(`g${i}`));
+    const austrian = Array.from({ length: 200 }, (_, i) => mk(`o${i}`, { regions: ['A'] }));
+    const top = (a: Amount) => seedOrder([...general, ...austrian], ALL, new Set(), P('high', a, 'high')).slice(0, 100).filter((x) => x.id.startsWith('o')).length;
+    expect(top('high')).toBeGreaterThan(top('mid') + 10);
+    expect(top('mid')).toBeGreaterThan(8);
     expect(wordLevel(words[6], P('none', 'none', 'none'))).toBe('high');
   });
 });

@@ -1,8 +1,8 @@
-import type { Region, RegionLevel, RegionPrefs, Word } from './types';
+import type { Region, Amount, RegionPrefs, Word } from './types';
 import { REGIONS } from './types';
 
 export const REGION_NAMES: Record<Region, string> = { D: '德國', A: '奧地利', CH: '瑞士' };
-export const LEVEL_NAMES: Record<RegionLevel, string> = { none: '無', mid: '中', high: '高' };
+export const AMOUNT_NAMES: Record<Amount, string> = { none: '無', mid: '中', high: '高' };
 /**
  * 這個字在哪些地區用。回傳 null 代表三個地區通用，不受地區設定影響。
  * - 有自己的地區標記就用它（例如 Marille → A）。
@@ -15,10 +15,10 @@ export function wordRegions(w: Word): Region[] | null {
 }
 
 /** 這個字在目前設定下的出現程度：取它用到的地區裡最高的那個；通用字永遠是高 */
-export function wordLevel(w: Word, prefs: RegionPrefs): RegionLevel {
+export function wordLevel(w: Word, prefs: RegionPrefs): Amount {
   const rs = wordRegions(w);
   if (!rs || !rs.length) return 'high';
-  let best: RegionLevel = 'none';
+  let best: Amount = 'none';
   for (const r of rs) {
     const l = prefs[r];
     if (l === 'high') return 'high';

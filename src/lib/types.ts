@@ -48,15 +48,19 @@ export const STAGE_NAMES: Record<Stage, string> = {
 
 export type FruitKind = 'der' | 'die' | 'das' | 'other';
 export type Pace = 'easy' | 'standard' | 'sprint';
-/** 從哪個等級開始種，種完再往上 */
-export type SeedBag = 'A1+' | 'A2+' | 'B1';
+/** 舊版的「種子袋」，只用來把舊設定換算成等級開關 */
+export type LegacySeedBag = 'A1+' | 'A2+' | 'B1';
 export type Direction = 'de2x' | 'x2de';
 export type HintLang = 'zh' | 'en' | 'both';
-/** 德奧瑞三個地區各自的出現程度：無＝不練、中＝少一點、高＝正常 */
+/** 出現的程度：無＝不種、中＝少一點、高＝多一點。等級和地區都用同一套 */
 export type Region = 'D' | 'A' | 'CH';
 export const REGIONS: Region[] = ['D', 'A', 'CH'];
-export type RegionLevel = 'none' | 'mid' | 'high';
-export type RegionPrefs = Record<Region, RegionLevel>;
+export type Amount = 'none' | 'mid' | 'high';
+export const AMOUNT_WEIGHT: Record<Amount, number> = { none: 0, mid: 1, high: 3 };
+/** 各等級的新字比例（高:中＝3:1）；第一次使用時預設 A1 為主 */
+export type LevelPrefs = Record<Level, Amount>;
+export const DEFAULT_LEVEL_PREFS: LevelPrefs = { A1: 'high', A2: 'mid', B1: 'mid' };
+export type RegionPrefs = Record<Region, Amount>;
 export const DEFAULT_REGION_PREFS: RegionPrefs = { D: 'high', A: 'high', CH: 'high' };
 
 export interface Settings {
@@ -67,7 +71,7 @@ export interface Settings {
   examCap: number | null; // 考試模式每天最多幾個新字
   reviewCap: number;
   pace: Pace;
-  seedBag: SeedBag;
+  levels: LevelPrefs;
   regions: RegionPrefs;
   direction: Direction;
   hintLang: HintLang;
@@ -84,7 +88,7 @@ export const DEFAULT_SETTINGS: Settings = {
   examCap: null,
   reviewCap: 100,
   pace: 'standard',
-  seedBag: 'A1+',
+  levels: { ...DEFAULT_LEVEL_PREFS },
   regions: { ...DEFAULT_REGION_PREFS },
   direction: 'de2x',
   hintLang: 'both',
