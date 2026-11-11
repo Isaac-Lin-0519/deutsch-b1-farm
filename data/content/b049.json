@@ -1,0 +1,902 @@
+{
+  "zweitsprache": {
+    "senses": [
+      {
+        "zh": "第二語言",
+        "en": "second language",
+        "ex": {
+          "de": "Meine {Zweitsprache} ist Deutsch, meine Muttersprache ist Chinesisch.",
+          "zh": "我的第二語言是德語，母語是中文。",
+          "en": "My second language is German, my mother tongue is Chinese.",
+          "distractors": [
+            "Tomate",
+            "Kreuzung",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "sprechen": {
+    "senses": [
+      {
+        "zh": "說話；交談",
+        "en": "to speak, talk",
+        "ex": {
+          "de": "Darf ich kurz mit Ihnen {sprechen}?",
+          "zh": "我可以和您簡單談一下嗎？",
+          "en": "May I talk to you for a moment?",
+          "distractors": [
+            "rasieren",
+            "überweisen",
+            "schneien"
+          ]
+        }
+      }
+    ]
+  },
+  "sprechstunde": {
+    "senses": [
+      {
+        "zh": "門診時間；接待時間",
+        "en": "office hours, consultation hours",
+        "ex": {
+          "de": "Die {Sprechstunde} beim Hausarzt beginnt um acht Uhr.",
+          "zh": "家庭醫師的門診八點開始。",
+          "en": "The family doctor's consultation hours start at eight.",
+          "distractors": [
+            "Wurst",
+            "Lampe",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "springen": {
+    "senses": [
+      {
+        "zh": "跳；跳躍",
+        "en": "to jump",
+        "ex": {
+          "de": "Die Kinder {springen} gern ins kalte Wasser.",
+          "zh": "孩子們很愛跳進冷水裡。",
+          "en": "The children like to jump into the cold water.",
+          "distractors": [
+            "tragen",
+            "lesen",
+            "zählen"
+          ]
+        }
+      }
+    ]
+  },
+  "spuelen": {
+    "senses": [
+      {
+        "zh": "沖洗；洗（碗）",
+        "en": "to rinse, wash up",
+        "ex": {
+          "de": "Nach dem Essen muss ich noch das Geschirr {spülen}.",
+          "zh": "吃完飯後我還得洗碗盤。",
+          "en": "After the meal I still have to wash the dishes.",
+          "distractors": [
+            "lesen",
+            "tanken",
+            "buchen"
+          ]
+        }
+      }
+    ]
+  },
+  "spur": {
+    "senses": [
+      {
+        "zh": "痕跡；足跡",
+        "en": "trace, track",
+        "ex": {
+          "de": "Im Schnee war eine {Spur} von einem Fuchs zu sehen.",
+          "zh": "雪地上可以看到狐狸的足跡。",
+          "en": "A fox's track could be seen in the snow.",
+          "distractors": [
+            "Gabel",
+            "Rechnung",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "spueren": {
+    "senses": [
+      {
+        "zh": "感覺到；察覺",
+        "en": "to feel, sense",
+        "ex": {
+          "de": "Bei dem Wind kann man die Kälte sofort {spüren}.",
+          "zh": "有這種風，馬上就能感覺到寒意。",
+          "en": "With this wind you can feel the cold right away.",
+          "distractors": [
+            "kaufen",
+            "reparieren",
+            "bezahlen"
+          ]
+        }
+      }
+    ]
+  },
+  "stadion": {
+    "senses": [
+      {
+        "zh": "體育場",
+        "en": "stadium",
+        "ex": {
+          "de": "Das {Stadion} war am Samstag voll von Fans.",
+          "zh": "星期六體育場裡擠滿了球迷。",
+          "en": "The stadium was full of fans on Saturday.",
+          "distractors": [
+            "Gemüse",
+            "Ei",
+            "Messer"
+          ]
+        }
+      }
+    ]
+  },
+  "stadt": {
+    "senses": [
+      {
+        "zh": "城市；市區",
+        "en": "city, town",
+        "ex": {
+          "de": "Die {Stadt} liegt direkt an einem breiten Fluss.",
+          "zh": "這座城市就位在一條寬闊的河邊。",
+          "en": "The city lies right on a wide river.",
+          "distractors": [
+            "Milch",
+            "Mathematik",
+            "Grammatik"
+          ]
+        }
+      }
+    ]
+  },
+  "staedtisch": {
+    "senses": [
+      {
+        "zh": "市立的；城市的",
+        "en": "municipal, urban",
+        "ex": {
+          "de": "Das {städtische} Schwimmbad ist im Sommer bis abends geöffnet.",
+          "zh": "市立游泳池夏天開到晚上。",
+          "en": "The municipal swimming pool is open until evening in summer.",
+          "distractors": [
+            "müde",
+            "glückliche",
+            "hungrige"
+          ]
+        }
+      }
+    ]
+  },
+  "stadtplan": {
+    "senses": [
+      {
+        "zh": "市區地圖",
+        "en": "city map",
+        "ex": {
+          "de": "Ohne {Stadtplan} finde ich den Weg nie.",
+          "zh": "沒有市區地圖我永遠找不到路。",
+          "en": "Without a city map I never find the way.",
+          "distractors": [
+            "Löffel",
+            "Schnupfen",
+            "Nachtisch"
+          ]
+        }
+      }
+    ]
+  },
+  "stammen": {
+    "senses": [
+      {
+        "zh": "出身於；來自",
+        "en": "to come from, originate",
+        "ex": {
+          "de": "Meine Großeltern {stammen} aus einem kleinen Dorf in Polen.",
+          "zh": "我的祖父母來自波蘭的一個小村莊。",
+          "en": "My grandparents come from a small village in Poland.",
+          "distractors": [
+            "wohnen",
+            "leben",
+            "bleiben"
+          ]
+        }
+      }
+    ]
+  },
+  "staendig": {
+    "senses": [
+      {
+        "zh": "不斷地；老是",
+        "en": "constantly",
+        "ex": {
+          "de": "Mein Bruder verliert {ständig} seinen Schlüssel.",
+          "zh": "我弟弟老是弄丟他的鑰匙。",
+          "en": "My brother is constantly losing his key.",
+          "distractors": [
+            "übermorgen",
+            "rechts",
+            "unten"
+          ]
+        }
+      }
+    ]
+  },
+  "standpunkt": {
+    "senses": [
+      {
+        "zh": "立場；觀點",
+        "en": "point of view, stance",
+        "ex": {
+          "de": "Ich verstehe deinen {Standpunkt}, aber ich sehe es anders.",
+          "zh": "我理解你的立場，但我的看法不同。",
+          "en": "I understand your point of view, but I see it differently.",
+          "distractors": [
+            "Geldbeutel",
+            "Wecker",
+            "Fußboden"
+          ]
+        }
+      }
+    ]
+  },
+  "star": {
+    "senses": [
+      {
+        "zh": "明星",
+        "en": "star, celebrity",
+        "ex": {
+          "de": "Auf dem Plakat sieht man den {Star} der Serie.",
+          "zh": "海報上可以看到這部影集的明星。",
+          "en": "On the poster you can see the star of the series.",
+          "distractors": [
+            "Kürbis",
+            "Pfannkuchen",
+            "Staubsauger"
+          ]
+        }
+      }
+    ]
+  },
+  "stark": {
+    "senses": [
+      {
+        "zh": "強的；強烈的",
+        "en": "strong",
+        "ex": {
+          "de": "Heute weht ein {starker} Wind, bring lieber eine Mütze mit.",
+          "zh": "今天風很大，你最好帶頂帽子。",
+          "en": "A strong wind is blowing today, better bring a hat.",
+          "distractors": [
+            "hungriger",
+            "zerbrochener",
+            "pünktlicher"
+          ]
+        }
+      }
+    ]
+  },
+  "starten": {
+    "senses": [
+      {
+        "zh": "出發；起飛；開始",
+        "en": "to start, take off",
+        "ex": {
+          "de": "Das Rennen soll pünktlich um zehn Uhr {starten}.",
+          "zh": "比賽預定十點整準時開始。",
+          "en": "The race is supposed to start punctually at ten.",
+          "distractors": [
+            "regnen",
+            "kochen",
+            "heiraten"
+          ]
+        }
+      }
+    ]
+  },
+  "start": {
+    "senses": [
+      {
+        "zh": "起飛；開始",
+        "en": "start, takeoff",
+        "ex": {
+          "de": "Beim {Start} des Flugzeugs hatte ich etwas Angst.",
+          "zh": "飛機起飛時我有點害怕。",
+          "en": "During the plane's takeoff I was a bit afraid.",
+          "distractors": [
+            "Teller",
+            "Pfeffer",
+            "Reißverschluss"
+          ]
+        }
+      }
+    ]
+  },
+  "station": {
+    "senses": [
+      {
+        "zh": "車站；站",
+        "en": "stop, station",
+        "ex": {
+          "de": "Der Zug hält heute nur an jeder dritten {Station}.",
+          "zh": "火車今天只停每第三個站。",
+          "en": "The train only stops at every third station today.",
+          "distractors": [
+            "Zwiebel",
+            "Frisur",
+            "Aufgabe"
+          ]
+        }
+      }
+    ]
+  },
+  "statistik": {
+    "senses": [
+      {
+        "zh": "統計；統計資料",
+        "en": "statistics",
+        "ex": {
+          "de": "Die {Statistik} zeigt, dass immer mehr Menschen Rad fahren.",
+          "zh": "統計顯示騎腳踏車的人越來越多。",
+          "en": "The statistics show that more and more people cycle.",
+          "distractors": [
+            "Tapete",
+            "Pfanne",
+            "Kartoffel"
+          ]
+        }
+      }
+    ]
+  },
+  "statistisch": {
+    "senses": [
+      {
+        "zh": "統計上的",
+        "en": "statistical",
+        "ex": {
+          "de": "Das ist nur ein {statistischer} Durchschnitt, nicht die Wirklichkeit.",
+          "zh": "那只是統計上的平均值，不是實際情況。",
+          "en": "That is only a statistical average, not reality.",
+          "distractors": [
+            "rutschiger",
+            "gestreifter",
+            "gebratener"
+          ]
+        }
+      }
+    ]
+  },
+  "statt": {
+    "senses": [
+      {
+        "zh": "代替；而不是",
+        "en": "instead of",
+        "ex": {
+          "de": "{Statt} Kaffee trinke ich heute lieber einen Tee.",
+          "zh": "今天我不喝咖啡，想喝茶。",
+          "en": "Instead of coffee I'd rather have a tea today.",
+          "distractors": [
+            "Seit",
+            "Zwischen",
+            "Bis"
+          ]
+        }
+      }
+    ]
+  },
+  "stattfinden": {
+    "senses": [
+      {
+        "zh": "舉行；發生",
+        "en": "to take place",
+        "ex": {
+          "de": "Das Konzert soll im Park {stattfinden}.",
+          "zh": "音樂會預計在公園舉行。",
+          "en": "The concert is supposed to take place in the park.",
+          "distractors": [
+            "aufräumen",
+            "anprobieren",
+            "ausziehen"
+          ]
+        }
+      }
+    ]
+  },
+  "stau": {
+    "senses": [
+      {
+        "zh": "塞車",
+        "en": "traffic jam",
+        "ex": {
+          "de": "Es gab einen langen {Stau} auf der Autobahn.",
+          "zh": "高速公路上大塞車。",
+          "en": "There was a long traffic jam on the motorway.",
+          "distractors": [
+            "Schnupfen",
+            "Pinsel",
+            "Gartenzaun"
+          ]
+        }
+      }
+    ]
+  },
+  "staub": {
+    "senses": [
+      {
+        "zh": "灰塵",
+        "en": "dust",
+        "ex": {
+          "de": "Auf dem Regal liegt schon wieder so viel {Staub}.",
+          "zh": "架子上又積了這麼多灰塵。",
+          "en": "There is so much dust on the shelf again.",
+          "distractors": [
+            "Lärm",
+            "Durst",
+            "Ärger"
+          ]
+        }
+      }
+    ]
+  },
+  "staubsaugen": {
+    "senses": [
+      {
+        "zh": "用吸塵器打掃",
+        "en": "to vacuum",
+        "ex": {
+          "de": "Am Samstag muss ich noch im Wohnzimmer {staubsaugen}.",
+          "zh": "星期六我還得在客廳吸地。",
+          "en": "On Saturday I still have to vacuum the living room.",
+          "distractors": [
+            "einparken",
+            "tanken",
+            "wandern"
+          ]
+        }
+      }
+    ]
+  },
+  "stechen": {
+    "senses": [
+      {
+        "zh": "刺；叮",
+        "en": "to sting, prick",
+        "ex": {
+          "de": "Pass auf, die Bienen können dich {stechen}.",
+          "zh": "小心，蜜蜂會叮你。",
+          "en": "Watch out, the bees can sting you.",
+          "distractors": [
+            "heiraten",
+            "vermieten",
+            "bezahlen"
+          ]
+        }
+      }
+    ]
+  },
+  "steckdose": {
+    "senses": [
+      {
+        "zh": "插座",
+        "en": "socket, outlet",
+        "ex": {
+          "de": "Im Zug gibt es neben jedem Sitz eine {Steckdose}.",
+          "zh": "火車上每個座位旁都有一個插座。",
+          "en": "On the train there is a socket next to every seat.",
+          "distractors": [
+            "Quittung",
+            "Zitrone",
+            "Prüfung"
+          ]
+        }
+      }
+    ]
+  },
+  "stecker": {
+    "senses": [
+      {
+        "zh": "插頭",
+        "en": "plug",
+        "ex": {
+          "de": "Zieh bitte den {Stecker} aus der Wand, bevor du putzt.",
+          "zh": "清潔前請先把插頭從牆上拔下來。",
+          "en": "Please pull the plug out of the wall before you clean.",
+          "distractors": [
+            "Vorhang",
+            "Salat",
+            "Ärmel"
+          ]
+        }
+      }
+    ]
+  },
+  "stehen": {
+    "senses": [
+      {
+        "zh": "站；放著；位於",
+        "en": "to stand, be located",
+        "ex": {
+          "de": "Mein Auto muss heute in der Garage {stehen}.",
+          "zh": "我的車今天得停在車庫裡。",
+          "en": "My car has to stay in the garage today.",
+          "distractors": [
+            "lachen",
+            "singen",
+            "weinen"
+          ]
+        }
+      }
+    ]
+  },
+  "stehen-bleiben": {
+    "senses": [
+      {
+        "zh": "停住；停下來",
+        "en": "to stop, stand still",
+        "ex": {
+          "de": "Der Bus darf auf der Brücke nicht {stehen bleiben}.",
+          "zh": "公車不可以停在橋上。",
+          "en": "The bus must not stop on the bridge.",
+          "distractors": [
+            "Zähne putzen",
+            "Tennis spielen",
+            "Hausaufgaben machen"
+          ]
+        }
+      }
+    ]
+  },
+  "stehlen": {
+    "senses": [
+      {
+        "zh": "偷；偷竊",
+        "en": "to steal",
+        "ex": {
+          "de": "Jemand hat mir gestern das Fahrrad {gestohlen}.",
+          "zh": "昨天有人偷了我的腳踏車。",
+          "en": "Someone stole my bicycle yesterday.",
+          "distractors": [
+            "gegessen",
+            "gelesen",
+            "getanzt"
+          ]
+        }
+      }
+    ]
+  },
+  "steigen": {
+    "senses": [
+      {
+        "zh": "上升；爬上",
+        "en": "to rise, climb",
+        "ex": {
+          "de": "Die Preise für Strom {steigen} jedes Jahr.",
+          "zh": "電費每年都在上漲。",
+          "en": "Electricity prices rise every year.",
+          "distractors": [
+            "weinen",
+            "lachen",
+            "schmecken"
+          ]
+        }
+      }
+    ]
+  },
+  "steil": {
+    "senses": [
+      {
+        "zh": "陡的；陡峭的",
+        "en": "steep",
+        "ex": {
+          "de": "Der Weg zur Hütte ist sehr {steil}.",
+          "zh": "通往山屋的路非常陡。",
+          "en": "The path to the hut is very steep.",
+          "distractors": [
+            "pünktlich",
+            "freundlich",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "stein": {
+    "senses": [
+      {
+        "zh": "石頭",
+        "en": "stone, rock",
+        "ex": {
+          "de": "Der Bauer musste einen großen {Stein} vom Acker tragen.",
+          "zh": "農夫得把一塊大石頭搬離田地。",
+          "en": "The farmer had to carry a big stone off the field.",
+          "distractors": [
+            "Geruch",
+            "Montag",
+            "Schlaf"
+          ]
+        }
+      }
+    ]
+  },
+  "stelle": {
+    "senses": [
+      {
+        "zh": "工作職位；地點；位置",
+        "en": "job, position; spot",
+        "ex": {
+          "de": "Sie hat endlich eine neue {Stelle} in einer Bank gefunden.",
+          "zh": "她終於在一家銀行找到了新工作。",
+          "en": "She has finally found a new job at a bank.",
+          "distractors": [
+            "Gurke",
+            "Schüssel",
+            "Pizza"
+          ]
+        }
+      }
+    ]
+  },
+  "stellen": {
+    "senses": [
+      {
+        "zh": "放（直立）；擺放",
+        "en": "to put, place upright",
+        "ex": {
+          "de": "Kannst du die Blumen bitte auf den Tisch {stellen}?",
+          "zh": "你可以把花放到桌上嗎？",
+          "en": "Can you please put the flowers on the table?",
+          "distractors": [
+            "trinken",
+            "heiraten",
+            "hören"
+          ]
+        }
+      }
+    ]
+  },
+  "stempel": {
+    "senses": [
+      {
+        "zh": "印章；郵戳",
+        "en": "stamp",
+        "ex": {
+          "de": "Der Beamte drückt einen {Stempel} auf das Formular.",
+          "zh": "承辦人員在表格上蓋了一個章。",
+          "en": "The official presses a stamp onto the form.",
+          "distractors": [
+            "Kirschbaum",
+            "Autofahrer",
+            "Hubschrauber"
+          ]
+        }
+      }
+    ]
+  },
+  "sterben": {
+    "senses": [
+      {
+        "zh": "死亡；去世",
+        "en": "to die",
+        "ex": {
+          "de": "Auch Pflanzen können ohne Wasser {sterben}.",
+          "zh": "植物沒有水也會死。",
+          "en": "Plants can also die without water.",
+          "distractors": [
+            "singen",
+            "telefonieren",
+            "studieren"
+          ]
+        }
+      }
+    ]
+  },
+  "stern": {
+    "senses": [
+      {
+        "zh": "星星",
+        "en": "star",
+        "ex": {
+          "de": "Heute Nacht ist der Himmel klar, man sieht jeden {Stern}.",
+          "zh": "今晚天空很清澈，每顆星星都看得見。",
+          "en": "Tonight the sky is clear, you can see every star.",
+          "distractors": [
+            "Bahnsteig",
+            "Bleistift",
+            "Käse"
+          ]
+        }
+      }
+    ]
+  },
+  "steuer": {
+    "senses": [
+      {
+        "zh": "稅；稅金",
+        "en": "tax",
+        "ex": {
+          "de": "Wir müssen jedes Jahr hohe {Steuern} zahlen.",
+          "zh": "我們每年都得繳很高的稅。",
+          "en": "We have to pay high taxes every year.",
+          "distractors": [
+            "Zwiebeln",
+            "Gurken",
+            "Gabeln"
+          ]
+        }
+      }
+    ]
+  },
+  "steward": {
+    "senses": [
+      {
+        "zh": "男空服員",
+        "en": "flight attendant (male)",
+        "ex": {
+          "de": "Der {Steward} bringt den Fluggästen Getränke und Snacks.",
+          "zh": "空服員為乘客送上飲料和點心。",
+          "en": "The steward brings the passengers drinks and snacks.",
+          "distractors": [
+            "Sessel",
+            "Hammer",
+            "Mülleimer"
+          ]
+        }
+      }
+    ]
+  },
+  "stewardess": {
+    "senses": [
+      {
+        "zh": "空姐；女空服員",
+        "en": "flight attendant (female)",
+        "ex": {
+          "de": "Die {Stewardess} zeigt uns, wie die Schwimmwesten funktionieren.",
+          "zh": "空姐向我們示範救生衣怎麼使用。",
+          "en": "The stewardess shows us how the life jackets work.",
+          "distractors": [
+            "Tomate",
+            "Zahnpasta",
+            "Wanderung"
+          ]
+        }
+      }
+    ]
+  },
+  "stift": {
+    "senses": [
+      {
+        "zh": "筆",
+        "en": "pen, pencil",
+        "ex": {
+          "de": "Hast du einen {Stift}, ich möchte kurz etwas notieren.",
+          "zh": "你有筆嗎？我想記一下東西。",
+          "en": "Do you have a pen? I'd like to jot something down.",
+          "distractors": [
+            "Wasserkocher",
+            "Rucksack",
+            "Lutscher"
+          ]
+        }
+      }
+    ]
+  },
+  "stilistisch": {
+    "senses": [
+      {
+        "zh": "風格上的；文體上的",
+        "en": "stylistically",
+        "ex": {
+          "de": "Der Text ist inhaltlich gut, aber {stilistisch} noch nicht perfekt.",
+          "zh": "這篇文章內容不錯，但文體上還不夠完美。",
+          "en": "The text is good in content, but not yet perfect stylistically.",
+          "distractors": [
+            "sonnig",
+            "salzig",
+            "rechtzeitig"
+          ]
+        }
+      }
+    ]
+  },
+  "still": {
+    "senses": [
+      {
+        "zh": "安靜的；靜止的",
+        "en": "quiet, still",
+        "ex": {
+          "de": "Im Lesesaal der Bibliothek ist es immer ganz {still}.",
+          "zh": "圖書館的閱覽室總是非常安靜。",
+          "en": "In the library's reading room it is always very quiet.",
+          "distractors": [
+            "salzig",
+            "schwanger",
+            "ledig"
+          ]
+        }
+      }
+    ]
+  },
+  "stiefel": {
+    "senses": [
+      {
+        "zh": "靴子",
+        "en": "boot",
+        "ex": {
+          "de": "Bei so viel Schnee brauchst du warme {Stiefel}.",
+          "zh": "雪這麼多，你需要保暖的靴子。",
+          "en": "With so much snow you need warm boots.",
+          "distractors": [
+            "Löffel",
+            "Kugelschreiber",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "stiege": {
+    "senses": [
+      {
+        "zh": "樓梯（奧地利用語）",
+        "en": "staircase (Austrian)",
+        "ex": {
+          "de": "Auf der {Stiege} im Altbau knarrt jede Stufe.",
+          "zh": "老房子的樓梯每一階都會嘎吱作響。",
+          "en": "In the old building, every step on the staircase creaks.",
+          "distractors": [
+            "Gabel",
+            "Schere",
+            "Tüte"
+          ]
+        }
+      }
+    ]
+  },
+  "stiegenhaus": {
+    "senses": [
+      {
+        "zh": "樓梯間（奧地利用語）",
+        "en": "stairwell (Austrian)",
+        "ex": {
+          "de": "Im {Stiegenhaus} hängt ein Zettel von der Hausverwaltung.",
+          "zh": "樓梯間貼了一張物業管理的通知。",
+          "en": "A notice from the property management hangs in the stairwell.",
+          "distractors": [
+            "Eis",
+            "Obst",
+            "Gewitter"
+          ]
+        }
+      }
+    ]
+  },
+  "stimme": {
+    "senses": [
+      {
+        "zh": "聲音；嗓音；票",
+        "en": "voice",
+        "ex": {
+          "de": "Nach dem Konzert war meine {Stimme} ganz heiser.",
+          "zh": "演唱會之後，我的聲音整個沙啞了。",
+          "en": "After the concert my voice was completely hoarse.",
+          "distractors": [
+            "Hose",
+            "Matratze",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  }
+}

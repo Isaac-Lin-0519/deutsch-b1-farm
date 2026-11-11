@@ -1,0 +1,916 @@
+{
+  "selb": {
+    "senses": [
+      {
+        "zh": "同一個的",
+        "en": "the same",
+        "ex": {
+          "de": "Wir sind am {selben} Tag geboren.",
+          "zh": "我們是同一天出生的。",
+          "en": "We were born on the same day.",
+          "distractors": [
+            "grünen",
+            "salzigen",
+            "teuren"
+          ]
+        }
+      }
+    ]
+  },
+  "selbst": {
+    "senses": [
+      {
+        "zh": "甚至；連…都",
+        "en": "even",
+        "ex": {
+          "de": "{Selbst} der Lehrer konnte die Aufgabe nicht lösen.",
+          "zh": "連老師都解不出這道題目。",
+          "en": "Even the teacher could not solve the task.",
+          "distractors": [
+            "Leider",
+            "Gestern",
+            "Hoffentlich"
+          ]
+        }
+      }
+    ]
+  },
+  "selber": {
+    "senses": [
+      {
+        "zh": "自己（親自）",
+        "en": "oneself, myself",
+        "ex": {
+          "de": "Meine Tochter will ihre Hausaufgaben {selber} machen.",
+          "zh": "我女兒想自己做功課。",
+          "en": "My daughter wants to do her homework herself.",
+          "distractors": [
+            "gestern",
+            "vorhin",
+            "neulich"
+          ]
+        }
+      }
+    ]
+  },
+  "selbststaendig": {
+    "senses": [
+      {
+        "zh": "獨立的；自主的",
+        "en": "independent, self-reliant",
+        "ex": {
+          "de": "Mit achtzehn wollte Paul endlich {selbstständig} leben.",
+          "zh": "十八歲時，保羅終於想獨立生活。",
+          "en": "At eighteen, Paul finally wanted to live independently.",
+          "distractors": [
+            "sonnig",
+            "salzig",
+            "tödlich"
+          ]
+        }
+      }
+    ]
+  },
+  "selbstverstaendlich": {
+    "senses": [
+      {
+        "zh": "當然；理所當然地",
+        "en": "of course, naturally",
+        "ex": {
+          "de": "Du kannst {selbstverständlich} bei uns übernachten.",
+          "zh": "你當然可以在我們這裡過夜。",
+          "en": "Of course you can stay the night at our place.",
+          "distractors": [
+            "vorgestern",
+            "unterwegs",
+            "gegenüber"
+          ]
+        }
+      }
+    ]
+  },
+  "seltsam": {
+    "senses": [
+      {
+        "zh": "奇怪的；怪異的",
+        "en": "strange, odd",
+        "ex": {
+          "de": "Die Suppe schmeckt heute ziemlich {seltsam}.",
+          "zh": "這碗湯今天嚐起來相當奇怪。",
+          "en": "The soup tastes rather odd today.",
+          "distractors": [
+            "blond",
+            "pünktlich",
+            "kostenlos"
+          ]
+        }
+      }
+    ]
+  },
+  "semester": {
+    "senses": [
+      {
+        "zh": "學期",
+        "en": "semester, term",
+        "ex": {
+          "de": "Im nächsten {Semester} besuche ich einen Sprachkurs.",
+          "zh": "下學期我要去上語言課。",
+          "en": "Next semester I will take a language course.",
+          "distractors": [
+            "Gemüse",
+            "Wetter",
+            "Fahrrad"
+          ]
+        }
+      }
+    ]
+  },
+  "seminar": {
+    "senses": [
+      {
+        "zh": "研討課；講習",
+        "en": "seminar",
+        "ex": {
+          "de": "Das {Seminar} über Geschichte beginnt um zehn Uhr.",
+          "zh": "那堂歷史研討課十點開始。",
+          "en": "The history seminar starts at ten o'clock.",
+          "distractors": [
+            "Gepäck",
+            "Obst",
+            "Wasser"
+          ]
+        }
+      }
+    ]
+  },
+  "semmel": {
+    "senses": [
+      {
+        "zh": "小圓麵包（奧地利用語）",
+        "en": "bread roll (Austrian)",
+        "ex": {
+          "de": "Zum Frühstück hole ich zwei frische {Semmeln} beim Bäcker.",
+          "zh": "早餐我去麵包店買兩個新鮮的小麵包。",
+          "en": "For breakfast I'm getting two fresh rolls from the baker.",
+          "distractors": [
+            "Lampen",
+            "Gabeln",
+            "Treppen"
+          ]
+        }
+      }
+    ]
+  },
+  "senden": {
+    "senses": [
+      {
+        "zh": "寄送；傳送；播送",
+        "en": "to send, transmit",
+        "ex": {
+          "de": "Kannst du mir die Datei per E-Mail {senden}?",
+          "zh": "你可以用電子郵件把檔案寄給我嗎？",
+          "en": "Can you send me the file by email?",
+          "distractors": [
+            "tanzen",
+            "wachsen",
+            "schwimmen"
+          ]
+        }
+      }
+    ]
+  },
+  "sender": {
+    "senses": [
+      {
+        "zh": "電視台；電台",
+        "en": "TV or radio channel",
+        "ex": {
+          "de": "Welcher {Sender} zeigt heute Abend das Fußballspiel?",
+          "zh": "今晚哪個電視台轉播足球賽？",
+          "en": "Which channel shows the football match tonight?",
+          "distractors": [
+            "Löffel",
+            "Spiegel",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "sendung": {
+    "senses": [
+      {
+        "zh": "電視或廣播節目",
+        "en": "broadcast, programme",
+        "ex": {
+          "de": "Die {Sendung} über Tiere läuft jeden Freitag im Fernsehen.",
+          "zh": "那個動物節目每週五在電視上播出。",
+          "en": "The programme about animals is on TV every Friday.",
+          "distractors": [
+            "Brücke",
+            "Kirsche",
+            "Zwiebel"
+          ]
+        }
+      },
+      {
+        "zh": "郵件；包裹",
+        "en": "shipment, parcel",
+        "ex": {
+          "de": "Die {Sendung} aus Berlin ist leider noch nicht angekommen.",
+          "zh": "從柏林寄來的包裹很遺憾還沒到。",
+          "en": "The parcel from Berlin has unfortunately not arrived yet.",
+          "distractors": [
+            "Wiese",
+            "Bürste",
+            "Pfütze"
+          ]
+        }
+      }
+    ]
+  },
+  "senioren": {
+    "senses": [
+      {
+        "zh": "老年人；長者",
+        "en": "senior citizens",
+        "ex": {
+          "de": "Im Park spielen jeden Morgen viele {Senioren} Schach.",
+          "zh": "每天早上公園裡有很多長者在下棋。",
+          "en": "Every morning many senior citizens play chess in the park.",
+          "distractors": [
+            "Nudeln",
+            "Kerzen",
+            "Birnen"
+          ]
+        }
+      }
+    ]
+  },
+  "senkrecht": {
+    "senses": [
+      {
+        "zh": "垂直的",
+        "en": "vertical, upright",
+        "ex": {
+          "de": "Das Bild hängt nicht {senkrecht}, sondern schief.",
+          "zh": "這幅畫掛得不是垂直的，而是歪的。",
+          "en": "The picture is not hanging straight, but crooked.",
+          "distractors": [
+            "freundlich",
+            "hungrig",
+            "freitags"
+          ]
+        }
+      }
+    ]
+  },
+  "serie": {
+    "senses": [
+      {
+        "zh": "影集；系列",
+        "en": "series",
+        "ex": {
+          "de": "Meine Schwester sieht jeden Abend eine neue {Serie} im Fernsehen.",
+          "zh": "我姊姊每天晚上都看一部新影集。",
+          "en": "My sister watches a new series on TV every evening.",
+          "distractors": [
+            "Mütze",
+            "Briefmarke",
+            "Steckdose"
+          ]
+        }
+      }
+    ]
+  },
+  "service": {
+    "senses": [
+      {
+        "zh": "服務",
+        "en": "service",
+        "ex": {
+          "de": "Der {Service} im Restaurant war freundlich und schnell.",
+          "zh": "那家餐廳的服務親切又迅速。",
+          "en": "The service in the restaurant was friendly and fast.",
+          "distractors": [
+            "Mantel",
+            "Gürtel",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "serviceangestellte": {
+    "senses": [
+      {
+        "zh": "（男）服務人員",
+        "en": "service employee (male)",
+        "ex": {
+          "de": "Der {Serviceangestellte} brachte uns schnell die Speisekarte.",
+          "zh": "服務人員很快就把菜單拿給我們。",
+          "en": "The service employee quickly brought us the menu.",
+          "distractors": [
+            "Löwe",
+            "Hase",
+            "Rabe"
+          ]
+        }
+      }
+    ]
+  },
+  "die-serviceangestellte": {
+    "senses": [
+      {
+        "zh": "（女）服務人員",
+        "en": "service employee (female)",
+        "ex": {
+          "de": "Die {Serviceangestellte} am Schalter hat mir sehr geholfen.",
+          "zh": "櫃檯的女服務人員幫了我很大的忙。",
+          "en": "The female service employee at the counter helped me a lot.",
+          "distractors": [
+            "Giraffe",
+            "Katze",
+            "Ente"
+          ]
+        }
+      }
+    ]
+  },
+  "n-kellner-d": {
+    "senses": [
+      {
+        "zh": "服務生（瑞士用語，複數）",
+        "en": "waiters and waitresses (Swiss, plural)",
+        "ex": {
+          "de": "Die {Serviceangestellten} im Café tragen alle schwarze Schürzen.",
+          "zh": "咖啡館的服務生都穿著黑色圍裙。",
+          "en": "The waiting staff in the café all wear black aprons.",
+          "distractors": [
+            "Pinguine",
+            "Delfine",
+            "Krokodile"
+          ]
+        }
+      }
+    ]
+  },
+  "sessel": {
+    "senses": [
+      {
+        "zh": "扶手椅；單人沙發",
+        "en": "armchair",
+        "ex": {
+          "de": "Opa schläft nach dem Essen oft im {Sessel}.",
+          "zh": "爺爺飯後常常在扶手椅上睡著。",
+          "en": "After lunch Grandpa often falls asleep in the armchair.",
+          "distractors": [
+            "Eimer",
+            "Ofen",
+            "Briefkasten"
+          ]
+        }
+      }
+    ]
+  },
+  "sessel-2": {
+    "senses": [
+      {
+        "zh": "椅子（奧地利用語）",
+        "en": "chair (Austrian)",
+        "ex": {
+          "de": "Ich ziehe den {Sessel} näher an den Tisch.",
+          "zh": "我把椅子拉近桌子一點。",
+          "en": "I pull the chair closer to the table.",
+          "distractors": [
+            "Mond",
+            "Regen",
+            "Urlaub"
+          ]
+        }
+      }
+    ]
+  },
+  "setzen": {
+    "senses": [
+      {
+        "zh": "放；使坐下；坐下（反身）",
+        "en": "to put, to sit down",
+        "ex": {
+          "de": "Du kannst dich gern neben mich {setzen}.",
+          "zh": "你可以坐到我旁邊來。",
+          "en": "You are welcome to sit down next to me.",
+          "distractors": [
+            "rennen",
+            "lachen",
+            "warten"
+          ]
+        }
+      }
+    ]
+  },
+  "sicher": {
+    "senses": [
+      {
+        "zh": "確定的；安全的",
+        "en": "sure, safe",
+        "ex": {
+          "de": "Bist du {sicher}, dass der Zug um acht fährt?",
+          "zh": "你確定火車八點開嗎？",
+          "en": "Are you sure that the train leaves at eight?",
+          "distractors": [
+            "müde",
+            "schlank",
+            "freundlich"
+          ]
+        }
+      }
+    ]
+  },
+  "sichern": {
+    "senses": [
+      {
+        "zh": "備份；確保；保護",
+        "en": "to back up, secure",
+        "ex": {
+          "de": "Du solltest deine Fotos regelmäßig auf einer Festplatte {sichern}.",
+          "zh": "你應該定期把照片備份到硬碟上。",
+          "en": "You should back up your photos on a hard drive regularly.",
+          "distractors": [
+            "füttern",
+            "pflücken",
+            "rasieren"
+          ]
+        }
+      }
+    ]
+  },
+  "sichtbar": {
+    "senses": [
+      {
+        "zh": "看得見的；明顯的",
+        "en": "visible",
+        "ex": {
+          "de": "Bei dem Nebel waren die Häuser kaum {sichtbar}.",
+          "zh": "在濃霧中，房子幾乎看不見。",
+          "en": "In the fog the houses were hardly visible.",
+          "distractors": [
+            "knusprig",
+            "verheiratet",
+            "vegetarisch"
+          ]
+        }
+      }
+    ]
+  },
+  "siegen": {
+    "senses": [
+      {
+        "zh": "獲勝；贏",
+        "en": "to win, be victorious",
+        "ex": {
+          "de": "Unsere Mannschaft wird am Samstag bestimmt {siegen}.",
+          "zh": "我們的球隊星期六一定會贏。",
+          "en": "Our team will surely win on Saturday.",
+          "distractors": [
+            "regnen",
+            "schneien",
+            "blühen"
+          ]
+        }
+      }
+    ]
+  },
+  "sieg": {
+    "senses": [
+      {
+        "zh": "勝利",
+        "en": "victory, win",
+        "ex": {
+          "de": "Nach dem {Sieg} feierten die Fans bis in die Nacht.",
+          "zh": "勝利之後，球迷們慶祝到深夜。",
+          "en": "After the victory the fans celebrated until late at night.",
+          "distractors": [
+            "Hammer",
+            "Tunnel",
+            "Lastwagen"
+          ]
+        }
+      }
+    ]
+  },
+  "sieger": {
+    "senses": [
+      {
+        "zh": "（男）勝利者；冠軍",
+        "en": "winner (male)",
+        "ex": {
+          "de": "Der {Sieger} bekam einen großen Pokal und viele Blumen.",
+          "zh": "冠軍得到一座大獎盃和許多花。",
+          "en": "The winner received a big trophy and many flowers.",
+          "distractors": [
+            "Berg",
+            "Zaun",
+            "Balkon"
+          ]
+        }
+      }
+    ]
+  },
+  "siegerin": {
+    "senses": [
+      {
+        "zh": "（女）勝利者；冠軍",
+        "en": "winner (female)",
+        "ex": {
+          "de": "Die {Siegerin} des Rennens lächelte und winkte den Zuschauern.",
+          "zh": "賽跑的女冠軍微笑著向觀眾揮手。",
+          "en": "The female winner of the race smiled and waved to the spectators.",
+          "distractors": [
+            "Lampe",
+            "Gabel",
+            "Pfanne"
+          ]
+        }
+      }
+    ]
+  },
+  "siezen": {
+    "senses": [
+      {
+        "zh": "用「您」稱呼",
+        "en": "to address formally with Sie",
+        "ex": {
+          "de": "In der Firma muss man den Chef {siezen}.",
+          "zh": "在公司裡必須用「您」稱呼老闆。",
+          "en": "In the company you have to address the boss as Sie.",
+          "distractors": [
+            "reparieren",
+            "bauen",
+            "pflanzen"
+          ]
+        }
+      }
+    ]
+  },
+  "singen": {
+    "senses": [
+      {
+        "zh": "唱歌",
+        "en": "to sing",
+        "ex": {
+          "de": "Im Chor {singen} wir jeden Mittwoch moderne Lieder.",
+          "zh": "我們每週三在合唱團唱現代歌曲。",
+          "en": "In the choir we sing modern songs every Wednesday.",
+          "distractors": [
+            "tauchen",
+            "joggen",
+            "reiten"
+          ]
+        }
+      }
+    ]
+  },
+  "sinken": {
+    "senses": [
+      {
+        "zh": "下降；下沉",
+        "en": "to sink, fall",
+        "ex": {
+          "de": "Der Wasserstand im See ist im Sommer stark {gesunken}.",
+          "zh": "夏天湖裡的水位大幅下降了。",
+          "en": "The water level in the lake fell sharply in summer.",
+          "distractors": [
+            "gefahren",
+            "geflogen",
+            "gelaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "sinn": {
+    "senses": [
+      {
+        "zh": "意義；意思；感官",
+        "en": "sense, point, meaning",
+        "ex": {
+          "de": "Es hat doch keinen {Sinn}, jetzt noch zu streiten.",
+          "zh": "現在還爭吵根本沒有意義。",
+          "en": "There is no point in arguing now.",
+          "distractors": [
+            "Garten",
+            "Schlüssel",
+            "Bahnhof"
+          ]
+        }
+      }
+    ]
+  },
+  "sinnlos": {
+    "senses": [
+      {
+        "zh": "沒意義的；無謂的",
+        "en": "pointless, senseless",
+        "ex": {
+          "de": "Es ist {sinnlos}, noch länger auf den Bus zu warten.",
+          "zh": "再繼續等公車是沒有意義的。",
+          "en": "It is pointless to wait any longer for the bus.",
+          "distractors": [
+            "salzig",
+            "rund",
+            "hölzern"
+          ]
+        }
+      }
+    ]
+  },
+  "sinnvoll": {
+    "senses": [
+      {
+        "zh": "有意義的；合理的",
+        "en": "sensible, useful",
+        "ex": {
+          "de": "Es ist {sinnvoll}, vor der Reise eine Versicherung abzuschließen.",
+          "zh": "出發旅行前投保是明智的。",
+          "en": "It is sensible to take out insurance before the trip.",
+          "distractors": [
+            "sauer",
+            "glatt",
+            "dreieckig"
+          ]
+        }
+      }
+    ]
+  },
+  "situation": {
+    "senses": [
+      {
+        "zh": "情況；處境",
+        "en": "situation",
+        "ex": {
+          "de": "In dieser {Situation} wusste ich nicht, was ich sagen sollte.",
+          "zh": "在這種情況下，我不知道該說什麼。",
+          "en": "In this situation I did not know what to say.",
+          "distractors": [
+            "Zwiebel",
+            "Steckdose",
+            "Pfütze"
+          ]
+        }
+      }
+    ]
+  },
+  "sitzen": {
+    "senses": [
+      {
+        "zh": "坐；坐著",
+        "en": "to sit",
+        "ex": {
+          "de": "Die Kinder {sitzen} im Kreis auf dem Boden.",
+          "zh": "孩子們圍成一圈坐在地上。",
+          "en": "The children are sitting in a circle on the floor.",
+          "distractors": [
+            "schwimmen",
+            "fliegen",
+            "brennen"
+          ]
+        }
+      }
+    ]
+  },
+  "sitz": {
+    "senses": [
+      {
+        "zh": "座位；座椅",
+        "en": "seat",
+        "ex": {
+          "de": "Im Bus gibt es für Ältere extra reservierte {Sitze}.",
+          "zh": "公車上有專門為年長者保留的座位。",
+          "en": "On the bus there are seats reserved especially for older people.",
+          "distractors": [
+            "Hunde",
+            "Berge",
+            "Fische"
+          ]
+        }
+      }
+    ]
+  },
+  "ski-schi": {
+    "senses": [
+      {
+        "zh": "滑雪板",
+        "en": "ski",
+        "ex": {
+          "de": "Wir sind im Winter mit den {Skiern} den Berg hinuntergefahren.",
+          "zh": "冬天我們踩著滑雪板從山上滑下來。",
+          "en": "In winter we skied down the mountain.",
+          "distractors": [
+            "Kochtöpfen",
+            "Bleistiften",
+            "Staubsaugern"
+          ]
+        }
+      }
+    ]
+  },
+  "so": {
+    "senses": [
+      {
+        "zh": "這麼；如此",
+        "en": "so, this much",
+        "ex": {
+          "de": "Ich war heute noch nie {so} müde wie jetzt.",
+          "zh": "我今天從沒像現在這麼累過。",
+          "en": "I have never been as tired today as I am now.",
+          "distractors": [
+            "gestern",
+            "morgen",
+            "anschließend"
+          ]
+        }
+      }
+    ]
+  },
+  "sobald": {
+    "senses": [
+      {
+        "zh": "一…就…；當…的時候",
+        "en": "as soon as",
+        "ex": {
+          "de": "Ich rufe dich an, {sobald} ich zu Hause bin.",
+          "zh": "我一到家就打電話給你。",
+          "en": "I'll call you as soon as I am home.",
+          "distractors": [
+            "deshalb",
+            "trotzdem",
+            "außerdem"
+          ]
+        }
+      }
+    ]
+  },
+  "socke": {
+    "senses": [
+      {
+        "zh": "襪子",
+        "en": "sock",
+        "ex": {
+          "de": "Meine {Socken} sind nass, ich muss neue anziehen.",
+          "zh": "我的襪子濕了，我得換上新的。",
+          "en": "My socks are wet, I have to put on new ones.",
+          "distractors": [
+            "Pfannen",
+            "Gabeln",
+            "Zeitungen"
+          ]
+        }
+      }
+    ]
+  },
+  "sodass": {
+    "senses": [
+      {
+        "zh": "以致於；所以",
+        "en": "so that",
+        "ex": {
+          "de": "Es hat stark geregnet, {sodass} die Straße überflutet war.",
+          "zh": "雨下得很大，以致於街道淹水了。",
+          "en": "It rained heavily, so that the street was flooded.",
+          "distractors": [
+            "aber",
+            "also",
+            "dennoch"
+          ]
+        }
+      }
+    ]
+  },
+  "sofa": {
+    "senses": [
+      {
+        "zh": "沙發",
+        "en": "sofa, couch",
+        "ex": {
+          "de": "Auf dem {Sofa} liegt eine warme Decke für kalte Abende.",
+          "zh": "沙發上放著一條給寒冷夜晚用的暖毯。",
+          "en": "On the sofa lies a warm blanket for cold evenings.",
+          "distractors": [
+            "Gebirge",
+            "Meer",
+            "Ei"
+          ]
+        }
+      }
+    ]
+  },
+  "sofort": {
+    "senses": [
+      {
+        "zh": "立刻；馬上",
+        "en": "immediately, at once",
+        "ex": {
+          "de": "Komm bitte {sofort} her, ich brauche deine Hilfe!",
+          "zh": "請馬上過來，我需要你幫忙！",
+          "en": "Please come here right away, I need your help!",
+          "distractors": [
+            "damals",
+            "früher",
+            "kürzlich"
+          ]
+        }
+      }
+    ]
+  },
+  "sogenannt": {
+    "senses": [
+      {
+        "zh": "所謂的",
+        "en": "so-called",
+        "ex": {
+          "de": "Mein {sogenannter} Freund hat mich schon wieder allein gelassen.",
+          "zh": "我那個所謂的朋友又把我一個人丟下了。",
+          "en": "My so-called friend has left me alone again.",
+          "distractors": [
+            "dreieckiger",
+            "salziger",
+            "rostiger"
+          ]
+        }
+      }
+    ]
+  },
+  "sogar": {
+    "senses": [
+      {
+        "zh": "甚至；連…都",
+        "en": "even",
+        "ex": {
+          "de": "Im April hat es in den Bergen {sogar} geschneit.",
+          "zh": "四月時，山上甚至下了雪。",
+          "en": "In April it even snowed in the mountains.",
+          "distractors": [
+            "zu",
+            "bei",
+            "nach"
+          ]
+        }
+      }
+    ]
+  },
+  "sohn": {
+    "senses": [
+      {
+        "zh": "兒子",
+        "en": "son",
+        "ex": {
+          "de": "Mein {Sohn} lernt gerade Klavier spielen.",
+          "zh": "我兒子正在學彈鋼琴。",
+          "en": "My son is currently learning to play the piano.",
+          "distractors": [
+            "Teller",
+            "Zaun",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "solange": {
+    "senses": [
+      {
+        "zh": "只要；在…期間",
+        "en": "as long as",
+        "ex": {
+          "de": "Du darfst bleiben, {solange} du leise bist.",
+          "zh": "只要你安靜，就可以留下來。",
+          "en": "You may stay as long as you are quiet.",
+          "distractors": [
+            "danach",
+            "darum",
+            "dafür"
+          ]
+        }
+      }
+    ]
+  },
+  "solch": {
+    "senses": [
+      {
+        "zh": "這樣的；如此的",
+        "en": "such",
+        "ex": {
+          "de": "Bei {solchem} Wetter bleibe ich lieber zu Hause.",
+          "zh": "這樣的天氣我寧願待在家裡。",
+          "en": "In such weather I prefer to stay at home.",
+          "distractors": [
+            "hölzernem",
+            "rundem",
+            "gelbem"
+          ]
+        }
+      }
+    ]
+  }
+}

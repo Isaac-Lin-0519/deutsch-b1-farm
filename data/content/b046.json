@@ -1,0 +1,902 @@
+{
+  "als-modalverb-3": {
+    "senses": [
+      {
+        "zh": "必須；得（情態動詞）",
+        "en": "must, to have to",
+        "ex": {
+          "de": "Du {musst} vor dem Essen die Hände waschen.",
+          "zh": "你吃飯前必須洗手。",
+          "en": "You have to wash your hands before eating.",
+          "distractors": [
+            "hast",
+            "bist",
+            "heißt"
+          ]
+        }
+      }
+    ]
+  },
+  "notdie-notaufnahme": {
+    "senses": [
+      {
+        "zh": "急診室",
+        "en": "emergency room",
+        "ex": {
+          "de": "Nach dem Sturz fuhr der Krankenwagen direkt zur {Notaufnahme}.",
+          "zh": "跌倒之後，救護車直接開往急診室。",
+          "en": "After the fall, the ambulance drove straight to the emergency room.",
+          "distractors": [
+            "Bibliothek",
+            "Bushaltestelle",
+            "Wäscherei"
+          ]
+        }
+      }
+    ]
+  },
+  "gehen-sein-d": {
+    "senses": [
+      {
+        "zh": "退休（被退休）",
+        "en": "to be retired",
+        "ex": {
+          "de": "Meine Tante wird nächstes Jahr {pensioniert}.",
+          "zh": "我阿姨明年就要退休了。",
+          "en": "My aunt will retire next year.",
+          "distractors": [
+            "gekocht",
+            "geschwommen",
+            "gesungen"
+          ]
+        }
+      }
+    ]
+  },
+  "gehen-sein-d-in-rente": {
+    "senses": [
+      {
+        "zh": "退休（德國用法）",
+        "en": "to retire",
+        "ex": {
+          "de": "Mein Vater will mit 65 in {Rente} gehen.",
+          "zh": "我爸爸打算六十五歲退休。",
+          "en": "My father wants to retire at 65.",
+          "distractors": [
+            "Küche",
+            "Kälte",
+            "Schule"
+          ]
+        }
+      }
+    ]
+  },
+  "gehen-sein": {
+    "senses": [
+      {
+        "zh": "退休（奧地利用法）",
+        "en": "to retire",
+        "ex": {
+          "de": "Opa ist schon vor Jahren in Pension {gegangen}.",
+          "zh": "爺爺幾年前就退休了。",
+          "en": "Grandpa retired years ago.",
+          "distractors": [
+            "gefahren",
+            "geflogen",
+            "gelaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "gehen-sein-ch": {
+    "senses": [
+      {
+        "zh": "退休狀態",
+        "en": "to be retired",
+        "ex": {
+          "de": "Meine Nachbarin {ist} seit Mai in Rente.",
+          "zh": "我的鄰居從五月起就退休了。",
+          "en": "My neighbor has been retired since May.",
+          "distractors": [
+            "hat",
+            "wird",
+            "kann"
+          ]
+        }
+      }
+    ]
+  },
+  "scheiden": {
+    "senses": [
+      {
+        "zh": "離婚",
+        "en": "to get divorced",
+        "ex": {
+          "de": "Sie will sich nach zehn Jahren {scheiden} lassen.",
+          "zh": "她結婚十年後想要離婚。",
+          "en": "After ten years she wants to get divorced.",
+          "distractors": [
+            "tanzen",
+            "joggen",
+            "wandern"
+          ]
+        }
+      }
+    ]
+  },
+  "der-das-obers": {
+    "senses": [
+      {
+        "zh": "鮮奶油（奧地利用語）",
+        "en": "whipped cream (Austrian)",
+        "ex": {
+          "de": "Der Kellner bringt den Kaffee mit {Obers} obendrauf.",
+          "zh": "服務生端來咖啡，上面加了鮮奶油。",
+          "en": "The waiter brings the coffee with cream on top.",
+          "distractors": [
+            "Seife",
+            "Zement",
+            "Benzin"
+          ]
+        }
+      }
+    ]
+  },
+  "schriftstellerin": {
+    "senses": [
+      {
+        "zh": "女作家",
+        "en": "woman writer, author",
+        "ex": {
+          "de": "Die {Schriftstellerin} sitzt am Schreibtisch und schreibt ein Kapitel.",
+          "zh": "那位女作家坐在書桌前寫一個章節。",
+          "en": "The author sits at her desk and writes a chapter.",
+          "distractors": [
+            "Straßenbahn",
+            "Kreuzung",
+            "Lampe"
+          ]
+        }
+      }
+    ]
+  },
+  "schritt": {
+    "senses": [
+      {
+        "zh": "腳步；一步",
+        "en": "step",
+        "ex": {
+          "de": "Mach bitte nur einen {Schritt} nach vorn.",
+          "zh": "請只往前走一步。",
+          "en": "Please take just one step forward.",
+          "distractors": [
+            "Kuchen",
+            "Bahnhof",
+            "Salat"
+          ]
+        }
+      }
+    ]
+  },
+  "schuh": {
+    "senses": [
+      {
+        "zh": "鞋子",
+        "en": "shoe",
+        "ex": {
+          "de": "Meine Füße tun weh, weil die {Schuhe} zu eng sind.",
+          "zh": "我的腳很痛，因為鞋子太緊了。",
+          "en": "My feet hurt because the shoes are too tight.",
+          "distractors": [
+            "Tage",
+            "Berge",
+            "Monate"
+          ]
+        }
+      }
+    ]
+  },
+  "schuld": {
+    "senses": [
+      {
+        "zh": "罪責；過錯",
+        "en": "guilt, fault",
+        "ex": {
+          "de": "Die {Schuld} für den Streit liegt bei uns beiden.",
+          "zh": "吵架的責任在我們兩個人。",
+          "en": "We are both to blame for the argument.",
+          "distractors": [
+            "Brücke",
+            "Kerze",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "schuld-2": {
+    "senses": [
+      {
+        "zh": "有過錯的；該負責的",
+        "en": "to blame",
+        "ex": {
+          "de": "Wer ist denn {schuld} an dem Chaos in der Küche?",
+          "zh": "廚房這麼亂，到底是誰的錯？",
+          "en": "Who is to blame for the mess in the kitchen?",
+          "distractors": [
+            "müde",
+            "laut",
+            "freundlich"
+          ]
+        }
+      }
+    ]
+  },
+  "schulden": {
+    "senses": [
+      {
+        "zh": "債務",
+        "en": "debts",
+        "ex": {
+          "de": "Er hat viele {Schulden} bei der Bank.",
+          "zh": "他欠銀行很多錢。",
+          "en": "He has a lot of debts at the bank.",
+          "distractors": [
+            "Blumen",
+            "Kerzen",
+            "Nudeln"
+          ]
+        }
+      }
+    ]
+  },
+  "schuldig": {
+    "senses": [
+      {
+        "zh": "欠（錢）的；有罪的",
+        "en": "owing, guilty",
+        "ex": {
+          "de": "Ich bin dir noch zehn Euro {schuldig}.",
+          "zh": "我還欠你十歐元。",
+          "en": "I still owe you ten euros.",
+          "distractors": [
+            "müde",
+            "nass",
+            "hungrig"
+          ]
+        }
+      }
+    ]
+  },
+  "schule": {
+    "senses": [
+      {
+        "zh": "學校",
+        "en": "school",
+        "ex": {
+          "de": "Nach den Ferien freuen sich alle Kinder wieder auf die {Schule}.",
+          "zh": "假期結束後，所有孩子又開始期待上學。",
+          "en": "After the holidays all the children look forward to school again.",
+          "distractors": [
+            "Zeitung",
+            "Idee",
+            "Sprache"
+          ]
+        }
+      }
+    ]
+  },
+  "schularbeit": {
+    "senses": [
+      {
+        "zh": "（奧地利）學校考試",
+        "en": "class test (Austrian)",
+        "ex": {
+          "de": "Morgen schreiben wir in Mathe eine {Schularbeit}.",
+          "zh": "明天我們數學要考一場試。",
+          "en": "Tomorrow we are writing a test in math.",
+          "distractors": [
+            "Kerze",
+            "Gabel",
+            "Birne"
+          ]
+        }
+      }
+    ]
+  },
+  "schueler": {
+    "senses": [
+      {
+        "zh": "男學生",
+        "en": "pupil, student",
+        "ex": {
+          "de": "Der neue {Schüler} sitzt in der ersten Reihe.",
+          "zh": "新來的男同學坐在第一排。",
+          "en": "The new pupil sits in the front row.",
+          "distractors": [
+            "Teller",
+            "Bahnhof",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "schuelerin": {
+    "senses": [
+      {
+        "zh": "女學生",
+        "en": "pupil, student (female)",
+        "ex": {
+          "de": "Die {Schülerin} hat ihre Hausaufgaben vergessen.",
+          "zh": "那位女學生忘了寫她的作業。",
+          "en": "The pupil forgot her homework.",
+          "distractors": [
+            "Gabel",
+            "Straße",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "schulter": {
+    "senses": [
+      {
+        "zh": "肩膀",
+        "en": "shoulder",
+        "ex": {
+          "de": "Mir tut die {Schulter} weh, weil ich den Rucksack trage.",
+          "zh": "我背著背包，肩膀很痛。",
+          "en": "My shoulder hurts because I carry the backpack.",
+          "distractors": [
+            "Gabel",
+            "Tomate",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "schuessel": {
+    "senses": [
+      {
+        "zh": "碗；大碗",
+        "en": "bowl",
+        "ex": {
+          "de": "Stell bitte die {Schüssel} mit dem Salat auf den Tisch.",
+          "zh": "請把裝沙拉的大碗放到桌上。",
+          "en": "Please put the bowl with the salad on the table.",
+          "distractors": [
+            "Gitarre",
+            "Kerze",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "schuetteln": {
+    "senses": [
+      {
+        "zh": "搖；搖晃",
+        "en": "to shake",
+        "ex": {
+          "de": "Vor dem Trinken musst du die Flasche kräftig {schütteln}.",
+          "zh": "喝之前要用力搖一搖瓶子。",
+          "en": "Before drinking, you have to shake the bottle hard.",
+          "distractors": [
+            "reiten",
+            "studieren",
+            "wohnen"
+          ]
+        }
+      }
+    ]
+  },
+  "schuetzen": {
+    "senses": [
+      {
+        "zh": "保護",
+        "en": "to protect",
+        "ex": {
+          "de": "Eine Mütze kann dich im Winter vor Kälte {schützen}.",
+          "zh": "冬天一頂帽子可以保護你不受寒。",
+          "en": "A hat can protect you from the cold in winter.",
+          "distractors": [
+            "öffnen",
+            "rasieren",
+            "unterschreiben"
+          ]
+        }
+      }
+    ]
+  },
+  "schutz": {
+    "senses": [
+      {
+        "zh": "保護；庇護",
+        "en": "protection",
+        "ex": {
+          "de": "Der Helm bietet beim Radfahren guten {Schutz}.",
+          "zh": "騎腳踏車時，安全帽能提供良好的保護。",
+          "en": "A helmet offers good protection when cycling.",
+          "distractors": [
+            "Bahnhof",
+            "Zahn",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "schwach": {
+    "senses": [
+      {
+        "zh": "虛弱的；弱的",
+        "en": "weak",
+        "ex": {
+          "de": "Ohne Frühstück werde ich bis zum Mittag richtig {schwach}.",
+          "zh": "不吃早餐的話，我到中午會覺得很虛。",
+          "en": "Without breakfast I get really weak by noon.",
+          "distractors": [
+            "gelb",
+            "eckig",
+            "flach"
+          ]
+        }
+      }
+    ]
+  },
+  "schwammerl": {
+    "senses": [
+      {
+        "zh": "（奧地利）蘑菇",
+        "en": "mushroom (Austrian)",
+        "ex": {
+          "de": "Zum Mittagessen brate ich ein frisches {Schwammerl} in der Pfanne.",
+          "zh": "午餐我用平底鍋煎一朵新鮮的蘑菇。",
+          "en": "For lunch I fry a fresh mushroom in the pan.",
+          "distractors": [
+            "Fahrrad",
+            "Klavier",
+            "Handy"
+          ]
+        }
+      }
+    ]
+  },
+  "schwanger": {
+    "senses": [
+      {
+        "zh": "懷孕的",
+        "en": "pregnant",
+        "ex": {
+          "de": "Meine Schwester ist {schwanger} und bekommt im Mai ein Baby.",
+          "zh": "我姊姊懷孕了，五月會生寶寶。",
+          "en": "My sister is pregnant and will have a baby in May.",
+          "distractors": [
+            "teuer",
+            "sauber",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "schwangerschaft": {
+    "senses": [
+      {
+        "zh": "懷孕；孕期",
+        "en": "pregnancy",
+        "ex": {
+          "de": "Während der {Schwangerschaft} darf sie keinen Alkohol trinken.",
+          "zh": "懷孕期間她不能喝酒。",
+          "en": "During her pregnancy she must not drink alcohol.",
+          "distractors": [
+            "Steckdose",
+            "Briefmarke",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "schweigen": {
+    "senses": [
+      {
+        "zh": "沉默；不說話",
+        "en": "to be silent",
+        "ex": {
+          "de": "Als der Lehrer hereinkam, musste die ganze Klasse {schweigen}.",
+          "zh": "老師走進來時，全班都得安靜。",
+          "en": "When the teacher came in, the whole class had to be silent.",
+          "distractors": [
+            "regnen",
+            "blühen",
+            "schneien"
+          ]
+        }
+      }
+    ]
+  },
+  "schwer": {
+    "senses": [
+      {
+        "zh": "重的；困難的",
+        "en": "heavy, difficult",
+        "ex": {
+          "de": "Das Paket war so {schwer}, dass ich es kaum tragen konnte.",
+          "zh": "那個包裹重到我幾乎拿不動。",
+          "en": "The parcel was so heavy that I could hardly carry it.",
+          "distractors": [
+            "hungrig",
+            "freundlich",
+            "glücklich"
+          ]
+        }
+      }
+    ]
+  },
+  "schwester": {
+    "senses": [
+      {
+        "zh": "姊妹；姊姊；妹妹",
+        "en": "sister",
+        "ex": {
+          "de": "Meine jüngere {Schwester} spielt gern Klavier.",
+          "zh": "我妹妹喜歡彈鋼琴。",
+          "en": "My younger sister likes playing the piano.",
+          "distractors": [
+            "Pfanne",
+            "Wiese",
+            "Birne"
+          ]
+        }
+      }
+    ]
+  },
+  "schwieger": {
+    "senses": [
+      {
+        "zh": "姻親（前綴）",
+        "en": "in-law (prefix)",
+        "ex": {
+          "de": "Meine {Schwieger}mutter kocht am Sonntag für die ganze Familie.",
+          "zh": "我婆婆星期天會為全家人煮飯。",
+          "en": "My mother-in-law cooks for the whole family on Sunday.",
+          "distractors": [
+            "Reis",
+            "Wasser",
+            "Papier"
+          ]
+        }
+      }
+    ]
+  },
+  "schwierig": {
+    "senses": [
+      {
+        "zh": "困難的；複雜的",
+        "en": "difficult",
+        "ex": {
+          "de": "Die Grammatik in dieser Lektion ist ziemlich {schwierig}.",
+          "zh": "這一課的文法相當難。",
+          "en": "The grammar in this lesson is quite difficult.",
+          "distractors": [
+            "gesund",
+            "nass",
+            "süß"
+          ]
+        }
+      }
+    ]
+  },
+  "schwierigkeit": {
+    "senses": [
+      {
+        "zh": "困難；麻煩",
+        "en": "difficulty",
+        "ex": {
+          "de": "Ich hatte keine {Schwierigkeiten}, das Haus zu finden.",
+          "zh": "我找那棟房子一點都不困難。",
+          "en": "I had no difficulty finding the house.",
+          "distractors": [
+            "Gabeln",
+            "Kerzen",
+            "Tomaten"
+          ]
+        }
+      }
+    ]
+  },
+  "schwimmen": {
+    "senses": [
+      {
+        "zh": "游泳",
+        "en": "to swim",
+        "ex": {
+          "de": "Im Sommer will ich jeden Morgen im See {schwimmen}.",
+          "zh": "夏天我想每天早上在湖裡游泳。",
+          "en": "In summer I want to swim in the lake every morning.",
+          "distractors": [
+            "rechnen",
+            "nähen",
+            "schreiben"
+          ]
+        }
+      }
+    ]
+  },
+  "schwimmbad": {
+    "senses": [
+      {
+        "zh": "游泳池",
+        "en": "swimming pool",
+        "ex": {
+          "de": "Am Wochenende gehen die Kinder ins {Schwimmbad}.",
+          "zh": "週末孩子們會去游泳池。",
+          "en": "At the weekend the children go to the swimming pool.",
+          "distractors": [
+            "Brot",
+            "Salz",
+            "Obst"
+          ]
+        }
+      }
+    ]
+  },
+  "schwitzen": {
+    "senses": [
+      {
+        "zh": "流汗",
+        "en": "to sweat",
+        "ex": {
+          "de": "In der Sauna muss man ordentlich {schwitzen}.",
+          "zh": "在三溫暖裡要好好地流汗。",
+          "en": "In the sauna you have to sweat properly.",
+          "distractors": [
+            "buchstabieren",
+            "reiten",
+            "klettern"
+          ]
+        }
+      }
+    ]
+  },
+  "see": {
+    "senses": [
+      {
+        "zh": "湖",
+        "en": "lake",
+        "ex": {
+          "de": "Am Wochenende fahren wir an einen kleinen {See} zum Baden.",
+          "zh": "週末我們要去一座小湖游泳。",
+          "en": "At the weekend we are going to a small lake for a swim.",
+          "distractors": [
+            "Kalender",
+            "Stuhl",
+            "Flughafen"
+          ]
+        }
+      }
+    ]
+  },
+  "see-2": {
+    "senses": [
+      {
+        "zh": "海；大海",
+        "en": "sea",
+        "ex": {
+          "de": "Bei stürmischer {See} fahren keine Fähren zur Insel.",
+          "zh": "海上風浪大時，沒有渡輪開往那座島。",
+          "en": "When the sea is stormy, no ferries go to the island.",
+          "distractors": [
+            "Wiese",
+            "Kerze",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "nord-ostsee": {
+    "senses": [
+      {
+        "zh": "北海／波羅的海",
+        "en": "North Sea / Baltic Sea",
+        "ex": {
+          "de": "Im Urlaub haben wir Muscheln an der {Ostsee} gesammelt.",
+          "zh": "假期中我們在波羅的海邊撿了貝殼。",
+          "en": "On vacation we collected shells at the Baltic Sea.",
+          "distractors": [
+            "Wüste",
+            "Autobahn",
+            "Bibliothek"
+          ]
+        }
+      }
+    ]
+  },
+  "sehen": {
+    "senses": [
+      {
+        "zh": "看；看見",
+        "en": "to see",
+        "ex": {
+          "de": "Von unserem Balkon kann man die Berge gut {sehen}.",
+          "zh": "從我們的陽台可以清楚看到群山。",
+          "en": "From our balcony you can see the mountains well.",
+          "distractors": [
+            "riechen",
+            "kochen",
+            "waschen"
+          ]
+        }
+      }
+    ]
+  },
+  "sehenswuerdigkeit": {
+    "senses": [
+      {
+        "zh": "名勝；景點",
+        "en": "sight, attraction",
+        "ex": {
+          "de": "Die wichtigste {Sehenswürdigkeit} der Stadt ist die alte Brücke.",
+          "zh": "這座城市最重要的景點是那座老橋。",
+          "en": "The most important sight in the city is the old bridge.",
+          "distractors": [
+            "Zwiebel",
+            "Lampe",
+            "Briefmarke"
+          ]
+        }
+      }
+    ]
+  },
+  "sehr": {
+    "senses": [
+      {
+        "zh": "很；非常",
+        "en": "very",
+        "ex": {
+          "de": "Die Suppe schmeckt heute {sehr} gut.",
+          "zh": "今天的湯味道非常好。",
+          "en": "The soup tastes very good today.",
+          "distractors": [
+            "gestern",
+            "links",
+            "unten"
+          ]
+        }
+      }
+    ]
+  },
+  "seife": {
+    "senses": [
+      {
+        "zh": "肥皂",
+        "en": "soap",
+        "ex": {
+          "de": "Nach dem Händewaschen ist die {Seife} fast leer.",
+          "zh": "洗完手後，肥皂幾乎用完了。",
+          "en": "After washing hands, the soap is almost gone.",
+          "distractors": [
+            "Briefmarke",
+            "Hausaufgabe",
+            "Straße"
+          ]
+        }
+      }
+    ]
+  },
+  "sein": {
+    "senses": [
+      {
+        "zh": "是；在",
+        "en": "to be",
+        "ex": {
+          "de": "Meine Eltern {sind} gerade im Urlaub in Spanien.",
+          "zh": "我爸媽現在正在西班牙度假。",
+          "en": "My parents are on vacation in Spain right now.",
+          "distractors": [
+            "haben",
+            "werden",
+            "können"
+          ]
+        }
+      }
+    ]
+  },
+  "seit": {
+    "senses": [
+      {
+        "zh": "自從；已經（時間）",
+        "en": "since, for",
+        "ex": {
+          "de": "Mein Bruder lernt {seit} Januar Gitarre.",
+          "zh": "我弟弟從一月起學吉他。",
+          "en": "My brother has been learning guitar since January.",
+          "distractors": [
+            "ohne",
+            "durch",
+            "gegenüber"
+          ]
+        }
+      }
+    ]
+  },
+  "seitdem": {
+    "senses": [
+      {
+        "zh": "從那時起",
+        "en": "since then",
+        "ex": {
+          "de": "Mein Hund ist krank. {Seitdem} gehen wir nur kurz spazieren.",
+          "zh": "我的狗生病了，從那時起我們只出去散一下步。",
+          "en": "My dog is sick. Since then we only go for short walks.",
+          "distractors": [
+            "Obwohl",
+            "Damit",
+            "Bevor"
+          ]
+        }
+      }
+    ]
+  },
+  "seite": {
+    "senses": [
+      {
+        "zh": "頁；面；邊",
+        "en": "page, side",
+        "ex": {
+          "de": "Lies bitte die erste {Seite} laut vor.",
+          "zh": "請把第一頁大聲唸出來。",
+          "en": "Please read the first page aloud.",
+          "distractors": [
+            "Kerze",
+            "Birne",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "sekretaer": {
+    "senses": [
+      {
+        "zh": "男祕書",
+        "en": "secretary",
+        "ex": {
+          "de": "Der {Sekretär} schreibt Briefe für den Chef.",
+          "zh": "那位祕書幫老闆寫信。",
+          "en": "The secretary writes letters for the boss.",
+          "distractors": [
+            "Spiegel",
+            "Rucksack",
+            "Zug"
+          ]
+        }
+      }
+    ]
+  },
+  "sekretaerin": {
+    "senses": [
+      {
+        "zh": "女祕書",
+        "en": "secretary (female)",
+        "ex": {
+          "de": "Unsere {Sekretärin} hat mir gestern einen Termin gegeben.",
+          "zh": "我們的祕書昨天幫我約了時間。",
+          "en": "Our secretary gave me an appointment yesterday.",
+          "distractors": [
+            "Zeitung",
+            "Steckdose",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  }
+}

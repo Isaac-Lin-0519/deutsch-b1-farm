@@ -1,0 +1,902 @@
+{
+  "sollen": {
+    "senses": [
+      {
+        "zh": "應該；被要求",
+        "en": "should, to be supposed to",
+        "ex": {
+          "de": "Wir {sollen} morgen die Hausaufgaben abgeben.",
+          "zh": "我們明天應該要交作業。",
+          "en": "We are supposed to hand in the homework tomorrow.",
+          "distractors": [
+            "lachen",
+            "reisen",
+            "wachsen"
+          ]
+        }
+      }
+    ]
+  },
+  "modalverb": {
+    "senses": [
+      {
+        "zh": "情態動詞",
+        "en": "modal verb",
+        "ex": {
+          "de": "Das Wort „können“ ist ein {Modalverb}.",
+          "zh": "「können」這個字是情態動詞。",
+          "en": "The word \"können\" is a modal verb.",
+          "distractors": [
+            "Wetter",
+            "Frühstück",
+            "Ergebnis"
+          ]
+        }
+      }
+    ]
+  },
+  "sonderdas-sonderangebot": {
+    "senses": [
+      {
+        "zh": "特價商品",
+        "en": "special offer",
+        "ex": {
+          "de": "Im Supermarkt gibt es diese Woche ein {Sonderangebot} für Kaffee.",
+          "zh": "超市這個星期有咖啡的特價。",
+          "en": "This week the supermarket has a special offer on coffee.",
+          "distractors": [
+            "Gewitter",
+            "Vorbild",
+            "Gebirge"
+          ]
+        }
+      }
+    ]
+  },
+  "sondern": {
+    "senses": [
+      {
+        "zh": "而是",
+        "en": "but (rather)",
+        "ex": {
+          "de": "Ich trinke keinen Tee, {sondern} Kaffee.",
+          "zh": "我不喝茶，而是喝咖啡。",
+          "en": "I don't drink tea, but coffee.",
+          "distractors": [
+            "weil",
+            "damit",
+            "obwohl"
+          ]
+        }
+      }
+    ]
+  },
+  "sonne": {
+    "senses": [
+      {
+        "zh": "太陽；陽光",
+        "en": "sun",
+        "ex": {
+          "de": "Im Urlaub liegen wir den ganzen Tag in der {Sonne}.",
+          "zh": "度假時我們整天躺在陽光下。",
+          "en": "On holiday we lie in the sun all day.",
+          "distractors": [
+            "Suppe",
+            "Mathematik",
+            "Geduld"
+          ]
+        }
+      }
+    ]
+  },
+  "sonnig": {
+    "senses": [
+      {
+        "zh": "晴朗的",
+        "en": "sunny",
+        "ex": {
+          "de": "Morgen wird es {sonnig} und warm, wir gehen schwimmen.",
+          "zh": "明天天氣晴朗又溫暖，我們去游泳。",
+          "en": "Tomorrow will be sunny and warm, we're going swimming.",
+          "distractors": [
+            "salzig",
+            "neugierig",
+            "hungrig"
+          ]
+        }
+      }
+    ]
+  },
+  "sonst": {
+    "senses": [
+      {
+        "zh": "否則；此外",
+        "en": "otherwise, else",
+        "ex": {
+          "de": "Beeil dich, {sonst} verpassen wir den Zug.",
+          "zh": "快一點，否則我們會錯過火車。",
+          "en": "Hurry up, otherwise we'll miss the train.",
+          "distractors": [
+            "deshalb",
+            "dagegen",
+            "zuerst"
+          ]
+        }
+      }
+    ]
+  },
+  "sorgen": {
+    "senses": [
+      {
+        "zh": "照料；負責（sorgen für）",
+        "en": "to take care of, to provide",
+        "ex": {
+          "de": "Der Gastgeber {sorgt} für Getränke und Musik.",
+          "zh": "主人負責準備飲料和音樂。",
+          "en": "The host takes care of drinks and music.",
+          "distractors": [
+            "lacht",
+            "schwimmt",
+            "regnet"
+          ]
+        }
+      }
+    ]
+  },
+  "sorge": {
+    "senses": [
+      {
+        "zh": "擔心；憂慮",
+        "en": "worry, concern",
+        "ex": {
+          "de": "Ich mache mir {Sorgen}, weil du so spät kommst.",
+          "zh": "你這麼晚才來，我很擔心。",
+          "en": "I'm worried because you're coming so late.",
+          "distractors": [
+            "Berge",
+            "Knöpfe",
+            "Zähne"
+          ]
+        }
+      }
+    ]
+  },
+  "sosse-sauce": {
+    "senses": [
+      {
+        "zh": "醬汁",
+        "en": "sauce",
+        "ex": {
+          "de": "Zu den Nudeln gibt es eine scharfe {Soße}.",
+          "zh": "麵條配了一份辣醬。",
+          "en": "The noodles come with a spicy sauce.",
+          "distractors": [
+            "Kerze",
+            "Gabel",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "souvenir": {
+    "senses": [
+      {
+        "zh": "紀念品",
+        "en": "souvenir",
+        "ex": {
+          "de": "Aus Wien habe ich dir ein kleines {Souvenir} mitgebracht.",
+          "zh": "我從維也納帶了一個小紀念品給你。",
+          "en": "I brought you a little souvenir from Vienna.",
+          "distractors": [
+            "Wetter",
+            "Erdgeschoss",
+            "Gewitter"
+          ]
+        }
+      }
+    ]
+  },
+  "soviel": {
+    "senses": [
+      {
+        "zh": "就…而言；據…所知",
+        "en": "as far as",
+        "ex": {
+          "de": "Das Konzert ist ausverkauft, {soviel} ich weiß.",
+          "zh": "據我所知，這場演唱會已經賣完了。",
+          "en": "The concert is sold out, as far as I know.",
+          "distractors": [
+            "damit",
+            "weshalb",
+            "wohin"
+          ]
+        }
+      }
+    ]
+  },
+  "so-viel-so-viel-wie": {
+    "senses": [
+      {
+        "zh": "這麼多；和…一樣多",
+        "en": "so much, as much as",
+        "ex": {
+          "de": "Heute habe ich {so viel} gegessen, dass ich nicht mehr kann.",
+          "zh": "我今天吃了好多，已經吃不下了。",
+          "en": "Today I ate so much that I can't eat any more.",
+          "distractors": [
+            "so blau",
+            "so eckig",
+            "so leise"
+          ]
+        }
+      }
+    ]
+  },
+  "sowieso": {
+    "senses": [
+      {
+        "zh": "反正；本來就",
+        "en": "anyway, in any case",
+        "ex": {
+          "de": "Nimm den Schirm ruhig mit, ich brauche ihn {sowieso} nicht.",
+          "zh": "傘你就帶走吧，我反正用不到。",
+          "en": "Go ahead and take the umbrella, I don't need it anyway.",
+          "distractors": [
+            "links",
+            "bergauf",
+            "unten"
+          ]
+        }
+      }
+    ]
+  },
+  "sowohl-als-auch": {
+    "senses": [
+      {
+        "zh": "不但…而且；…和…都",
+        "en": "both … and",
+        "ex": {
+          "de": "Ich mag {sowohl} Tee als auch Kaffee.",
+          "zh": "我茶和咖啡都喜歡。",
+          "en": "I like both tea and coffee.",
+          "distractors": [
+            "weder",
+            "entweder",
+            "zwar"
+          ]
+        }
+      }
+    ]
+  },
+  "sozial": {
+    "senses": [
+      {
+        "zh": "社會的；有社會責任感的",
+        "en": "social",
+        "ex": {
+          "de": "Meine Schwester arbeitet gern in einem {sozialen} Beruf.",
+          "zh": "我姊姊喜歡從事社會服務類的工作。",
+          "en": "My sister likes working in a social profession.",
+          "distractors": [
+            "salzigen",
+            "schlammigen",
+            "rechteckigen"
+          ]
+        }
+      }
+    ]
+  },
+  "sozialarbeiter": {
+    "senses": [
+      {
+        "zh": "社工（男）",
+        "en": "social worker (male)",
+        "ex": {
+          "de": "Der {Sozialarbeiter} hilft Familien bei Problemen mit dem Amt.",
+          "zh": "社工幫助家庭處理和機關之間的問題。",
+          "en": "The social worker helps families with problems with the authorities.",
+          "distractors": [
+            "Staubsauger",
+            "Bahnhof",
+            "Regenwald"
+          ]
+        }
+      }
+    ]
+  },
+  "sozialarbeiterin": {
+    "senses": [
+      {
+        "zh": "社工（女）",
+        "en": "social worker (female)",
+        "ex": {
+          "de": "Die {Sozialarbeiterin} hat mir bei der Wohnungssuche geholfen.",
+          "zh": "那位社工幫了我找房子。",
+          "en": "The social worker helped me look for an apartment.",
+          "distractors": [
+            "Waschmaschine",
+            "Gitarre",
+            "Zeitung"
+          ]
+        }
+      }
+    ]
+  },
+  "spannend": {
+    "senses": [
+      {
+        "zh": "刺激的；緊張有趣的",
+        "en": "exciting, thrilling",
+        "ex": {
+          "de": "Der Film war so {spannend}, dass ich nicht schlafen konnte.",
+          "zh": "這部電影太緊張刺激，我都睡不著。",
+          "en": "The film was so exciting that I couldn't sleep.",
+          "distractors": [
+            "staubig",
+            "viereckig",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "sparen": {
+    "senses": [
+      {
+        "zh": "存（錢）；節省",
+        "en": "to save",
+        "ex": {
+          "de": "Wir wollen jeden Monat Geld für die Reise {sparen}.",
+          "zh": "我們想每個月為旅行存錢。",
+          "en": "We want to save money for the trip every month.",
+          "distractors": [
+            "bellen",
+            "landen",
+            "regnen"
+          ]
+        }
+      }
+    ]
+  },
+  "sparsam": {
+    "senses": [
+      {
+        "zh": "節儉的；省著用的",
+        "en": "economical, thrifty",
+        "ex": {
+          "de": "Mit Wasser sollte man im Sommer {sparsam} umgehen.",
+          "zh": "夏天用水應該要節省。",
+          "en": "You should be sparing with water in summer.",
+          "distractors": [
+            "ehrgeizig",
+            "giftig",
+            "eckig"
+          ]
+        }
+      }
+    ]
+  },
+  "spass": {
+    "senses": [
+      {
+        "zh": "樂趣；好玩",
+        "en": "fun",
+        "ex": {
+          "de": "Beim Kochen mit Freunden habe ich immer viel {Spaß}.",
+          "zh": "和朋友一起煮飯時我總是很開心。",
+          "en": "I always have a lot of fun cooking with friends.",
+          "distractors": [
+            "Rucksack",
+            "Wecker",
+            "Kugelschreiber"
+          ]
+        }
+      }
+    ]
+  },
+  "spaet": {
+    "senses": [
+      {
+        "zh": "晚的",
+        "en": "late",
+        "ex": {
+          "de": "Es ist schon {spät}, wir müssen nach Hause.",
+          "zh": "已經很晚了，我們得回家了。",
+          "en": "It's already late, we have to go home.",
+          "distractors": [
+            "rund",
+            "sauer",
+            "nackt"
+          ]
+        }
+      }
+    ]
+  },
+  "spaetestens": {
+    "senses": [
+      {
+        "zh": "最晚",
+        "en": "at the latest",
+        "ex": {
+          "de": "Du musst die Miete {spätestens} am Fünften überweisen.",
+          "zh": "你最晚要在五號匯房租。",
+          "en": "You have to transfer the rent by the fifth at the latest.",
+          "distractors": [
+            "neulich",
+            "vorwärts",
+            "drinnen"
+          ]
+        }
+      }
+    ]
+  },
+  "spazieren-gehen": {
+    "senses": [
+      {
+        "zh": "散步",
+        "en": "to go for a walk",
+        "ex": {
+          "de": "Nach dem Essen wollen wir noch ein bisschen {spazieren gehen}.",
+          "zh": "吃完飯後我們想再散一下步。",
+          "en": "After the meal we want to go for a little walk.",
+          "distractors": [
+            "Zähne putzen",
+            "Fieber messen",
+            "Brot schneiden"
+          ]
+        }
+      }
+    ]
+  },
+  "spazieren": {
+    "senses": [
+      {
+        "zh": "散步",
+        "en": "to stroll",
+        "ex": {
+          "de": "Gestern sind wir lange am See {spazieren gegangen}.",
+          "zh": "昨天我們在湖邊散步了很久。",
+          "en": "Yesterday we walked along the lake for a long time.",
+          "distractors": [
+            "gestorben",
+            "abgereist",
+            "eingestiegen"
+          ]
+        }
+      }
+    ]
+  },
+  "spaziergang": {
+    "senses": [
+      {
+        "zh": "散步",
+        "en": "walk, stroll",
+        "ex": {
+          "de": "Nach dem Mittagessen machen wir immer einen kurzen {Spaziergang}.",
+          "zh": "午餐後我們總是會散一小段步。",
+          "en": "After lunch we always take a short walk.",
+          "distractors": [
+            "Handschuh",
+            "Löffel",
+            "Schnürsenkel"
+          ]
+        }
+      }
+    ]
+  },
+  "speichern": {
+    "senses": [
+      {
+        "zh": "儲存",
+        "en": "to save, store",
+        "ex": {
+          "de": "Vergiss nicht, die Datei auf dem Stick zu {speichern}.",
+          "zh": "別忘了把檔案存到隨身碟裡。",
+          "en": "Don't forget to save the file on the stick.",
+          "distractors": [
+            "füttern",
+            "mähen",
+            "angeln"
+          ]
+        }
+      }
+    ]
+  },
+  "speise-speise": {
+    "senses": [
+      {
+        "zh": "菜餚；食物",
+        "en": "dish, food",
+        "ex": {
+          "de": "Diese {Speise} kenne ich aus Italien, sie schmeckt wunderbar.",
+          "zh": "這道菜我在義大利吃過，非常好吃。",
+          "en": "I know this dish from Italy, it tastes wonderful.",
+          "distractors": [
+            "Tonne",
+            "Bluse",
+            "Wand"
+          ]
+        }
+      }
+    ]
+  },
+  "speisekarte": {
+    "senses": [
+      {
+        "zh": "菜單",
+        "en": "menu",
+        "ex": {
+          "de": "Der Kellner bringt uns gleich die {Speisekarte}.",
+          "zh": "服務生馬上會把菜單拿來給我們。",
+          "en": "The waiter will bring us the menu right away.",
+          "distractors": [
+            "Glühbirne",
+            "Kreide",
+            "Schaufel"
+          ]
+        }
+      }
+    ]
+  },
+  "speisewagen": {
+    "senses": [
+      {
+        "zh": "餐車",
+        "en": "dining car",
+        "ex": {
+          "de": "Im Zug gehen wir später in den {Speisewagen} zum Essen.",
+          "zh": "在火車上我們晚點要去餐車吃飯。",
+          "en": "On the train we'll go to the dining car later to eat.",
+          "distractors": [
+            "Brunnen",
+            "Wasserhahn",
+            "Schreibtisch"
+          ]
+        }
+      }
+    ]
+  },
+  "spezial": {
+    "senses": [
+      {
+        "zh": "特別的；專門的",
+        "en": "special-",
+        "ex": {
+          "de": "Der Film hat tolle {Spezial}effekte.",
+          "zh": "這部電影有很棒的特效。",
+          "en": "The film has great special effects.",
+          "distractors": [
+            "Haus",
+            "Brot",
+            "Schuh"
+          ]
+        }
+      }
+    ]
+  },
+  "spezialist": {
+    "senses": [
+      {
+        "zh": "專家",
+        "en": "specialist",
+        "ex": {
+          "de": "Wir brauchen für die Operation einen {Spezialisten}.",
+          "zh": "這個手術我們需要一位專家。",
+          "en": "We need a specialist for the operation.",
+          "distractors": [
+            "Regenbogen",
+            "Kaktus",
+            "Marktplatz"
+          ]
+        }
+      }
+    ]
+  },
+  "speziell": {
+    "senses": [
+      {
+        "zh": "特別的；專門的",
+        "en": "special, specific",
+        "ex": {
+          "de": "Für meine Allergie brauche ich eine {spezielle} Creme.",
+          "zh": "我的過敏需要一種特製的乳霜。",
+          "en": "For my allergy I need a special cream.",
+          "distractors": [
+            "eckige",
+            "hölzerne",
+            "hungrige"
+          ]
+        }
+      }
+    ]
+  },
+  "spiegel": {
+    "senses": [
+      {
+        "zh": "鏡子",
+        "en": "mirror",
+        "ex": {
+          "de": "Im Bad hängt ein großer {Spiegel} über dem Waschbecken.",
+          "zh": "浴室洗手台上方掛著一面大鏡子。",
+          "en": "In the bathroom a large mirror hangs above the sink.",
+          "distractors": [
+            "Pinguin",
+            "Bagger",
+            "Elefant"
+          ]
+        }
+      }
+    ]
+  },
+  "spielen": {
+    "senses": [
+      {
+        "zh": "玩；演奏；比賽",
+        "en": "to play",
+        "ex": {
+          "de": "Die Kinder {spielen} im Garten mit einem Ball.",
+          "zh": "孩子們在院子裡玩球。",
+          "en": "The children are playing with a ball in the garden.",
+          "distractors": [
+            "heiraten",
+            "studieren",
+            "übersetzen"
+          ]
+        }
+      }
+    ]
+  },
+  "spiel": {
+    "senses": [
+      {
+        "zh": "遊戲；比賽",
+        "en": "game, match",
+        "ex": {
+          "de": "Das {Spiel} endet drei zu zwei für unsere Mannschaft.",
+          "zh": "比賽以三比二我們隊獲勝。",
+          "en": "The match ends three to two for our team.",
+          "distractors": [
+            "Rezept",
+            "Gehalt",
+            "Konto"
+          ]
+        }
+      }
+    ]
+  },
+  "spieler": {
+    "senses": [
+      {
+        "zh": "球員；玩家（男）",
+        "en": "player (male)",
+        "ex": {
+          "de": "Der neue {Spieler} hat schon zwei Tore geschossen.",
+          "zh": "新來的球員已經踢進兩球了。",
+          "en": "The new player has already scored two goals.",
+          "distractors": [
+            "Ofen",
+            "Pilz",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "spielerin": {
+    "senses": [
+      {
+        "zh": "球員；玩家（女）",
+        "en": "player (female)",
+        "ex": {
+          "de": "Unsere beste {Spielerin} ist erst sechzehn Jahre alt.",
+          "zh": "我們最好的女球員才十六歲。",
+          "en": "Our best player is only sixteen years old.",
+          "distractors": [
+            "Tomate",
+            "Lampe",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "spielplatz": {
+    "senses": [
+      {
+        "zh": "遊樂場",
+        "en": "playground",
+        "ex": {
+          "de": "Die Kinder rennen vom Kindergarten direkt zum {Spielplatz}.",
+          "zh": "孩子們從幼兒園直接跑到遊樂場。",
+          "en": "The children run straight from kindergarten to the playground.",
+          "distractors": [
+            "Nordpol",
+            "Staubsauger",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "spielzeug": {
+    "senses": [
+      {
+        "zh": "玩具",
+        "en": "toy",
+        "ex": {
+          "de": "Zum Geburtstag hat er ein neues {Spielzeug} bekommen.",
+          "zh": "他生日收到了一個新玩具。",
+          "en": "For his birthday he got a new toy.",
+          "distractors": [
+            "Gebirge",
+            "Erdbeben",
+            "Alphabet"
+          ]
+        }
+      }
+    ]
+  },
+  "spitz": {
+    "senses": [
+      {
+        "zh": "尖的",
+        "en": "pointed, sharp",
+        "ex": {
+          "de": "Vorsicht, die Nadel ist sehr {spitz}!",
+          "zh": "小心，這根針很尖！",
+          "en": "Careful, the needle is very sharp!",
+          "distractors": [
+            "pünktlich",
+            "verheiratet",
+            "evangelisch"
+          ]
+        }
+      }
+    ]
+  },
+  "sport": {
+    "senses": [
+      {
+        "zh": "運動",
+        "en": "sport, exercise",
+        "ex": {
+          "de": "Mein Bruder macht jeden Morgen eine Stunde {Sport}.",
+          "zh": "我哥哥每天早上運動一小時。",
+          "en": "My brother exercises for an hour every morning.",
+          "distractors": [
+            "Regen",
+            "Schnee",
+            "Käse"
+          ]
+        }
+      }
+    ]
+  },
+  "sportart": {
+    "senses": [
+      {
+        "zh": "運動項目",
+        "en": "type of sport",
+        "ex": {
+          "de": "Fußball ist in Deutschland die beliebteste {Sportart}.",
+          "zh": "足球是德國最受歡迎的運動項目。",
+          "en": "Football is the most popular sport in Germany.",
+          "distractors": [
+            "Gardine",
+            "Zahnbürste",
+            "Hose"
+          ]
+        }
+      }
+    ]
+  },
+  "sportler": {
+    "senses": [
+      {
+        "zh": "運動員（男）",
+        "en": "athlete (male)",
+        "ex": {
+          "de": "Der {Sportler} trainiert jeden Tag für die Olympischen Spiele.",
+          "zh": "這位運動員每天為奧運訓練。",
+          "en": "The athlete trains every day for the Olympic Games.",
+          "distractors": [
+            "Regenmantel",
+            "Bahnsteig",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "sportlerin": {
+    "senses": [
+      {
+        "zh": "運動員（女）",
+        "en": "athlete (female)",
+        "ex": {
+          "de": "Die {Sportlerin} hat im Finale eine Goldmedaille gewonnen.",
+          "zh": "那位女運動員在決賽中贏得了金牌。",
+          "en": "The athlete won a gold medal in the final.",
+          "distractors": [
+            "Zitrone",
+            "Steckdose",
+            "Schublade"
+          ]
+        }
+      }
+    ]
+  },
+  "sportlich": {
+    "senses": [
+      {
+        "zh": "愛運動的；運動的",
+        "en": "sporty, athletic",
+        "ex": {
+          "de": "Mein Opa ist mit achtzig noch sehr {sportlich}.",
+          "zh": "我爺爺八十歲了還很愛運動。",
+          "en": "My grandfather is still very sporty at eighty.",
+          "distractors": [
+            "bewölkt",
+            "ausverkauft",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "sprache": {
+    "senses": [
+      {
+        "zh": "語言",
+        "en": "language",
+        "ex": {
+          "de": "Welche {Sprache} sprichst du mit deinen Eltern zu Hause?",
+          "zh": "你在家都跟爸媽說哪一種語言？",
+          "en": "Which language do you speak with your parents at home?",
+          "distractors": [
+            "Brücke",
+            "Kartoffel",
+            "Treppe"
+          ]
+        }
+      }
+    ]
+  },
+  "fremdsprache": {
+    "senses": [
+      {
+        "zh": "外語",
+        "en": "foreign language",
+        "ex": {
+          "de": "In der Schule lernen wir Englisch als erste {Fremdsprache}.",
+          "zh": "在學校我們把英文當作第一外語來學。",
+          "en": "At school we learn English as our first foreign language.",
+          "distractors": [
+            "Kreuzung",
+            "Banane",
+            "Ampel"
+          ]
+        }
+      }
+    ]
+  },
+  "muttersprache": {
+    "senses": [
+      {
+        "zh": "母語",
+        "en": "mother tongue",
+        "ex": {
+          "de": "Ihre {Muttersprache} ist Chinesisch, aber sie spricht auch gut Deutsch.",
+          "zh": "她的母語是中文，但德文也說得很好。",
+          "en": "Her mother tongue is Chinese, but she also speaks German well.",
+          "distractors": [
+            "Hauptstadt",
+            "Wohnung",
+            "Heizung"
+          ]
+        }
+      }
+    ]
+  }
+}
