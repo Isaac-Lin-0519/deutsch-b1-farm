@@ -1,12 +1,13 @@
 <script lang="ts">
   import { exportAll, importAll, type Backup } from '../lib/db';
   import { remainingInBag } from '../lib/plan';
-  import { LEVEL_NAMES, REGION_NAMES } from '../lib/region';
+  import { REGION_NAMES } from '../lib/region';
   import { app, plantedSet, saveSettings, today } from '../lib/store.svelte';
   import { REGIONS, type Direction, type HintLang, type Pace, type Region, type RegionLevel, type SeedBag } from '../lib/types';
   import { FEED_GAIN, FEED_PER_DAY, hearts, MAX_HEARTS, PET_GAIN, PET_PER_DAY, toNextHeart, TRICKS, WATER_GAIN } from '../lib/affection';
   import { BUILD, checkForUpdate } from '../lib/pwa';
   import DogPortrait from '../components/DogPortrait.svelte';
+  import LevelToggle from '../components/LevelToggle.svelte';
   import PlanPicker from '../components/PlanPicker.svelte';
 
   const s = app.settings;
@@ -54,7 +55,6 @@
     setTimeout(() => (saved = false), 1500);
   }
 
-  const LEVELS3: RegionLevel[] = ['none', 'mid', 'high'];
   function setRegion(r: Region, l: RegionLevel) {
     void saveSettings({ regions: { ...app.settings.regions, [r]: l } });
   }
@@ -160,9 +160,7 @@
     {#each REGIONS as r (r)}
       <div class="row">
         <span class="regname">{REGION_NAMES[r]}</span>
-        {#each LEVELS3 as l (l)}
-          <button class="btn" class:on={app.settings.regions[r] === l} onclick={() => setRegion(r, l)}>{LEVEL_NAMES[l]}</button>
-        {/each}
+        <LevelToggle value={app.settings.regions[r]} label={REGION_NAMES[r]} onchange={(l) => setRegion(r, l)} />
       </div>
     {/each}
     <p class="soft">各地區的說法分別設定：高＝正常出現、中＝少一點（排到後面才種）、無＝不種也不翻到。一個字在好幾個地區都用，就看最高的那個；三地通用的字不受影響。已經種下的字照常澆水。</p>
