@@ -1,0 +1,384 @@
+[
+  {
+    "id": "danach",
+    "group": "adv",
+    "de": "danach",
+    "pattern": "danach ＋ 動詞 ＋ 主詞",
+    "zh": "之後、然後",
+    "en": "after that, afterwards",
+    "rule": "danach 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。",
+    "ex": {
+      "de": "Ich esse zu Mittag, {danach} [mache] ich einen Spaziergang.",
+      "zh": "我吃完午餐，之後去散步。",
+      "en": "I eat lunch, and afterwards I go for a walk."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich esse zu Mittag, {danach} [mache] ich einen Spaziergang.",
+        "zh": "我吃完午餐，之後去散步。",
+        "en": "I eat lunch, and afterwards I go for a walk.",
+        "options": [
+          "bevor",
+          "nachdem",
+          "weil"
+        ],
+        "why": "空格後面緊接動詞 mache，再來才是主詞 ich，所以是副詞 danach。bevor、nachdem、weil 都是從屬連接詞，動詞 mache 要放到句尾。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir sehen einen Film. {Danach}",
+        "tokens": [
+          "[gehen]",
+          "wir",
+          "nach Hause"
+        ],
+        "zh": "我們看一場電影，之後回家。",
+        "en": "We watch a film. Afterwards we go home.",
+        "why": "danach 佔第一位，動詞 gehen 緊接在後，主詞 wir 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich dusche kurz. {Danach} [frühstücke] ich.",
+        "zh": "我先簡單沖個澡，之後吃早餐。",
+        "en": "I shower quickly. After that I have breakfast.",
+        "options": [
+          "Nachdem",
+          "Bevor",
+          "Weil"
+        ],
+        "why": "新的一句用 Danach 開頭，動詞 frühstücke 緊接在後。Nachdem、Bevor、Weil 的動詞都要放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich habe meine Hausaufgaben gemacht, {danach}",
+        "tokens": [
+          "[habe]",
+          "ich",
+          "Fußball",
+          "gespielt"
+        ],
+        "zh": "我寫完功課，之後踢了足球。",
+        "en": "I did my homework, and afterwards I played football.",
+        "why": "danach 後面先放變位的 habe，主詞 ich 跟在後面，分詞 gespielt 留在句尾。"
+      },
+      {
+        "type": "choice",
+        "de": "Sie macht die Prüfung, {danach} [fährt] sie in den Urlaub.",
+        "zh": "她考完試，之後去度假。",
+        "en": "She takes the exam, and afterwards she goes on holiday.",
+        "options": [
+          "weil",
+          "bevor",
+          "obwohl"
+        ],
+        "why": "空格後面是「動詞 fährt ＋ 主詞 sie」，只有副詞 danach 可以。weil、bevor、obwohl 的動詞 fährt 都要放到句尾。"
+      }
+    ]
+  },
+  {
+    "id": "zuerst",
+    "group": "adv",
+    "de": "zuerst",
+    "pattern": "zuerst ＋ 動詞 ＋ 主詞",
+    "zh": "首先、先",
+    "en": "first, first of all",
+    "rule": "zuerst 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面；常配 dann、danach、schließlich 排出順序。",
+    "ex": {
+      "de": "{Zuerst} [trinke] ich einen Kaffee, dann [gehe] ich zur Arbeit.",
+      "zh": "我先喝杯咖啡，然後去上班。",
+      "en": "First I drink a coffee, then I go to work."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "{Zuerst} [trinke] ich einen Kaffee, dann [gehe] ich zur Arbeit.",
+        "zh": "我先喝杯咖啡，然後去上班。",
+        "en": "First I drink a coffee, then I go to work.",
+        "options": [
+          "Bevor",
+          "Weil",
+          "Damit"
+        ],
+        "why": "空格後面緊接動詞 trinke，再來才是主詞 ich，所以是副詞 Zuerst。Bevor、Weil、Damit 的動詞 trinke 都要放到句尾。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich koche heute Abend Suppe. {Zuerst}",
+        "tokens": [
+          "[schneide]",
+          "ich",
+          "das Gemüse"
+        ],
+        "zh": "我今天晚上煮湯，首先把蔬菜切好。",
+        "en": "I'm making soup tonight. First I cut the vegetables.",
+        "why": "zuerst 佔第一位，動詞 schneide 緊接在後，主詞 ich 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Wir haben viel zu tun. {Zuerst} [gehen] wir einkaufen.",
+        "zh": "我們有很多事要做，首先去買東西。",
+        "en": "We have a lot to do. First we go shopping.",
+        "options": [
+          "Weil",
+          "Nachdem",
+          "Damit"
+        ],
+        "why": "新的一句用 Zuerst 開頭，動詞 gehen 緊接在後。Weil、Nachdem、Damit 的動詞都要放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir räumen die Küche auf. {Zuerst}",
+        "tokens": [
+          "[spülen]",
+          "wir",
+          "das Geschirr"
+        ],
+        "zh": "我們整理廚房，首先洗碗盤。",
+        "en": "We're tidying the kitchen. First we wash the dishes.",
+        "why": "zuerst 後面先放動詞 spülen，主詞 wir 跟在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "{Zuerst} [lese] ich die Frage, dann [schreibe] ich die Antwort.",
+        "zh": "我先讀題目，然後寫答案。",
+        "en": "First I read the question, then I write the answer.",
+        "options": [
+          "Bevor",
+          "Obwohl",
+          "Wenn"
+        ],
+        "why": "空格後面是「動詞 lese ＋ 主詞 ich」，只有副詞 Zuerst 可以。Bevor、Obwohl、Wenn 的動詞 lese 都要放到句尾。"
+      }
+    ]
+  },
+  {
+    "id": "schliesslich",
+    "group": "adv",
+    "de": "schließlich",
+    "pattern": "schließlich ＋ 動詞 ＋ 主詞",
+    "zh": "最後、終於",
+    "en": "finally, in the end",
+    "rule": "schließlich 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。",
+    "ex": {
+      "de": "Wir haben lange gesucht. {Schließlich} [haben] wir das Restaurant gefunden.",
+      "zh": "我們找了很久，終於找到那家餐廳。",
+      "en": "We searched for a long time. In the end we found the restaurant."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Wir haben lange gesucht. {Schließlich} [haben] wir das Restaurant gefunden.",
+        "zh": "我們找了很久，終於找到那家餐廳。",
+        "en": "We searched for a long time. In the end we found the restaurant.",
+        "options": [
+          "Nachdem",
+          "Weil",
+          "Obwohl"
+        ],
+        "why": "空格後面緊接動詞 haben，再來才是主詞 wir，所以是副詞 Schließlich。Nachdem、Weil、Obwohl 的動詞 haben 要放到句尾。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich habe lange gewartet. {Schließlich}",
+        "tokens": [
+          "[ist]",
+          "der Bus",
+          "gekommen"
+        ],
+        "zh": "我等了很久，最後公車終於來了。",
+        "en": "I waited a long time. Finally the bus came.",
+        "why": "schließlich 佔第一位，動詞 ist 緊接在後，主詞 der Bus 跑到動詞後面，分詞 gekommen 留在句尾。"
+      },
+      {
+        "type": "choice",
+        "de": "Wir haben gegessen und getanzt. {Schließlich} [sind] wir nach Hause gegangen.",
+        "zh": "我們吃了飯、跳了舞，最後回家了。",
+        "en": "We ate and danced. In the end we went home.",
+        "options": [
+          "Bevor",
+          "Dass",
+          "Weil"
+        ],
+        "why": "新的一句用 Schließlich 開頭，動詞 sind 緊接在後。Bevor、Dass、Weil 的動詞都要放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Er hat viel geübt. {Schließlich}",
+        "tokens": [
+          "[hat]",
+          "er",
+          "die Prüfung",
+          "bestanden"
+        ],
+        "zh": "他練習了很多，最後通過了考試。",
+        "en": "He practised a lot. In the end he passed the exam.",
+        "why": "schließlich 後面先放變位的 hat，主詞 er 跟在後面，分詞 bestanden 留在句尾。"
+      },
+      {
+        "type": "choice",
+        "de": "Sie hat dreimal angerufen. {Schließlich} [ist] er ans Telefon gegangen.",
+        "zh": "她打了三次電話，他終於接了。",
+        "en": "She called three times. Finally he picked up the phone.",
+        "options": [
+          "Als",
+          "Damit",
+          "Obwohl"
+        ],
+        "why": "空格後面是「動詞 ist ＋ 主詞 er」，只有副詞 Schließlich 可以。Als、Damit、Obwohl 的動詞 ist 都要放到句尾。"
+      }
+    ]
+  },
+  {
+    "id": "sonst",
+    "group": "adv",
+    "de": "sonst",
+    "pattern": "sonst ＋ 動詞 ＋ 主詞",
+    "zh": "否則、不然",
+    "en": "otherwise, or else",
+    "rule": "sonst 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面；表示「不這樣的話就會……」。",
+    "ex": {
+      "de": "Du musst dich beeilen, {sonst} [verpasst] du den Zug.",
+      "zh": "你要趕快，不然會錯過火車。",
+      "en": "You have to hurry, otherwise you'll miss the train."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Du musst dich beeilen, {sonst} [verpasst] du den Zug.",
+        "zh": "你要趕快，不然會錯過火車。",
+        "en": "You have to hurry, otherwise you'll miss the train.",
+        "options": [
+          "wenn",
+          "weil",
+          "damit"
+        ],
+        "why": "空格後面緊接動詞 verpasst，再來才是主詞 du，所以是副詞 sonst。wenn、weil、damit 的動詞 verpasst 要放到句尾。"
+      },
+      {
+        "type": "order",
+        "lead": "Mach das Fenster zu, {sonst}",
+        "tokens": [
+          "[wird]",
+          "es",
+          "kalt"
+        ],
+        "zh": "把窗戶關上，不然會變冷。",
+        "en": "Close the window, otherwise it'll get cold.",
+        "why": "sonst 佔第一位，動詞 wird 緊接在後，主詞 es 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Iss etwas! {Sonst} [wirst] du später Hunger haben.",
+        "zh": "吃點東西！不然你等一下會餓。",
+        "en": "Eat something! Otherwise you'll be hungry later.",
+        "options": [
+          "Wenn",
+          "Damit",
+          "Weil"
+        ],
+        "why": "新的一句用 Sonst 開頭，動詞 wirst 緊接在後。Wenn、Damit、Weil 的動詞都要放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir müssen jetzt gehen, {sonst}",
+        "tokens": [
+          "[kommen]",
+          "wir",
+          "zu spät"
+        ],
+        "zh": "我們現在得走了，不然會遲到。",
+        "en": "We have to go now, otherwise we'll be late.",
+        "why": "sonst 後面先放動詞 kommen，主詞 wir 跟在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Wir müssen leise sein, {sonst} [wacht] das Baby auf.",
+        "zh": "我們要小聲一點，不然寶寶會醒。",
+        "en": "We have to be quiet, otherwise the baby will wake up.",
+        "options": [
+          "dass",
+          "damit",
+          "weil"
+        ],
+        "why": "空格後面是「動詞 wacht ＋ 主詞 das Baby」，只有副詞 sonst 可以。dass、damit、weil 的動詞 wacht 都要放到句尾。"
+      }
+    ]
+  },
+  {
+    "id": "ausserdem",
+    "group": "adv",
+    "de": "außerdem",
+    "pattern": "außerdem ＋ 動詞 ＋ 主詞",
+    "zh": "此外、而且",
+    "en": "besides, in addition",
+    "rule": "außerdem 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。",
+    "ex": {
+      "de": "Die Wohnung ist günstig. {Außerdem} [liegt] sie nah am Bahnhof.",
+      "zh": "這間公寓很便宜，而且離車站很近。",
+      "en": "The flat is cheap. Besides, it's close to the station."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Die Wohnung ist günstig. {Außerdem} [liegt] sie nah am Bahnhof.",
+        "zh": "這間公寓很便宜，而且離車站很近。",
+        "en": "The flat is cheap. Besides, it's close to the station.",
+        "options": [
+          "Weil",
+          "Obwohl",
+          "Damit"
+        ],
+        "why": "空格後面緊接動詞 liegt，再來才是主詞 sie，所以是副詞 Außerdem。Weil、Obwohl、Damit 的動詞 liegt 要放到句尾。"
+      },
+      {
+        "type": "order",
+        "lead": "Das Hotel ist sauber. {Außerdem}",
+        "tokens": [
+          "[hat]",
+          "es",
+          "ein gutes Frühstück"
+        ],
+        "zh": "這間旅館很乾淨，而且早餐很好。",
+        "en": "The hotel is clean. Besides, it has a good breakfast.",
+        "why": "außerdem 佔第一位，動詞 hat 緊接在後，主詞 es 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich lerne Deutsch, {außerdem} [spiele] ich jeden Tag Klavier.",
+        "zh": "我學德文，而且每天彈鋼琴。",
+        "en": "I'm learning German, and besides I play the piano every day.",
+        "options": [
+          "weil",
+          "obwohl",
+          "damit"
+        ],
+        "why": "空格後面是「動詞 spiele ＋ 主詞 ich」，只有副詞 außerdem 可以。weil、obwohl、damit 的動詞 spiele 都要放到句尾。"
+      },
+      {
+        "type": "order",
+        "lead": "Sie spricht Englisch. {Außerdem}",
+        "tokens": [
+          "[lernt]",
+          "sie",
+          "Chinesisch"
+        ],
+        "zh": "她會說英文，此外她也在學中文。",
+        "en": "She speaks English. In addition, she's learning Chinese.",
+        "why": "außerdem 後面先放動詞 lernt，主詞 sie 跟在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Er kocht gern. {Außerdem} [ist] er sehr ordentlich.",
+        "zh": "他喜歡做菜，而且很愛整潔。",
+        "en": "He likes cooking. Besides, he is very tidy.",
+        "options": [
+          "Bevor",
+          "Während",
+          "Wenn"
+        ],
+        "why": "新的一句用 Außerdem 開頭，動詞 ist 緊接在後。Bevor、Während、Wenn 的動詞都要放最後。"
+      }
+    ]
+  }
+]

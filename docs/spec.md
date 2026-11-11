@@ -93,7 +93,7 @@
 邊牧在草原上跑，前方兩道柵欄門各寫一個詞，滑動換跑道衝進正確翻譯的那道。
 衝對趕到一隻羊，連續答對越趕越多，撞錯少一顆心。
 
-### 連接詞與文法練習（2026-11-11 定案，第一批已實作）
+### 連接詞與文法練習（2026-11-11 定案，已實作）
 
 自己一套間隔重複複習，**不進農場**；進度在紀錄頁另外顯示。
 入口兩個：家裡新增一塊**黑板**（點了進來），以及「翻卡」分頁裡和自由翻卡並排。
@@ -118,8 +118,14 @@
 - 重點對比題：weil／deshalb／wegen、obwohl／trotzdem／trotz、während 連接詞／介系詞、statt … zu／statt＋屬格、wenn／als、um … zu／damit。
 
 **內容**：例句全部原創、三語，分批做（格式見 `docs/content-guide.md`）。
-第一批已完成：weil、obwohl、deshalb、trotzdem、wegen、trotz、um … zu、damit，關代主格、受格、與格，共 11 個文法點、57 題。
-其餘的連接詞、連接副詞、雙連接詞、ohne／statt … zu、其他屬格介系詞還沒寫。
+已完成 50 個文法點、252 題（`data/grammar/g001`～`g007.json`），每個文法點 5～6 題，之後的題目照檔名與順序帶出：
+- 連接詞（動詞放最後）：weil、obwohl、damit、dass、ob、wenn、als、bevor、nachdem、während、bis、seit／seitdem、sobald、solange、falls、sodass、indem
+- 連接副詞：deshalb、trotzdem、deswegen、daher、also、jedoch、allerdings、dann、danach、zuerst、schließlich、sonst、außerdem
+- 雙連接詞：entweder … oder、sowohl … als auch、weder … noch、je … desto、zwar … aber、nicht nur … sondern auch、einerseits … andererseits
+- zu＋不定式：um … zu、ohne … zu、statt … zu
+- 關係代名詞：主格、受格、與格、介系詞＋關代
+- 屬格介系詞：wegen、trotz、während、statt、innerhalb、außerhalb
+- 全部寫完後請另一輪逐題檢查過德語（文法、答案唯一、干擾選項一定錯、排語序只有一種）。還沒做：so … dass 對比、innerhalb／außerhalb ＋ von 的用法、dessen／deren（本來就不練）。
 
 **怎麼排程**
 
@@ -262,10 +268,10 @@ GitHub Pages 沒有後端，App 關閉時無法推播，第一版這樣做：
 3. ✅ App 骨架、PWA，部署在 https://isaac-lin-0519.github.io/deutsch-b1-farm/ （repo：Isaac-Lin-0519/deutsch-b1-farm，網址不要改）
 4. ✅ 單字農場（閃卡＋SRS）與複習紀錄頁，另含自由翻卡、設定、第一次使用與考試日期自動分配
 5. ✅ 邊牧之家（主頁）與好感度
-6. ✅ 連接詞與文法練習（第一批 11 個文法點；其餘內容分批補）
+6. ✅ 連接詞與文法練習（50 個文法點、252 題）
 7. 快問快答、例句填空（共用四選一畫面）→ 跑酷選門（最後，要畫新場景）
 8. 提醒功能（分級測驗決定不做，改用等級開關）
-9. 單字詞條三語內容已全部補完（3018/3018）；主題詞組、其餘文法內容仍待補
+9. 單字詞條三語內容已全部補完（3008 個）；連接詞與文法練習已補完（50 個文法點）；主題詞組仍待補
 
 ### 實作細節（第一版）
 

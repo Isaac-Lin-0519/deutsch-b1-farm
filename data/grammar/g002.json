@@ -1,0 +1,341 @@
+[
+  {
+    "id": "dass",
+    "group": "sub",
+    "de": "dass",
+    "pattern": "dass ＋ …動詞",
+    "zh": "（連接內容的）dass／that",
+    "en": "that",
+    "rule": "dass 引導內容子句，說出想法、說的話或感受；變位動詞放到子句最後。",
+    "ex": {
+      "de": "Ich glaube, {dass} er heute Abend zu Hause [ist].",
+      "zh": "我覺得他今天晚上在家。",
+      "en": "I think that he is at home tonight."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich glaube, {dass} der Film heute Abend gut [ist].",
+        "zh": "我覺得今晚的電影很好看。",
+        "en": "I think the film is good tonight.",
+        "options": ["ob", "denn", "deshalb"],
+        "why": "glauben 後面接的是一個想法，用 dass，動詞 ist 放句尾。ob 是「是否」，denn 和 deshalb 後面的動詞不會放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Mein Freund sagt, {dass}",
+        "tokens": ["er", "keine Zeit", "[hat]"],
+        "zh": "我的朋友說他沒有時間。",
+        "en": "My friend says that he has no time.",
+        "why": "dass 子句：主詞 er 在前，變位動詞 hat 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Es tut mir leid, {dass} ich zu spät [bin].",
+        "zh": "很抱歉我太晚到了。",
+        "en": "I'm sorry that I'm late.",
+        "options": ["ob", "denn", "deshalb"],
+        "why": "說出遺憾的內容用 dass，動詞 bin 放句尾。ob 不能接在 leid tun 後面，denn 和 deshalb 的動詞不會放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich hoffe, {dass}",
+        "tokens": ["du", "mir morgen", "helfen", "[kannst]"],
+        "zh": "我希望你明天可以幫我。",
+        "en": "I hope that you can help me tomorrow.",
+        "why": "有情態動詞時，變位的 kannst 放最後，不定式 helfen 在它前面。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich freue mich, {dass} du morgen [kommst].",
+        "zh": "我很高興你明天會來。",
+        "en": "I'm happy that you're coming tomorrow.",
+        "options": ["ob", "denn", "deshalb"],
+        "why": "sich freuen 後面的內容用 dass 帶出，變位動詞 kommst 在句尾。ob 表示「是否」，意思和語法都不合。"
+      }
+    ]
+  },
+  {
+    "id": "ob",
+    "group": "sub",
+    "de": "ob",
+    "pattern": "ob ＋ …動詞",
+    "zh": "是否",
+    "en": "whether / if",
+    "rule": "ob 引導間接問句，對應是非問句（可以用 ja／nein 回答）；變位動詞放到子句最後。陳述用 dass，是非問句用 ob。",
+    "ex": {
+      "de": "Ich weiß nicht, {ob} er morgen [kommt].",
+      "zh": "我不知道他明天會不會來。",
+      "en": "I don't know whether he is coming tomorrow."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich frage mich, {ob} Tom heute Abend Zeit [hat].",
+        "zh": "我在想 Tom 今天晚上有沒有空。",
+        "en": "I wonder whether Tom has time tonight.",
+        "options": ["dass", "denn", "deshalb"],
+        "why": "「有沒有空」是 ja／nein 的問題，所以用 ob，動詞 hat 在句尾。dass 只用來說出陳述的內容，denn 和 deshalb 的動詞不會放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich weiß nicht, {ob}",
+        "tokens": ["wir", "ein Taxi", "[brauchen]"],
+        "zh": "我不知道我們需不需要計程車。",
+        "en": "I don't know whether we need a taxi.",
+        "why": "ob 子句：主詞 wir 在前，變位動詞 brauchen 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Der Lehrer fragt, {ob} wir die Aufgabe [verstanden haben].",
+        "zh": "老師問我們有沒有聽懂這個題目。",
+        "en": "The teacher asks whether we have understood the task.",
+        "options": ["dass", "denn", "deshalb"],
+        "why": "fragen 後面接是非問句，用 ob；如果是說出一個事實就要用 dass。完成式在子句裡，變位的 haben 放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Er fragt mich, {ob}",
+        "tokens": ["ich", "ihm morgen", "helfen", "[kann]"],
+        "zh": "他問我明天能不能幫他。",
+        "en": "He asks me whether I can help him tomorrow.",
+        "why": "有情態動詞時，變位的 kann 放最後，不定式 helfen 在它前面。"
+      },
+      {
+        "type": "choice",
+        "de": "Sie fragt mich, {ob} ich Kaffee oder Tee [trinke].",
+        "zh": "她問我喝咖啡還是茶。",
+        "en": "She asks me whether I drink coffee or tea.",
+        "options": ["dass", "denn", "deshalb"],
+        "why": "間接問句用 ob 帶出，動詞 trinke 放句尾。dass 用在陳述內容，denn 和 deshalb 的動詞不會放最後。"
+      }
+    ]
+  },
+  {
+    "id": "wenn",
+    "group": "sub",
+    "de": "wenn",
+    "pattern": "wenn ＋ …動詞",
+    "zh": "如果；每當",
+    "en": "if / whenever",
+    "rule": "wenn 表示條件（如果），或現在、未來與重複發生的事（每當）；變位動詞放到子句最後。",
+    "ex": {
+      "de": "{Wenn} es am Wochenende nicht [regnet], gehen wir wandern.",
+      "zh": "如果週末沒有下雨，我們就去健行。",
+      "en": "If it doesn't rain at the weekend, we'll go hiking."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich rufe dich an, {wenn} ich morgen Zeit [habe].",
+        "zh": "如果我明天有空，我就打電話給你。",
+        "en": "I'll call you if I have time tomorrow.",
+        "options": ["als", "denn", "deshalb"],
+        "why": "這是未來的條件，用 wenn，動詞 habe 在句尾。als 只用在過去的單次事件，denn 和 deshalb 的動詞不會放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Du kannst mich anrufen, {wenn}",
+        "tokens": ["du", "Hilfe", "[brauchst]"],
+        "zh": "如果你需要幫忙，可以打電話給我。",
+        "en": "You can call me if you need help.",
+        "why": "wenn 子句：主詞 du 在前，變位動詞 brauchst 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Immer {wenn} ich müde [bin], trinke ich einen Kaffee.",
+        "zh": "每當我累的時候，我就喝一杯咖啡。",
+        "en": "Whenever I'm tired, I drink a coffee.",
+        "options": ["als", "denn", "deshalb"],
+        "why": "「每當」是重複發生的現在式習慣，用 wenn，動詞 bin 在子句最後。als 不能用在現在的事，denn 和 deshalb 的動詞不會放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich bin immer müde, {wenn}",
+        "tokens": ["ich", "früh", "[aufstehen muss]"],
+        "zh": "我必須早起的時候總是很累。",
+        "en": "I'm always tired when I have to get up early.",
+        "why": "有情態動詞時，變位的 muss 放最後，不定式 aufstehen 在它前面。"
+      },
+      {
+        "type": "choice",
+        "de": "{Wenn} du Hunger [hast], kannst du etwas aus dem Kühlschrank nehmen.",
+        "zh": "如果你餓了，可以從冰箱拿點東西。",
+        "en": "If you're hungry, you can take something from the fridge.",
+        "options": ["Als", "Denn", "Deshalb"],
+        "why": "這是現在的條件，用 Wenn，動詞 hast 在子句最後，接著主句的動詞 kannst。Als 不能用在現在的事。"
+      }
+    ]
+  },
+  {
+    "id": "als",
+    "group": "sub",
+    "de": "als",
+    "pattern": "als ＋ …動詞",
+    "zh": "當…的時候（過去單次）",
+    "en": "when (past, one time)",
+    "rule": "als 表示過去發生一次的事；現在、未來或重複發生的事要用 wenn。變位動詞放到子句最後。",
+    "ex": {
+      "de": "{Als} ich gestern nach Hause [kam], regnete es.",
+      "zh": "我昨天回家的時候，正在下雨。",
+      "en": "When I came home yesterday, it was raining."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "{Als} wir gestern im Park [waren], fing es an zu regnen.",
+        "zh": "我們昨天在公園的時候，開始下雨了。",
+        "en": "When we were in the park yesterday, it started to rain.",
+        "options": ["Wenn", "Ob", "Denn"],
+        "why": "gestern 是過去的單次事件，所以用 Als，動詞 waren 放子句最後。Wenn 用在現在、未來或重複的事，Ob 是「是否」，Denn 的動詞不會放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir wohnten in Berlin, {als}",
+        "tokens": ["ich", "ein Kind", "[war]"],
+        "zh": "我還是小孩的時候，我們住在柏林。",
+        "en": "We lived in Berlin when I was a child.",
+        "why": "als 子句：主詞 ich 在前，變位動詞 war 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Als} ich ein Kind [war], hatten wir einen Hund.",
+        "zh": "我還是小孩的時候，我們有一隻狗。",
+        "en": "When I was a child, we had a dog.",
+        "options": ["Ob", "Denn", "Deshalb"],
+        "why": "說的是過去的一段時間，用 Als，動詞 war 在子句最後，主句的動詞 hatten 緊接在逗號後面。Ob 是「是否」，Denn 和 Deshalb 的動詞不會放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Es war schon dunkel, {als}",
+        "tokens": ["wir", "nach Hause", "[kamen]"],
+        "zh": "我們回到家的時候，天已經黑了。",
+        "en": "It was already dark when we got home.",
+        "why": "als 子句：主詞 wir 在前，變位動詞 kamen 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Als} ich gestern Morgen [aufgestanden bin], war es noch dunkel.",
+        "zh": "我昨天早上起床的時候，天還是黑的。",
+        "en": "When I got up yesterday morning, it was still dark.",
+        "options": ["Ob", "Denn", "Deshalb"],
+        "why": "gestern Morgen 是過去的單次事件，用 Als；完成式在子句裡，變位的 bin 放最後。Ob、Denn、Deshalb 都不能這樣接。"
+      }
+    ]
+  },
+  {
+    "id": "bevor",
+    "group": "sub",
+    "de": "bevor",
+    "pattern": "bevor ＋ …動詞",
+    "zh": "在…之前",
+    "en": "before",
+    "rule": "bevor 表示子句的事發生在主句的事之後；變位動詞放到子句最後。",
+    "ex": {
+      "de": "Ich putze mir die Zähne, {bevor} ich ins Bett [gehe].",
+      "zh": "我在上床睡覺之前刷牙。",
+      "en": "I brush my teeth before I go to bed."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich dusche, {bevor} ich zur Arbeit [gehe].",
+        "zh": "我去上班之前先沖澡。",
+        "en": "I take a shower before I go to work.",
+        "options": ["vor", "denn", "danach"],
+        "why": "bevor 帶出子句，動詞 gehe 放最後。vor 是介系詞，後面要接名詞；denn 和 danach 後面的動詞不會放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Ruf mich an, {bevor}",
+        "tokens": ["du", "nach Hause", "[fährst]"],
+        "zh": "你回家之前打電話給我。",
+        "en": "Call me before you drive home.",
+        "why": "bevor 子句：主詞 du 在前，變位動詞 fährst 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Bevor} wir ins Kino [gehen], essen wir noch eine Pizza.",
+        "zh": "去電影院之前，我們還要吃一個披薩。",
+        "en": "Before we go to the cinema, we'll have a pizza.",
+        "options": ["Vor", "Denn", "Danach"],
+        "why": "子句放前面時，動詞 gehen 還是在子句最後，接著主句動詞 essen。Vor 後面要接名詞，Denn 和 Danach 的動詞不會放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir müssen noch einkaufen, {bevor}",
+        "tokens": ["die Gäste", "am Abend", "[kommen]"],
+        "zh": "在客人晚上來之前，我們還得去買東西。",
+        "en": "We still have to go shopping before the guests come in the evening.",
+        "why": "bevor 子句：主詞 die Gäste 在前，變位動詞 kommen 放最後。am Abend 放在主詞前面也可以。",
+        "alt": [
+          ["am Abend", "die Gäste", "[kommen]"]
+        ]
+      },
+      {
+        "type": "choice",
+        "de": "Er liest ein Buch, {bevor} er [einschläft].",
+        "zh": "他睡著之前會看一本書。",
+        "en": "He reads a book before he falls asleep.",
+        "options": ["vorher", "denn", "dann"],
+        "why": "bevor 子句裡，可分動詞 einschlafen 的變位形 einschläft 要整個放到句尾。vorher 和 dann 是副詞，denn 的動詞也不會放最後。"
+      }
+    ]
+  },
+  {
+    "id": "nachdem",
+    "group": "sub",
+    "de": "nachdem",
+    "pattern": "nachdem ＋ …動詞（Plusquamperfekt／Perfekt）",
+    "zh": "在…之後",
+    "en": "after",
+    "rule": "nachdem 表示子句的事先發生。主句用 Präteritum 或 Perfekt，子句用 Plusquamperfekt；主句用 Präsens，子句用 Perfekt。變位動詞放到子句最後。",
+    "ex": {
+      "de": "{Nachdem} ich nach Hause [gekommen war], habe ich gekocht.",
+      "zh": "我回到家之後，就煮了飯。",
+      "en": "After I had come home, I cooked."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "{Nachdem} wir [gegessen hatten], gingen wir spazieren.",
+        "zh": "我們吃完飯之後，就去散步了。",
+        "en": "After we had eaten, we went for a walk.",
+        "options": ["Danach", "Nach", "Dann"],
+        "why": "主句 gingen 是 Präteritum，所以子句用 Plusquamperfekt：gegessen hatten，hatten 放最後。Danach 和 Dann 後面的動詞不放最後，Nach 後面要接名詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir gingen spazieren, {nachdem}",
+        "tokens": ["wir", "zu Mittag", "[gegessen]", "[hatten]"],
+        "zh": "我們吃完午餐之後去散步了。",
+        "en": "We went for a walk after we had eaten lunch.",
+        "why": "主句 gingen 是 Präteritum，子句用 Plusquamperfekt：分詞 gegessen 在前，變位的 hatten 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich [gehe] ins Bett, {nachdem} ich den Film [gesehen habe].",
+        "zh": "我看完這部電影之後就去睡覺。",
+        "en": "I go to bed after I have watched the film.",
+        "options": ["danach", "nach", "dann"],
+        "why": "主句 gehe 是 Präsens，子句用 Perfekt：分詞 gesehen 在前，變位的 habe 放最後。danach 和 dann 後面的動詞不放最後，nach 要接名詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir haben Kaffee getrunken, {nachdem}",
+        "tokens": ["wir", "den Kuchen", "[gegessen]", "[hatten]"],
+        "zh": "我們吃完蛋糕之後喝了咖啡。",
+        "en": "We drank coffee after we had eaten the cake.",
+        "why": "主句用 Perfekt（haben getrunken），子句先發生的事用 Plusquamperfekt：分詞 gegessen 在前，變位的 hatten 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Nachdem} sie ihre Tasche [gepackt hatte], fuhr sie zum Bahnhof.",
+        "zh": "她收好包包之後，就去了火車站。",
+        "en": "After she had packed her bag, she drove to the station.",
+        "options": ["Danach", "Nach", "Dann"],
+        "why": "主句 fuhr 是 Präteritum，子句用 Plusquamperfekt：gepackt hatte，hatte 放子句最後。Danach 和 Dann 後面動詞不放最後，Nach 要接名詞。"
+      }
+    ]
+  }
+]

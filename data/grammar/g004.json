@@ -1,0 +1,459 @@
+[
+  {
+    "id": "deswegen",
+    "group": "adv",
+    "de": "deswegen",
+    "pattern": "deswegen ＋ 動詞 ＋ 主詞",
+    "zh": "因此、所以",
+    "en": "that's why, therefore",
+    "rule": "deswegen 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。意思和 deshalb 一樣。",
+    "ex": {
+      "de": "Ich bin müde, {deswegen} [gehe] ich früh ins Bett.",
+      "zh": "我很累，所以早點上床睡覺。",
+      "en": "I'm tired, so I'm going to bed early."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Mein Handy ist kaputt, {deswegen} [brauche] ich ein neues.",
+        "zh": "我的手機壞了，所以我需要一支新的。",
+        "en": "My phone is broken, so I need a new one.",
+        "options": [
+          "weil",
+          "denn",
+          "wegen"
+        ],
+        "why": "空格後面緊接動詞 brauche，再來才是主詞 ich，所以是副詞 deswegen。weil 的動詞要放最後；denn 後面先放主詞；wegen 接名詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich bin sehr müde, {deswegen}",
+        "tokens": [
+          "[gehe]",
+          "ich",
+          "heute früh ins Bett"
+        ],
+        "zh": "我很累，所以今天早點上床。",
+        "en": "I'm very tired, so I'm going to bed early today.",
+        "why": "deswegen 佔第一位，動詞 gehe 緊接在後，主詞 ich 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Es gibt keine Milch mehr. {Deswegen} [gehe] ich zum Supermarkt.",
+        "zh": "沒有牛奶了，所以我去超市。",
+        "en": "There is no milk left. That's why I'm going to the supermarket.",
+        "options": [
+          "Weil",
+          "Denn",
+          "Wegen"
+        ],
+        "why": "新的一句用 Deswegen 開頭，動詞 gehe 緊接在後。Denn 後面要先放主詞（Denn ich gehe …）；Weil 的動詞放最後；Wegen 接名詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir haben Hunger, {deswegen}",
+        "tokens": [
+          "[kochen]",
+          "wir",
+          "jetzt Nudeln"
+        ],
+        "zh": "我們餓了，所以現在煮麵。",
+        "en": "We're hungry, so we're cooking pasta now.",
+        "why": "deswegen 後面先放動詞 kochen，主詞 wir 跟在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Meine Schwester hat Geburtstag, {deswegen} [kaufe] ich ein Geschenk.",
+        "zh": "我姊姊生日，所以我買禮物。",
+        "en": "It's my sister's birthday, so I'm buying a present.",
+        "options": [
+          "weil",
+          "obwohl",
+          "dass"
+        ],
+        "why": "後面是「動詞 kaufe ＋ 主詞 ich」的順序，只有副詞 deswegen 可以。weil、obwohl、dass 的動詞都要放到句尾。"
+      }
+    ]
+  },
+  {
+    "id": "daher",
+    "group": "adv",
+    "de": "daher",
+    "pattern": "daher ＋ 動詞 ＋ 主詞",
+    "zh": "因此、所以",
+    "en": "therefore, hence",
+    "rule": "daher 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。",
+    "ex": {
+      "de": "Ich wohne am Bahnhof, {daher} [komme] ich nie zu spät.",
+      "zh": "我住在火車站旁，所以從不遲到。",
+      "en": "I live next to the station, so I'm never late."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich wohne direkt am Bahnhof, {daher} [komme] ich nie zu spät.",
+        "zh": "我住在火車站旁邊，所以我從不遲到。",
+        "en": "I live right by the station, so I'm never late.",
+        "options": [
+          "weil",
+          "denn",
+          "dass"
+        ],
+        "why": "空格後面緊接動詞 komme，再來才是主詞 ich，所以是副詞 daher。weil、dass 的動詞要放最後；denn 後面先放主詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Der Supermarkt ist nah, {daher}",
+        "tokens": [
+          "[gehe]",
+          "ich",
+          "zu Fuß"
+        ],
+        "zh": "超市很近，所以我走路去。",
+        "en": "The supermarket is close, so I go on foot.",
+        "why": "daher 佔第一位，動詞 gehe 緊接在後，主詞 ich 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Er hat kein Auto. {Daher} [fährt] er jeden Tag mit dem Bus.",
+        "zh": "他沒有車，所以每天搭公車。",
+        "en": "He has no car. That's why he takes the bus every day.",
+        "options": [
+          "Weil",
+          "Denn",
+          "Dass"
+        ],
+        "why": "新的一句用 Daher 開頭，動詞 fährt 緊接在後。Denn 後面要先放主詞（Denn er fährt …）；Weil、Dass 的動詞放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Das Wetter ist schön, {daher}",
+        "tokens": [
+          "[machen]",
+          "wir",
+          "einen Ausflug"
+        ],
+        "zh": "天氣很好，所以我們去郊遊。",
+        "en": "The weather is nice, so we're going on a trip.",
+        "why": "daher 後面先放動詞 machen，主詞 wir 跟在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Sie spricht gut Deutsch, {daher} [arbeitet] sie in Wien.",
+        "zh": "她德語說得很好，所以在維也納工作。",
+        "en": "She speaks good German, so she works in Vienna.",
+        "options": [
+          "weil",
+          "obwohl",
+          "wegen"
+        ],
+        "why": "後面是「動詞 arbeitet ＋ 主詞 sie」，只有副詞 daher 可以。weil、obwohl 的動詞要放最後；wegen 接名詞。"
+      }
+    ]
+  },
+  {
+    "id": "also",
+    "group": "adv",
+    "de": "also",
+    "pattern": "also ＋ 動詞 ＋ 主詞",
+    "zh": "所以、那麼",
+    "en": "so, therefore",
+    "rule": "also 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。用來說出結論。",
+    "ex": {
+      "de": "Es ist schon spät, {also} [gehen] wir nach Hause.",
+      "zh": "已經很晚了，所以我們回家吧。",
+      "en": "It's already late, so let's go home."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Es ist schon spät, {also} [gehen] wir jetzt nach Hause.",
+        "zh": "已經很晚了，所以我們現在回家。",
+        "en": "It's already late, so we're going home now.",
+        "options": [
+          "weil",
+          "denn",
+          "dass"
+        ],
+        "why": "空格後面緊接動詞 gehen，再來才是主詞 wir，所以是 also。weil、dass 的動詞要放最後；denn 後面先放主詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Du hast keine Zeit, {also}",
+        "tokens": [
+          "[nehme]",
+          "ich",
+          "das Paket",
+          "mit"
+        ],
+        "zh": "你沒時間，所以我把包裹帶走。",
+        "en": "You have no time, so I'll take the parcel with me.",
+        "why": "also 佔第一位，動詞 nehme 緊接在後，主詞 ich 跑到動詞後面，分離前綴 mit 留在句尾。"
+      },
+      {
+        "type": "choice",
+        "de": "Der Bus kommt nicht, {also} [nehmen] wir ein Taxi.",
+        "zh": "公車不來，所以我們搭計程車。",
+        "en": "The bus isn't coming, so we're taking a taxi.",
+        "options": [
+          "weil",
+          "denn",
+          "obwohl"
+        ],
+        "why": "後面是「動詞 nehmen ＋ 主詞 wir」，只有 also 可以。weil、obwohl 的動詞要放最後；denn 後面先放主詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Du bist erkältet, {also}",
+        "tokens": [
+          "[bleibst]",
+          "du",
+          "heute im Bett"
+        ],
+        "zh": "你感冒了，所以今天待在床上。",
+        "en": "You have a cold, so you're staying in bed today.",
+        "why": "also 後面先放動詞 bleibst，主詞 du 跟在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Alle Plätze sind besetzt. {Also} [müssen] wir stehen.",
+        "zh": "所有位子都滿了，所以我們得站著。",
+        "en": "All seats are taken. So we have to stand.",
+        "options": [
+          "Weil",
+          "Denn",
+          "Dass"
+        ],
+        "why": "新的一句用 Also 開頭，動詞 müssen 緊接在後。Denn 後面要先放主詞（Denn wir müssen …）；Weil、Dass 的動詞放最後。"
+      }
+    ]
+  },
+  {
+    "id": "jedoch",
+    "group": "adv",
+    "de": "jedoch",
+    "pattern": "jedoch ＋ 動詞 ＋ 主詞",
+    "zh": "然而",
+    "en": "however",
+    "rule": "jedoch 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。用來表示對比、轉折。",
+    "ex": {
+      "de": "Die Wohnung ist schön, {jedoch} [ist] sie sehr teuer.",
+      "zh": "這間公寓很漂亮，然而非常貴。",
+      "en": "The flat is nice; however, it is very expensive."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Die Wohnung ist schön, {jedoch} [ist] sie sehr teuer.",
+        "zh": "這間公寓很漂亮，然而非常貴。",
+        "en": "The flat is nice; however, it is very expensive.",
+        "options": [
+          "obwohl",
+          "weil",
+          "aber"
+        ],
+        "why": "空格後面緊接動詞 ist，再來才是主詞 sie，所以是副詞 jedoch。obwohl、weil 的動詞要放最後；aber 後面先放主詞（aber sie ist …）。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich möchte ins Kino gehen, {jedoch}",
+        "tokens": [
+          "[habe]",
+          "ich",
+          "heute keine Zeit"
+        ],
+        "zh": "我想去看電影，然而今天沒時間。",
+        "en": "I'd like to go to the cinema; however, I have no time today.",
+        "why": "jedoch 佔第一位，動詞 habe 緊接在後，主詞 ich 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Er lernt viel. {Jedoch} [versteht] er die Grammatik nicht.",
+        "zh": "他讀很多書，然而還是不懂文法。",
+        "en": "He studies a lot. However, he doesn't understand the grammar.",
+        "options": [
+          "Obwohl",
+          "Aber",
+          "Weil"
+        ],
+        "why": "新的一句用 Jedoch 開頭，動詞 versteht 緊接在後。Aber 後面要先放主詞（Aber er versteht …）；Obwohl、Weil 的動詞放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Der Kurs war interessant, {jedoch}",
+        "tokens": [
+          "[war]",
+          "er",
+          "zu schwer"
+        ],
+        "zh": "課程很有趣，然而太難了。",
+        "en": "The course was interesting; however, it was too difficult.",
+        "why": "jedoch 後面先放動詞 war，主詞 er 跟在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Das Hotel ist günstig, {jedoch} [liegt] es weit vom Zentrum.",
+        "zh": "這間旅館很便宜，然而離市中心很遠。",
+        "en": "The hotel is cheap; however, it is far from the centre.",
+        "options": [
+          "obwohl",
+          "dass",
+          "aber"
+        ],
+        "why": "後面是「動詞 liegt ＋ 主詞 es」，只有副詞 jedoch 可以。obwohl、dass 的動詞要放最後；aber 後面先放主詞。"
+      }
+    ]
+  },
+  {
+    "id": "allerdings",
+    "group": "adv",
+    "de": "allerdings",
+    "pattern": "allerdings ＋ 動詞 ＋ 主詞",
+    "zh": "不過",
+    "en": "however, though",
+    "rule": "allerdings 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。語氣是補充一個保留或缺點。",
+    "ex": {
+      "de": "Das Essen schmeckt gut, {allerdings} [ist] es ziemlich scharf.",
+      "zh": "菜很好吃，不過滿辣的。",
+      "en": "The food tastes good; it is quite spicy, though."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Das Essen schmeckt gut, {allerdings} [ist] es ziemlich scharf.",
+        "zh": "菜很好吃，不過滿辣的。",
+        "en": "The food tastes good; it is quite spicy, though.",
+        "options": [
+          "obwohl",
+          "aber",
+          "weil"
+        ],
+        "why": "空格後面緊接動詞 ist，再來才是主詞 es，所以是副詞 allerdings。obwohl、weil 的動詞要放最後；aber 後面先放主詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich komme gern zur Party, {allerdings}",
+        "tokens": [
+          "[muss]",
+          "ich",
+          "früh gehen"
+        ],
+        "zh": "我很樂意去派對，不過我得早點走。",
+        "en": "I'd love to come to the party; however, I have to leave early.",
+        "why": "allerdings 佔第一位，動詞 muss 緊接在後，主詞 ich 跑到動詞後面，gehen 留在句尾。"
+      },
+      {
+        "type": "choice",
+        "de": "Der Film war gut. {Allerdings} [war] er sehr lang.",
+        "zh": "這部電影不錯，不過很長。",
+        "en": "The film was good. It was very long, though.",
+        "options": [
+          "Obwohl",
+          "Aber",
+          "Dass"
+        ],
+        "why": "新的一句用 Allerdings 開頭，動詞 war 緊接在後。Aber 後面要先放主詞（Aber er war …）；Obwohl、Dass 的動詞放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich möchte ein neues Handy, {allerdings}",
+        "tokens": [
+          "[ist]",
+          "es",
+          "mir zu teuer"
+        ],
+        "zh": "我想要一支新手機，不過對我來說太貴了。",
+        "en": "I'd like a new phone; however, it's too expensive for me.",
+        "why": "allerdings 後面先放動詞 ist，主詞 es 跟在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Die Reise war schön, {allerdings} [haben] wir viel Geld ausgegeben.",
+        "zh": "旅行很棒，不過我們花了很多錢。",
+        "en": "The trip was lovely; however, we spent a lot of money.",
+        "options": [
+          "obwohl",
+          "weil",
+          "denn"
+        ],
+        "why": "後面是「動詞 haben ＋ 主詞 wir」，只有副詞 allerdings 可以。obwohl、weil 的動詞要放最後；denn 後面先放主詞。"
+      }
+    ]
+  },
+  {
+    "id": "dann",
+    "group": "adv",
+    "de": "dann",
+    "pattern": "dann ＋ 動詞 ＋ 主詞",
+    "zh": "然後、那麼",
+    "en": "then",
+    "rule": "dann 是副詞，自己佔第一位，動詞緊接在後，主詞跑到動詞後面。可以表示時間上的先後，也可以接在條件後面。",
+    "ex": {
+      "de": "Zuerst esse ich, {dann} [gehe] ich zum Sport.",
+      "zh": "我先吃飯，然後去運動。",
+      "en": "First I eat, then I go to the gym."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Zuerst esse ich etwas, {dann} [gehe] ich zum Sport.",
+        "zh": "我先吃點東西，然後去運動。",
+        "en": "First I eat something, then I go to the gym.",
+        "options": [
+          "weil",
+          "dass",
+          "wenn"
+        ],
+        "why": "空格後面緊接動詞 gehe，再來才是主詞 ich，所以是副詞 dann。weil、dass、wenn 的動詞都要放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Zuerst machen wir die Hausaufgaben, {dann}",
+        "tokens": [
+          "[sehen]",
+          "wir",
+          "einen Film"
+        ],
+        "zh": "我們先寫作業，然後看一部電影。",
+        "en": "First we do the homework, then we watch a film.",
+        "why": "dann 佔第一位，動詞 sehen 緊接在後，主詞 wir 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich putze zuerst die Küche. {Dann} [koche] ich das Abendessen.",
+        "zh": "我先打掃廚房，然後煮晚餐。",
+        "en": "I clean the kitchen first. Then I cook dinner.",
+        "options": [
+          "Weil",
+          "Dass",
+          "Wenn"
+        ],
+        "why": "新的一句用 Dann 開頭，動詞 koche 緊接在後。Weil、Dass、Wenn 的動詞都要放到句尾。"
+      },
+      {
+        "type": "order",
+        "lead": "Zuerst gehe ich zur Bank, {dann}",
+        "tokens": [
+          "[treffe]",
+          "ich",
+          "meine Freundin"
+        ],
+        "zh": "我先去銀行，然後和朋友碰面。",
+        "en": "First I go to the bank, then I meet my friend.",
+        "why": "dann 後面先放動詞 treffe，主詞 ich 跟在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Erst lernen wir Vokabeln, {dann} [machen] wir eine Pause.",
+        "zh": "我們先背單字，然後休息一下。",
+        "en": "First we learn vocabulary, then we take a break.",
+        "options": [
+          "weil",
+          "obwohl",
+          "dass"
+        ],
+        "why": "後面是「動詞 machen ＋ 主詞 wir」，只有副詞 dann 可以。weil、obwohl、dass 的動詞要放最後。"
+      }
+    ]
+  }
+]

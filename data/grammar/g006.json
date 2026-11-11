@@ -1,0 +1,564 @@
+[
+  {
+    "id": "entweder-oder",
+    "group": "pair",
+    "de": "entweder … oder",
+    "pattern": "entweder … oder",
+    "zh": "不是…就是…、要嘛…要嘛…",
+    "en": "either … or",
+    "rule": "entweder 和 oder 成對出現，表示二選一；兩個詞本身不改變語序，動詞照一般主句的位置（主詞後接動詞）。entweder 放句首時，動詞接在它後面（V2）。",
+    "ex": {
+      "de": "Ich [trinke] entweder Tee {oder} Kaffee.",
+      "zh": "我要嘛喝茶，要嘛喝咖啡。",
+      "en": "I'll have either tea or coffee."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich [trinke] entweder Tee {oder} Kaffee.",
+        "zh": "我要嘛喝茶，要嘛喝咖啡。",
+        "en": "I'll have either tea or coffee.",
+        "options": [
+          "noch",
+          "als auch",
+          "aber"
+        ],
+        "why": "entweder 一定搭配 oder 表示二選一。noch 是 weder 的搭檔，als auch 是 sowohl 的搭檔，aber 不能和 entweder 配成一對。"
+      },
+      {
+        "type": "order",
+        "lead": "Am Wochenende [besuchen] wir {entweder}",
+        "tokens": [
+          "meine Oma",
+          "oder",
+          "meinen Onkel"
+        ],
+        "alt": [
+          ["meinen Onkel", "oder", "meine Oma"]
+        ],
+        "zh": "週末我們要嘛去看我奶奶，要嘛去看我叔叔。",
+        "en": "At the weekend we'll visit either my grandma or my uncle.",
+        "why": "entweder 後面放第一個選項 meine Oma，接著 oder，再放第二個選項 meinen Onkel；動詞 besuchen 已在前面的第二位。"
+      },
+      {
+        "type": "choice",
+        "de": "{Entweder} [lernst] du jetzt, oder du [verlierst] später Zeit.",
+        "zh": "要嘛你現在學，要嘛你之後會浪費時間。",
+        "en": "Either you study now, or you'll lose time later.",
+        "options": [
+          "Weder",
+          "Sowohl",
+          "Je"
+        ],
+        "why": "句中已經有 oder，所以前面要用 Entweder。Weder 要搭 noch，Sowohl 要搭 als auch，Je 會帶出動詞放最後的子句。"
+      },
+      {
+        "type": "order",
+        "lead": "{Entweder} [nehmen] wir den Bus, oder",
+        "tokens": [
+          "wir",
+          "[gehen]",
+          "zu Fuß"
+        ],
+        "alt": [
+          ["zu Fuß", "[gehen]", "wir"]
+        ],
+        "zh": "我們要嘛搭公車，要嘛走路。",
+        "en": "Either we take the bus or we walk.",
+        "why": "Entweder 之後動詞 nehmen 在第二位、主詞 wir 在後；oder 後面是新的主句，動詞 gehen 在第二位（主詞 wir 在前，或把 zu Fuß 放到句首、wir 移到動詞後面）。"
+      },
+      {
+        "type": "choice",
+        "de": "Sie [wohnt] entweder in Wien {oder} in Graz.",
+        "zh": "她要嘛住在維也納，要嘛住在格拉茨。",
+        "en": "She lives either in Vienna or in Graz.",
+        "options": [
+          "sondern",
+          "noch",
+          "als auch"
+        ],
+        "why": "entweder 後面的搭檔只能是 oder。sondern 要接在 nicht 之後；noch 是 weder 的搭檔，als auch 是 sowohl 的搭檔。"
+      }
+    ]
+  },
+  {
+    "id": "sowohl-als-auch",
+    "group": "pair",
+    "de": "sowohl … als auch",
+    "pattern": "sowohl … als auch",
+    "zh": "…和…都、既…又…",
+    "en": "both … and",
+    "rule": "sowohl … als auch 把兩個並列的成分連在一起，表示兩者都有。兩個詞不改變語序；如果兩個都是主詞，動詞用複數變位。",
+    "ex": {
+      "de": "Ich [spreche] sowohl Deutsch {als auch} Englisch.",
+      "zh": "我德文和英文都會說。",
+      "en": "I speak both German and English."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich [spreche] sowohl Deutsch {als auch} Englisch.",
+        "zh": "我德文和英文都會說。",
+        "en": "I speak both German and English.",
+        "options": [
+          "oder",
+          "noch",
+          "sondern"
+        ],
+        "why": "sowohl 後面的搭檔只能是 als auch。oder 搭 entweder，noch 搭 weder，sondern 要在 nicht 之後。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich [esse] {sowohl}",
+        "tokens": [
+          "Fleisch",
+          "als auch",
+          "Gemüse"
+        ],
+        "alt": [
+          ["Gemüse", "als auch", "Fleisch"]
+        ],
+        "zh": "我肉和蔬菜都吃。",
+        "en": "I eat both meat and vegetables.",
+        "why": "sowohl 後面先放 Fleisch，接著 als auch，再放 Gemüse；兩個成分並列，語序固定。"
+      },
+      {
+        "type": "choice",
+        "de": "Er [spielt] {sowohl} Gitarre als auch Klavier.",
+        "zh": "他吉他和鋼琴都會彈。",
+        "en": "He plays both guitar and piano.",
+        "options": [
+          "weder",
+          "entweder",
+          "nicht nur"
+        ],
+        "why": "句中有 als auch，前面只能是 sowohl。weder 要搭 noch，entweder 要搭 oder，nicht nur 要搭 sondern auch。"
+      },
+      {
+        "type": "order",
+        "lead": "{Sowohl} mein Bruder",
+        "tokens": [
+          "als auch",
+          "meine Schwester",
+          "[kommen]",
+          "zur Party"
+        ],
+        "zh": "我哥哥和我姊姊都會來參加派對。",
+        "en": "Both my brother and my sister are coming to the party.",
+        "why": "兩個主詞用 sowohl … als auch 連在一起，動詞要用複數 kommen，放在主詞 meine Schwester 後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Im Urlaub [besuchen] wir sowohl Berlin {als auch} Hamburg.",
+        "zh": "假期我們去柏林和漢堡。",
+        "en": "On holiday we're visiting both Berlin and Hamburg.",
+        "options": [
+          "noch",
+          "oder",
+          "sondern"
+        ],
+        "why": "sowohl Berlin 後面接 als auch Hamburg。noch 只用在 weder 之後，oder 是 entweder 的搭檔，sondern 要接在否定後面。"
+      }
+    ]
+  },
+  {
+    "id": "weder-noch",
+    "group": "pair",
+    "de": "weder … noch",
+    "pattern": "weder … noch",
+    "zh": "既不…也不…",
+    "en": "neither … nor",
+    "rule": "weder … noch 表示兩者都沒有，本身已含否定，所以句子裡不再加 nicht 或 kein。動詞照一般主句位置，不受影響。",
+    "ex": {
+      "de": "Ich trinke weder Kaffee {noch} Tee.",
+      "zh": "我既不喝咖啡也不喝茶。",
+      "en": "I drink neither coffee nor tea."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich [trinke] weder Kaffee {noch} Tee.",
+        "zh": "我既不喝咖啡也不喝茶。",
+        "en": "I drink neither coffee nor tea.",
+        "options": [
+          "oder",
+          "und",
+          "als auch"
+        ],
+        "why": "weder 後面的搭檔只能是 noch。oder、und、als auch 都不能和 weder 配成一對。"
+      },
+      {
+        "type": "order",
+        "lead": "Mein Opa [hat] {weder}",
+        "tokens": [
+          "ein Handy",
+          "noch",
+          "einen Computer"
+        ],
+        "alt": [
+          ["einen Computer", "noch", "ein Handy"]
+        ],
+        "zh": "我爺爺既沒有手機也沒有電腦。",
+        "en": "My grandpa has neither a mobile phone nor a computer.",
+        "why": "weder 之後放第一項 ein Handy，接著 noch，再放第二項 einen Computer；句中不用 kein 或 nicht，因為 weder 已經是否定。"
+      },
+      {
+        "type": "choice",
+        "de": "Er [hat] {weder} Zeit noch Geld.",
+        "zh": "他既沒有時間也沒有錢。",
+        "en": "He has neither time nor money.",
+        "options": [
+          "entweder",
+          "sowohl",
+          "nicht nur"
+        ],
+        "why": "句中有 noch，前面要用 weder。entweder 要搭 oder，sowohl 要搭 als auch，nicht nur 要搭 sondern auch。"
+      },
+      {
+        "type": "order",
+        "lead": "Heute [habe] ich {weder}",
+        "tokens": [
+          "Hunger",
+          "noch",
+          "Durst"
+        ],
+        "alt": [
+          ["Durst", "noch", "Hunger"]
+        ],
+        "zh": "我今天既不餓也不渴。",
+        "en": "Today I'm neither hungry nor thirsty.",
+        "why": "動詞 habe 在主詞 ich 前面的第二位；weder 後面放 Hunger，接著 noch，再放 Durst。"
+      },
+      {
+        "type": "choice",
+        "de": "Sie [mag] weder Fisch {noch} Fleisch.",
+        "zh": "她既不喜歡魚也不喜歡肉。",
+        "en": "She likes neither fish nor meat.",
+        "options": [
+          "sondern",
+          "und",
+          "als auch"
+        ],
+        "why": "weder Fisch 後面只能接 noch Fleisch。sondern 要在 nicht 之後，und 和 als auch 都不是 weder 的搭檔。"
+      }
+    ]
+  },
+  {
+    "id": "je-desto",
+    "group": "pair",
+    "de": "je … desto／umso",
+    "pattern": "je ＋ 比較級 …動詞，desto／umso ＋ 比較級 ＋ 動詞",
+    "zh": "越…越…",
+    "en": "the more … the more …",
+    "rule": "je 帶出子句，變位動詞放到最後；desto（或 umso）後面接比較級，動詞放第二位，主詞在動詞之後。je 和 desto 後面都要用比較級。",
+    "ex": {
+      "de": "Je mehr ich [übe], {desto} besser [spiele] ich Klavier.",
+      "zh": "我越練習，鋼琴就彈得越好。",
+      "en": "The more I practise, the better I play the piano."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Je mehr ich [übe], {desto} besser [spiele] ich Klavier.",
+        "zh": "我越練習，鋼琴就彈得越好。",
+        "en": "The more I practise, the better I play the piano.",
+        "options": [
+          "dann",
+          "als",
+          "wenn"
+        ],
+        "why": "je 子句的動詞 übe 放最後，後面的主句用 desto ＋ 比較級 besser，動詞 spiele 在第二位。dann、als、wenn 都不能和 je 配成一對。"
+      },
+      {
+        "type": "order",
+        "lead": "{Je} mehr ich [lerne], desto",
+        "tokens": [
+          "besser",
+          "[verstehe]",
+          "ich"
+        ],
+        "zh": "我學得越多，就越懂。",
+        "en": "The more I learn, the better I understand.",
+        "why": "je 子句的動詞 lerne 在最後；desto 後面接比較級 besser，然後動詞 verstehe 在第二位，主詞 ich 放後面。"
+      },
+      {
+        "type": "choice",
+        "de": "{Je} älter er [wird], desto ruhiger [wird] er.",
+        "zh": "他越老，就越沉穩。",
+        "en": "The older he gets, the calmer he becomes.",
+        "options": [
+          "Wenn",
+          "Weil",
+          "Obwohl"
+        ],
+        "why": "句子後半有 desto，前面要用 Je ＋ 比較級 älter。Wenn、Weil、Obwohl 後面的子句不會把比較級 älter 放在主詞 er 前面。"
+      },
+      {
+        "type": "order",
+        "lead": "{Je} früher du [aufstehst],",
+        "tokens": [
+          "desto",
+          "mehr Zeit",
+          "[hast]",
+          "du"
+        ],
+        "zh": "你越早起床，就有越多的時間。",
+        "en": "The earlier you get up, the more time you have.",
+        "why": "je 子句的動詞 aufstehst 放最後；desto 之後接比較級 mehr Zeit，動詞 hast 在第二位，主詞 du 在後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Je länger wir warten, {umso} müder [werden] wir.",
+        "zh": "我們等得越久，就越累。",
+        "en": "The longer we wait, the more tired we get.",
+        "options": [
+          "dann",
+          "wenn",
+          "als"
+        ],
+        "why": "umso 和 desto 意思一樣，後面接比較級 müder，動詞 werden 在第二位、主詞 wir 在後面。dann、wenn、als 都不能這樣用。"
+      }
+    ]
+  },
+  {
+    "id": "zwar-aber",
+    "group": "pair",
+    "de": "zwar … aber",
+    "pattern": "zwar … aber",
+    "zh": "雖然…但是…",
+    "en": "it's true that … but …",
+    "rule": "zwar 先承認一件事，aber 再說出相反的重點。zwar 通常放在句中，也可以放句首（動詞在第二位）；aber 是並列連接詞，後面的語序不變：主詞在前，動詞第二位。",
+    "ex": {
+      "de": "Das Hotel ist {zwar} klein, aber es [ist] sehr sauber.",
+      "zh": "這間旅館雖然小，但是很乾淨。",
+      "en": "The hotel is small, but it is very clean."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Das Hotel [ist] {zwar} klein, aber es [ist] sehr sauber.",
+        "zh": "這間旅館雖然小，但是很乾淨。",
+        "en": "The hotel is small, but it is very clean.",
+        "options": [
+          "weder",
+          "sowohl",
+          "als auch"
+        ],
+        "why": "句子後半有 aber，前半要放 zwar 先承認缺點。weder、sowohl、als auch 都要搭自己的搭檔（noch、als auch 要有 sowohl 在前），不能搭 aber。"
+      },
+      {
+        "type": "order",
+        "lead": "Der Film [ist] {zwar} lang, aber",
+        "tokens": [
+          "er",
+          "[ist]",
+          "sehr spannend"
+        ],
+        "alt": [
+          ["sehr spannend", "[ist]", "er"]
+        ],
+        "zh": "這部電影雖然長，但是很精彩。",
+        "en": "The film is long, but it's very exciting.",
+        "why": "aber 之後是一般的主句：主詞 er 在前，動詞 ist 在第二位。"
+      },
+      {
+        "type": "choice",
+        "de": "{Zwar} [ist] die Wohnung klein, aber sie [ist] sehr gemütlich.",
+        "zh": "這間公寓雖然小，但是很舒適。",
+        "en": "The flat is small, but it's very cosy.",
+        "options": [
+          "Weder",
+          "Sowohl",
+          "Je"
+        ],
+        "why": "句中有 aber，開頭要用 Zwar；Zwar 在第一位，動詞 ist 在第二位。Weder、Sowohl、Je 都不能和 aber 配成一對。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich [bin] {zwar} müde,",
+        "tokens": [
+          "aber",
+          "ich",
+          "[gehe]",
+          "noch joggen"
+        ],
+        "alt": [
+          ["aber", "noch joggen", "[gehe]", "ich"]
+        ],
+        "zh": "我雖然很累，但是還是要去慢跑。",
+        "en": "I'm tired, but I'm still going jogging.",
+        "why": "aber 後面是一般的主句，主詞 ich 在前，動詞 gehe 在第二位，noch joggen 放後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich habe zwar wenig Zeit, {aber} ich [komme] gern mit.",
+        "zh": "我雖然沒什麼時間，但是我很樂意一起去。",
+        "en": "I don't have much time, but I'm happy to come along.",
+        "options": [
+          "sondern",
+          "noch",
+          "als auch"
+        ],
+        "why": "zwar 要搭 aber，後面是「主詞 ich ＋ 動詞 komme」。sondern 要接在 nicht 之後，noch 和 als auch 是別組的搭檔。"
+      }
+    ]
+  },
+  {
+    "id": "nicht-nur",
+    "group": "pair",
+    "de": "nicht nur … sondern auch",
+    "pattern": "nicht nur … sondern auch",
+    "zh": "不只…而且還…",
+    "en": "not only … but also …",
+    "rule": "nicht nur … sondern auch 把兩件事加在一起，重點放在後面。nicht nur 放句首時，動詞接在後面（V2）；sondern 是並列連接詞，後面語序照一般主句。",
+    "ex": {
+      "de": "Sie [spricht] {nicht nur} Englisch, sondern auch Spanisch.",
+      "zh": "她不只會說英文，也會說西班牙文。",
+      "en": "She speaks not only English but also Spanish."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Sie [spricht] {nicht nur} Englisch, sondern auch Spanisch.",
+        "zh": "她不只會說英文，也會說西班牙文。",
+        "en": "She speaks not only English but also Spanish.",
+        "options": [
+          "weder",
+          "entweder",
+          "sowohl"
+        ],
+        "why": "後面有 sondern auch，前面要用 nicht nur。weder、entweder、sowohl 各自搭配 noch、oder、als auch。"
+      },
+      {
+        "type": "order",
+        "lead": "Tom [spielt] {nicht nur} Fußball,",
+        "tokens": [
+          "sondern",
+          "auch",
+          "Tennis"
+        ],
+        "alt": [
+          ["sondern", "Tennis", "auch"]
+        ],
+        "zh": "Tom 不只踢足球，也打網球。",
+        "en": "Tom plays not only football but also tennis.",
+        "why": "nicht nur 後面是第一項 Fußball，逗號後面接 sondern auch，再放第二項 Tennis。"
+      },
+      {
+        "type": "choice",
+        "de": "Er [isst] nicht nur Fleisch, {sondern} auch Gemüse.",
+        "zh": "他不只吃肉，也吃蔬菜。",
+        "en": "He eats not only meat but also vegetables.",
+        "options": [
+          "noch",
+          "entweder",
+          "dass"
+        ],
+        "why": "nicht nur 的搭檔是 sondern auch。noch 要放在 weder 之後，entweder 要搭 oder，dass 會開啟動詞放最後的子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Der Kurs [ist] {nicht nur} billig,",
+        "tokens": [
+          "sondern",
+          "auch",
+          "sehr gut"
+        ],
+        "alt": [
+          ["sondern", "sehr gut", "auch"]
+        ],
+        "zh": "這個課不只便宜，也很棒。",
+        "en": "The course is not only cheap but also very good.",
+        "why": "動詞 ist 在前面的第二位；逗號後面是 sondern auch，再接 sehr gut。"
+      },
+      {
+        "type": "choice",
+        "de": "{Nicht nur} [ist] die Wohnung klein, sondern sie [ist] auch teuer.",
+        "zh": "這間公寓不只小，而且也很貴。",
+        "en": "The flat is not only small but also expensive.",
+        "options": [
+          "Weder",
+          "Entweder",
+          "Sowohl"
+        ],
+        "why": "Nicht nur 放句首，動詞 ist 緊接在後；後半句是 sondern sie ist auch teuer。Weder、Entweder、Sowohl 都不能和 sondern 配成一對。"
+      }
+    ]
+  },
+  {
+    "id": "einerseits",
+    "group": "pair",
+    "de": "einerseits … andererseits",
+    "pattern": "einerseits … andererseits",
+    "zh": "一方面…另一方面…",
+    "en": "on the one hand … on the other hand …",
+    "rule": "einerseits 和 andererseits 是副詞，各自佔第一位，動詞緊接在後，主詞跑到動詞後面。兩個詞用來對照兩個看法或兩面。",
+    "ex": {
+      "de": "{Einerseits} [möchte] ich reisen, andererseits [habe] ich wenig Geld.",
+      "zh": "一方面我想去旅行，另一方面我沒什麼錢。",
+      "en": "On the one hand I'd like to travel, on the other hand I don't have much money."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Einerseits [ist] das Auto praktisch, {andererseits} [ist] es teuer.",
+        "zh": "一方面車子很方便，另一方面它很貴。",
+        "en": "On the one hand the car is practical, on the other hand it is expensive.",
+        "options": [
+          "aber",
+          "und",
+          "sondern"
+        ],
+        "why": "andererseits 是副詞，佔第一位，所以動詞 ist 緊接在後、主詞 es 在動詞後面。aber、und、sondern 後面要先放主詞。"
+      },
+      {
+        "type": "order",
+        "lead": "{Einerseits} [möchte] ich reisen, andererseits",
+        "tokens": [
+          "[habe]",
+          "ich",
+          "wenig Geld"
+        ],
+        "zh": "一方面我想去旅行，另一方面我沒什麼錢。",
+        "en": "On the one hand I'd like to travel, on the other hand I don't have much money.",
+        "why": "andererseits 佔第一位，動詞 habe 緊接在後，主詞 ich 跑到動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Einerseits [mag] ich Katzen, {andererseits} [finde] ich Hunde süß.",
+        "zh": "一方面我喜歡貓，另一方面我也覺得狗很可愛。",
+        "en": "On the one hand I like cats, on the other hand I find dogs cute.",
+        "options": [
+          "oder",
+          "denn",
+          "damit"
+        ],
+        "why": "空格後面是動詞 finde 再接主詞 ich，這是副詞 andererseits 的語序。oder、denn 後面主詞要在動詞前面，damit 的動詞要放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "{Einerseits} [ist] das Auto praktisch, andererseits",
+        "tokens": [
+          "[ist]",
+          "es",
+          "sehr teuer"
+        ],
+        "zh": "一方面車子很方便，另一方面它非常貴。",
+        "en": "On the one hand the car is practical, on the other hand it is very expensive.",
+        "why": "andererseits 佔第一位，動詞 ist 緊接在後，主詞 es 在動詞後面，sehr teuer 放句尾。"
+      },
+      {
+        "type": "choice",
+        "de": "Einerseits [liebe] ich meine Stadt, {andererseits} [möchte] ich mal im Ausland leben.",
+        "zh": "一方面我愛我的城市，另一方面我也想去國外住一陣子。",
+        "en": "On the one hand I love my city, on the other hand I'd like to live abroad for a while.",
+        "options": [
+          "sondern",
+          "damit",
+          "dass"
+        ],
+        "why": "andererseits 後面動詞 möchte 在第二位、主詞 ich 在後。sondern 後面主詞要在前，damit 和 dass 的動詞要放最後。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,428 @@
+[
+  {
+    "id": "ohne-zu",
+    "group": "zu",
+    "de": "ohne … zu",
+    "pattern": "ohne … zu ＋ 不定式",
+    "zh": "沒有…就…、不…地",
+    "en": "without (doing)",
+    "rule": "ohne … zu 表示「沒做某事就…」，兩邊主詞相同時用：子句裡不寫主詞，zu ＋ 不定式放最後。可分動詞的 zu 要插在前綴和動詞中間。",
+    "ex": {
+      "de": "Sie geht zur Schule, {ohne} zu [frühstücken].",
+      "zh": "她沒吃早餐就去上學。",
+      "en": "She goes to school without having breakfast."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Er ist gegangen, {ohne} ein Wort zu [sagen].",
+        "zh": "他一句話也沒說就走了。",
+        "en": "He left without saying a word.",
+        "options": ["damit", "weil", "dass"],
+        "why": "後面沒有主詞，句尾是 zu sagen，所以是 ohne … zu。damit、weil、dass 後面都要有主詞和變位動詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Er fuhr los, {ohne}",
+        "tokens": ["einen Blick auf die Karte", "[zu]", "[werfen]"],
+        "zh": "他沒看一眼地圖就出發了。",
+        "en": "He set off without glancing at the map.",
+        "why": "ohne 後面不寫主詞，其他成分放中間，zu werfen 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Du darfst nicht [gehen], {ohne zu bezahlen}.",
+        "zh": "你不可以沒付錢就走。",
+        "en": "You must not leave without paying.",
+        "options": ["ohne bezahlen zu", "ohne du bezahlst", "ohne dass zu bezahlen"],
+        "why": "兩邊主詞都是 du，用 ohne … zu：不寫主詞，zu 放在不定式 bezahlen 前面。zu 不能放在動詞後面；ohne dass 後面要接有主詞的句子。"
+      },
+      {
+        "type": "order",
+        "lead": "Sie hat die Prüfung bestanden, {ohne}",
+        "tokens": ["viel", "[zu]", "[lernen]"],
+        "zh": "她沒怎麼讀書就通過了考試。",
+        "en": "She passed the exam without studying much.",
+        "why": "ohne 子句不寫主詞，viel 在前，zu lernen 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Er hat mir geholfen, {ohne} etwas dafür zu [verlangen].",
+        "zh": "他幫了我，卻沒有要求任何回報。",
+        "en": "He helped me without asking for anything in return.",
+        "options": ["obwohl", "dass", "falls"],
+        "why": "後面沒有主詞，句尾是 zu verlangen，所以用 ohne。obwohl、dass、falls 後面都要有主詞，動詞變位放最後。"
+      }
+    ]
+  },
+  {
+    "id": "statt-zu",
+    "group": "zu",
+    "de": "statt … zu",
+    "pattern": "statt … zu ＋ 不定式",
+    "zh": "不…而是…",
+    "en": "instead of (doing)",
+    "rule": "statt … zu 表示「不做 A，而是做 B」，兩邊主詞相同時用：子句裡不寫主詞，zu ＋ 不定式放最後。statt 後面接名詞才用屬格（statt des Autos）。",
+    "ex": {
+      "de": "Ich nehme den Zug, {statt} mit dem Auto zu [fahren].",
+      "zh": "我搭火車，而不是開車。",
+      "en": "I'm taking the train instead of driving."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Sie bleibt im Bett, {statt} zur Arbeit zu [gehen].",
+        "zh": "她留在床上，而不去上班。",
+        "en": "She stays in bed instead of going to work.",
+        "options": ["damit", "weil", "dass"],
+        "why": "後面沒有主詞，句尾是 zu gehen，所以是 statt … zu。damit、weil、dass 後面都要有主詞和變位動詞。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir bleiben zu Hause, {statt}",
+        "tokens": ["ins Kino", "[zu]", "[gehen]"],
+        "zh": "我們待在家裡，而不是去看電影。",
+        "en": "We're staying at home instead of going to the cinema.",
+        "why": "statt 後面不寫主詞，ins Kino 在前，zu gehen 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Sie [fährt] mit dem Bus, {statt zu laufen}.",
+        "zh": "她搭公車，而不是走路。",
+        "en": "She takes the bus instead of walking.",
+        "options": ["statt des Laufens zu", "statt sie läuft", "statt laufen zu"],
+        "why": "兩邊主詞都是 sie，用 statt … zu：不寫主詞，zu laufen 放最後。statt des Laufens 是屬格名詞的寫法，後面不能再接 zu；statt sie läuft 的結構也不對。"
+      },
+      {
+        "type": "order",
+        "lead": "Er spielt am Handy, {statt}",
+        "tokens": ["seine Hausaufgaben", "[zu]", "[machen]"],
+        "zh": "他在玩手機，而不是寫作業。",
+        "en": "He plays on his phone instead of doing his homework.",
+        "why": "statt 後面不寫主詞，受詞 seine Hausaufgaben 在前，zu machen 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Wir [gehen] zu Fuß, {statt} ein Taxi zu [nehmen].",
+        "zh": "我們走路，而不是搭計程車。",
+        "en": "We're walking instead of taking a taxi.",
+        "options": ["obwohl", "falls", "bevor"],
+        "why": "後面沒有主詞，句尾是 zu nehmen，所以用 statt。obwohl、falls、bevor 後面都要有主詞和變位動詞。"
+      }
+    ]
+  },
+  {
+    "id": "waehrend-gen",
+    "group": "gen",
+    "de": "während（介系詞）",
+    "pattern": "während ＋ 屬格",
+    "zh": "在…期間（＋名詞）",
+    "en": "during",
+    "ask": "後面接什麼格？名詞怎麼變？",
+    "forms": [
+      ["陽性 der", "während des Tages"],
+      ["中性 das", "während des Essens"],
+      ["陰性 die", "während der Reise"],
+      ["複數 die", "während der Ferien"]
+    ],
+    "rule": "während 當介系詞時，後面接屬格的名詞，不接句子。陽性、中性名詞字尾加 -(e)s。",
+    "ex": {
+      "de": "{Während} des Unterrichts [darf] man nicht essen.",
+      "zh": "上課期間不可以吃東西。",
+      "en": "You're not allowed to eat during the lesson."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "{Während} des Urlaubs [habe] ich kein Handy dabei.",
+        "zh": "度假期間我不帶手機。",
+        "en": "During my holiday I don't have my phone with me.",
+        "options": ["Als", "Wenn", "Weil"],
+        "why": "後面是名詞 des Urlaubs（屬格），所以用介系詞 während。Als、Wenn、Weil 後面要接有主詞和動詞的句子。"
+      },
+      {
+        "type": "choice",
+        "de": "Während {des} Essens sprechen wir nicht über die Arbeit.",
+        "zh": "吃飯的時候我們不談工作。",
+        "en": "During the meal we don't talk about work.",
+        "options": ["den", "das", "der"],
+        "why": "während ＋ 屬格：中性 das Essen → des Essens。名詞已經加了 -s，冠詞一定是 des。"
+      },
+      {
+        "type": "order",
+        "lead": "{Während} der Mittagspause",
+        "tokens": ["[gehen]", "wir", "im Park spazieren"],
+        "zh": "午休時間我們去公園散步。",
+        "en": "During the lunch break we go for a walk in the park.",
+        "why": "「Während der Mittagspause」整組佔第一位，動詞 gehen 緊接在後，主詞 wir 在動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Während des {Tages} bin ich selten zu Hause.",
+        "zh": "白天我很少在家。",
+        "en": "During the day I'm rarely at home.",
+        "options": ["Tag", "Tage", "Tagen"],
+        "why": "陽性 der Tag 的屬格要加 -(e)s：des Tages。"
+      },
+      {
+        "type": "choice",
+        "de": "Während {der} Reise [wurde] mein Bruder krank.",
+        "zh": "旅行期間我哥哥生病了。",
+        "en": "During the trip my brother got ill.",
+        "options": ["des", "dem", "die"],
+        "why": "陰性 die Reise 的屬格是 der Reise，名詞不加字尾。"
+      }
+    ]
+  },
+  {
+    "id": "statt-gen",
+    "group": "gen",
+    "de": "statt",
+    "pattern": "statt／anstatt ＋ 屬格",
+    "zh": "代替、而不是（＋名詞）",
+    "en": "instead of",
+    "ask": "後面接什麼格？名詞怎麼變？",
+    "forms": [
+      ["陽性 der", "statt des Kaffees"],
+      ["中性 das", "statt des Autos"],
+      ["陰性 die", "statt der Suppe"],
+      ["複數 die", "statt der Brötchen"]
+    ],
+    "rule": "statt（anstatt）當介系詞時，後面接屬格的名詞。陽性、中性名詞字尾加 -(e)s。",
+    "ex": {
+      "de": "{Statt} des Autos [nehmen] wir den Zug.",
+      "zh": "我們不開車，改搭火車。",
+      "en": "Instead of the car we take the train."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "{Statt} des Kuchens [bringe] ich Obst mit.",
+        "zh": "我不帶蛋糕，改帶水果去。",
+        "en": "Instead of the cake I'm bringing fruit.",
+        "options": ["Weil", "Obwohl", "Damit"],
+        "why": "後面是名詞 des Kuchens（屬格），所以用介系詞 statt。Weil、Obwohl、Damit 後面要接有主詞和動詞的句子。"
+      },
+      {
+        "type": "choice",
+        "de": "Statt {des} Fleisches [isst] sie heute Gemüse.",
+        "zh": "她今天不吃肉，吃蔬菜。",
+        "en": "Instead of meat she's eating vegetables today.",
+        "options": ["dem", "den", "das"],
+        "why": "statt ＋ 屬格：中性 das Fleisch → des Fleisches。名詞已經加了 -es，冠詞一定是 des。"
+      },
+      {
+        "type": "order",
+        "lead": "{Statt} des Fernsehers",
+        "tokens": ["[kaufen]", "wir", "einen Beamer"],
+        "zh": "我們不買電視，改買投影機。",
+        "en": "Instead of a TV we're buying a projector.",
+        "why": "「Statt des Fernsehers」整組佔第一位，動詞 kaufen 緊接在後，主詞 wir 在動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Statt des {Salats} [gibt] es heute Suppe.",
+        "zh": "今天不吃沙拉，吃湯。",
+        "en": "Instead of the salad there's soup today.",
+        "options": ["Salat", "Salate", "Salaten"],
+        "why": "陽性 der Salat 的屬格要加 -(e)s：des Salats。"
+      },
+      {
+        "type": "choice",
+        "de": "Statt {der} Limonade [trinke] ich heute Wasser.",
+        "zh": "我今天不喝汽水，喝水。",
+        "en": "Instead of lemonade I'm drinking water today.",
+        "options": ["des", "dem", "die"],
+        "why": "陰性 die Limonade 的屬格是 der Limonade，名詞不加字尾。"
+      }
+    ]
+  },
+  {
+    "id": "innerhalb",
+    "group": "gen",
+    "de": "innerhalb",
+    "pattern": "innerhalb ＋ 屬格",
+    "zh": "在…之內（時間、範圍）",
+    "en": "within, inside",
+    "ask": "後面接什麼格？名詞怎麼變？",
+    "forms": [
+      ["陽性 der", "innerhalb des Monats"],
+      ["中性 das", "innerhalb des Hauses"],
+      ["陰性 die", "innerhalb der Stadt"],
+      ["複數 die", "innerhalb der Ferien"]
+    ],
+    "rule": "innerhalb 是介系詞，後面接屬格的名詞，指時間或空間「在…範圍之內」。陽性、中性名詞字尾加 -(e)s。",
+    "ex": {
+      "de": "{Innerhalb} der Stadt [braucht] man kein Auto.",
+      "zh": "在市區裡不需要車。",
+      "en": "Within the city you don't need a car."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "{Innerhalb} des Hauses [darf] man nicht rauchen.",
+        "zh": "屋子裡面不可以抽菸。",
+        "en": "You're not allowed to smoke inside the house.",
+        "options": ["Dass", "Wenn", "Weil"],
+        "why": "後面是名詞 des Hauses（屬格），所以用介系詞 innerhalb。Dass、Wenn、Weil 後面要接有主詞和動詞的句子。"
+      },
+      {
+        "type": "choice",
+        "de": "Innerhalb {des} Monats [müssen] Sie die Rechnung bezahlen.",
+        "zh": "請在一個月之內付清帳單。",
+        "en": "You have to pay the bill within the month.",
+        "options": ["dem", "den", "das"],
+        "why": "innerhalb ＋ 屬格：陽性 der Monat → des Monats。名詞已經加了 -s，冠詞一定是 des。"
+      },
+      {
+        "type": "order",
+        "lead": "{Innerhalb} einer Woche",
+        "tokens": ["[bekommen]", "Sie", "eine Antwort"],
+        "zh": "一個星期之內您會收到回覆。",
+        "en": "Within a week you will get an answer.",
+        "why": "「Innerhalb einer Woche」整組佔第一位，動詞 bekommen 緊接在後，主詞 Sie 在動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Innerhalb des {Dorfes} [gibt] es nur einen Supermarkt.",
+        "zh": "村子裡只有一間超市。",
+        "en": "Inside the village there is only one supermarket.",
+        "options": ["Dorf", "Dörfer", "Dörfern"],
+        "why": "中性 das Dorf 的屬格要加 -(e)s：des Dorfes。"
+      },
+      {
+        "type": "choice",
+        "de": "Innerhalb {der} Familie [sprechen] wir offen über alles.",
+        "zh": "在家人之間，我們什麼都坦白講。",
+        "en": "Within the family we talk openly about everything.",
+        "options": ["des", "dem", "die"],
+        "why": "陰性 die Familie 的屬格是 der Familie，名詞不加字尾。"
+      }
+    ]
+  },
+  {
+    "id": "ausserhalb",
+    "group": "gen",
+    "de": "außerhalb",
+    "pattern": "außerhalb ＋ 屬格",
+    "zh": "在…之外",
+    "en": "outside (of)",
+    "ask": "後面接什麼格？名詞怎麼變？",
+    "forms": [
+      ["陽性 der", "außerhalb des Waldes"],
+      ["中性 das", "außerhalb des Hauses"],
+      ["陰性 die", "außerhalb der Stadt"],
+      ["複數 die", "außerhalb der Öffnungszeiten"]
+    ],
+    "rule": "außerhalb 是介系詞，後面接屬格的名詞，指「在…範圍之外」。陽性、中性名詞字尾加 -(e)s。",
+    "ex": {
+      "de": "{Außerhalb} des Dorfes [gibt] es einen kleinen See.",
+      "zh": "村子外面有一個小湖。",
+      "en": "Outside the village there is a small lake."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "{Außerhalb} der Stadt [wohnt] meine Oma.",
+        "zh": "我奶奶住在市區以外。",
+        "en": "My grandma lives outside the city.",
+        "options": ["Obwohl", "Damit", "Als"],
+        "why": "後面是名詞 der Stadt（屬格），所以用介系詞 außerhalb。Obwohl、Damit、Als 後面要接有主詞和動詞的句子。"
+      },
+      {
+        "type": "choice",
+        "de": "Außerhalb {des} Zentrums [sind] die Mieten billiger.",
+        "zh": "市中心以外的房租比較便宜。",
+        "en": "Outside the centre the rents are cheaper.",
+        "options": ["dem", "den", "das"],
+        "why": "außerhalb ＋ 屬格：中性 das Zentrum → des Zentrums。名詞已經加了 -s，冠詞一定是 des。"
+      },
+      {
+        "type": "order",
+        "lead": "{Außerhalb} der Öffnungszeiten",
+        "tokens": ["[ist]", "der Laden", "geschlossen"],
+        "zh": "營業時間以外，商店是關著的。",
+        "en": "Outside opening hours the shop is closed.",
+        "why": "「Außerhalb der Öffnungszeiten」整組佔第一位，動詞 ist 緊接在後，主詞 der Laden 在動詞後面。"
+      },
+      {
+        "type": "choice",
+        "de": "Außerhalb des {Ortes} [gibt] es keinen Bahnhof.",
+        "zh": "這個地方的外面沒有火車站。",
+        "en": "Outside the town there is no train station.",
+        "options": ["Ort", "Orte", "Orten"],
+        "why": "陽性 der Ort 的屬格要加 -(e)s：des Ortes。"
+      },
+      {
+        "type": "choice",
+        "de": "Außerhalb {der} Saison [sind] die Hotels günstig.",
+        "zh": "旺季以外，旅館都很便宜。",
+        "en": "Outside the season the hotels are cheap.",
+        "options": ["des", "dem", "die"],
+        "why": "陰性 die Saison 的屬格是 der Saison，名詞不加字尾。"
+      }
+    ]
+  },
+  {
+    "id": "rel-praep",
+    "group": "rel",
+    "de": "介系詞 ＋ 關係代名詞",
+    "pattern": "介系詞 ＋ der／die／das ＋ …動詞",
+    "zh": "介系詞加關係代名詞",
+    "en": "preposition + relative pronoun",
+    "ask": "介系詞放哪裡？關代要用哪一格？",
+    "forms": [
+      ["mit／bei／von／nach", "與格：dem／der／dem／denen"],
+      ["für／durch／gegen／um", "受格：den／die／das／die"],
+      ["in／auf／an", "位置 wo → 與格；方向 wohin → 受格"]
+    ],
+    "rule": "介系詞放在關代前面，格位由介系詞決定；性別和單複數看前面的名詞。",
+    "ex": {
+      "de": "Das ist das Café, in {dem} wir uns oft [treffen].",
+      "zh": "這就是我們常常見面的那家咖啡店。",
+      "en": "That's the café where we often meet."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Der Mann, mit {dem} ich gesprochen [habe], ist mein Chef.",
+        "zh": "我剛剛跟他說話的那位男士是我的老闆。",
+        "en": "The man I spoke with is my boss.",
+        "options": ["den", "der", "denen"],
+        "why": "mit 一定接與格；前面是陽性 der Mann → mit dem。"
+      },
+      {
+        "type": "choice",
+        "de": "Das ist der Park, durch {den} ich jeden Morgen [laufe].",
+        "zh": "這就是我每天早上跑步經過的公園。",
+        "en": "That's the park I run through every morning.",
+        "options": ["dem", "das", "der"],
+        "why": "durch 一定接受格；前面是陽性 der Park → durch den。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich liebe die Stadt, in {der}",
+        "tokens": ["ich", "aufgewachsen", "[bin]"],
+        "zh": "我很愛我長大的那座城市。",
+        "en": "I love the city I grew up in.",
+        "why": "關係子句動詞放最後：主詞 ich 在前，分詞 aufgewachsen 在變位的 bin 前面，bin 放最後。in der 是陰性的與格（問 wo）。"
+      },
+      {
+        "type": "choice",
+        "de": "Das sind die Nachbarn, von {denen} ich den Schlüssel [habe].",
+        "zh": "這就是把鑰匙給我的那些鄰居。",
+        "en": "Those are the neighbours I have the key from.",
+        "options": ["den", "die", "dem"],
+        "why": "von 一定接與格；前面是複數 die Nachbarn，複數與格的關代是 denen（不是 den）。"
+      },
+      {
+        "type": "choice",
+        "de": "Das ist der Tisch, auf {den} ich das Buch [gelegt habe].",
+        "zh": "這就是我把書放上去的那張桌子。",
+        "en": "That's the table I put the book on.",
+        "options": ["dem", "der", "denen"],
+        "why": "auf 可以接受格或與格；legen 是放到某處（wohin）→ 受格，陽性 der Tisch → auf den。dem 是表示位置（wo）時的與格。"
+      }
+    ]
+  }
+]

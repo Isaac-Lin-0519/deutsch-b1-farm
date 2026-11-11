@@ -1,0 +1,450 @@
+[
+  {
+    "id": "waehrend-konj",
+    "group": "sub",
+    "de": "während（連接詞）",
+    "pattern": "während ＋ …動詞",
+    "zh": "當…的時候（兩件事同時進行）",
+    "en": "while",
+    "rule": "連接詞 während 帶出子句，表示兩件事同時進行，變位動詞放到子句最後。介系詞 während 則是接屬格名詞（während des Films），後面沒有子句。",
+    "ex": {
+      "de": "Ich höre Musik, {während} ich das Essen [koche].",
+      "zh": "我一邊做飯一邊聽音樂。",
+      "en": "I listen to music while I cook the meal."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich höre Musik, {während} ich das Essen [koche].",
+        "zh": "我一邊做飯一邊聽音樂。",
+        "en": "I listen to music while I'm cooking the meal.",
+        "options": ["dann", "bei", "denn"],
+        "why": "動詞 koche 在句尾，所以是從屬連接詞 während，表示兩件事同時進行。dann 是副詞、denn 的子句動詞不放最後、bei 是介系詞，都不能這樣接。"
+      },
+      {
+        "type": "order",
+        "lead": "Mein Bruder liest ein Buch, {während}",
+        "tokens": ["ich", "das Abendessen", "[koche]"],
+        "zh": "我弟弟在看書，而我在煮晚餐。",
+        "en": "My brother is reading a book while I cook dinner.",
+        "why": "während 子句：主詞 ich 在前，變位動詞 koche 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Während} des Films [schläft] mein Vater oft ein.",
+        "zh": "我爸爸看電影的時候常常睡著。",
+        "en": "My father often falls asleep during the film.",
+        "options": ["Weil", "Wenn", "Dass"],
+        "why": "這裡 während 是介系詞，後面接屬格名詞 des Films，沒有子句，動詞 schläft 緊接在名詞之後。Weil、Wenn、Dass 是連接詞，後面要接子句、動詞放最後，不能接 des Films。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich sehe fern, {während}",
+        "tokens": ["er", "im Garten", "[arbeitet]"],
+        "zh": "我在看電視，而他在花園工作。",
+        "en": "I'm watching TV while he works in the garden.",
+        "why": "während 子句：主詞 er 在前，變位動詞 arbeitet 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Während} ich unter der Dusche [stehe], singe ich gern.",
+        "zh": "我淋浴的時候喜歡唱歌。",
+        "en": "While I'm in the shower, I like to sing.",
+        "options": ["Danach", "Bei", "Deshalb"],
+        "why": "子句放前面時，動詞 stehe 在子句最後，逗號後主句動詞 singe 緊接。Danach、Deshalb 是副詞，Bei 是介系詞，後面都不能接 ich … stehe 這種動詞放最後的子句。"
+      }
+    ]
+  },
+  {
+    "id": "bis",
+    "group": "sub",
+    "de": "bis",
+    "pattern": "bis ＋ …動詞",
+    "zh": "直到",
+    "en": "until",
+    "rule": "bis 帶出子句，表示動作持續到某個時間點，變位動詞放到子句最後。",
+    "ex": {
+      "de": "Ich warte hier, {bis} du [kommst].",
+      "zh": "我在這裡等，直到你來。",
+      "en": "I'll wait here until you come."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich bleibe im Büro, {bis} meine Chefin mir die Antwort [schickt].",
+        "zh": "我留在辦公室，直到我的主管把答覆寄給我。",
+        "en": "I'm staying in the office until my boss sends me the answer.",
+        "options": ["dann", "danach", "nach"],
+        "why": "動詞 schickt 在句尾，所以是從屬連接詞 bis。dann、danach 是副詞，nach 是介系詞，後面都不能接動詞放最後的子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich warte, {bis}",
+        "tokens": ["sie", "mich", "[anruft]"],
+        "zh": "我等到她打電話給我。",
+        "en": "I wait until she calls me.",
+        "why": "bis 子句：主詞 sie 在前，人稱代名詞受詞 mich 接著，可分動詞 anruft 整個放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Bis} es dunkel [wird], bleiben die Kinder im Garten.",
+        "zh": "孩子們待在花園裡，直到天黑。",
+        "en": "The children stay in the garden until it gets dark.",
+        "options": ["Dann", "Danach", "Zu"],
+        "why": "子句放前面時，動詞 wird 在子句最後，主句動詞 bleiben 緊接在逗號後。Dann、Danach 是副詞，Zu 是介系詞，都不能帶出這種子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir spielen Karten, {bis}",
+        "tokens": ["das Essen", "fertig", "[ist]"],
+        "zh": "我們玩牌，直到飯做好。",
+        "en": "We play cards until the food is ready.",
+        "why": "bis 子句：主詞 das Essen 在前，fertig 在中間，變位動詞 ist 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich lerne Deutsch, {bis} ich alle Wörter [kann].",
+        "zh": "我學德語，直到所有單字都會。",
+        "en": "I study German until I know all the words.",
+        "options": ["dann", "danach", "für"],
+        "why": "動詞 kann 在句尾，所以是從屬連接詞 bis。dann、danach 是副詞，für 是介系詞，不能接動詞放最後的子句。"
+      }
+    ]
+  },
+  {
+    "id": "seit",
+    "group": "sub",
+    "de": "seit／seitdem",
+    "pattern": "seit／seitdem ＋ …動詞",
+    "zh": "自從（現在式表示持續到現在）",
+    "en": "since",
+    "rule": "seit／seitdem 帶出子句，變位動詞放最後。事情從過去一直持續到現在，子句用現在式（seit ich diese Arbeit habe）；說的是某個起點事件時，也可以用完成式（seitdem er umgezogen ist）。",
+    "ex": {
+      "de": "Ich bin glücklich, {seit} ich diese Arbeit [habe].",
+      "zh": "自從我有這份工作，我就很開心。",
+      "en": "I've been happy since I got this job."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich bin glücklich, {seit} ich diese Arbeit [habe].",
+        "zh": "自從我有這份工作，我就很開心。",
+        "en": "I've been happy since I've had this job.",
+        "options": ["dann", "danach", "vor"],
+        "why": "動詞 habe 在句尾，所以是從屬連接詞 seit，而且用現在式，表示到現在還持續。dann、danach 是副詞，vor 是介系詞，都不能帶出這種子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir sind Freunde, {seit}",
+        "tokens": ["wir", "uns", "in der Schule", "[kennen]"],
+        "zh": "我們從在學校認識以後就是朋友。",
+        "en": "We've been friends since we met at school.",
+        "why": "seit 子句：主詞 wir 在前，uns 接著，地點 in der Schule 在中間，變位動詞 kennen 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Seitdem} er in München [wohnt], spricht er viel besser Deutsch.",
+        "zh": "自從他住在慕尼黑，他的德語說得好多了。",
+        "en": "Since he's been living in Munich, he speaks much better German.",
+        "options": ["Danach", "Dann", "Vor"],
+        "why": "子句放前面時，動詞 wohnt 在子句最後，主句動詞 spricht 緊接在逗號後。Danach、Dann 是副詞，Vor 是介系詞，都不能這樣用。"
+      },
+      {
+        "type": "order",
+        "lead": "Mir geht es besser, {seitdem}",
+        "tokens": ["ich", "mehr Wasser", "[trinke]"],
+        "zh": "自從我多喝水，我就覺得好多了。",
+        "en": "I've felt better since I started drinking more water.",
+        "why": "seitdem 子句：主詞 ich 在前，受詞 mehr Wasser 在中間，變位動詞 trinke 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich habe keine Zeit, {seit} ich eine neue Stelle [habe].",
+        "zh": "自從我有新工作，我就沒有時間。",
+        "en": "I haven't had any time since I got a new job.",
+        "options": ["denn", "danach", "vor"],
+        "why": "動詞 habe 在句尾，所以是從屬連接詞 seit。denn 的子句動詞不放最後，danach 是副詞，vor 是介系詞，都不能這樣接。"
+      }
+    ]
+  },
+  {
+    "id": "sobald",
+    "group": "sub",
+    "de": "sobald",
+    "pattern": "sobald ＋ …動詞",
+    "zh": "一…就…",
+    "en": "as soon as",
+    "rule": "sobald 帶出子句，表示一發生某事就接著做另一件事，變位動詞放到子句最後。",
+    "ex": {
+      "de": "Ich rufe dich an, {sobald} ich zu Hause [bin].",
+      "zh": "我一到家就打電話給你。",
+      "en": "I'll call you as soon as I'm home."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Ich rufe dich an, {sobald} ich die Prüfung bestanden [habe].",
+        "zh": "我一通過考試就打電話給你。",
+        "en": "I'll call you as soon as I've passed the exam.",
+        "options": ["dann", "danach", "sofort"],
+        "why": "完成式在子句裡：分詞 bestanden 在前，變位的 habe 放最後，所以是從屬連接詞 sobald。dann、danach、sofort 都是副詞，不能帶出子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir fangen an, {sobald}",
+        "tokens": ["er", "im Klassenzimmer", "[ist]"],
+        "zh": "他一到教室，我們就開始。",
+        "en": "We'll start as soon as he is in the classroom.",
+        "why": "sobald 子句：主詞 er 在前，地點 im Klassenzimmer 在中間，變位動詞 ist 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Sobald} der Film [anfängt], schalten wir das Handy aus.",
+        "zh": "電影一開始，我們就把手機關掉。",
+        "en": "As soon as the film starts, we turn off our phones.",
+        "options": ["Dann", "Danach", "Sofort"],
+        "why": "子句放前面時，動詞 anfängt 在子句最後，主句動詞 schalten 緊接在逗號後。Dann、Danach、Sofort 都是副詞，後面不能接動詞放最後的子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich schicke dir ein Foto, {sobald}",
+        "tokens": ["ich", "am Strand", "[ankomme]"],
+        "zh": "我一到海邊就傳照片給你。",
+        "en": "I'll send you a photo as soon as I arrive at the beach.",
+        "why": "sobald 子句：主詞 ich 在前，地點 am Strand 在中間，可分動詞 ankomme 整個放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Ruf mich an, {sobald} du Zeit [hast].",
+        "zh": "你一有空就打給我。",
+        "en": "Call me as soon as you have time.",
+        "options": ["dann", "danach", "bald"],
+        "why": "動詞 hast 在句尾，所以是從屬連接詞 sobald。dann、danach、bald 都是副詞，後面不能接 du Zeit hast 這種動詞放最後的子句。"
+      }
+    ]
+  },
+  {
+    "id": "solange",
+    "group": "sub",
+    "de": "solange",
+    "pattern": "solange ＋ …動詞",
+    "zh": "只要／在…期間",
+    "en": "as long as",
+    "rule": "solange 帶出子句，表示只在這段期間或這個條件成立時，變位動詞放到子句最後。",
+    "ex": {
+      "de": "Du kannst hier bleiben, {solange} du [willst].",
+      "zh": "只要你想，你可以留在這裡。",
+      "en": "You can stay here as long as you want."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Du kannst hier bleiben, {solange} du [willst].",
+        "zh": "只要你想，你可以留在這裡。",
+        "en": "You can stay here as long as you want.",
+        "options": ["dann", "lange", "danach"],
+        "why": "動詞 willst 在句尾，所以是從屬連接詞 solange。dann、lange、danach 都是副詞，後面不能接動詞放最後的子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich bleibe zu Hause, {solange}",
+        "tokens": ["es", "draußen", "[regnet]"],
+        "zh": "只要外面還在下雨，我就待在家。",
+        "en": "I'm staying home as long as it's raining outside.",
+        "why": "solange 子句：主詞 es 在前，draußen 在中間，變位動詞 regnet 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Solange} das Kind [schläft], müssen wir leise sein.",
+        "zh": "只要孩子在睡覺，我們就得安靜。",
+        "en": "As long as the child is sleeping, we have to be quiet.",
+        "options": ["Dann", "Lange", "Danach"],
+        "why": "子句放前面時，動詞 schläft 在子句最後，主句動詞 müssen 緊接在逗號後。Dann、Lange、Danach 是副詞，不能帶出這種子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich arbeite, {solange}",
+        "tokens": ["sie", "im Kindergarten", "[sind]"],
+        "zh": "只要他們在幼稚園，我就工作。",
+        "en": "I work as long as they are at kindergarten.",
+        "why": "solange 子句：主詞 sie 在前，地點 im Kindergarten 在中間，變位動詞 sind 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Ich bleibe im Büro, {solange} mein Chef noch [arbeitet].",
+        "zh": "只要我老闆還在工作，我就留在辦公室。",
+        "en": "I stay in the office as long as my boss is still working.",
+        "options": ["dann", "danach", "lange"],
+        "why": "動詞 arbeitet 在句尾，所以是從屬連接詞 solange。dann、danach、lange 是副詞，後面不能接動詞放最後的子句。"
+      }
+    ]
+  },
+  {
+    "id": "falls",
+    "group": "sub",
+    "de": "falls",
+    "pattern": "falls ＋ …動詞",
+    "zh": "萬一／如果",
+    "en": "in case, if",
+    "rule": "falls 帶出子句，表示「萬一發生」的情況，變位動詞放到子句最後。",
+    "ex": {
+      "de": "Nimm einen Regenschirm mit, {falls} es [regnet].",
+      "zh": "帶把傘，萬一下雨。",
+      "en": "Take an umbrella in case it rains."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Nimm einen Regenschirm mit, {falls} es [regnet].",
+        "zh": "帶把傘，萬一下雨。",
+        "en": "Take an umbrella in case it rains.",
+        "options": ["dann", "danach", "sonst"],
+        "why": "動詞 regnet 在句尾，所以是從屬連接詞 falls。dann、danach、sonst 都是副詞，後面不能接動詞放最後的子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Ruf mich an, {falls}",
+        "tokens": ["du", "ein Problem", "[hast]"],
+        "zh": "萬一你有問題就打給我。",
+        "en": "Call me in case you have a problem.",
+        "why": "falls 子句：主詞 du 在前，受詞 ein Problem 在中間，變位動詞 hast 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "{Falls} du den Zug [verpasst], nimm den nächsten.",
+        "zh": "萬一你錯過這班火車，就搭下一班。",
+        "en": "If you miss the train, take the next one.",
+        "options": ["Dann", "Sonst", "Danach"],
+        "why": "子句放前面時，動詞 verpasst 在子句最後，命令句 nimm 緊接在逗號後。Dann、Sonst、Danach 是副詞，不能帶出這種子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Ich nehme Geld mit, {falls}",
+        "tokens": ["wir", "im Restaurant", "[essen]"],
+        "zh": "我帶錢，萬一我們去餐廳吃飯。",
+        "en": "I'm taking money in case we eat at a restaurant.",
+        "why": "falls 子句：主詞 wir 在前，地點 im Restaurant 在中間，變位動詞 essen 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Schreib mir eine Nachricht, {falls} du später [kommst].",
+        "zh": "萬一你會晚點到，就傳訊息給我。",
+        "en": "Send me a message in case you come later.",
+        "options": ["dann", "sonst", "danach"],
+        "why": "動詞 kommst 在句尾，所以是從屬連接詞 falls。dann、sonst、danach 都是副詞，後面不能接動詞放最後的子句。"
+      }
+    ]
+  },
+  {
+    "id": "sodass",
+    "group": "sub",
+    "de": "sodass",
+    "pattern": "sodass ＋ …動詞",
+    "zh": "因此、以致於",
+    "en": "so that (result)",
+    "rule": "sodass 帶出結果子句，說明前面情況造成的結果，變位動詞放到子句最後。前面的主句先講原因，sodass 子句講結果。",
+    "ex": {
+      "de": "Es hat die ganze Nacht geschneit, {sodass} die Straßen weiß [sind].",
+      "zh": "雪下了一整夜，所以街道都變白了。",
+      "en": "It snowed all night, so the streets are white."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Es hat die ganze Nacht geschneit, {sodass} die Straßen weiß [sind].",
+        "zh": "雪下了一整夜，所以街道都變白了。",
+        "en": "It snowed all night, so the streets are white.",
+        "options": ["deshalb", "darum", "denn"],
+        "why": "動詞 sind 在句尾，所以是從屬連接詞 sodass，講前面造成的結果。deshalb、darum 是副詞，動詞要緊接在後；denn 後面的動詞不放最後。"
+      },
+      {
+        "type": "order",
+        "lead": "Er spricht sehr leise, {sodass}",
+        "tokens": ["ich", "ihn kaum", "[verstehe]"],
+        "zh": "他說話很小聲，所以我幾乎聽不懂他。",
+        "en": "He speaks very quietly, so I can hardly understand him.",
+        "why": "sodass 子句：主詞 ich 在前，受詞 ihn kaum 在中間，變位動詞 verstehe 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Der Test war sehr schwer, {sodass} viele Schüler ihn nicht bestanden [haben].",
+        "zh": "考試很難，所以很多學生沒有通過。",
+        "en": "The test was very hard, so many students didn't pass it.",
+        "options": ["deshalb", "darum", "trotzdem"],
+        "why": "完成式在子句裡：分詞 bestanden 在前，變位的 haben 放最後，所以是 sodass。deshalb、darum、trotzdem 都是副詞，動詞會緊接在它們後面。"
+      },
+      {
+        "type": "order",
+        "lead": "Es war sehr laut, {sodass}",
+        "tokens": ["wir", "nicht schlafen", "[konnten]"],
+        "zh": "太吵了，所以我們睡不著。",
+        "en": "It was so loud that we couldn't sleep.",
+        "why": "sodass 子句：主詞 wir 在前，不定式 nicht schlafen 在中間，變位的情態動詞 konnten 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Sie hat sehr gut gekocht, {sodass} alle satt [waren].",
+        "zh": "她菜煮得很好，所以大家都吃飽了。",
+        "en": "She cooked very well, so everyone was full.",
+        "options": ["deshalb", "darum", "aber"],
+        "why": "動詞 waren 在句尾，所以是從屬連接詞 sodass。deshalb、darum 是副詞，動詞要緊接在後；aber 後面不會把動詞放最後。"
+      }
+    ]
+  },
+  {
+    "id": "indem",
+    "group": "sub",
+    "de": "indem",
+    "pattern": "indem ＋ …動詞",
+    "zh": "藉由…的方式",
+    "en": "by (doing)",
+    "rule": "indem 帶出子句，說明做法或手段（靠做什麼來達成），變位動詞放到子句最後。",
+    "ex": {
+      "de": "Man lernt Deutsch besser, {indem} man jeden Tag Filme [schaut].",
+      "zh": "每天看電影，就能把德語學得更好。",
+      "en": "You learn German better by watching films every day."
+    },
+    "items": [
+      {
+        "type": "choice",
+        "de": "Man lernt Deutsch besser, {indem} man jeden Tag Filme [schaut].",
+        "zh": "每天看電影，就能把德語學得更好。",
+        "en": "You learn German better by watching films every day.",
+        "options": ["dann", "durch", "danach"],
+        "why": "動詞 schaut 在句尾，所以是從屬連接詞 indem，說明用什麼方法。dann、danach 是副詞，durch 是介系詞，要接名詞，不能接這種子句。"
+      },
+      {
+        "type": "order",
+        "lead": "Sie spart Geld, {indem}",
+        "tokens": ["sie", "zu Hause", "[kocht]"],
+        "zh": "她靠在家煮飯來省錢。",
+        "en": "She saves money by cooking at home.",
+        "why": "indem 子句：主詞 sie 在前，地點 zu Hause 在中間，變位動詞 kocht 放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Er hält sich fit, {indem} er jeden Morgen [joggt].",
+        "zh": "他每天早上慢跑來保持健康。",
+        "en": "He keeps fit by jogging every morning.",
+        "options": ["dann", "durch", "mit"],
+        "why": "動詞 joggt 在句尾，所以是從屬連接詞 indem。dann 是副詞，durch、mit 是介系詞，後面要接名詞，不能接 er jeden Morgen joggt。"
+      },
+      {
+        "type": "order",
+        "lead": "Wir sparen Strom, {indem}",
+        "tokens": ["wir", "abends das Licht", "[ausmachen]"],
+        "zh": "我們靠晚上關燈來省電。",
+        "en": "We save electricity by turning off the light in the evening.",
+        "why": "indem 子句：主詞 wir 在前，abends das Licht 在中間，可分動詞 ausmachen 整個放最後。"
+      },
+      {
+        "type": "choice",
+        "de": "Sie hat ihm geholfen, {indem} sie ihm Geld geliehen [hat].",
+        "zh": "她借他錢來幫助他。",
+        "en": "She helped him by lending him money.",
+        "options": ["dann", "durch", "und"],
+        "why": "完成式在子句裡：分詞 geliehen 在前，變位的 hat 放最後，所以是 indem。dann 是副詞，durch 是介系詞，und 後面不會把 hat 放最後。"
+      }
+    ]
+  }
+]
