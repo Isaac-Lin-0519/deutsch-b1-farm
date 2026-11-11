@@ -1,0 +1,902 @@
+{
+  "weiter-weiter": {
+    "senses": [
+      {
+        "zh": "繼續；往前",
+        "en": "further, on",
+        "ex": {
+          "de": "Geh bitte {weiter}, hier ist der Eingang blockiert.",
+          "zh": "請繼續往前走，這裡的入口被擋住了。",
+          "en": "Please keep moving, the entrance is blocked here.",
+          "distractors": [
+            "gestern",
+            "sehr",
+            "leider"
+          ]
+        }
+      }
+    ]
+  },
+  "weiterbildung": {
+    "senses": [
+      {
+        "zh": "進修；繼續教育",
+        "en": "further education, training",
+        "ex": {
+          "de": "Meine Firma bezahlt jedes Jahr eine {Weiterbildung} für mich.",
+          "zh": "我的公司每年都出錢讓我進修。",
+          "en": "My company pays for further training for me every year.",
+          "distractors": [
+            "Hochzeit",
+            "Spülmaschine",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "welcher": {
+    "senses": [
+      {
+        "zh": "哪一個（疑問詞）",
+        "en": "which",
+        "ex": {
+          "de": "{Welche} Farbe gefällt dir besser, Blau oder Grün?",
+          "zh": "你比較喜歡哪個顏色，藍色還是綠色？",
+          "en": "Which color do you like better, blue or green?",
+          "distractors": [
+            "Jede",
+            "Keine",
+            "Solche"
+          ]
+        }
+      }
+    ]
+  },
+  "welt": {
+    "senses": [
+      {
+        "zh": "世界",
+        "en": "world",
+        "ex": {
+          "de": "Sie möchte nach dem Studium die ganze {Welt} sehen.",
+          "zh": "她想在畢業後看遍全世界。",
+          "en": "After her studies she wants to see the whole world.",
+          "distractors": [
+            "Suppe",
+            "Seife",
+            "Zahnpasta"
+          ]
+        }
+      }
+    ]
+  },
+  "weltweit": {
+    "senses": [
+      {
+        "zh": "全世界地",
+        "en": "worldwide",
+        "ex": {
+          "de": "Dieses Handy wird {weltweit} verkauft, auch in Taiwan.",
+          "zh": "這款手機在全世界都有販售，包括台灣。",
+          "en": "This phone is sold worldwide, including in Taiwan.",
+          "distractors": [
+            "müde",
+            "dunkel",
+            "hungrig"
+          ]
+        }
+      }
+    ]
+  },
+  "wenden": {
+    "senses": [
+      {
+        "zh": "（sich wenden）向…求助",
+        "en": "to turn; to turn to (someone)",
+        "ex": {
+          "de": "Bei Problemen können Sie sich an mich {wenden}.",
+          "zh": "有問題的話，您可以來找我。",
+          "en": "If you have problems, you can turn to me.",
+          "distractors": [
+            "füllen",
+            "tragen",
+            "zählen"
+          ]
+        }
+      }
+    ]
+  },
+  "wenig-wenige": {
+    "senses": [
+      {
+        "zh": "很少的",
+        "en": "few, little",
+        "ex": {
+          "de": "Am Sonntag sind nur {wenige} Leute im Büro.",
+          "zh": "星期天辦公室裡只有很少人。",
+          "en": "On Sunday only few people are in the office.",
+          "distractors": [
+            "viele",
+            "blaue",
+            "hohe"
+          ]
+        }
+      }
+    ]
+  },
+  "wenigstens": {
+    "senses": [
+      {
+        "zh": "至少",
+        "en": "at least",
+        "ex": {
+          "de": "Wenn du schon nicht kochst, hilf {wenigstens} beim Abwasch.",
+          "zh": "你既然不煮飯，至少幫忙洗碗吧。",
+          "en": "If you're not cooking, at least help with the dishes.",
+          "distractors": [
+            "gestern",
+            "deshalb",
+            "früher"
+          ]
+        }
+      }
+    ]
+  },
+  "wenn": {
+    "senses": [
+      {
+        "zh": "如果；當…的時候",
+        "en": "if, when",
+        "ex": {
+          "de": "Ich nehme einen Schirm mit, {wenn} es regnet.",
+          "zh": "如果下雨的話，我會帶一把傘。",
+          "en": "I'll take an umbrella along if it rains.",
+          "distractors": [
+            "ob",
+            "sondern",
+            "damit"
+          ]
+        }
+      }
+    ]
+  },
+  "wer": {
+    "senses": [
+      {
+        "zh": "誰",
+        "en": "who",
+        "ex": {
+          "de": "{Wer} hat meinen Kaffee auf dem Tisch getrunken?",
+          "zh": "是誰把我放在桌上的咖啡喝掉了？",
+          "en": "Who drank my coffee from the table?",
+          "distractors": [
+            "Wen",
+            "Wem",
+            "Wessen"
+          ]
+        }
+      }
+    ]
+  },
+  "werbung": {
+    "senses": [
+      {
+        "zh": "廣告",
+        "en": "advertising, commercial",
+        "ex": {
+          "de": "Im Fernsehen läuft zwischen den Filmen viel {Werbung}.",
+          "zh": "電視在電影之間播很多廣告。",
+          "en": "On TV there are lots of commercials between the films.",
+          "distractors": [
+            "Tankstelle",
+            "Kreide",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "werden": {
+    "senses": [
+      {
+        "zh": "成為；變成",
+        "en": "to become",
+        "ex": {
+          "de": "Mein Bruder will später Pilot {werden}.",
+          "zh": "我哥哥以後想當飛行員。",
+          "en": "My brother wants to become a pilot later.",
+          "distractors": [
+            "tragen",
+            "kaufen",
+            "geben"
+          ]
+        }
+      }
+    ]
+  },
+  "werfen": {
+    "senses": [
+      {
+        "zh": "丟；扔",
+        "en": "to throw",
+        "ex": {
+          "de": "Die Kinder {werfen} im Park Steine in den Teich.",
+          "zh": "孩子們在公園裡把石頭丟進池塘。",
+          "en": "The children throw stones into the pond in the park.",
+          "distractors": [
+            "kochen",
+            "lesen",
+            "tanzen"
+          ]
+        }
+      }
+    ]
+  },
+  "werk": {
+    "senses": [
+      {
+        "zh": "作品；著作",
+        "en": "work (of art)",
+        "ex": {
+          "de": "Dieses {Werk} des Malers hängt jetzt im Museum.",
+          "zh": "這位畫家的這幅作品現在掛在博物館裡。",
+          "en": "This work by the painter now hangs in the museum.",
+          "distractors": [
+            "Messer",
+            "Fahrrad",
+            "Ei"
+          ]
+        }
+      }
+    ]
+  },
+  "werkstatt": {
+    "senses": [
+      {
+        "zh": "工作坊；修車廠",
+        "en": "workshop, garage",
+        "ex": {
+          "de": "Mein Auto steht seit Montag in der {Werkstatt}.",
+          "zh": "我的車從星期一起就停在修車廠。",
+          "en": "My car has been in the garage since Monday.",
+          "distractors": [
+            "Bibliothek",
+            "Badewanne",
+            "Schule"
+          ]
+        }
+      }
+    ]
+  },
+  "werkzeug": {
+    "senses": [
+      {
+        "zh": "工具",
+        "en": "tool",
+        "ex": {
+          "de": "Zum Reparieren braucht er das richtige {Werkzeug}.",
+          "zh": "要修理東西，他需要合適的工具。",
+          "en": "To repair it, he needs the right tool.",
+          "distractors": [
+            "Gepäck",
+            "Fieber",
+            "Obst"
+          ]
+        }
+      }
+    ]
+  },
+  "wert": {
+    "senses": [
+      {
+        "zh": "值…的",
+        "en": "worth",
+        "ex": {
+          "de": "Das Buch ist zehn Euro {wert}.",
+          "zh": "這本書值十歐元。",
+          "en": "The book is worth ten euros.",
+          "distractors": [
+            "kalt",
+            "müde",
+            "krank"
+          ]
+        }
+      }
+    ]
+  },
+  "wert-2": {
+    "senses": [
+      {
+        "zh": "價值；數值",
+        "en": "value",
+        "ex": {
+          "de": "Der {Wert} des alten Rings ist ziemlich hoch.",
+          "zh": "這枚舊戒指的價值相當高。",
+          "en": "The value of the old ring is quite high.",
+          "distractors": [
+            "Löffel",
+            "Gürtel",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "wertlos": {
+    "senses": [
+      {
+        "zh": "沒有價值的",
+        "en": "worthless",
+        "ex": {
+          "de": "Nach dem Streit war das Geschenk für sie {wertlos}.",
+          "zh": "吵架之後，這份禮物對她來說一文不值。",
+          "en": "After the argument the gift was worthless to her.",
+          "distractors": [
+            "pünktlich",
+            "sonnig",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "wertvoll": {
+    "senses": [
+      {
+        "zh": "貴重的；有價值的",
+        "en": "valuable",
+        "ex": {
+          "de": "Diese alte Uhr ist von meinem Opa und sehr {wertvoll}.",
+          "zh": "這支舊錶是我爺爺留下的，非常珍貴。",
+          "en": "This old watch is from my grandpa and very valuable.",
+          "distractors": [
+            "schwanger",
+            "verheiratet",
+            "erkältet"
+          ]
+        }
+      }
+    ]
+  },
+  "weshalb": {
+    "senses": [
+      {
+        "zh": "為什麼",
+        "en": "why, for which reason",
+        "ex": {
+          "de": "Ich verstehe nicht, {weshalb} er so spät angerufen hat.",
+          "zh": "我不懂他為什麼這麼晚才打電話來。",
+          "en": "I don't understand why he called so late.",
+          "distractors": [
+            "sondern",
+            "damit",
+            "falls"
+          ]
+        }
+      }
+    ]
+  },
+  "wettbewerb": {
+    "senses": [
+      {
+        "zh": "比賽；競賽",
+        "en": "competition, contest",
+        "ex": {
+          "de": "Der {Wettbewerb} im Schwimmen beginnt heute um zehn Uhr.",
+          "zh": "游泳比賽今天十點開始。",
+          "en": "The swimming competition starts at ten o'clock today.",
+          "distractors": [
+            "Regen",
+            "Hunger",
+            "Sessel"
+          ]
+        }
+      }
+    ]
+  },
+  "wetten": {
+    "senses": [
+      {
+        "zh": "打賭",
+        "en": "to bet",
+        "ex": {
+          "de": "Ich möchte mit dir um ein Eis {wetten}.",
+          "zh": "我想跟你打賭一支冰淇淋。",
+          "en": "I'd like to bet you an ice cream.",
+          "distractors": [
+            "kochen",
+            "schneiden",
+            "fegen"
+          ]
+        }
+      }
+    ]
+  },
+  "wetter": {
+    "senses": [
+      {
+        "zh": "天氣",
+        "en": "weather",
+        "ex": {
+          "de": "Bei schönem {Wetter} gehen wir am Sonntag wandern.",
+          "zh": "如果天氣好，我們星期天去健行。",
+          "en": "If the weather is nice, we'll go hiking on Sunday.",
+          "distractors": [
+            "Papier",
+            "Fleisch",
+            "Obst"
+          ]
+        }
+      }
+    ]
+  },
+  "wetterbericht": {
+    "senses": [
+      {
+        "zh": "天氣報告",
+        "en": "weather report",
+        "ex": {
+          "de": "Laut dem {Wetterbericht} schneit es morgen in den Bergen.",
+          "zh": "根據天氣預報，明天山上會下雪。",
+          "en": "According to the weather report it will snow in the mountains tomorrow.",
+          "distractors": [
+            "Kugelschreiber",
+            "Staubsauger",
+            "Lippenstift"
+          ]
+        }
+      }
+    ]
+  },
+  "wettervorhersage": {
+    "senses": [
+      {
+        "zh": "天氣預報",
+        "en": "weather forecast",
+        "ex": {
+          "de": "Die {Wettervorhersage} für das Wochenende klingt leider nicht gut.",
+          "zh": "週末的天氣預報聽起來不太妙。",
+          "en": "The weather forecast for the weekend unfortunately doesn't sound good.",
+          "distractors": [
+            "Haltestelle",
+            "Zahnpasta",
+            "Steckdose"
+          ]
+        }
+      }
+    ]
+  },
+  "wichtig": {
+    "senses": [
+      {
+        "zh": "重要的",
+        "en": "important",
+        "ex": {
+          "de": "Pünktlichkeit ist mir bei der Arbeit sehr {wichtig}.",
+          "zh": "工作時準時對我來說非常重要。",
+          "en": "Punctuality is very important to me at work.",
+          "distractors": [
+            "blond",
+            "nass",
+            "eckig"
+          ]
+        }
+      }
+    ]
+  },
+  "widersprechen": {
+    "senses": [
+      {
+        "zh": "反駁；提出異議",
+        "en": "to contradict",
+        "ex": {
+          "de": "Er traut sich nie, seinem Chef zu {widersprechen}.",
+          "zh": "他從來不敢反駁他的老闆。",
+          "en": "He never dares to contradict his boss.",
+          "distractors": [
+            "tragen",
+            "frühstücken",
+            "regnen"
+          ]
+        }
+      }
+    ]
+  },
+  "wie": {
+    "senses": [
+      {
+        "zh": "如何；多麼",
+        "en": "how",
+        "ex": {
+          "de": "{Wie} lange dauert die Fahrt nach München?",
+          "zh": "到慕尼黑的車程要多久？",
+          "en": "How long does the trip to Munich take?",
+          "distractors": [
+            "Wann",
+            "Wo",
+            "Warum"
+          ]
+        }
+      }
+    ]
+  },
+  "wieder-wieder": {
+    "senses": [
+      {
+        "zh": "再；又",
+        "en": "again",
+        "ex": {
+          "de": "Nach dem Urlaub gehe ich {wieder} jeden Morgen joggen.",
+          "zh": "假期結束後，我又每天早上去慢跑了。",
+          "en": "After the vacation I go jogging every morning again.",
+          "distractors": [
+            "gestern",
+            "nirgends",
+            "vorgestern"
+          ]
+        }
+      }
+    ]
+  },
+  "wiederholen": {
+    "senses": [
+      {
+        "zh": "重複；複習",
+        "en": "to repeat, review",
+        "ex": {
+          "de": "Könnten Sie die Frage bitte noch einmal {wiederholen}?",
+          "zh": "可以請您再重複一次問題嗎？",
+          "en": "Could you please repeat the question once more?",
+          "distractors": [
+            "waschen",
+            "wärmen",
+            "wiegen"
+          ]
+        }
+      }
+    ]
+  },
+  "wiederholung": {
+    "senses": [
+      {
+        "zh": "重複；複習",
+        "en": "repetition, review",
+        "ex": {
+          "de": "Vor der Prüfung ist die {Wiederholung} wichtiger als neuer Stoff.",
+          "zh": "考試前，複習比學新內容更重要。",
+          "en": "Before the exam, review is more important than new material.",
+          "distractors": [
+            "Briefmarke",
+            "Kreuzung",
+            "Münze"
+          ]
+        }
+      }
+    ]
+  },
+  "wiegen": {
+    "senses": [
+      {
+        "zh": "重；稱重量",
+        "en": "to weigh",
+        "ex": {
+          "de": "Wie viel {wiegt} dein Koffer für den Flug?",
+          "zh": "你這趟飛行的行李箱有多重？",
+          "en": "How much does your suitcase for the flight weigh?",
+          "distractors": [
+            "kocht",
+            "wäscht",
+            "tanzt"
+          ]
+        }
+      }
+    ]
+  },
+  "wild": {
+    "senses": [
+      {
+        "zh": "野生的；野的",
+        "en": "wild",
+        "ex": {
+          "de": "Im Wald leben noch {wilde} Tiere.",
+          "zh": "森林裡還住著野生動物。",
+          "en": "Wild animals still live in the forest.",
+          "distractors": [
+            "gekochte",
+            "gedruckte",
+            "verheiratete"
+          ]
+        }
+      }
+    ]
+  },
+  "wiese": {
+    "senses": [
+      {
+        "zh": "草地",
+        "en": "meadow",
+        "ex": {
+          "de": "Die Kinder spielen auf der {Wiese} hinter unserem Haus.",
+          "zh": "孩子們在我們家後面的草地上玩。",
+          "en": "The children play on the meadow behind our house.",
+          "distractors": [
+            "Dusche",
+            "Lampe",
+            "Mikrowelle"
+          ]
+        }
+      }
+    ]
+  },
+  "wieso": {
+    "senses": [
+      {
+        "zh": "為什麼",
+        "en": "why",
+        "ex": {
+          "de": "{Wieso} hast du mir nichts von der Party erzählt?",
+          "zh": "你為什麼沒跟我說派對的事？",
+          "en": "Why didn't you tell me anything about the party?",
+          "distractors": [
+            "Wen",
+            "Womit",
+            "Wem"
+          ]
+        }
+      }
+    ]
+  },
+  "wie-viel": {
+    "senses": [
+      {
+        "zh": "多少",
+        "en": "how many, how much",
+        "ex": {
+          "de": "{Wie viele} Gäste kommen heute Abend zu deinem Geburtstag?",
+          "zh": "今晚有多少客人要來參加你的生日派對？",
+          "en": "How many guests are coming to your birthday tonight?",
+          "distractors": [
+            "Wie oft",
+            "Wie spät",
+            "Wie weit"
+          ]
+        }
+      }
+    ]
+  },
+  "willkommen": {
+    "senses": [
+      {
+        "zh": "歡迎",
+        "en": "welcome",
+        "ex": {
+          "de": "Herzlich {willkommen} in unserer Stadt, wir freuen uns!",
+          "zh": "歡迎來到我們的城市，我們很高興！",
+          "en": "A warm welcome to our city, we are happy!",
+          "distractors": [
+            "bitte",
+            "leider",
+            "gestern"
+          ]
+        }
+      }
+    ]
+  },
+  "wind": {
+    "senses": [
+      {
+        "zh": "風",
+        "en": "wind",
+        "ex": {
+          "de": "Der {Wind} hat meinen Hut vom Kopf geweht.",
+          "zh": "風把我的帽子從頭上吹走了。",
+          "en": "The wind blew my hat off my head.",
+          "distractors": [
+            "Kaffee",
+            "Zucker",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "windig": {
+    "senses": [
+      {
+        "zh": "有風的",
+        "en": "windy",
+        "ex": {
+          "de": "Am Meer ist es oft kalt und {windig}.",
+          "zh": "海邊常常又冷又多風。",
+          "en": "At the sea it is often cold and windy.",
+          "distractors": [
+            "reich",
+            "ledig",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "winken": {
+    "senses": [
+      {
+        "zh": "揮手",
+        "en": "to wave",
+        "ex": {
+          "de": "Zum Abschied wollen wir dem Zug noch {winken}.",
+          "zh": "道別時，我們還想向火車揮手。",
+          "en": "As a farewell we still want to wave at the train.",
+          "distractors": [
+            "kaufen",
+            "nähen",
+            "ernten"
+          ]
+        }
+      }
+    ]
+  },
+  "wirken": {
+    "senses": [
+      {
+        "zh": "看起來；顯得；起作用",
+        "en": "to seem, appear; to work (effect)",
+        "ex": {
+          "de": "Nach der Pause {wirkt} sie viel frischer als gestern.",
+          "zh": "休息之後，她看起來比昨天精神多了。",
+          "en": "After the break she seems much fresher than yesterday.",
+          "distractors": [
+            "kauft",
+            "trinkt",
+            "schreibt"
+          ]
+        }
+      }
+    ]
+  },
+  "wirkung": {
+    "senses": [
+      {
+        "zh": "效果；作用",
+        "en": "effect",
+        "ex": {
+          "de": "Die {Wirkung} der Tablette setzt nach zwanzig Minuten ein.",
+          "zh": "藥錠的效果二十分鐘後開始出現。",
+          "en": "The effect of the tablet sets in after twenty minutes.",
+          "distractors": [
+            "Tankstelle",
+            "Matratze",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "wirklich": {
+    "senses": [
+      {
+        "zh": "真的；確實",
+        "en": "really",
+        "ex": {
+          "de": "Ist das {wirklich} dein erstes Mal in Deutschland?",
+          "zh": "這真的是你第一次來德國嗎？",
+          "en": "Is this really your first time in Germany?",
+          "distractors": [
+            "morgens",
+            "leise",
+            "links"
+          ]
+        }
+      }
+    ]
+  },
+  "wirklichkeit": {
+    "senses": [
+      {
+        "zh": "現實",
+        "en": "reality",
+        "ex": {
+          "de": "Im Film ist es schöner als in der {Wirklichkeit}.",
+          "zh": "電影裡比現實中美好。",
+          "en": "In the film it is nicer than in reality.",
+          "distractors": [
+            "Ampel",
+            "Pfanne",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "wirt": {
+    "senses": [
+      {
+        "zh": "老闆（餐館、酒館）",
+        "en": "landlord, innkeeper",
+        "ex": {
+          "de": "Der {Wirt} bringt uns noch ein Bier an den Tisch.",
+          "zh": "老闆再幫我們把一杯啤酒送到桌上。",
+          "en": "The landlord brings us another beer to the table.",
+          "distractors": [
+            "Stuhl",
+            "Mond",
+            "Zug"
+          ]
+        }
+      }
+    ]
+  },
+  "wirtin": {
+    "senses": [
+      {
+        "zh": "女老闆（餐館、酒館）",
+        "en": "landlady, innkeeper",
+        "ex": {
+          "de": "Die {Wirtin} kennt fast alle Gäste in ihrem Lokal.",
+          "zh": "老闆娘幾乎認識店裡所有的客人。",
+          "en": "The landlady knows almost all the guests in her pub.",
+          "distractors": [
+            "Uhr",
+            "Waage",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "wirtschaft": {
+    "senses": [
+      {
+        "zh": "經濟",
+        "en": "economy",
+        "ex": {
+          "de": "Die {Wirtschaft} des Landes wächst seit Jahren langsam.",
+          "zh": "這個國家的經濟多年來成長緩慢。",
+          "en": "The country's economy has been growing slowly for years.",
+          "distractors": [
+            "Seife",
+            "Treppe",
+            "Sonne"
+          ]
+        }
+      }
+    ]
+  },
+  "wissen": {
+    "senses": [
+      {
+        "zh": "知道",
+        "en": "to know",
+        "ex": {
+          "de": "Ich möchte unbedingt {wissen}, wie der Film endet.",
+          "zh": "我很想知道這部電影怎麼結束。",
+          "en": "I really want to know how the film ends.",
+          "distractors": [
+            "putzen",
+            "pflanzen",
+            "reiten"
+          ]
+        }
+      }
+    ]
+  },
+  "wissen-2": {
+    "senses": [
+      {
+        "zh": "知識",
+        "en": "knowledge",
+        "ex": {
+          "de": "Mit viel {Wissen} und Geduld löst sie jedes Problem.",
+          "zh": "憑著豐富的知識和耐心，她能解決任何問題。",
+          "en": "With a lot of knowledge and patience she solves every problem.",
+          "distractors": [
+            "Besteck",
+            "Geschirr",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  }
+}

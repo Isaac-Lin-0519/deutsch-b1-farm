@@ -1,0 +1,902 @@
+{
+  "wissenschaft": {
+    "senses": [
+      {
+        "zh": "科學；學術",
+        "en": "science",
+        "ex": {
+          "de": "Die {Wissenschaft} hat unser Leben in vielen Bereichen verändert.",
+          "zh": "科學在許多領域改變了我們的生活。",
+          "en": "Science has changed our lives in many areas.",
+          "distractors": [
+            "Suppe",
+            "Kreuzung",
+            "Gabel"
+          ]
+        }
+      }
+    ]
+  },
+  "wissenschaftler": {
+    "senses": [
+      {
+        "zh": "科學家（男）",
+        "en": "scientist (male)",
+        "ex": {
+          "de": "Der {Wissenschaftler} erklärt im Fernsehen, wie ein Impfstoff entsteht.",
+          "zh": "這位科學家在電視上解釋疫苗是怎麼誕生的。",
+          "en": "The scientist explains on TV how a vaccine is made.",
+          "distractors": [
+            "Hammer",
+            "Bahnhof",
+            "Regen"
+          ]
+        }
+      }
+    ]
+  },
+  "wissenschaftlerin": {
+    "senses": [
+      {
+        "zh": "科學家（女）",
+        "en": "scientist (female)",
+        "ex": {
+          "de": "Die {Wissenschaftlerin} arbeitet seit Jahren an einem neuen Medikament.",
+          "zh": "這位女科學家多年來一直在研發一種新藥。",
+          "en": "The scientist has been working on a new drug for years.",
+          "distractors": [
+            "Kartoffel",
+            "Treppe",
+            "Kreide"
+          ]
+        }
+      }
+    ]
+  },
+  "witz": {
+    "senses": [
+      {
+        "zh": "笑話",
+        "en": "joke",
+        "ex": {
+          "de": "Opa erzählt beim Essen immer denselben {Witz}.",
+          "zh": "爺爺吃飯時總是講同一個笑話。",
+          "en": "Grandpa always tells the same joke at dinner.",
+          "distractors": [
+            "Gürtel",
+            "Balkon",
+            "Salat"
+          ]
+        }
+      }
+    ]
+  },
+  "wo": {
+    "senses": [
+      {
+        "zh": "哪裡",
+        "en": "where",
+        "ex": {
+          "de": "{Wo} wohnt deine Schwester jetzt?",
+          "zh": "你姊姊現在住在哪裡？",
+          "en": "Where does your sister live now?",
+          "distractors": [
+            "Woher",
+            "Wohin",
+            "Wen"
+          ]
+        }
+      }
+    ]
+  },
+  "woher": {
+    "senses": [
+      {
+        "zh": "從哪裡",
+        "en": "where from",
+        "ex": {
+          "de": "{Woher} kommt dein neuer Kollege, aus Polen?",
+          "zh": "你的新同事來自哪裡，波蘭嗎？",
+          "en": "Where does your new colleague come from, Poland?",
+          "distractors": [
+            "Wohin",
+            "Wann",
+            "Wen"
+          ]
+        }
+      }
+    ]
+  },
+  "wohin": {
+    "senses": [
+      {
+        "zh": "往哪裡",
+        "en": "where to",
+        "ex": {
+          "de": "{Wohin} fahrt ihr im Sommer, ans Meer oder in die Berge?",
+          "zh": "你們夏天要去哪裡，海邊還是山上？",
+          "en": "Where are you going in summer, the sea or the mountains?",
+          "distractors": [
+            "Woher",
+            "Wer",
+            "Wann"
+          ]
+        }
+      }
+    ]
+  },
+  "wohl": {
+    "senses": [
+      {
+        "zh": "大概；或許",
+        "en": "probably",
+        "ex": {
+          "de": "Der Bus kommt {wohl} etwas später, es schneit stark.",
+          "zh": "公車大概會晚一點到，雪下得很大。",
+          "en": "The bus will probably be a bit late, it is snowing hard.",
+          "distractors": [
+            "gestern",
+            "damals",
+            "vorher"
+          ]
+        }
+      }
+    ]
+  },
+  "wohnen": {
+    "senses": [
+      {
+        "zh": "居住",
+        "en": "to live, reside",
+        "ex": {
+          "de": "Meine Großeltern {wohnen} seit vierzig Jahren im selben Dorf.",
+          "zh": "我的祖父母四十年來都住在同一個村子。",
+          "en": "My grandparents have lived in the same village for forty years.",
+          "distractors": [
+            "bellen",
+            "schmelzen",
+            "landen"
+          ]
+        }
+      }
+    ]
+  },
+  "wohnort-2": {
+    "senses": [
+      {
+        "zh": "居住地",
+        "en": "place of residence",
+        "ex": {
+          "de": "Bitte tragen Sie Ihren {Wohnort} in das Formular ein.",
+          "zh": "請把您的居住地填在表格裡。",
+          "en": "Please enter your place of residence in the form.",
+          "distractors": [
+            "Hunger",
+            "Urlaub",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "wohnsitz": {
+    "senses": [
+      {
+        "zh": "住所；戶籍地",
+        "en": "residence, domicile",
+        "ex": {
+          "de": "Der Politiker hat seinen {Wohnsitz} nach München verlegt.",
+          "zh": "這位政治人物把住所遷到了慕尼黑。",
+          "en": "The politician has moved his residence to Munich.",
+          "distractors": [
+            "Sonnenschein",
+            "Husten",
+            "Kaffee"
+          ]
+        }
+      }
+    ]
+  },
+  "wohnung": {
+    "senses": [
+      {
+        "zh": "住宅；公寓",
+        "en": "apartment, flat",
+        "ex": {
+          "de": "Unsere neue {Wohnung} liegt im dritten Stock und hat einen Balkon.",
+          "zh": "我們的新公寓在四樓，還有一個陽台。",
+          "en": "Our new apartment is on the third floor and has a balcony.",
+          "distractors": [
+            "Brücke",
+            "Birne",
+            "Lampe"
+          ]
+        }
+      }
+    ]
+  },
+  "wohnzimmer": {
+    "senses": [
+      {
+        "zh": "客廳",
+        "en": "living room",
+        "ex": {
+          "de": "Am Abend sitzt die ganze Familie im {Wohnzimmer} vor dem Fernseher.",
+          "zh": "晚上全家人坐在客廳看電視。",
+          "en": "In the evening the whole family sits in the living room in front of the TV.",
+          "distractors": [
+            "Gemüse",
+            "Nest",
+            "Gebirge"
+          ]
+        }
+      }
+    ]
+  },
+  "wolke": {
+    "senses": [
+      {
+        "zh": "雲",
+        "en": "cloud",
+        "ex": {
+          "de": "Eine dunkle {Wolke} schiebt sich vor die Sonne.",
+          "zh": "一朵烏雲飄到太陽前面。",
+          "en": "A dark cloud moves in front of the sun.",
+          "distractors": [
+            "Katze",
+            "Schublade",
+            "Bürste"
+          ]
+        }
+      }
+    ]
+  },
+  "bewoelkt": {
+    "senses": [
+      {
+        "zh": "多雲的",
+        "en": "cloudy",
+        "ex": {
+          "de": "Am Wochenende bleibt es {bewölkt}, aber es regnet nicht.",
+          "zh": "週末會維持多雲，但不會下雨。",
+          "en": "It stays cloudy at the weekend, but it won't rain.",
+          "distractors": [
+            "gesund",
+            "pünktlich",
+            "teuer"
+          ]
+        }
+      }
+    ]
+  },
+  "wollen": {
+    "senses": [
+      {
+        "zh": "想要",
+        "en": "to want",
+        "ex": {
+          "de": "Wir {wollen} am Sonntag mit den Kindern in den Zoo gehen.",
+          "zh": "我們星期天想帶孩子去動物園。",
+          "en": "We want to go to the zoo with the kids on Sunday.",
+          "distractors": [
+            "essen",
+            "singen",
+            "lesen"
+          ]
+        }
+      }
+    ]
+  },
+  "hat-wollen-als": {
+    "senses": [
+      {
+        "zh": "想要（情態動詞的完成式用法）",
+        "en": "to want (in perfect with infinitive)",
+        "ex": {
+          "de": "Er hat gestern nicht mehr arbeiten {wollen}.",
+          "zh": "他昨天不想再工作了。",
+          "en": "He didn't want to work any more yesterday.",
+          "distractors": [
+            "essen",
+            "singen",
+            "laufen"
+          ]
+        }
+      }
+    ]
+  },
+  "modalverb-2": {
+    "senses": [
+      {
+        "zh": "情態動詞",
+        "en": "modal verb",
+        "ex": {
+          "de": "Im Deutschkurs lernen wir heute die {Modalverben} mit Beispielen.",
+          "zh": "今天德語課我們用例句學情態動詞。",
+          "en": "In German class today we learn the modal verbs with examples.",
+          "distractors": [
+            "Hunde",
+            "Vorhänge",
+            "Gabeln"
+          ]
+        }
+      }
+    ]
+  },
+  "worueber": {
+    "senses": [
+      {
+        "zh": "關於什麼",
+        "en": "what about",
+        "ex": {
+          "de": "{Worüber} habt ihr gestern so lange gesprochen?",
+          "zh": "你們昨天聊了那麼久，是在聊什麼？",
+          "en": "What did you talk about for so long yesterday?",
+          "distractors": [
+            "Woher",
+            "Wohin",
+            "Wer"
+          ]
+        }
+      }
+    ]
+  },
+  "worum": {
+    "senses": [
+      {
+        "zh": "關於什麼",
+        "en": "what about",
+        "ex": {
+          "de": "Ich weiß nicht, {worum} es in dem Film geht.",
+          "zh": "我不知道這部電影在講什麼。",
+          "en": "I don't know what the film is about.",
+          "distractors": [
+            "woher",
+            "wohin",
+            "wann"
+          ]
+        }
+      }
+    ]
+  },
+  "wort": {
+    "senses": [
+      {
+        "zh": "字；詞",
+        "en": "word",
+        "ex": {
+          "de": "Dieses {Wort} habe ich im Unterricht noch nie gehört.",
+          "zh": "這個字我在課堂上從來沒聽過。",
+          "en": "I have never heard this word in class.",
+          "distractors": [
+            "Geschenk",
+            "Fahrrad",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "wort-2": {
+    "senses": [
+      {
+        "zh": "話語；言詞",
+        "en": "words (spoken)",
+        "ex": {
+          "de": "Der Bürgermeister fand bei der Feier sehr freundliche {Worte}.",
+          "zh": "市長在慶典上說了很親切的話。",
+          "en": "At the ceremony the mayor found very kind words.",
+          "distractors": [
+            "Schuhe",
+            "Äpfel",
+            "Wände"
+          ]
+        }
+      }
+    ]
+  },
+  "woerterbuch": {
+    "senses": [
+      {
+        "zh": "字典",
+        "en": "dictionary",
+        "ex": {
+          "de": "Auf der Reise hatte ich immer ein kleines {Wörterbuch} in der Hand.",
+          "zh": "旅途中我手上總是拿著一本小字典。",
+          "en": "On the trip I always had a small dictionary in my hand.",
+          "distractors": [
+            "Handtuch",
+            "Brötchen",
+            "Kaninchen"
+          ]
+        }
+      }
+    ]
+  },
+  "wunde": {
+    "senses": [
+      {
+        "zh": "傷口",
+        "en": "wound",
+        "ex": {
+          "de": "Die {Wunde} am Knie blutet nicht mehr.",
+          "zh": "膝蓋上的傷口不再流血了。",
+          "en": "The wound on the knee has stopped bleeding.",
+          "distractors": [
+            "Tomate",
+            "Gitarre",
+            "Kreide"
+          ]
+        }
+      }
+    ]
+  },
+  "wunder": {
+    "senses": [
+      {
+        "zh": "奇蹟",
+        "en": "miracle, wonder",
+        "ex": {
+          "de": "Es ist ein {Wunder}, dass niemand im Auto verletzt wurde.",
+          "zh": "車裡沒有人受傷，真是奇蹟。",
+          "en": "It's a miracle that nobody in the car was hurt.",
+          "distractors": [
+            "Sofa",
+            "Messer",
+            "Heft"
+          ]
+        }
+      }
+    ]
+  },
+  "wunderbar": {
+    "senses": [
+      {
+        "zh": "很棒的；美好的",
+        "en": "wonderful",
+        "ex": {
+          "de": "Das Essen war {wunderbar}, wir kommen bald wieder.",
+          "zh": "這頓飯很棒，我們很快會再來。",
+          "en": "The food was wonderful, we'll come again soon.",
+          "distractors": [
+            "laut",
+            "trocken",
+            "schmal"
+          ]
+        }
+      }
+    ]
+  },
+  "wuenschen": {
+    "senses": [
+      {
+        "zh": "希望；想要",
+        "en": "to wish",
+        "ex": {
+          "de": "Zum Geburtstag {wünsche} ich mir ein neues Fahrrad.",
+          "zh": "生日時我希望得到一輛新的腳踏車。",
+          "en": "For my birthday I wish for a new bicycle.",
+          "distractors": [
+            "frage",
+            "rasiere",
+            "verstecke"
+          ]
+        }
+      }
+    ]
+  },
+  "wunsch": {
+    "senses": [
+      {
+        "zh": "願望",
+        "en": "wish",
+        "ex": {
+          "de": "Sein größter {Wunsch} ist eine Reise nach Japan.",
+          "zh": "他最大的願望是去日本旅行。",
+          "en": "His greatest wish is a trip to Japan.",
+          "distractors": [
+            "Rucksack",
+            "Schnupfen",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "wurst": {
+    "senses": [
+      {
+        "zh": "香腸",
+        "en": "sausage",
+        "ex": {
+          "de": "Auf dem Markt kaufe ich immer eine frische {Wurst}.",
+          "zh": "我在市場總是買一條新鮮的香腸。",
+          "en": "At the market I always buy a fresh sausage.",
+          "distractors": [
+            "Straße",
+            "Steckdose",
+            "Nadel"
+          ]
+        }
+      }
+    ]
+  },
+  "wuetend": {
+    "senses": [
+      {
+        "zh": "生氣的",
+        "en": "angry",
+        "ex": {
+          "de": "Mein Bruder war {wütend}, weil ich sein Handy benutzt hatte.",
+          "zh": "我哥哥很生氣，因為我用了他的手機。",
+          "en": "My brother was angry because I had used his phone.",
+          "distractors": [
+            "gesund",
+            "dünn",
+            "pünktlich"
+          ]
+        }
+      }
+    ]
+  },
+  "zahl": {
+    "senses": [
+      {
+        "zh": "數字",
+        "en": "number",
+        "ex": {
+          "de": "Die {Zahl} auf dem Schild ist kaum zu lesen.",
+          "zh": "牌子上的數字幾乎看不清楚。",
+          "en": "The number on the sign is hardly legible.",
+          "distractors": [
+            "Gurke",
+            "Tante",
+            "Kuh"
+          ]
+        }
+      }
+    ]
+  },
+  "anzahl": {
+    "senses": [
+      {
+        "zh": "數量",
+        "en": "number, quantity",
+        "ex": {
+          "de": "Die {Anzahl} der Teilnehmer ist leider begrenzt.",
+          "zh": "參加人數很遺憾有限制。",
+          "en": "The number of participants is unfortunately limited.",
+          "distractors": [
+            "Zahnbürste",
+            "Wiese",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "zahlreich": {
+    "senses": [
+      {
+        "zh": "眾多的",
+        "en": "numerous",
+        "ex": {
+          "de": "Zur Party kamen {zahlreiche} Gäste aus dem ganzen Land.",
+          "zh": "來參加派對的有來自全國各地的許多賓客。",
+          "en": "Numerous guests from all over the country came to the party.",
+          "distractors": [
+            "leere",
+            "grüne",
+            "kalte"
+          ]
+        }
+      }
+    ]
+  },
+  "zahlen": {
+    "senses": [
+      {
+        "zh": "付錢",
+        "en": "to pay",
+        "ex": {
+          "de": "Wer {zahlt} heute die Rechnung, du oder ich?",
+          "zh": "今天誰付帳，你還是我？",
+          "en": "Who pays the bill today, you or me?",
+          "distractors": [
+            "schwimmt",
+            "fliegt",
+            "wächst"
+          ]
+        }
+      }
+    ]
+  },
+  "zahlung": {
+    "senses": [
+      {
+        "zh": "付款",
+        "en": "payment",
+        "ex": {
+          "de": "Die {Zahlung} per Karte hat leider nicht funktioniert.",
+          "zh": "刷卡付款很可惜沒有成功。",
+          "en": "The payment by card unfortunately didn't work.",
+          "distractors": [
+            "Mücke",
+            "Gießkanne",
+            "Nudel"
+          ]
+        }
+      }
+    ]
+  },
+  "zaehlen": {
+    "senses": [
+      {
+        "zh": "數數",
+        "en": "to count",
+        "ex": {
+          "de": "Das Kind kann schon bis hundert {zählen}.",
+          "zh": "這個孩子已經能數到一百了。",
+          "en": "The child can already count to a hundred.",
+          "distractors": [
+            "rutschen",
+            "ernten",
+            "reiten"
+          ]
+        }
+      }
+    ]
+  },
+  "zahn": {
+    "senses": [
+      {
+        "zh": "牙齒",
+        "en": "tooth",
+        "ex": {
+          "de": "Mein {Zahn} tut seit zwei Tagen weh, ich muss zum Zahnarzt.",
+          "zh": "我的牙齒痛了兩天，得去看牙醫。",
+          "en": "My tooth has hurt for two days, I have to see the dentist.",
+          "distractors": [
+            "Löffel",
+            "Zaun",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "zahncreme-pasta": {
+    "senses": [
+      {
+        "zh": "牙膏",
+        "en": "toothpaste",
+        "ex": {
+          "de": "Ich putze mir jeden Morgen mit {Zahncreme} die Zähne.",
+          "zh": "我每天早上用牙膏刷牙。",
+          "en": "Every morning I brush my teeth with toothpaste.",
+          "distractors": [
+            "Mathematik",
+            "Geduld",
+            "Wolle"
+          ]
+        }
+      }
+    ]
+  },
+  "zange": {
+    "senses": [
+      {
+        "zh": "鉗子",
+        "en": "pliers",
+        "ex": {
+          "de": "Mit der {Zange} zieht er den alten Nagel aus der Wand.",
+          "zh": "他用鉗子把牆上的舊釘子拔出來。",
+          "en": "He pulls the old nail out of the wall with the pliers.",
+          "distractors": [
+            "Kerze",
+            "Seife",
+            "Wolle"
+          ]
+        }
+      }
+    ]
+  },
+  "zeichen": {
+    "senses": [
+      {
+        "zh": "記號；信號",
+        "en": "sign, signal",
+        "ex": {
+          "de": "Als {Zeichen} der Freundschaft schenkte sie mir einen Ring.",
+          "zh": "她送我一枚戒指，作為友誼的象徵。",
+          "en": "As a sign of friendship she gave me a ring.",
+          "distractors": [
+            "Messer",
+            "Fahrrad",
+            "Heft"
+          ]
+        }
+      }
+    ]
+  },
+  "verkehrszeichen": {
+    "senses": [
+      {
+        "zh": "交通標誌",
+        "en": "traffic sign",
+        "ex": {
+          "de": "An der Kreuzung steht ein neues {Verkehrszeichen} für Radfahrer.",
+          "zh": "路口新立了一面給腳踏車騎士的交通標誌。",
+          "en": "A new traffic sign for cyclists stands at the crossing.",
+          "distractors": [
+            "Gemüse",
+            "Wörterbuch",
+            "Zeugnis"
+          ]
+        }
+      }
+    ]
+  },
+  "zeichnen": {
+    "senses": [
+      {
+        "zh": "畫（圖）",
+        "en": "to draw",
+        "ex": {
+          "de": "Mit Bleistift und Papier kann Lisa Tiere sehr schön {zeichnen}.",
+          "zh": "Lisa能用鉛筆和紙把動物畫得很漂亮。",
+          "en": "With pencil and paper Lisa can draw animals very nicely.",
+          "distractors": [
+            "rudern",
+            "tauchen",
+            "stricken"
+          ]
+        }
+      }
+    ]
+  },
+  "zeichnung": {
+    "senses": [
+      {
+        "zh": "圖畫；素描",
+        "en": "drawing",
+        "ex": {
+          "de": "Die {Zeichnung} hängt jetzt neben dem Spiegel im Flur.",
+          "zh": "那幅畫現在掛在走廊鏡子的旁邊。",
+          "en": "The drawing now hangs next to the mirror in the hallway.",
+          "distractors": [
+            "Wiese",
+            "Kreuzung",
+            "Prüfung"
+          ]
+        }
+      }
+    ]
+  },
+  "zeigen": {
+    "senses": [
+      {
+        "zh": "給…看；指出",
+        "en": "to show",
+        "ex": {
+          "de": "Kannst du mir bitte den Weg zum Bahnhof {zeigen}?",
+          "zh": "你可以告訴我去車站怎麼走嗎？",
+          "en": "Can you please show me the way to the station?",
+          "distractors": [
+            "säen",
+            "würfeln",
+            "rasieren"
+          ]
+        }
+      }
+    ]
+  },
+  "zeile": {
+    "senses": [
+      {
+        "zh": "行（文字）",
+        "en": "line (of text)",
+        "ex": {
+          "de": "Lies bitte die erste {Zeile} des Gedichts noch einmal vor.",
+          "zh": "請把詩的第一行再唸一次。",
+          "en": "Please read the first line of the poem aloud again.",
+          "distractors": [
+            "Mütze",
+            "Wespe",
+            "Sahne"
+          ]
+        }
+      }
+    ]
+  },
+  "zeit": {
+    "senses": [
+      {
+        "zh": "時間",
+        "en": "time",
+        "ex": {
+          "de": "Ich habe leider keine {Zeit} für einen langen Spaziergang.",
+          "zh": "我很遺憾沒有時間去長途散步。",
+          "en": "Unfortunately I have no time for a long walk.",
+          "distractors": [
+            "Bluse",
+            "Ziege",
+            "Pfanne"
+          ]
+        }
+      }
+    ]
+  },
+  "zeitpunkt": {
+    "senses": [
+      {
+        "zh": "時間點；時刻",
+        "en": "point in time",
+        "ex": {
+          "de": "Der {Zeitpunkt} für die Prüfung steht noch nicht fest.",
+          "zh": "考試的時間點還沒有確定。",
+          "en": "The date for the exam has not been fixed yet.",
+          "distractors": [
+            "Hund",
+            "Mantel",
+            "Rucksack"
+          ]
+        }
+      }
+    ]
+  },
+  "zurzeit": {
+    "senses": [
+      {
+        "zh": "目前；現在",
+        "en": "at the moment",
+        "ex": {
+          "de": "{Zurzeit} arbeitet meine Schwester in einem Café in Köln.",
+          "zh": "我姊姊目前在科隆的一家咖啡館工作。",
+          "en": "At the moment my sister works in a café in Cologne.",
+          "distractors": [
+            "Gestern",
+            "Damals",
+            "Früher"
+          ]
+        }
+      }
+    ]
+  },
+  "zeitschrift": {
+    "senses": [
+      {
+        "zh": "雜誌",
+        "en": "magazine",
+        "ex": {
+          "de": "Im Wartezimmer liegt eine alte {Zeitschrift} mit vielen Rätseln.",
+          "zh": "候診室裡放著一本有很多謎題的舊雜誌。",
+          "en": "In the waiting room lies an old magazine with many puzzles.",
+          "distractors": [
+            "Schere",
+            "Kerze",
+            "Hose"
+          ]
+        }
+      }
+    ]
+  },
+  "zeitung": {
+    "senses": [
+      {
+        "zh": "報紙",
+        "en": "newspaper",
+        "ex": {
+          "de": "Mein Vater liest beim Frühstück immer die {Zeitung}.",
+          "zh": "我爸爸吃早餐時總是看報紙。",
+          "en": "My father always reads the newspaper at breakfast.",
+          "distractors": [
+            "Butter",
+            "Marmelade",
+            "Semmel"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,916 @@
+{
+  "zelt": {
+    "senses": [
+      {
+        "zh": "帳篷",
+        "en": "tent",
+        "ex": {
+          "de": "Unser {Zelt} steht direkt neben dem kleinen See.",
+          "zh": "我們的帳篷就搭在小湖邊。",
+          "en": "Our tent stands right next to the little lake.",
+          "distractors": [
+            "Klavier",
+            "Wörterbuch",
+            "Messer"
+          ]
+        }
+      }
+    ]
+  },
+  "zelten": {
+    "senses": [
+      {
+        "zh": "露營（搭帳篷）",
+        "en": "to camp (in a tent)",
+        "ex": {
+          "de": "Wir wollen drei Nächte am Fluss {zelten}.",
+          "zh": "我們想在河邊露營三個晚上。",
+          "en": "We want to camp by the river for three nights.",
+          "distractors": [
+            "unterschreiben",
+            "rasieren",
+            "buchstabieren"
+          ]
+        }
+      }
+    ]
+  },
+  "zentral": {
+    "senses": [
+      {
+        "zh": "位於市中心的；中心的",
+        "en": "central",
+        "ex": {
+          "de": "Die Wohnung liegt sehr {zentral}, direkt am Marktplatz.",
+          "zh": "這間公寓位在市中心，就在市集廣場旁。",
+          "en": "The flat is very central, right on the market square.",
+          "distractors": [
+            "pünktlich",
+            "salzig",
+            "schüchtern"
+          ]
+        }
+      }
+    ]
+  },
+  "zentrum": {
+    "senses": [
+      {
+        "zh": "中心；市中心",
+        "en": "centre, city centre",
+        "ex": {
+          "de": "Vom Bahnhof sind es zehn Minuten bis ins {Zentrum}.",
+          "zh": "從車站到市中心要十分鐘。",
+          "en": "From the station it is ten minutes to the centre.",
+          "distractors": [
+            "Gewitter",
+            "Gehalt",
+            "Ergebnis"
+          ]
+        }
+      }
+    ]
+  },
+  "zerstoeren": {
+    "senses": [
+      {
+        "zh": "摧毀；破壞",
+        "en": "to destroy",
+        "ex": {
+          "de": "Der Sturm hat gestern unser Gartenhaus völlig {zerstört}.",
+          "zh": "昨天的暴風雨把我們的小花園屋完全摧毀了。",
+          "en": "The storm completely destroyed our garden shed yesterday.",
+          "distractors": [
+            "gelobt",
+            "gewaschen",
+            "gelernt"
+          ]
+        }
+      }
+    ]
+  },
+  "zertifikat": {
+    "senses": [
+      {
+        "zh": "證書；結業證明",
+        "en": "certificate",
+        "ex": {
+          "de": "Mit diesem {Zertifikat} kann ich mich an der Uni bewerben.",
+          "zh": "有了這張證書，我就能申請這所大學。",
+          "en": "With this certificate I can apply to the university.",
+          "distractors": [
+            "Mittagessen",
+            "Wetter",
+            "Erdgeschoss"
+          ]
+        }
+      }
+    ]
+  },
+  "zettel": {
+    "senses": [
+      {
+        "zh": "紙條",
+        "en": "slip of paper, note",
+        "ex": {
+          "de": "Ich schreibe dir die Adresse schnell auf einen {Zettel}.",
+          "zh": "我很快把地址寫在一張紙條上給你。",
+          "en": "I'll quickly write the address on a slip of paper for you.",
+          "distractors": [
+            "Löffel",
+            "Mantel",
+            "Bahnsteig"
+          ]
+        }
+      }
+    ]
+  },
+  "zeuge": {
+    "senses": [
+      {
+        "zh": "（男）目擊者；證人",
+        "en": "witness (male)",
+        "ex": {
+          "de": "Der {Zeuge} hat den Unfall genau gesehen.",
+          "zh": "那位目擊者把車禍看得很清楚。",
+          "en": "The witness saw the accident clearly.",
+          "distractors": [
+            "Hammer",
+            "Gürtel",
+            "Ofen"
+          ]
+        }
+      }
+    ]
+  },
+  "zeugin": {
+    "senses": [
+      {
+        "zh": "（女）目擊者；證人",
+        "en": "witness (female)",
+        "ex": {
+          "de": "Die {Zeugin} hat dem Polizisten alles erzählt.",
+          "zh": "那位女目擊者把一切都告訴了警察。",
+          "en": "The witness told the policeman everything.",
+          "distractors": [
+            "Lampe",
+            "Gabel",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "zeugnis": {
+    "senses": [
+      {
+        "zh": "成績單；證書",
+        "en": "report card, certificate",
+        "ex": {
+          "de": "Das {Zeugnis} meiner Tochter ist diesmal richtig gut.",
+          "zh": "我女兒這次的成績單相當好。",
+          "en": "My daughter's report card is really good this time.",
+          "distractors": [
+            "Gewitter",
+            "Erdgeschoss",
+            "Rathaus"
+          ]
+        }
+      }
+    ]
+  },
+  "ziehen": {
+    "senses": [
+      {
+        "zh": "拉；拖",
+        "en": "to pull, drag",
+        "ex": {
+          "de": "Er musste den schweren Koffer die Treppe hinauf {ziehen}.",
+          "zh": "他得把沉重的行李箱拖上樓梯。",
+          "en": "He had to drag the heavy suitcase up the stairs.",
+          "distractors": [
+            "lächeln",
+            "trinken",
+            "bestellen"
+          ]
+        }
+      },
+      {
+        "zh": "搬家；遷移",
+        "en": "to move (house)",
+        "ex": {
+          "de": "Meine Schwester will nächstes Jahr nach Wien {ziehen}.",
+          "zh": "我姊姊明年想搬到維也納。",
+          "en": "My sister wants to move to Vienna next year.",
+          "distractors": [
+            "lachen",
+            "lesen",
+            "waschen"
+          ]
+        }
+      }
+    ]
+  },
+  "ziel": {
+    "senses": [
+      {
+        "zh": "目標；目的地",
+        "en": "goal, destination",
+        "ex": {
+          "de": "Unser {Ziel} für dieses Jahr ist, besser Deutsch zu sprechen.",
+          "zh": "我們今年的目標是把德語說得更好。",
+          "en": "Our goal for this year is to speak better German.",
+          "distractors": [
+            "Frühstück",
+            "Wörterbuch",
+            "Gepäck"
+          ]
+        }
+      }
+    ]
+  },
+  "ziemlich": {
+    "senses": [
+      {
+        "zh": "相當；頗",
+        "en": "quite, rather",
+        "ex": {
+          "de": "Die Suppe ist {ziemlich} scharf.",
+          "zh": "這碗湯相當辣。",
+          "en": "The soup is quite spicy.",
+          "distractors": [
+            "links",
+            "oben",
+            "danach"
+          ]
+        }
+      }
+    ]
+  },
+  "zigarette": {
+    "senses": [
+      {
+        "zh": "香菸",
+        "en": "cigarette",
+        "ex": {
+          "de": "Er hat sich nach dem Essen eine {Zigarette} angezündet.",
+          "zh": "他吃完飯後點了一根菸。",
+          "en": "After the meal he lit a cigarette.",
+          "distractors": [
+            "Banane",
+            "Gabel",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "zimmer": {
+    "senses": [
+      {
+        "zh": "房間",
+        "en": "room",
+        "ex": {
+          "de": "Das {Zimmer} im Hotel hat einen schönen Balkon.",
+          "zh": "飯店的房間有一個漂亮的陽台。",
+          "en": "The hotel room has a nice balcony.",
+          "distractors": [
+            "Gemüse",
+            "Wetter",
+            "Taschentuch"
+          ]
+        }
+      }
+    ]
+  },
+  "zinsen": {
+    "senses": [
+      {
+        "zh": "利息",
+        "en": "interest (on money)",
+        "ex": {
+          "de": "Die {Zinsen} für den Kredit sind dieses Jahr gestiegen.",
+          "zh": "今年貸款的利息上漲了。",
+          "en": "The interest on the loan has risen this year.",
+          "distractors": [
+            "Nudeln",
+            "Birnen",
+            "Socken"
+          ]
+        }
+      }
+    ]
+  },
+  "zirkus": {
+    "senses": [
+      {
+        "zh": "馬戲團",
+        "en": "circus",
+        "ex": {
+          "de": "Im {Zirkus} sind gestern Abend zwei Löwen aufgetreten.",
+          "zh": "昨晚馬戲團裡有兩隻獅子登台表演。",
+          "en": "Two lions performed in the circus last night.",
+          "distractors": [
+            "Briefkasten",
+            "Aufzug",
+            "Backofen"
+          ]
+        }
+      }
+    ]
+  },
+  "zitrone": {
+    "senses": [
+      {
+        "zh": "檸檬",
+        "en": "lemon",
+        "ex": {
+          "de": "Für den Fisch brauchen wir noch eine {Zitrone}.",
+          "zh": "煎魚我們還需要一顆檸檬。",
+          "en": "For the fish we still need a lemon.",
+          "distractors": [
+            "Zahnbürste",
+            "Hose",
+            "Matratze"
+          ]
+        }
+      }
+    ]
+  },
+  "zoll": {
+    "senses": [
+      {
+        "zh": "海關；關稅",
+        "en": "customs",
+        "ex": {
+          "de": "Der {Zoll} hat bei der Einreise mein Gepäck kontrolliert.",
+          "zh": "入境時海關檢查了我的行李。",
+          "en": "Customs checked my luggage when I entered the country.",
+          "distractors": [
+            "Bleistift",
+            "Teller",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "zone": {
+    "senses": [
+      {
+        "zh": "區域；地帶",
+        "en": "zone, area",
+        "ex": {
+          "de": "In dieser {Zone} darf man nur dreißig Kilometer pro Stunde fahren.",
+          "zh": "這個區域只能開時速三十公里。",
+          "en": "In this zone you may only drive thirty kilometres per hour.",
+          "distractors": [
+            "Suppe",
+            "Mütze",
+            "Nudel"
+          ]
+        }
+      }
+    ]
+  },
+  "zoo": {
+    "senses": [
+      {
+        "zh": "動物園",
+        "en": "zoo",
+        "ex": {
+          "de": "Im {Zoo} haben wir gestern die Pinguine gefüttert.",
+          "zh": "我們昨天在動物園餵了企鵝。",
+          "en": "At the zoo we fed the penguins yesterday.",
+          "distractors": [
+            "Aufzug",
+            "Supermarkt",
+            "Friseursalon"
+          ]
+        }
+      }
+    ]
+  },
+  "zu": {
+    "senses": [
+      {
+        "zh": "到…那裡；去…（某人處）",
+        "en": "to (a person or place)",
+        "ex": {
+          "de": "Ich gehe heute Abend {zu} meiner Oma zum Essen.",
+          "zh": "我今晚要去奶奶家吃飯。",
+          "en": "Tonight I'm going to my grandma's for dinner.",
+          "distractors": [
+            "bei",
+            "aus",
+            "seit"
+          ]
+        }
+      }
+    ]
+  },
+  "zubereiten": {
+    "senses": [
+      {
+        "zh": "準備；烹調",
+        "en": "to prepare (food)",
+        "ex": {
+          "de": "Wir möchten das Abendessen gemeinsam {zubereiten}.",
+          "zh": "我們想一起準備晚餐。",
+          "en": "We would like to prepare dinner together.",
+          "distractors": [
+            "verlieren",
+            "reparieren",
+            "übersetzen"
+          ]
+        }
+      }
+    ]
+  },
+  "zucker": {
+    "senses": [
+      {
+        "zh": "糖",
+        "en": "sugar",
+        "ex": {
+          "de": "Ich trinke den Kaffee lieber ohne {Zucker}.",
+          "zh": "我喝咖啡比較喜歡不加糖。",
+          "en": "I prefer to drink my coffee without sugar.",
+          "distractors": [
+            "Schlüssel",
+            "Mantel",
+            "Pinsel"
+          ]
+        }
+      }
+    ]
+  },
+  "zuerst": {
+    "senses": [
+      {
+        "zh": "首先；先",
+        "en": "first, at first",
+        "ex": {
+          "de": "Ich muss {zuerst} die Hausaufgaben machen, danach darf ich spielen.",
+          "zh": "我得先寫功課，之後才可以玩。",
+          "en": "I have to do my homework first, then I may play.",
+          "distractors": [
+            "sehr",
+            "gestern",
+            "ziemlich"
+          ]
+        }
+      }
+    ]
+  },
+  "zufall": {
+    "senses": [
+      {
+        "zh": "巧合；偶然",
+        "en": "coincidence, chance",
+        "ex": {
+          "de": "Es war reiner {Zufall}, dass wir uns im Zug getroffen haben.",
+          "zh": "我們在火車上遇見純屬巧合。",
+          "en": "It was pure chance that we met on the train.",
+          "distractors": [
+            "Teller",
+            "Bahnsteig",
+            "Rucksack"
+          ]
+        }
+      }
+    ]
+  },
+  "zufaellig": {
+    "senses": [
+      {
+        "zh": "偶然地；碰巧",
+        "en": "by chance",
+        "ex": {
+          "de": "Ich habe meinen alten Lehrer {zufällig} im Supermarkt getroffen.",
+          "zh": "我在超市碰巧遇到了我的老師。",
+          "en": "I happened to meet my old teacher in the supermarket.",
+          "distractors": [
+            "salzig",
+            "billig",
+            "bunt"
+          ]
+        }
+      }
+    ]
+  },
+  "zufrieden": {
+    "senses": [
+      {
+        "zh": "滿意的",
+        "en": "satisfied, content",
+        "ex": {
+          "de": "Meine Mutter ist mit dem Ergebnis sehr {zufrieden}.",
+          "zh": "我媽媽對這個結果非常滿意。",
+          "en": "My mother is very satisfied with the result.",
+          "distractors": [
+            "müde",
+            "pünktlich",
+            "kaputt"
+          ]
+        }
+      }
+    ]
+  },
+  "zugang": {
+    "senses": [
+      {
+        "zh": "通道；入口；使用權",
+        "en": "access, entrance",
+        "ex": {
+          "de": "Der {Zugang} zum Gebäude ist nur über den Hof möglich.",
+          "zh": "要進入這棟建築只能經過中庭。",
+          "en": "Access to the building is only possible through the courtyard.",
+          "distractors": [
+            "Schlüssel",
+            "Hunger",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "zugaenglich": {
+    "senses": [
+      {
+        "zh": "可進入的；可取得的",
+        "en": "accessible",
+        "ex": {
+          "de": "Die alte Bibliothek ist leider nicht für alle {zugänglich}.",
+          "zh": "很可惜，那座老圖書館不是所有人都能進入。",
+          "en": "Sadly, the old library is not accessible to everyone.",
+          "distractors": [
+            "krank",
+            "hungrig",
+            "wütend"
+          ]
+        }
+      }
+    ]
+  },
+  "zug": {
+    "senses": [
+      {
+        "zh": "火車；列車",
+        "en": "train",
+        "ex": {
+          "de": "Der {Zug} nach München hat heute zwanzig Minuten Verspätung.",
+          "zh": "開往慕尼黑的火車今天誤點二十分鐘。",
+          "en": "The train to Munich is twenty minutes late today.",
+          "distractors": [
+            "Pinsel",
+            "Rucksack",
+            "Kamm"
+          ]
+        }
+      }
+    ]
+  },
+  "zugehen": {
+    "senses": [
+      {
+        "zh": "走向（某人）；主動接近",
+        "en": "to approach (someone)",
+        "ex": {
+          "de": "Sie ist lächelnd auf den neuen Kollegen {zugegangen}.",
+          "zh": "她笑著走向新來的同事。",
+          "en": "She walked up to the new colleague with a smile.",
+          "distractors": [
+            "gestorben",
+            "geflogen",
+            "eingeschlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "zuhause": {
+    "senses": [
+      {
+        "zh": "家；歸屬的地方",
+        "en": "home",
+        "ex": {
+          "de": "Für die Kinder ist die Oma ein zweites {Zuhause}.",
+          "zh": "對孩子們來說，奶奶家就像第二個家。",
+          "en": "For the children, grandma's is a second home.",
+          "distractors": [
+            "Wörterbuch",
+            "Fahrrad",
+            "Kleid"
+          ]
+        }
+      }
+    ]
+  },
+  "zuhoeren": {
+    "senses": [
+      {
+        "zh": "傾聽；聽（某人說話）",
+        "en": "to listen",
+        "ex": {
+          "de": "Kannst du kurz {zuhören}, wenn ich dir etwas erzähle?",
+          "zh": "我跟你說事情的時候，你可以聽一下嗎？",
+          "en": "Can you listen for a moment when I tell you something?",
+          "distractors": [
+            "schwimmen",
+            "frieren",
+            "wachsen"
+          ]
+        }
+      }
+    ]
+  },
+  "zuhoerer-2": {
+    "senses": [
+      {
+        "zh": "（男）聽眾",
+        "en": "listener (male)",
+        "ex": {
+          "de": "Der {Zuhörer} in der ersten Reihe hat eine Frage gestellt.",
+          "zh": "第一排的那位聽眾提了一個問題。",
+          "en": "The listener in the front row asked a question.",
+          "distractors": [
+            "Teller",
+            "Kugelschreiber",
+            "Fernseher"
+          ]
+        }
+      }
+    ]
+  },
+  "zuhoererin": {
+    "senses": [
+      {
+        "zh": "（女）聽眾",
+        "en": "listener (female)",
+        "ex": {
+          "de": "Eine {Zuhörerin} hat nach der Vorlesung eine Frage gestellt.",
+          "zh": "一位女聽眾在講座後提了一個問題。",
+          "en": "A female listener asked a question after the lecture.",
+          "distractors": [
+            "Tomate",
+            "Tasse",
+            "Mikrowelle"
+          ]
+        }
+      }
+    ]
+  },
+  "zukunft": {
+    "senses": [
+      {
+        "zh": "未來",
+        "en": "future",
+        "ex": {
+          "de": "In der {Zukunft} werden viele Autos elektrisch fahren.",
+          "zh": "未來會有很多車子靠電力行駛。",
+          "en": "In the future many cars will run on electricity.",
+          "distractors": [
+            "Küche",
+            "Apotheke",
+            "Badewanne"
+          ]
+        }
+      }
+    ]
+  },
+  "zukuenftig": {
+    "senses": [
+      {
+        "zh": "未來的；將來的",
+        "en": "future, prospective",
+        "ex": {
+          "de": "Meine {zukünftige} Chefin hat mich schon angerufen.",
+          "zh": "我未來的女主管已經打電話給我了。",
+          "en": "My future boss has already called me.",
+          "distractors": [
+            "salzige",
+            "hölzerne",
+            "rostige"
+          ]
+        }
+      }
+    ]
+  },
+  "zuletzt": {
+    "senses": [
+      {
+        "zh": "最後；上一次",
+        "en": "last, most recently",
+        "ex": {
+          "de": "Wann hast du deine Eltern {zuletzt} gesehen?",
+          "zh": "你上一次見到你爸媽是什麼時候？",
+          "en": "When did you last see your parents?",
+          "distractors": [
+            "links",
+            "sehr",
+            "wenig"
+          ]
+        }
+      }
+    ]
+  },
+  "zumachen": {
+    "senses": [
+      {
+        "zh": "關上；關閉",
+        "en": "to close, shut",
+        "ex": {
+          "de": "Könntest du bitte die Tür {zumachen}, es zieht.",
+          "zh": "可以請你把門關上嗎？有風吹進來。",
+          "en": "Could you please close the door? There's a draught.",
+          "distractors": [
+            "anrufen",
+            "besuchen",
+            "tragen"
+          ]
+        }
+      }
+    ]
+  },
+  "zumindest": {
+    "senses": [
+      {
+        "zh": "至少",
+        "en": "at least",
+        "ex": {
+          "de": "Ruf mich {zumindest} kurz an, wenn du angekommen bist.",
+          "zh": "你到了的時候，至少打個電話給我。",
+          "en": "At least call me briefly when you have arrived.",
+          "distractors": [
+            "gestern",
+            "links",
+            "damals"
+          ]
+        }
+      }
+    ]
+  },
+  "zunaechst": {
+    "senses": [
+      {
+        "zh": "首先；起初",
+        "en": "first of all, initially",
+        "ex": {
+          "de": "{Zunächst} schneidet man das Gemüse in kleine Stücke.",
+          "zh": "首先把蔬菜切成小塊。",
+          "en": "First of all, you cut the vegetables into small pieces.",
+          "distractors": [
+            "Gestern",
+            "Damals",
+            "Vorgestern"
+          ]
+        }
+      }
+    ]
+  },
+  "zuender-streichholz-zuendholz": {
+    "senses": [
+      {
+        "zh": "火柴（奧地利用語）",
+        "en": "matches (Austrian)",
+        "ex": {
+          "de": "Bring bitte {Zünder} mit, wir wollen ein Feuer machen.",
+          "zh": "請帶火柴來，我們想生火。",
+          "en": "Please bring matches, we want to make a fire.",
+          "distractors": [
+            "Ohrringe",
+            "Hefte",
+            "Postkarten"
+          ]
+        }
+      }
+    ]
+  },
+  "zuendholz": {
+    "senses": [
+      {
+        "zh": "火柴",
+        "en": "match (stick)",
+        "ex": {
+          "de": "Er zündete die Kerze mit einem {Zündholz} an.",
+          "zh": "他用一根火柴點燃了蠟燭。",
+          "en": "He lit the candle with a match.",
+          "distractors": [
+            "Lineal",
+            "Handtuch",
+            "Tablett"
+          ]
+        }
+      }
+    ]
+  },
+  "zunehmen": {
+    "senses": [
+      {
+        "zh": "增加；變胖",
+        "en": "to increase, gain weight",
+        "ex": {
+          "de": "Seit dem Umzug habe ich fast drei Kilo {zugenommen}.",
+          "zh": "搬家以後我胖了將近三公斤。",
+          "en": "Since the move I have gained almost three kilos.",
+          "distractors": [
+            "gelacht",
+            "gewartet",
+            "geklopft"
+          ]
+        }
+      }
+    ]
+  },
+  "zurechtkommen": {
+    "senses": [
+      {
+        "zh": "應付得來；適應",
+        "en": "to cope, manage",
+        "ex": {
+          "de": "Mit dem neuen Handy bin ich noch nicht gut {zurechtgekommen}.",
+          "zh": "我還沒能順利上手這支新手機。",
+          "en": "I haven't managed well with the new phone yet.",
+          "distractors": [
+            "gestorben",
+            "geflogen",
+            "eingeschlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "zurueck-zurueck": {
+    "senses": [
+      {
+        "zh": "回來；回去（原處）",
+        "en": "back",
+        "ex": {
+          "de": "Heute Abend fahre ich {zurück} nach Berlin.",
+          "zh": "我今天晚上要回柏林。",
+          "en": "This evening I'm going back to Berlin.",
+          "distractors": [
+            "dort",
+            "bunt",
+            "hell"
+          ]
+        }
+      }
+    ]
+  },
+  "zurzeit-2": {
+    "senses": [
+      {
+        "zh": "目前；現在",
+        "en": "currently",
+        "ex": {
+          "de": "Mein Bruder wohnt {zurzeit} bei unseren Eltern.",
+          "zh": "我哥哥目前住在我們父母家。",
+          "en": "My brother is currently living with our parents.",
+          "distractors": [
+            "gestern",
+            "damals",
+            "vorhin"
+          ]
+        }
+      }
+    ]
+  },
+  "zusagen": {
+    "senses": [
+      {
+        "zh": "答應；應允",
+        "en": "to accept, promise",
+        "ex": {
+          "de": "Sie hat der Einladung zum Fest gleich {zugesagt}.",
+          "zh": "她立刻答應了派對的邀請。",
+          "en": "She immediately accepted the invitation to the party.",
+          "distractors": [
+            "geschlafen",
+            "geregnet",
+            "gelacht"
+          ]
+        }
+      }
+    ]
+  },
+  "zusammen-zusammen": {
+    "senses": [
+      {
+        "zh": "一起",
+        "en": "together",
+        "ex": {
+          "de": "Am Sonntag haben wir {zusammen} den Keller aufgeräumt.",
+          "zh": "星期天我們一起整理了地下室。",
+          "en": "On Sunday we tidied the cellar together.",
+          "distractors": [
+            "vorgestern",
+            "nirgends",
+            "jemals"
+          ]
+        }
+      }
+    ]
+  }
+}

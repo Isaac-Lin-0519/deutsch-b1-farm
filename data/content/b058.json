@@ -1,0 +1,902 @@
+{
+  "vorstellungsgespraech": {
+    "senses": [
+      {
+        "zh": "面試；應徵面談",
+        "en": "job interview",
+        "ex": {
+          "de": "Morgen früh habe ich ein {Vorstellungsgespräch} bei einer Bank.",
+          "zh": "明天一早我要去一家銀行面試。",
+          "en": "Tomorrow morning I have a job interview at a bank.",
+          "distractors": [
+            "Gewitter",
+            "Fieber",
+            "Ergebnis"
+          ]
+        }
+      }
+    ]
+  },
+  "vorteil": {
+    "senses": [
+      {
+        "zh": "優點；好處",
+        "en": "advantage",
+        "ex": {
+          "de": "Ein großer {Vorteil} dieser Wohnung ist der Balkon.",
+          "zh": "這間公寓的一大優點是有陽台。",
+          "en": "A big advantage of this flat is the balcony.",
+          "distractors": [
+            "Hunger",
+            "Teller",
+            "Gürtel"
+          ]
+        }
+      }
+    ]
+  },
+  "vortrag": {
+    "senses": [
+      {
+        "zh": "演講；報告",
+        "en": "talk, lecture",
+        "ex": {
+          "de": "Der {Vortrag} über Bienen dauert fast eine Stunde.",
+          "zh": "這場關於蜜蜂的演講要將近一個小時。",
+          "en": "The talk about bees lasts almost an hour.",
+          "distractors": [
+            "Bahnhof",
+            "Löffel",
+            "Ausweis"
+          ]
+        }
+      }
+    ]
+  },
+  "vorwahl": {
+    "senses": [
+      {
+        "zh": "區域號碼；電話區碼",
+        "en": "area code",
+        "ex": {
+          "de": "Ohne die richtige {Vorwahl} kommt der Anruf nicht an.",
+          "zh": "沒有正確的區碼，電話就打不通。",
+          "en": "Without the right area code the call won't go through.",
+          "distractors": [
+            "Zwiebel",
+            "Gabel",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "vorwaerts": {
+    "senses": [
+      {
+        "zh": "向前；往前",
+        "en": "forward",
+        "ex": {
+          "de": "Beim Joggen schaue ich immer {vorwärts}, nicht auf mein Handy.",
+          "zh": "慢跑時我總是看著前方，不看手機。",
+          "en": "When jogging I always look forward, not at my phone.",
+          "distractors": [
+            "gestern",
+            "dankbar",
+            "nirgends"
+          ]
+        }
+      }
+    ]
+  },
+  "vorwurf": {
+    "senses": [
+      {
+        "zh": "責備；指責",
+        "en": "reproach, accusation",
+        "ex": {
+          "de": "Der {Vorwurf} seines Chefs hat ihn sehr getroffen.",
+          "zh": "他老闆的指責讓他很難受。",
+          "en": "His boss's reproach hurt him a lot.",
+          "distractors": [
+            "Friseur",
+            "Pfeffer",
+            "Schalter"
+          ]
+        }
+      }
+    ]
+  },
+  "waagerecht": {
+    "senses": [
+      {
+        "zh": "水平的",
+        "en": "horizontal, level",
+        "ex": {
+          "de": "Das Regal hängt nicht {waagerecht}, sondern schief.",
+          "zh": "這個架子不是水平的，而是歪的。",
+          "en": "The shelf isn't hanging level but crooked.",
+          "distractors": [
+            "hungrig",
+            "sauer",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "wach": {
+    "senses": [
+      {
+        "zh": "醒著的；清醒的",
+        "en": "awake",
+        "ex": {
+          "de": "Ich bin nachts oft {wach} und höre die Autos.",
+          "zh": "我夜裡常常醒著，聽著車子的聲音。",
+          "en": "At night I'm often awake and listen to the cars.",
+          "distractors": [
+            "blond",
+            "eckig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "wachsen": {
+    "senses": [
+      {
+        "zh": "生長；成長",
+        "en": "to grow",
+        "ex": {
+          "de": "Im Garten {wachsen} jetzt endlich die ersten Tomaten.",
+          "zh": "花園裡終於長出第一批番茄了。",
+          "en": "In the garden the first tomatoes are finally growing now.",
+          "distractors": [
+            "bellen",
+            "landen",
+            "stehlen"
+          ]
+        }
+      }
+    ]
+  },
+  "wagen": {
+    "senses": [
+      {
+        "zh": "汽車；車輛",
+        "en": "car, vehicle",
+        "ex": {
+          "de": "Der {Wagen} bleibt auf der Autobahn plötzlich stehen.",
+          "zh": "那輛車在高速公路上突然停住了。",
+          "en": "The car suddenly stops on the motorway.",
+          "distractors": [
+            "Löffel",
+            "Vorhang",
+            "Schneemann"
+          ]
+        }
+      }
+    ]
+  },
+  "waehlen": {
+    "senses": [
+      {
+        "zh": "撥（號碼）；選擇；選舉",
+        "en": "to dial; to choose; to vote",
+        "ex": {
+          "de": "Du musst nur eine Nummer {wählen}, dann ist die Hotline da.",
+          "zh": "你只要撥一個號碼，客服專線就接通了。",
+          "en": "You only have to dial one number and the hotline picks up.",
+          "distractors": [
+            "pflanzen",
+            "streicheln",
+            "schälen"
+          ]
+        }
+      }
+    ]
+  },
+  "wahl": {
+    "senses": [
+      {
+        "zh": "選擇；選舉",
+        "en": "choice; election",
+        "ex": {
+          "de": "Bei der {Wahl} zwischen Tee und Kaffee zögert er lange.",
+          "zh": "在茶和咖啡之間做選擇時，他猶豫了很久。",
+          "en": "When choosing between tea and coffee, he hesitates for a long time.",
+          "distractors": [
+            "Nase",
+            "Brücke",
+            "Tüte"
+          ]
+        }
+      }
+    ]
+  },
+  "wahnsinnig": {
+    "senses": [
+      {
+        "zh": "極其；瘋狂的",
+        "en": "insanely, extremely",
+        "ex": {
+          "de": "Heute ist es draußen {wahnsinnig} heiß.",
+          "zh": "今天外面熱得不得了。",
+          "en": "Today it is insanely hot outside.",
+          "distractors": [
+            "kostenlos",
+            "dankbar",
+            "rechtzeitig"
+          ]
+        }
+      }
+    ]
+  },
+  "wahr": {
+    "senses": [
+      {
+        "zh": "真的；真實的",
+        "en": "true",
+        "ex": {
+          "de": "Die Geschichte klingt seltsam, aber sie ist {wahr}.",
+          "zh": "這個故事聽起來很怪，但卻是真的。",
+          "en": "The story sounds strange, but it is true.",
+          "distractors": [
+            "salzig",
+            "eckig",
+            "laut"
+          ]
+        }
+      }
+    ]
+  },
+  "wahrheit": {
+    "senses": [
+      {
+        "zh": "真相；實話",
+        "en": "truth",
+        "ex": {
+          "de": "Sag mir bitte die {Wahrheit}, auch wenn sie weh tut.",
+          "zh": "就算會讓人難受，也請你告訴我實話。",
+          "en": "Please tell me the truth, even if it hurts.",
+          "distractors": [
+            "Tomate",
+            "Mütze",
+            "Schaufel"
+          ]
+        }
+      }
+    ]
+  },
+  "waehrend": {
+    "senses": [
+      {
+        "zh": "在…期間；當…的時候",
+        "en": "during; while",
+        "ex": {
+          "de": "{Während} ich koche, hört mein Sohn Musik.",
+          "zh": "我煮飯的時候，我兒子在聽音樂。",
+          "en": "While I cook, my son listens to music.",
+          "distractors": [
+            "Damit",
+            "Dass",
+            "Ob"
+          ]
+        }
+      }
+    ]
+  },
+  "wahrscheinlich": {
+    "senses": [
+      {
+        "zh": "可能；大概",
+        "en": "probably",
+        "ex": {
+          "de": "Morgen wird es {wahrscheinlich} den ganzen Tag regnen.",
+          "zh": "明天大概會下一整天的雨。",
+          "en": "Tomorrow it will probably rain all day.",
+          "distractors": [
+            "gestern",
+            "vorgestern",
+            "früher"
+          ]
+        }
+      }
+    ]
+  },
+  "wald": {
+    "senses": [
+      {
+        "zh": "森林",
+        "en": "forest, woods",
+        "ex": {
+          "de": "Hinter unserem Haus beginnt gleich ein dichter {Wald}.",
+          "zh": "我們家後面緊接著就是一片茂密的森林。",
+          "en": "Right behind our house a dense forest begins.",
+          "distractors": [
+            "Kuchen",
+            "Bleistift",
+            "Briefträger"
+          ]
+        }
+      }
+    ]
+  },
+  "wand": {
+    "senses": [
+      {
+        "zh": "牆；牆壁",
+        "en": "wall",
+        "ex": {
+          "de": "An der {Wand} über dem Sofa hängt ein Bild.",
+          "zh": "沙發上方的牆上掛著一幅畫。",
+          "en": "A picture hangs on the wall above the sofa.",
+          "distractors": [
+            "Banane",
+            "Seife",
+            "Zeitung"
+          ]
+        }
+      }
+    ]
+  },
+  "wandern": {
+    "senses": [
+      {
+        "zh": "健行；徒步旅行",
+        "en": "to hike",
+        "ex": {
+          "de": "Im Sommer wollen wir drei Tage in den Alpen {wandern}.",
+          "zh": "夏天我們想在阿爾卑斯山健行三天。",
+          "en": "In summer we want to hike in the Alps for three days.",
+          "distractors": [
+            "rasieren",
+            "blühen",
+            "regnen"
+          ]
+        }
+      }
+    ]
+  },
+  "wanderung": {
+    "senses": [
+      {
+        "zh": "健行；遠足",
+        "en": "hike",
+        "ex": {
+          "de": "Die {Wanderung} zum See hat fast fünf Stunden gedauert.",
+          "zh": "走到湖邊的健行花了將近五個小時。",
+          "en": "The hike to the lake took almost five hours.",
+          "distractors": [
+            "Tomate",
+            "Schaufel",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "wann": {
+    "senses": [
+      {
+        "zh": "何時；什麼時候",
+        "en": "when",
+        "ex": {
+          "de": "{Wann} kommt dein Bruder aus Wien zurück?",
+          "zh": "你哥哥什麼時候從維也納回來？",
+          "en": "When is your brother coming back from Vienna?",
+          "distractors": [
+            "Wen",
+            "Wem",
+            "Womit"
+          ]
+        }
+      }
+    ]
+  },
+  "ware": {
+    "senses": [
+      {
+        "zh": "商品；貨物",
+        "en": "goods, merchandise",
+        "ex": {
+          "de": "Die {Ware} wurde gestern pünktlich an den Laden geliefert.",
+          "zh": "貨物昨天準時送到了店裡。",
+          "en": "The goods were delivered to the shop on time yesterday.",
+          "distractors": [
+            "Mütze",
+            "Zwiebel",
+            "Wespe"
+          ]
+        }
+      }
+    ]
+  },
+  "warm": {
+    "senses": [
+      {
+        "zh": "溫暖的；熱的",
+        "en": "warm",
+        "ex": {
+          "de": "Die Suppe ist noch schön {warm}, iss schnell.",
+          "zh": "湯還熱熱的，快喝吧。",
+          "en": "The soup is still nice and warm, eat quickly.",
+          "distractors": [
+            "eckig",
+            "hungrig",
+            "schwanger"
+          ]
+        }
+      }
+    ]
+  },
+  "waerme": {
+    "senses": [
+      {
+        "zh": "溫暖；暖意；熱",
+        "en": "warmth, heat",
+        "ex": {
+          "de": "Im Winter sehne ich mich nach {Wärme} und Sonne.",
+          "zh": "冬天我渴望溫暖和陽光。",
+          "en": "In winter I long for warmth and sun.",
+          "distractors": [
+            "Gabel",
+            "Brücke",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "warnen": {
+    "senses": [
+      {
+        "zh": "警告；提醒",
+        "en": "to warn",
+        "ex": {
+          "de": "Der Wetterdienst will die Leute vor dem Sturm {warnen}.",
+          "zh": "氣象局想提醒大家注意風暴。",
+          "en": "The weather service wants to warn people about the storm.",
+          "distractors": [
+            "verkaufen",
+            "ernten",
+            "einladen"
+          ]
+        }
+      }
+    ]
+  },
+  "warten": {
+    "senses": [
+      {
+        "zh": "等；等待",
+        "en": "to wait",
+        "ex": {
+          "de": "Wir {warten} schon eine halbe Stunde auf den Bus.",
+          "zh": "我們已經等公車等了半小時。",
+          "en": "We have been waiting for the bus for half an hour.",
+          "distractors": [
+            "pflanzen",
+            "tragen",
+            "sparen"
+          ]
+        }
+      }
+    ]
+  },
+  "warum": {
+    "senses": [
+      {
+        "zh": "為什麼",
+        "en": "why",
+        "ex": {
+          "de": "{Warum} lacht die Lehrerin im Flur so laut?",
+          "zh": "老師為什麼在走廊笑得那麼大聲？",
+          "en": "Why is the teacher laughing so loudly in the corridor?",
+          "distractors": [
+            "Wen",
+            "Wessen",
+            "Wohin"
+          ]
+        }
+      }
+    ]
+  },
+  "was": {
+    "senses": [
+      {
+        "zh": "什麼",
+        "en": "what",
+        "ex": {
+          "de": "{Was} hast du am Wochenende im Wald gesehen?",
+          "zh": "你週末在森林裡看到了什麼？",
+          "en": "What did you see in the forest at the weekend?",
+          "distractors": [
+            "Wer",
+            "Wem",
+            "Wessen"
+          ]
+        }
+      }
+    ]
+  },
+  "was-fuer-ein": {
+    "senses": [
+      {
+        "zh": "什麼樣的；多麼（的）",
+        "en": "what kind of",
+        "ex": {
+          "de": "{Was für ein} Auto hat eigentlich dein Onkel?",
+          "zh": "你叔叔到底開什麼樣的車？",
+          "en": "What kind of car does your uncle actually have?",
+          "distractors": [
+            "Wer für ein",
+            "Wann für ein",
+            "Warum für ein"
+          ]
+        }
+      }
+    ]
+  },
+  "waschen": {
+    "senses": [
+      {
+        "zh": "洗；洗（身體）",
+        "en": "to wash",
+        "ex": {
+          "de": "Nach dem Fußball muss ich mich gründlich {waschen}.",
+          "zh": "踢完足球後我得好好洗一洗。",
+          "en": "After football I have to wash myself thoroughly.",
+          "distractors": [
+            "zahlen",
+            "leihen",
+            "bauen"
+          ]
+        }
+      }
+    ]
+  },
+  "waesche": {
+    "senses": [
+      {
+        "zh": "衣物；待洗衣物",
+        "en": "laundry",
+        "ex": {
+          "de": "Nach dem Urlaub liegt ein Berg {Wäsche} im Flur.",
+          "zh": "度假回來後，走廊裡堆了一大堆待洗衣物。",
+          "en": "After the holiday a pile of laundry lies in the hallway.",
+          "distractors": [
+            "Treppe",
+            "Banane",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "waschmittel": {
+    "senses": [
+      {
+        "zh": "洗衣精；清潔劑",
+        "en": "detergent",
+        "ex": {
+          "de": "Das {Waschmittel} ist leer, wir brauchen neues.",
+          "zh": "洗衣精用完了，我們需要買新的。",
+          "en": "The detergent is empty, we need new.",
+          "distractors": [
+            "Gewitter",
+            "Rätsel",
+            "Datum"
+          ]
+        }
+      }
+    ]
+  },
+  "wasser": {
+    "senses": [
+      {
+        "zh": "水",
+        "en": "water",
+        "ex": {
+          "de": "Im Zug habe ich nur eine Flasche {Wasser} dabei.",
+          "zh": "我在火車上只帶了一瓶水。",
+          "en": "On the train I only have a bottle of water with me.",
+          "distractors": [
+            "Gemüse",
+            "Obst",
+            "Brot"
+          ]
+        }
+      }
+    ]
+  },
+  "wechseln": {
+    "senses": [
+      {
+        "zh": "更換；換",
+        "en": "to change, replace",
+        "ex": {
+          "de": "Im Herbst muss ich die Reifen am Auto {wechseln}.",
+          "zh": "秋天時我得換車子的輪胎。",
+          "en": "In autumn I have to change the tyres on my car.",
+          "distractors": [
+            "pflücken",
+            "heiraten",
+            "taufen"
+          ]
+        }
+      }
+    ]
+  },
+  "wecken": {
+    "senses": [
+      {
+        "zh": "叫醒；喚醒",
+        "en": "to wake (someone)",
+        "ex": {
+          "de": "Meine Mutter will mich morgen um sechs {wecken}.",
+          "zh": "我媽媽明天六點要叫我起床。",
+          "en": "My mother wants to wake me at six tomorrow.",
+          "distractors": [
+            "schälen",
+            "gießen",
+            "fällen"
+          ]
+        }
+      }
+    ]
+  },
+  "wecker": {
+    "senses": [
+      {
+        "zh": "鬧鐘",
+        "en": "alarm clock",
+        "ex": {
+          "de": "Mein {Wecker} klingelt jeden Morgen schon um fünf.",
+          "zh": "我的鬧鐘每天早上五點就響了。",
+          "en": "My alarm clock rings at five every morning.",
+          "distractors": [
+            "Hammer",
+            "Pinsel",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "weder-noch": {
+    "senses": [
+      {
+        "zh": "既不…也不…",
+        "en": "neither … nor",
+        "ex": {
+          "de": "Er isst {weder} Fleisch noch Fisch.",
+          "zh": "他既不吃肉也不吃魚。",
+          "en": "He eats neither meat nor fish.",
+          "distractors": [
+            "entweder",
+            "sowohl",
+            "sowie"
+          ]
+        }
+      }
+    ]
+  },
+  "weg": {
+    "senses": [
+      {
+        "zh": "路；路途；路線",
+        "en": "way, path",
+        "ex": {
+          "de": "Auf dem {Weg} zur Arbeit treffe ich oft meine Tante.",
+          "zh": "上班途中我常遇到我阿姨。",
+          "en": "On the way to work I often meet my aunt.",
+          "distractors": [
+            "Balkon",
+            "Dachboden",
+            "Hügel"
+          ]
+        }
+      }
+    ]
+  },
+  "weg-weg": {
+    "senses": [
+      {
+        "zh": "離開；不見了；走了",
+        "en": "away, gone",
+        "ex": {
+          "de": "Mein Schlüssel ist plötzlich {weg}.",
+          "zh": "我的鑰匙突然不見了。",
+          "en": "My key is suddenly gone.",
+          "distractors": [
+            "blond",
+            "hungrig",
+            "freundlich"
+          ]
+        }
+      }
+    ]
+  },
+  "wegen": {
+    "senses": [
+      {
+        "zh": "因為；由於",
+        "en": "because of",
+        "ex": {
+          "de": "{Wegen} des Staus kamen wir zu spät.",
+          "zh": "因為塞車，我們遲到了。",
+          "en": "Because of the traffic jam we arrived late.",
+          "distractors": [
+            "Mit",
+            "Ohne",
+            "Bei"
+          ]
+        }
+      }
+    ]
+  },
+  "wehtun": {
+    "senses": [
+      {
+        "zh": "痛；使疼痛",
+        "en": "to hurt",
+        "ex": {
+          "de": "Der Zahnarzt sagt, es wird kurz {wehtun}.",
+          "zh": "牙醫說會痛一下下。",
+          "en": "The dentist says it will hurt briefly.",
+          "distractors": [
+            "zumachen",
+            "zuhören",
+            "abbiegen"
+          ]
+        }
+      }
+    ]
+  },
+  "weiblich": {
+    "senses": [
+      {
+        "zh": "女性的；雌性的",
+        "en": "female",
+        "ex": {
+          "de": "Unsere Katze ist {weiblich} und heißt Mimi.",
+          "zh": "我們的貓是母的，名叫咪咪。",
+          "en": "Our cat is female and is called Mimi.",
+          "distractors": [
+            "salzig",
+            "eckig",
+            "kostenlos"
+          ]
+        }
+      }
+    ]
+  },
+  "weich": {
+    "senses": [
+      {
+        "zh": "柔軟的；軟的",
+        "en": "soft",
+        "ex": {
+          "de": "Der Pullover aus Wolle fühlt sich angenehm {weich} an.",
+          "zh": "這件羊毛毛衣摸起來很柔軟舒服。",
+          "en": "The wool sweater feels pleasantly soft.",
+          "distractors": [
+            "leer",
+            "laut",
+            "pünktlich"
+          ]
+        }
+      }
+    ]
+  },
+  "weigern": {
+    "senses": [
+      {
+        "zh": "拒絕；不肯",
+        "en": "to refuse",
+        "ex": {
+          "de": "Der kleine Junge {weigert} sich, das Gemüse zu essen.",
+          "zh": "小男孩不肯吃蔬菜。",
+          "en": "The little boy refuses to eat the vegetables.",
+          "distractors": [
+            "kämmt",
+            "rasiert",
+            "duscht"
+          ]
+        }
+      }
+    ]
+  },
+  "weil": {
+    "senses": [
+      {
+        "zh": "因為",
+        "en": "because",
+        "ex": {
+          "de": "Ich nehme den Bus, {weil} es heute stark regnet.",
+          "zh": "我搭公車，因為今天雨下得很大。",
+          "en": "I'm taking the bus because it is raining hard today.",
+          "distractors": [
+            "damit",
+            "dass",
+            "ob"
+          ]
+        }
+      }
+    ]
+  },
+  "wein": {
+    "senses": [
+      {
+        "zh": "葡萄酒",
+        "en": "wine",
+        "ex": {
+          "de": "Zum Fisch trinken wir gern einen kühlen {Wein}.",
+          "zh": "吃魚時我們喜歡配一杯冰涼的葡萄酒。",
+          "en": "With fish we like to drink a cool wine.",
+          "distractors": [
+            "Zaun",
+            "Pinsel",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "weinen": {
+    "senses": [
+      {
+        "zh": "哭；哭泣",
+        "en": "to cry",
+        "ex": {
+          "de": "Bei diesem traurigen Film muss ich immer {weinen}.",
+          "zh": "看這部悲傷的電影我總是會哭。",
+          "en": "At this sad film I always have to cry.",
+          "distractors": [
+            "bohren",
+            "verpacken",
+            "überweisen"
+          ]
+        }
+      }
+    ]
+  },
+  "weise": {
+    "senses": [
+      {
+        "zh": "…地（構成副詞的後綴）",
+        "en": "-ly, in a … way",
+        "ex": {
+          "de": "{Normalerweise} schlafe ich am Sonntag bis neun.",
+          "zh": "我星期天通常睡到九點。",
+          "en": "Normally I sleep until nine on Sundays.",
+          "distractors": [
+            "Gestern",
+            "Vorhin",
+            "Damals"
+          ]
+        }
+      }
+    ]
+  },
+  "weit": {
+    "senses": [
+      {
+        "zh": "遠的；寬廣的",
+        "en": "far",
+        "ex": {
+          "de": "Bis zum Bahnhof ist es nicht {weit}, ich gehe zu Fuß.",
+          "zh": "到火車站不遠，我走路去。",
+          "en": "It isn't far to the station, I'll walk.",
+          "distractors": [
+            "blond",
+            "eckig",
+            "leise"
+          ]
+        }
+      }
+    ]
+  }
+}
