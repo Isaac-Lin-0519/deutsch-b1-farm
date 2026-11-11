@@ -1,0 +1,902 @@
+{
+  "heissen": {
+    "senses": [
+      {
+        "zh": "叫做；名為",
+        "en": "to be called",
+        "ex": {
+          "de": "Wie {heißt} deine neue Kollegin aus Hamburg?",
+          "zh": "你在漢堡的新同事叫什麼名字？",
+          "en": "What is your new colleague from Hamburg called?",
+          "distractors": [
+            "schläft",
+            "schwimmt",
+            "kauft"
+          ]
+        }
+      }
+    ]
+  },
+  "heizen": {
+    "senses": [
+      {
+        "zh": "暖氣供暖；加熱",
+        "en": "to heat",
+        "ex": {
+          "de": "Wir {heizen} im Winter nur mit Fernwärme.",
+          "zh": "我們冬天只用區域供熱來取暖。",
+          "en": "In winter we heat only with district heating.",
+          "distractors": [
+            "schwimmen",
+            "tanzen",
+            "fliegen"
+          ]
+        }
+      }
+    ]
+  },
+  "heizung": {
+    "senses": [
+      {
+        "zh": "暖氣；暖氣設備",
+        "en": "heating, radiator",
+        "ex": {
+          "de": "Die {Heizung} im Schlafzimmer macht nachts laute Geräusche.",
+          "zh": "臥室的暖氣晚上會發出很大的聲音。",
+          "en": "The heating in the bedroom makes loud noises at night.",
+          "distractors": [
+            "Wiese",
+            "Mütze",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "held": {
+    "senses": [
+      {
+        "zh": "英雄；男主角",
+        "en": "hero",
+        "ex": {
+          "de": "Als Kind war mein Opa für mich ein echter {Held}.",
+          "zh": "小時候，爺爺在我心中是個真正的英雄。",
+          "en": "As a child, my grandpa was a real hero to me.",
+          "distractors": [
+            "Teller",
+            "Mantel",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "heldin": {
+    "senses": [
+      {
+        "zh": "女英雄；女主角",
+        "en": "heroine",
+        "ex": {
+          "de": "Die {Heldin} des Films rettet am Ende ihre kleine Schwester.",
+          "zh": "電影的女主角最後救了她的妹妹。",
+          "en": "The heroine of the film saves her little sister in the end.",
+          "distractors": [
+            "Tasse",
+            "Kreuzung",
+            "Banane"
+          ]
+        }
+      }
+    ]
+  },
+  "helfen": {
+    "senses": [
+      {
+        "zh": "幫忙；幫助",
+        "en": "to help",
+        "ex": {
+          "de": "Kannst du mir morgen beim Umzug {helfen}?",
+          "zh": "你明天可以幫我搬家嗎？",
+          "en": "Can you help me with the move tomorrow?",
+          "distractors": [
+            "wachsen",
+            "regnen",
+            "rennen"
+          ]
+        }
+      }
+    ]
+  },
+  "hilfe": {
+    "senses": [
+      {
+        "zh": "幫助；援助",
+        "en": "help, assistance",
+        "ex": {
+          "de": "Ohne eure {Hilfe} hätte ich die Prüfung nie bestanden.",
+          "zh": "沒有你們的幫忙，我絕對通不過考試。",
+          "en": "Without your help I would never have passed the exam.",
+          "distractors": [
+            "Brille",
+            "Reise",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "hell": {
+    "senses": [
+      {
+        "zh": "明亮的；淺色的",
+        "en": "bright, light",
+        "ex": {
+          "de": "Die Küche ist wegen der großen Fenster schön {hell}.",
+          "zh": "因為窗戶很大，廚房很明亮。",
+          "en": "Thanks to the big windows the kitchen is nice and bright.",
+          "distractors": [
+            "stumm",
+            "dick",
+            "müde"
+          ]
+        }
+      }
+    ]
+  },
+  "hemd": {
+    "senses": [
+      {
+        "zh": "襯衫",
+        "en": "shirt",
+        "ex": {
+          "de": "Für das Vorstellungsgespräch trage ich ein weißes {Hemd}.",
+          "zh": "面試時我會穿一件白襯衫。",
+          "en": "For the job interview I'll wear a white shirt.",
+          "distractors": [
+            "Messer",
+            "Fenster",
+            "Telefon"
+          ]
+        }
+      }
+    ]
+  },
+  "hendl": {
+    "senses": [
+      {
+        "zh": "（奧地利）雞；烤雞",
+        "en": "(Austrian) chicken, roast chicken",
+        "ex": {
+          "de": "Auf dem Fest gab es ein ganzes {Hendl} vom Grill.",
+          "zh": "慶典上有一整隻烤雞。",
+          "en": "At the party there was a whole grilled chicken.",
+          "distractors": [
+            "Wörterbuch",
+            "Handtuch",
+            "Regal"
+          ]
+        }
+      }
+    ]
+  },
+  "her-her": {
+    "senses": [
+      {
+        "zh": "到這裡來（朝說話者方向）",
+        "en": "here, towards the speaker",
+        "ex": {
+          "de": "Komm bitte schnell {her}, ich zeige dir etwas.",
+          "zh": "快點過來，我給你看個東西。",
+          "en": "Please come over here quickly, I want to show you something.",
+          "distractors": [
+            "leider",
+            "gestern",
+            "nie"
+          ]
+        }
+      }
+    ]
+  },
+  "heraus": {
+    "senses": [
+      {
+        "zh": "出來（朝說話者方向）",
+        "en": "out (towards the speaker)",
+        "ex": {
+          "de": "Aus dem Tunnel kam plötzlich ein Zug {heraus}.",
+          "zh": "一列火車忽然從隧道裡開了出來。",
+          "en": "Suddenly a train came out of the tunnel.",
+          "distractors": [
+            "morgen",
+            "sonst",
+            "kaum"
+          ]
+        }
+      }
+    ]
+  },
+  "heraus-2": {
+    "senses": [
+      {
+        "zh": "查出；發現",
+        "en": "to find out",
+        "ex": {
+          "de": "Ich habe {herausgefunden}, warum mein Handy so langsam ist.",
+          "zh": "我查出了我的手機為什麼這麼慢。",
+          "en": "I found out why my phone is so slow.",
+          "distractors": [
+            "geputzt",
+            "gesungen",
+            "gebaut"
+          ]
+        }
+      }
+    ]
+  },
+  "herausforderung": {
+    "senses": [
+      {
+        "zh": "挑戰",
+        "en": "challenge",
+        "ex": {
+          "de": "Der neue Job ist eine große {Herausforderung} für mich.",
+          "zh": "這份新工作對我是個很大的挑戰。",
+          "en": "The new job is a big challenge for me.",
+          "distractors": [
+            "Jacke",
+            "Münze",
+            "Birne"
+          ]
+        }
+      }
+    ]
+  },
+  "herd": {
+    "senses": [
+      {
+        "zh": "爐子；爐灶",
+        "en": "stove, cooker",
+        "ex": {
+          "de": "Vorsicht, der {Herd} ist noch heiß!",
+          "zh": "小心，爐子還很燙！",
+          "en": "Careful, the stove is still hot!",
+          "distractors": [
+            "Schirm",
+            "Rucksack",
+            "Hut"
+          ]
+        }
+      }
+    ]
+  },
+  "herein": {
+    "senses": [
+      {
+        "zh": "進來（朝說話者方向）",
+        "en": "in (towards the speaker)",
+        "ex": {
+          "de": "Der Onkel kam durch die Tür {herein}.",
+          "zh": "叔叔從門口走了進來。",
+          "en": "My uncle came in through the door.",
+          "distractors": [
+            "kühl",
+            "dünn",
+            "eckig"
+          ]
+        }
+      }
+    ]
+  },
+  "herkunft": {
+    "senses": [
+      {
+        "zh": "出身；來源；原產地",
+        "en": "origin, background",
+        "ex": {
+          "de": "Man erkennt seine {Herkunft} sofort an seinem Dialekt.",
+          "zh": "一聽他的方言就知道他是哪裡人。",
+          "en": "You can tell his origin right away from his dialect.",
+          "distractors": [
+            "Rechnung",
+            "Zeitung",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "herr": {
+    "senses": [
+      {
+        "zh": "先生",
+        "en": "Mr., gentleman",
+        "ex": {
+          "de": "Guten Tag, {Herr} Weber, schön, Sie zu sehen.",
+          "zh": "魏伯先生您好，很高興見到您。",
+          "en": "Good day, Mr Weber, nice to see you.",
+          "distractors": [
+            "Salat",
+            "Kugelschreiber",
+            "Hut"
+          ]
+        }
+      }
+    ]
+  },
+  "herstellen": {
+    "senses": [
+      {
+        "zh": "製造；生產",
+        "en": "to produce, manufacture",
+        "ex": {
+          "de": "Diese Firma will künftig auch Fahrräder {herstellen}.",
+          "zh": "這家公司以後也打算生產腳踏車。",
+          "en": "This company wants to produce bicycles in future too.",
+          "distractors": [
+            "füttern",
+            "begrüßen",
+            "umarmen"
+          ]
+        }
+      }
+    ]
+  },
+  "hersteller": {
+    "senses": [
+      {
+        "zh": "製造商；生產者",
+        "en": "manufacturer",
+        "ex": {
+          "de": "Der {Hersteller} hat die kaputten Geräte kostenlos ersetzt.",
+          "zh": "製造商免費替換了壞掉的機器。",
+          "en": "The manufacturer replaced the broken devices free of charge.",
+          "distractors": [
+            "Eimer",
+            "Wecker",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "herunter": {
+    "senses": [
+      {
+        "zh": "下來（朝說話者方向）",
+        "en": "down (towards the speaker)",
+        "ex": {
+          "de": "Die Katze sprang vom Baum {herunter}.",
+          "zh": "貓從樹上跳了下來。",
+          "en": "The cat jumped down from the tree.",
+          "distractors": [
+            "blau",
+            "teuer",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "herunter-2": {
+    "senses": [
+      {
+        "zh": "下載",
+        "en": "to download",
+        "ex": {
+          "de": "Hast du die App schon auf dein Handy {heruntergeladen}?",
+          "zh": "你已經把這個 App 下載到手機了嗎？",
+          "en": "Have you already downloaded the app onto your phone?",
+          "distractors": [
+            "gewaschen",
+            "geschnitten",
+            "gesungen"
+          ]
+        }
+      }
+    ]
+  },
+  "fahren-2": {
+    "senses": [
+      {
+        "zh": "關機；使（電腦）關閉",
+        "en": "to shut down",
+        "ex": {
+          "de": "Du musst den Computer erst {herunterfahren}, dann den Stecker ziehen.",
+          "zh": "你得先把電腦關機，再拔掉插頭。",
+          "en": "You have to shut the computer down first, then pull the plug.",
+          "distractors": [
+            "gießen",
+            "kämmen",
+            "schälen"
+          ]
+        }
+      }
+    ]
+  },
+  "herunter-3": {
+    "senses": [
+      {
+        "zh": "關機；降低運轉",
+        "en": "to shut down",
+        "ex": {
+          "de": "Der Techniker hat den Server über Nacht {heruntergefahren}.",
+          "zh": "技術人員在夜裡把伺服器關掉了。",
+          "en": "The technician shut the server down overnight.",
+          "distractors": [
+            "gefüttert",
+            "geheiratet",
+            "gestrickt"
+          ]
+        }
+      }
+    ]
+  },
+  "herz": {
+    "senses": [
+      {
+        "zh": "心；心臟",
+        "en": "heart",
+        "ex": {
+          "de": "Mein {Herz} schlägt vor jeder Prüfung ganz schnell.",
+          "zh": "每次考試前我的心臟都跳得很快。",
+          "en": "My heart beats very fast before every exam.",
+          "distractors": [
+            "Radio",
+            "Regal",
+            "Sofa"
+          ]
+        }
+      }
+    ]
+  },
+  "herzlich": {
+    "senses": [
+      {
+        "zh": "熱情的；誠摯地",
+        "en": "warm, cordial",
+        "ex": {
+          "de": "Wir wurden von der Familie sehr {herzlich} empfangen.",
+          "zh": "那家人非常熱情地接待了我們。",
+          "en": "We were received very warmly by the family.",
+          "distractors": [
+            "klebrig",
+            "salzig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "heute": {
+    "senses": [
+      {
+        "zh": "今天",
+        "en": "today",
+        "ex": {
+          "de": "Der Bus ist {heute} leider schon zweimal ausgefallen.",
+          "zh": "公車今天很不巧已經停駛兩次了。",
+          "en": "Unfortunately the bus has already been cancelled twice today.",
+          "distractors": [
+            "gern",
+            "sehr",
+            "genug"
+          ]
+        }
+      }
+    ]
+  },
+  "heutig": {
+    "senses": [
+      {
+        "zh": "今天的；現今的",
+        "en": "of today, current",
+        "ex": {
+          "de": "Im {heutigen} Verkehr braucht man viel Geduld.",
+          "zh": "在現今的交通中需要很多耐心。",
+          "en": "In today's traffic you need a lot of patience.",
+          "distractors": [
+            "bunten",
+            "dünnen",
+            "salzigen"
+          ]
+        }
+      }
+    ]
+  },
+  "hier-hier": {
+    "senses": [
+      {
+        "zh": "這裡",
+        "en": "here",
+        "ex": {
+          "de": "Das Büro ist {hier} im ersten Stock.",
+          "zh": "辦公室就在這裡的二樓。",
+          "en": "The office is here on the first floor.",
+          "distractors": [
+            "gestern",
+            "kaum",
+            "früh"
+          ]
+        }
+      }
+    ]
+  },
+  "hierher": {
+    "senses": [
+      {
+        "zh": "到這裡來",
+        "en": "(to) here",
+        "ex": {
+          "de": "Kommen Sie bitte {hierher}, hier ist noch ein Platz frei.",
+          "zh": "請到這邊來，這裡還有一個空位。",
+          "en": "Please come over here, there is still a seat free here.",
+          "distractors": [
+            "gestern",
+            "ziemlich",
+            "deshalb"
+          ]
+        }
+      }
+    ]
+  },
+  "himmel": {
+    "senses": [
+      {
+        "zh": "天空",
+        "en": "sky",
+        "ex": {
+          "de": "Heute Abend ist der {Himmel} voller Sterne.",
+          "zh": "今晚的天空佈滿了星星。",
+          "en": "Tonight the sky is full of stars.",
+          "distractors": [
+            "Briefkasten",
+            "Löffel",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "runterwerfen": {
+    "senses": [
+      {
+        "zh": "往下扔",
+        "en": "to throw down",
+        "ex": {
+          "de": "Kannst du mir den Schlüssel vom Balkon {runterwerfen}?",
+          "zh": "你可以從陽台把鑰匙丟下來給我嗎？",
+          "en": "Can you throw the key down to me from the balcony?",
+          "distractors": [
+            "begrüßen",
+            "kochen",
+            "bezahlen"
+          ]
+        }
+      }
+    ]
+  },
+  "hinten": {
+    "senses": [
+      {
+        "zh": "後面；後方",
+        "en": "at the back, behind",
+        "ex": {
+          "de": "Im Kino sitze ich lieber ganz {hinten}.",
+          "zh": "在電影院我比較喜歡坐在最後面。",
+          "en": "At the cinema I prefer to sit right at the back.",
+          "distractors": [
+            "gestern",
+            "gern",
+            "dann"
+          ]
+        }
+      }
+    ]
+  },
+  "hinter-hinter": {
+    "senses": [
+      {
+        "zh": "在…後面",
+        "en": "behind",
+        "ex": {
+          "de": "Mein Fahrrad steht {hinter} dem Haus im Hof.",
+          "zh": "我的腳踏車停在房子後面的院子裡。",
+          "en": "My bicycle is in the yard behind the house.",
+          "distractors": [
+            "mit",
+            "seit",
+            "zu"
+          ]
+        }
+      }
+    ]
+  },
+  "hinterlassen": {
+    "senses": [
+      {
+        "zh": "留下",
+        "en": "to leave behind",
+        "ex": {
+          "de": "Der Gast hat an der Rezeption eine Nachricht {hinterlassen}.",
+          "zh": "客人在櫃檯留了一則訊息。",
+          "en": "The guest left a message at the reception.",
+          "distractors": [
+            "gekocht",
+            "gesungen",
+            "geputzt"
+          ]
+        }
+      }
+    ]
+  },
+  "hinterher": {
+    "senses": [
+      {
+        "zh": "事後；之後",
+        "en": "afterwards",
+        "ex": {
+          "de": "Zuerst esse ich, {hinterher} gehe ich spazieren.",
+          "zh": "我先吃飯，之後再去散步。",
+          "en": "First I eat, afterwards I go for a walk.",
+          "distractors": [
+            "vorher",
+            "gestern",
+            "unten"
+          ]
+        }
+      }
+    ]
+  },
+  "hinweise": {
+    "senses": [
+      {
+        "zh": "提示；指示；說明",
+        "en": "notes, instructions",
+        "ex": {
+          "de": "Bitte lesen Sie die {Hinweise} auf der Rückseite genau.",
+          "zh": "請仔細閱讀背面的說明。",
+          "en": "Please read the notes on the back carefully.",
+          "distractors": [
+            "Hunde",
+            "Schuhe",
+            "Tische"
+          ]
+        }
+      }
+    ]
+  },
+  "historisch": {
+    "senses": [
+      {
+        "zh": "歷史的；歷史上的",
+        "en": "historical",
+        "ex": {
+          "de": "Die Altstadt hat viele {historische} Gebäude aus dem Mittelalter.",
+          "zh": "老城區有很多中世紀的歷史建築。",
+          "en": "The old town has many historic buildings from the Middle Ages.",
+          "distractors": [
+            "salzige",
+            "nasse",
+            "stumme"
+          ]
+        }
+      }
+    ]
+  },
+  "hitze": {
+    "senses": [
+      {
+        "zh": "炎熱；高溫",
+        "en": "heat",
+        "ex": {
+          "de": "Bei dieser {Hitze} kann ich nachts kaum schlafen.",
+          "zh": "這麼熱的天氣，我晚上幾乎睡不著。",
+          "en": "In this heat I can hardly sleep at night.",
+          "distractors": [
+            "Brille",
+            "Tomate",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "hobby": {
+    "senses": [
+      {
+        "zh": "嗜好；興趣",
+        "en": "hobby",
+        "ex": {
+          "de": "Mein liebstes {Hobby} ist Fotografieren, besonders in den Bergen.",
+          "zh": "我最愛的嗜好是攝影，尤其是在山裡。",
+          "en": "My favourite hobby is photography, especially in the mountains.",
+          "distractors": [
+            "Brot",
+            "Zelt",
+            "Heft"
+          ]
+        }
+      }
+    ]
+  },
+  "hoch": {
+    "senses": [
+      {
+        "zh": "高的",
+        "en": "high, tall",
+        "ex": {
+          "de": "Der Berg ist über dreitausend Meter {hoch}.",
+          "zh": "這座山有三千多公尺高。",
+          "en": "The mountain is over three thousand metres high.",
+          "distractors": [
+            "alt",
+            "müde",
+            "leise"
+          ]
+        }
+      }
+    ]
+  },
+  "hochladen": {
+    "senses": [
+      {
+        "zh": "上傳",
+        "en": "to upload",
+        "ex": {
+          "de": "Ich möchte die Urlaubsfotos heute noch {hochladen}.",
+          "zh": "我想今天就把旅行的照片上傳。",
+          "en": "I'd like to upload the holiday photos today.",
+          "distractors": [
+            "nähen",
+            "fegen",
+            "heiraten"
+          ]
+        }
+      }
+    ]
+  },
+  "hochzeit": {
+    "senses": [
+      {
+        "zh": "婚禮",
+        "en": "wedding",
+        "ex": {
+          "de": "Zur {Hochzeit} meiner Schwester kommen über hundert Gäste.",
+          "zh": "我姊姊的婚禮有一百多位賓客出席。",
+          "en": "Over a hundred guests are coming to my sister's wedding.",
+          "distractors": [
+            "Treppe",
+            "Banane",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "bauernhof": {
+    "senses": [
+      {
+        "zh": "農場",
+        "en": "farm",
+        "ex": {
+          "de": "Im Urlaub haben wir auf einem {Bauernhof} Kühe gestreichelt.",
+          "zh": "度假時我們在一座農場摸了乳牛。",
+          "en": "On holiday we petted cows on a farm.",
+          "distractors": [
+            "Wecker",
+            "Schreibtisch",
+            "Fußball"
+          ]
+        }
+      }
+    ]
+  },
+  "hoffen": {
+    "senses": [
+      {
+        "zh": "希望；期盼",
+        "en": "to hope",
+        "ex": {
+          "de": "Wir {hoffen} auf schönes Wetter für das Wochenende.",
+          "zh": "我們希望週末天氣好。",
+          "en": "We are hoping for nice weather for the weekend.",
+          "distractors": [
+            "putzen",
+            "schreiben",
+            "kaufen"
+          ]
+        }
+      }
+    ]
+  },
+  "hoffentlich": {
+    "senses": [
+      {
+        "zh": "但願；希望",
+        "en": "hopefully",
+        "ex": {
+          "de": "{Hoffentlich} kommt der Zug heute pünktlich an.",
+          "zh": "但願火車今天準時到。",
+          "en": "Hopefully the train arrives on time today.",
+          "distractors": [
+            "Gestern",
+            "Neulich",
+            "Vorher"
+          ]
+        }
+      }
+    ]
+  },
+  "hoffnung": {
+    "senses": [
+      {
+        "zh": "希望；期望",
+        "en": "hope",
+        "ex": {
+          "de": "Ich habe die {Hoffnung}, dass der Schnee bis morgen liegen bleibt.",
+          "zh": "我希望雪能留到明天。",
+          "en": "I have the hope that the snow will stay until tomorrow.",
+          "distractors": [
+            "Tasche",
+            "Bluse",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "holen": {
+    "senses": [
+      {
+        "zh": "去拿；去取；去叫來",
+        "en": "to fetch, get",
+        "ex": {
+          "de": "Ich muss schnell Brötchen beim Bäcker {holen}.",
+          "zh": "我得趕快去麵包店買小圓麵包。",
+          "en": "I have to quickly get some rolls from the baker.",
+          "distractors": [
+            "wachsen",
+            "landen",
+            "schlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "holz": {
+    "senses": [
+      {
+        "zh": "木頭；木材",
+        "en": "wood",
+        "ex": {
+          "de": "Für den Kamin brauchen wir noch trockenes {Holz}.",
+          "zh": "壁爐還需要一些乾的木柴。",
+          "en": "For the fireplace we still need dry wood.",
+          "distractors": [
+            "Zimmer",
+            "Fenster",
+            "Radio"
+          ]
+        }
+      }
+    ]
+  },
+  "honig": {
+    "senses": [
+      {
+        "zh": "蜂蜜",
+        "en": "honey",
+        "ex": {
+          "de": "Meine Oma süßt ihren Tee immer mit etwas {Honig}.",
+          "zh": "我奶奶總是用一點蜂蜜來為茶加甜。",
+          "en": "My grandma always sweetens her tea with a little honey.",
+          "distractors": [
+            "Kamm",
+            "Zaun",
+            "Mantel"
+          ]
+        }
+      }
+    ]
+  }
+}

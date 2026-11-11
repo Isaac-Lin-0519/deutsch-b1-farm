@@ -1,0 +1,930 @@
+{
+  "gymnastik": {
+    "senses": [
+      {
+        "zh": "體操；健身操",
+        "en": "gymnastics, exercises",
+        "ex": {
+          "de": "Meine Oma macht jeden Morgen zehn Minuten {Gymnastik}.",
+          "zh": "我奶奶每天早上做十分鐘的體操。",
+          "en": "My grandma does ten minutes of exercises every morning.",
+          "distractors": [
+            "Brille",
+            "Tomate",
+            "Kreide"
+          ]
+        }
+      }
+    ]
+  },
+  "haar": {
+    "senses": [
+      {
+        "zh": "頭髮；毛髮",
+        "en": "hair",
+        "ex": {
+          "de": "Sie hat sich das {Haar} kurz schneiden lassen.",
+          "zh": "她把頭髮剪短了。",
+          "en": "She had her hair cut short.",
+          "distractors": [
+            "Fenster",
+            "Messer",
+            "Radio"
+          ]
+        }
+      }
+    ]
+  },
+  "haben": {
+    "senses": [
+      {
+        "zh": "有；擁有",
+        "en": "to have",
+        "ex": {
+          "de": "Wir {haben} am Samstag leider keinen freien Tisch mehr.",
+          "zh": "我們週六很遺憾沒有空桌了。",
+          "en": "Unfortunately we have no free table left on Saturday.",
+          "distractors": [
+            "tanzen",
+            "schwimmen",
+            "warten"
+          ]
+        }
+      }
+    ]
+  },
+  "hackfleisch": {
+    "senses": [
+      {
+        "zh": "絞肉",
+        "en": "minced meat",
+        "ex": {
+          "de": "Für die Soße brauche ich 500 Gramm {Hackfleisch}.",
+          "zh": "做醬汁我需要五百公克絞肉。",
+          "en": "For the sauce I need 500 grams of minced meat.",
+          "distractors": [
+            "Geschirr",
+            "Werkzeug",
+            "Regal"
+          ]
+        }
+      }
+    ]
+  },
+  "hafen": {
+    "senses": [
+      {
+        "zh": "港口",
+        "en": "harbor, port",
+        "ex": {
+          "de": "Das Schiff liegt schon seit gestern im {Hafen}.",
+          "zh": "那艘船從昨天就停在港口。",
+          "en": "The ship has been lying in the harbor since yesterday.",
+          "distractors": [
+            "Keller",
+            "Aufzug",
+            "Dachboden"
+          ]
+        }
+      }
+    ]
+  },
+  "hageln": {
+    "senses": [
+      {
+        "zh": "下冰雹",
+        "en": "to hail",
+        "ex": {
+          "de": "Gestern hat es so stark {gehagelt}, dass Autos Dellen bekamen.",
+          "zh": "昨天冰雹下得很大，車子都被砸出凹痕。",
+          "en": "It hailed so hard yesterday that cars got dents.",
+          "distractors": [
+            "gebellt",
+            "gelächelt",
+            "gekocht"
+          ]
+        }
+      }
+    ]
+  },
+  "haehnchen-huehnchen": {
+    "senses": [
+      {
+        "zh": "雞肉；小雞",
+        "en": "chicken",
+        "ex": {
+          "de": "Mein Opa grillt am Sonntag gern ein ganzes {Hähnchen}.",
+          "zh": "我爺爺週日喜歡烤一整隻雞。",
+          "en": "On Sundays my grandpa likes to grill a whole chicken.",
+          "distractors": [
+            "Telefon",
+            "Zeugnis",
+            "Gebirge"
+          ]
+        }
+      }
+    ]
+  },
+  "poulet": {
+    "senses": [
+      {
+        "zh": "雞肉（瑞士用語）",
+        "en": "chicken (Swiss)",
+        "ex": {
+          "de": "Im Restaurant habe ich ein gebratenes {Poulet} bestellt.",
+          "zh": "我在餐廳點了一份煎雞肉。",
+          "en": "At the restaurant I ordered a fried chicken.",
+          "distractors": [
+            "Kissen",
+            "Heft",
+            "Plakat"
+          ]
+        }
+      }
+    ]
+  },
+  "halb": {
+    "senses": [
+      {
+        "zh": "半；三十分",
+        "en": "half",
+        "ex": {
+          "de": "Der Film beginnt erst um {halb} zehn am Abend.",
+          "zh": "電影晚上九點半才開始。",
+          "en": "The film only starts at half past nine in the evening.",
+          "distractors": [
+            "gern",
+            "leider",
+            "nie"
+          ]
+        }
+      }
+    ]
+  },
+  "halbpension": {
+    "senses": [
+      {
+        "zh": "半食宿（含早晚餐）",
+        "en": "half board",
+        "ex": {
+          "de": "Wir haben im Hotel {Halbpension} gebucht, also Frühstück und Abendessen.",
+          "zh": "我們在飯店訂了半食宿，也就是含早餐和晚餐。",
+          "en": "We booked half board at the hotel, so breakfast and dinner.",
+          "distractors": [
+            "Schaufel",
+            "Zahnbürste",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "halbtags": {
+    "senses": [
+      {
+        "zh": "半天；兼職",
+        "en": "part-time, half-day",
+        "ex": {
+          "de": "Seit der Geburt ihrer Tochter arbeitet Marta nur noch {halbtags}.",
+          "zh": "自從女兒出生後，瑪塔只做半天班。",
+          "en": "Since her daughter was born, Marta only works part-time.",
+          "distractors": [
+            "gestern",
+            "bergauf",
+            "rückwärts"
+          ]
+        }
+      }
+    ]
+  },
+  "haelfte": {
+    "senses": [
+      {
+        "zh": "一半",
+        "en": "half",
+        "ex": {
+          "de": "Die {Hälfte} der Klasse ist heute krank.",
+          "zh": "班上有一半的人今天生病了。",
+          "en": "Half of the class is sick today.",
+          "distractors": [
+            "Tafel",
+            "Pfütze",
+            "Zeitung"
+          ]
+        }
+      }
+    ]
+  },
+  "halle": {
+    "senses": [
+      {
+        "zh": "大廳；大型廳堂",
+        "en": "hall",
+        "ex": {
+          "de": "Wir warten in der großen {Halle} auf den Beginn des Konzerts.",
+          "zh": "我們在大廳裡等音樂會開始。",
+          "en": "We wait in the big hall for the concert to begin.",
+          "distractors": [
+            "Dusche",
+            "Pfanne",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "hallenbad": {
+    "senses": [
+      {
+        "zh": "室內游泳池",
+        "en": "indoor swimming pool",
+        "ex": {
+          "de": "Im Winter schwimmen wir lieber im {Hallenbad}.",
+          "zh": "冬天我們比較喜歡在室內泳池游泳。",
+          "en": "In winter we prefer to swim in the indoor pool.",
+          "distractors": [
+            "Regal",
+            "Gebüsch",
+            "Frühstück"
+          ]
+        }
+      }
+    ]
+  },
+  "hallo": {
+    "senses": [
+      {
+        "zh": "哈囉；你好",
+        "en": "hello",
+        "ex": {
+          "de": "{Hallo}, ich bin Jonas und wohne im Haus nebenan.",
+          "zh": "哈囉，我是約拿斯，住在隔壁那棟。",
+          "en": "Hello, I am Jonas and live in the house next door.",
+          "distractors": [
+            "Danke",
+            "Gesundheit",
+            "Prost"
+          ]
+        }
+      }
+    ]
+  },
+  "hals": {
+    "senses": [
+      {
+        "zh": "脖子；喉嚨",
+        "en": "neck, throat",
+        "ex": {
+          "de": "Im Winter trage ich immer einen Schal um den {Hals}.",
+          "zh": "冬天我總是在脖子上圍一條圍巾。",
+          "en": "In winter I always wear a scarf around my neck.",
+          "distractors": [
+            "Zucker",
+            "Kugelschreiber",
+            "Briefkasten"
+          ]
+        }
+      }
+    ]
+  },
+  "halt": {
+    "senses": [
+      {
+        "zh": "就是；反正（語氣詞）",
+        "en": "simply, just (particle)",
+        "ex": {
+          "de": "Das ist {halt} so, daran kannst du nichts ändern.",
+          "zh": "事情就是這樣，你改變不了什麼。",
+          "en": "That is just how it is; you cannot change it.",
+          "distractors": [
+            "gestern",
+            "bergab",
+            "schräg"
+          ]
+        }
+      }
+    ]
+  },
+  "haltbar": {
+    "senses": [
+      {
+        "zh": "可保存的；耐用的",
+        "en": "durable, long-lasting",
+        "ex": {
+          "de": "Die Milch ist ungeöffnet noch drei Wochen {haltbar}.",
+          "zh": "這瓶牛奶沒開封還可以保存三週。",
+          "en": "Unopened, the milk keeps for another three weeks.",
+          "distractors": [
+            "schwanger",
+            "ledig",
+            "zweisprachig"
+          ]
+        }
+      }
+    ]
+  },
+  "halten": {
+    "senses": [
+      {
+        "zh": "拿著；握住",
+        "en": "to hold",
+        "ex": {
+          "de": "Warte, ich muss kurz deinen Regenschirm {halten}.",
+          "zh": "等一下，我得先拿一下你的雨傘。",
+          "en": "Wait, I have to hold your umbrella for a moment.",
+          "distractors": [
+            "kochen",
+            "rasieren",
+            "impfen"
+          ]
+        }
+      },
+      {
+        "zh": "停（車）",
+        "en": "to stop (vehicle)",
+        "ex": {
+          "de": "Der Bus {hält} direkt vor dem Rathaus.",
+          "zh": "公車就停在市政廳正前方。",
+          "en": "The bus stops right in front of the town hall.",
+          "distractors": [
+            "bellt",
+            "kocht",
+            "blüht"
+          ]
+        }
+      }
+    ]
+  },
+  "halt-2": {
+    "senses": [
+      {
+        "zh": "支撐點；穩固",
+        "en": "hold, support",
+        "ex": {
+          "de": "Beim Klettern sucht sie mit der Hand einen sicheren {Halt}.",
+          "zh": "攀岩時她用手尋找一個穩固的支點。",
+          "en": "While climbing she looks with her hand for a secure hold.",
+          "distractors": [
+            "Löffel",
+            "Mantel",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "haltestelle": {
+    "senses": [
+      {
+        "zh": "車站；站牌",
+        "en": "stop (bus, tram)",
+        "ex": {
+          "de": "Die {Haltestelle} liegt gleich um die Ecke vor unserem Haus.",
+          "zh": "公車站就在我們家前面轉角處。",
+          "en": "The stop is just around the corner in front of our house.",
+          "distractors": [
+            "Briefmarke",
+            "Zahnpasta",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "hammer": {
+    "senses": [
+      {
+        "zh": "鎚子",
+        "en": "hammer",
+        "ex": {
+          "de": "Gib mir bitte den {Hammer}, ich muss einen Nagel einschlagen.",
+          "zh": "請把鎚子給我，我要敲一根釘子。",
+          "en": "Please give me the hammer, I have to drive in a nail.",
+          "distractors": [
+            "Teller",
+            "Kuchen",
+            "Rucksack"
+          ]
+        }
+      }
+    ]
+  },
+  "hand": {
+    "senses": [
+      {
+        "zh": "手",
+        "en": "hand",
+        "ex": {
+          "de": "Vor dem Essen wasche ich mir immer gründlich die {Hände}.",
+          "zh": "吃飯前我一定會把手洗乾淨。",
+          "en": "Before eating I always wash my hands thoroughly.",
+          "distractors": [
+            "Katzen",
+            "Karten",
+            "Brücken"
+          ]
+        }
+      }
+    ]
+  },
+  "handwerker": {
+    "senses": [
+      {
+        "zh": "工匠；師傅",
+        "en": "craftsman, tradesman",
+        "ex": {
+          "de": "Morgen kommt ein {Handwerker} und repariert die Heizung.",
+          "zh": "明天會有師傅來修暖氣。",
+          "en": "Tomorrow a tradesman is coming to repair the heating.",
+          "distractors": [
+            "Pilot",
+            "Kellner",
+            "Tourist"
+          ]
+        }
+      }
+    ]
+  },
+  "handwerkerin": {
+    "senses": [
+      {
+        "zh": "女工匠；女師傅",
+        "en": "craftswoman, tradeswoman",
+        "ex": {
+          "de": "Die {Handwerkerin} hat unser altes Fenster in einer Stunde repariert.",
+          "zh": "那位女師傅一個小時就修好了我們的舊窗戶。",
+          "en": "The craftswoman repaired our old window in an hour.",
+          "distractors": [
+            "Sängerin",
+            "Tänzerin",
+            "Astronautin"
+          ]
+        }
+      }
+    ]
+  },
+  "handeln": {
+    "senses": [
+      {
+        "zh": "行動；採取措施",
+        "en": "to act",
+        "ex": {
+          "de": "In einem Notfall muss man schnell {handeln}.",
+          "zh": "遇到緊急情況時要迅速採取行動。",
+          "en": "In an emergency you have to act quickly.",
+          "distractors": [
+            "nähen",
+            "baden",
+            "träumen"
+          ]
+        }
+      },
+      {
+        "zh": "做買賣；交易",
+        "en": "to trade",
+        "ex": {
+          "de": "Auf dem Markt {handelt} er mit Obst und Gemüse.",
+          "zh": "他在市場上做水果和蔬菜的生意。",
+          "en": "At the market he trades in fruit and vegetables.",
+          "distractors": [
+            "wohnt",
+            "tanzt",
+            "parkt"
+          ]
+        }
+      }
+    ]
+  },
+  "handel": {
+    "senses": [
+      {
+        "zh": "貿易；商業",
+        "en": "trade, commerce",
+        "ex": {
+          "de": "Der {Handel} zwischen den beiden Ländern wächst jedes Jahr.",
+          "zh": "兩國之間的貿易每年都在成長。",
+          "en": "Trade between the two countries grows every year.",
+          "distractors": [
+            "Gürtel",
+            "Schnee",
+            "Pilz"
+          ]
+        }
+      }
+    ]
+  },
+  "haendlerin": {
+    "senses": [
+      {
+        "zh": "女商人；女攤販",
+        "en": "(female) dealer, trader",
+        "ex": {
+          "de": "Die {Händlerin} auf dem Markt verkauft Äpfel aus eigenem Anbau.",
+          "zh": "市場上的女攤販賣自家種的蘋果。",
+          "en": "The trader at the market sells apples from her own farm.",
+          "distractors": [
+            "Zahnärztin",
+            "Richterin",
+            "Astronautin"
+          ]
+        }
+      }
+    ]
+  },
+  "handy": {
+    "senses": [
+      {
+        "zh": "手機",
+        "en": "mobile phone",
+        "ex": {
+          "de": "Mein {Handy} liegt noch auf dem Küchentisch.",
+          "zh": "我的手機還放在廚房桌上。",
+          "en": "My mobile phone is still lying on the kitchen table.",
+          "distractors": [
+            "Klavier",
+            "Hochhaus",
+            "Sofa"
+          ]
+        }
+      }
+    ]
+  },
+  "haengen": {
+    "senses": [
+      {
+        "zh": "懸掛；掛著",
+        "en": "to hang",
+        "ex": {
+          "de": "Das Bild soll an der Wand im Flur {hängen}.",
+          "zh": "那幅畫要掛在走廊的牆上。",
+          "en": "The picture is supposed to hang on the wall in the hallway.",
+          "distractors": [
+            "schwimmen",
+            "wachsen",
+            "fließen"
+          ]
+        }
+      }
+    ]
+  },
+  "hart": {
+    "senses": [
+      {
+        "zh": "硬的；堅硬",
+        "en": "hard",
+        "ex": {
+          "de": "Das Brot von gestern ist leider schon {hart}.",
+          "zh": "昨天的麵包很可惜已經變硬了。",
+          "en": "Yesterday's bread has unfortunately gone hard already.",
+          "distractors": [
+            "pünktlich",
+            "ehrlich",
+            "mutig"
+          ]
+        }
+      }
+    ]
+  },
+  "hassen": {
+    "senses": [
+      {
+        "zh": "恨；討厭",
+        "en": "to hate",
+        "ex": {
+          "de": "Ich {hasse} es, im Regen auf den Bus zu warten.",
+          "zh": "我最討厭在雨中等公車。",
+          "en": "I hate waiting for the bus in the rain.",
+          "distractors": [
+            "trinke",
+            "tanze",
+            "wohne"
+          ]
+        }
+      }
+    ]
+  },
+  "haesslich": {
+    "senses": [
+      {
+        "zh": "醜的；難看的",
+        "en": "ugly",
+        "ex": {
+          "de": "Das Hochhaus neben dem Bahnhof finde ich ziemlich {hässlich}.",
+          "zh": "我覺得車站旁邊那棟高樓相當難看。",
+          "en": "I find the tall building next to the station quite ugly.",
+          "distractors": [
+            "müde",
+            "hungrig",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "haeufig": {
+    "senses": [
+      {
+        "zh": "常見的；頻繁的",
+        "en": "frequent, common",
+        "ex": {
+          "de": "Das ist ein {häufig}er Fehler bei Anfängern.",
+          "zh": "這是初學者常犯的錯誤。",
+          "en": "That is a common mistake among beginners.",
+          "distractors": [
+            "bunt",
+            "rund",
+            "süß"
+          ]
+        }
+      }
+    ]
+  },
+  "hauptbahnhof": {
+    "senses": [
+      {
+        "zh": "火車總站",
+        "en": "main station",
+        "ex": {
+          "de": "Mein Zug nach Hamburg fährt vom {Hauptbahnhof} ab.",
+          "zh": "我去漢堡的火車從火車總站出發。",
+          "en": "My train to Hamburg departs from the main station.",
+          "distractors": [
+            "Briefkasten",
+            "Rücken",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "haus": {
+    "senses": [
+      {
+        "zh": "房子",
+        "en": "house",
+        "ex": {
+          "de": "Meine Eltern haben ein kleines {Haus} mit einem Garten.",
+          "zh": "我父母有一棟附花園的小房子。",
+          "en": "My parents have a small house with a garden.",
+          "distractors": [
+            "Gewitter",
+            "Fieber",
+            "Radio"
+          ]
+        }
+      }
+    ]
+  },
+  "hausaufgabe": {
+    "senses": [
+      {
+        "zh": "作業；功課",
+        "en": "homework (assignment)",
+        "ex": {
+          "de": "Die {Hausaufgabe} für morgen ist heute wirklich schwer.",
+          "zh": "明天要交的作業今天真的很難。",
+          "en": "The homework for tomorrow is really hard today.",
+          "distractors": [
+            "Straße",
+            "Brille",
+            "Zahnbürste"
+          ]
+        }
+      }
+    ]
+  },
+  "hausfrau-der-haus-mann": {
+    "senses": [
+      {
+        "zh": "家庭主婦",
+        "en": "housewife",
+        "ex": {
+          "de": "Seit der Geburt der Zwillinge bleibt Anna als {Hausfrau} daheim.",
+          "zh": "自從雙胞胎出生後，安娜就在家當家庭主婦。",
+          "en": "Since the twins were born, Anna stays home as a housewife.",
+          "distractors": [
+            "Tasse",
+            "Ampel",
+            "Hauptstadt"
+          ]
+        }
+      }
+    ]
+  },
+  "haushalt": {
+    "senses": [
+      {
+        "zh": "家務；家庭",
+        "en": "household",
+        "ex": {
+          "de": "Im {Haushalt} muss jeder in der Familie ein bisschen helfen.",
+          "zh": "家裡的家務每個人都要幫一點忙。",
+          "en": "In the household everyone in the family has to help a little.",
+          "distractors": [
+            "Aufzug",
+            "Kofferraum",
+            "Briefumschlag"
+          ]
+        }
+      }
+    ]
+  },
+  "hausmeister": {
+    "senses": [
+      {
+        "zh": "管理員；大樓管理人",
+        "en": "caretaker, janitor",
+        "ex": {
+          "de": "Der {Hausmeister} hat die kaputte Lampe im Treppenhaus ersetzt.",
+          "zh": "管理員把樓梯間壞掉的燈換掉了。",
+          "en": "The caretaker replaced the broken lamp in the stairwell.",
+          "distractors": [
+            "Sänger",
+            "Fußballer",
+            "Koch"
+          ]
+        }
+      }
+    ]
+  },
+  "haut": {
+    "senses": [
+      {
+        "zh": "皮膚",
+        "en": "skin",
+        "ex": {
+          "de": "Sonnencreme schützt meine empfindliche {Haut} vor der Sonne.",
+          "zh": "防曬乳保護我敏感的皮膚不被太陽曬傷。",
+          "en": "Sunscreen protects my sensitive skin from the sun.",
+          "distractors": [
+            "Brille",
+            "Landkarte",
+            "Schublade"
+          ]
+        }
+      }
+    ]
+  },
+  "heben": {
+    "senses": [
+      {
+        "zh": "舉起；抬起",
+        "en": "to lift",
+        "ex": {
+          "de": "Du solltest mit deinem Rücken keine schweren Kisten {heben}.",
+          "zh": "你的背不好，不應該搬重的箱子。",
+          "en": "With your back you should not lift heavy boxes.",
+          "distractors": [
+            "lesen",
+            "trinken",
+            "singen"
+          ]
+        }
+      }
+    ]
+  },
+  "heft": {
+    "senses": [
+      {
+        "zh": "筆記本；練習簿",
+        "en": "exercise book",
+        "ex": {
+          "de": "Schreib die neuen Wörter bitte in dein {Heft}.",
+          "zh": "請把新單字寫在你的筆記本裡。",
+          "en": "Please write the new words in your exercise book.",
+          "distractors": [
+            "Wasser",
+            "Ohr",
+            "Dach"
+          ]
+        }
+      }
+    ]
+  },
+  "heim": {
+    "senses": [
+      {
+        "zh": "回家；朝家的方向",
+        "en": "home, homewards",
+        "ex": {
+          "de": "Nach dem Training gehe ich direkt {heim}.",
+          "zh": "訓練結束後我直接回家。",
+          "en": "After training I go straight home.",
+          "distractors": [
+            "gestern",
+            "ziemlich",
+            "sehr"
+          ]
+        }
+      }
+    ]
+  },
+  "heim-2": {
+    "senses": [
+      {
+        "zh": "養護之家；宿舍",
+        "en": "home (care home, dorm)",
+        "ex": {
+          "de": "Meine Großmutter lebt seit einem Jahr in einem {Heim} für ältere Menschen.",
+          "zh": "我外婆一年來住在一間給長者的安養之家。",
+          "en": "My grandmother has lived in a home for older people for a year.",
+          "distractors": [
+            "Streichholz",
+            "Taschentuch",
+            "Ei"
+          ]
+        }
+      }
+    ]
+  },
+  "heimat": {
+    "senses": [
+      {
+        "zh": "家鄉；故鄉",
+        "en": "home, homeland",
+        "ex": {
+          "de": "Im Urlaub vermisse ich manchmal meine {Heimat} und meine Familie.",
+          "zh": "度假時我有時會想念家鄉和家人。",
+          "en": "On vacation I sometimes miss my homeland and my family.",
+          "distractors": [
+            "Kreuzung",
+            "Tischdecke",
+            "Rolltreppe"
+          ]
+        }
+      }
+    ]
+  },
+  "heimlich": {
+    "senses": [
+      {
+        "zh": "偷偷地；祕密地",
+        "en": "secretly",
+        "ex": {
+          "de": "Der Junge hat {heimlich} ein Stück Kuchen aus der Küche genommen.",
+          "zh": "那個男孩偷偷從廚房拿了一塊蛋糕。",
+          "en": "The boy secretly took a piece of cake from the kitchen.",
+          "distractors": [
+            "viereckig",
+            "bergab",
+            "trocken"
+          ]
+        }
+      }
+    ]
+  },
+  "heimweh": {
+    "senses": [
+      {
+        "zh": "思鄉病；想家",
+        "en": "homesickness",
+        "ex": {
+          "de": "Nach zwei Wochen im Ausland hatte sie großes {Heimweh}.",
+          "zh": "在國外待了兩週後，她非常想家。",
+          "en": "After two weeks abroad she was very homesick.",
+          "distractors": [
+            "Werkzeug",
+            "Fahrzeug",
+            "Pflaster"
+          ]
+        }
+      }
+    ]
+  },
+  "heiraten": {
+    "senses": [
+      {
+        "zh": "結婚；與…結婚",
+        "en": "to marry",
+        "ex": {
+          "de": "Meine Schwester möchte im Sommer ihren Freund {heiraten}.",
+          "zh": "我姊姊想在夏天和她男朋友結婚。",
+          "en": "My sister wants to marry her boyfriend in the summer.",
+          "distractors": [
+            "gießen",
+            "mähen",
+            "essen"
+          ]
+        }
+      }
+    ]
+  },
+  "heiss": {
+    "senses": [
+      {
+        "zh": "熱的；燙的",
+        "en": "hot",
+        "ex": {
+          "de": "Vorsicht, der Tee ist noch sehr {heiß}!",
+          "zh": "小心，茶還很燙！",
+          "en": "Careful, the tea is still very hot!",
+          "distractors": [
+            "einsam",
+            "taub",
+            "arbeitslos"
+          ]
+        }
+      }
+    ]
+  }
+}

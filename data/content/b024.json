@@ -1,0 +1,902 @@
+{
+  "gewinn": {
+    "senses": [
+      {
+        "zh": "利潤；收益；獎品",
+        "en": "profit, gain, prize",
+        "ex": {
+          "de": "Der {Gewinn} aus dem Verkauf geht an die Schule.",
+          "zh": "這次銷售的收益會捐給學校。",
+          "en": "The profit from the sale goes to the school.",
+          "distractors": [
+            "Bahnhof",
+            "Kuchen",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "gewissen": {
+    "senses": [
+      {
+        "zh": "良心",
+        "en": "conscience",
+        "ex": {
+          "de": "Nach der Lüge plagte ihn sein schlechtes {Gewissen} den ganzen Abend.",
+          "zh": "說謊之後，他整晚都被良心譴責。",
+          "en": "After the lie, his guilty conscience nagged him all evening.",
+          "distractors": [
+            "Messer",
+            "Dach",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "gewitter": {
+    "senses": [
+      {
+        "zh": "雷雨",
+        "en": "thunderstorm",
+        "ex": {
+          "de": "Am Abend zog ein starkes {Gewitter} über die Stadt.",
+          "zh": "傍晚一場強烈的雷雨掠過城市。",
+          "en": "In the evening a strong thunderstorm passed over the city.",
+          "distractors": [
+            "Hemd",
+            "Brötchen",
+            "Konzert"
+          ]
+        }
+      }
+    ]
+  },
+  "gewoehnen": {
+    "senses": [
+      {
+        "zh": "使習慣（sich gewöhnen an：習慣於）",
+        "en": "to get used to",
+        "ex": {
+          "de": "Du wirst dich bald an das Wetter hier {gewöhnen}.",
+          "zh": "你很快就會習慣這裡的天氣。",
+          "en": "You will soon get used to the weather here.",
+          "distractors": [
+            "streichen",
+            "vergessen",
+            "schneiden"
+          ]
+        }
+      }
+    ]
+  },
+  "gewohnheit": {
+    "senses": [
+      {
+        "zh": "習慣",
+        "en": "habit",
+        "ex": {
+          "de": "Kaffee am Morgen ist für mich eine alte {Gewohnheit}.",
+          "zh": "早上喝咖啡對我來說是個老習慣。",
+          "en": "Coffee in the morning is an old habit of mine.",
+          "distractors": [
+            "Kerze",
+            "Tasche",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "gewohnt": {
+    "senses": [
+      {
+        "zh": "習慣的；慣常的",
+        "en": "used to, accustomed",
+        "ex": {
+          "de": "Ich bin das frühe Aufstehen nicht {gewohnt}.",
+          "zh": "我不習慣早起。",
+          "en": "I am not used to getting up early.",
+          "distractors": [
+            "fertig",
+            "billig",
+            "neugierig"
+          ]
+        }
+      }
+    ]
+  },
+  "gewoehnlich": {
+    "senses": [
+      {
+        "zh": "平常的；普通的",
+        "en": "usual, ordinary",
+        "ex": {
+          "de": "Das ist ein ganz {gewöhnlicher} Dienstag für mich.",
+          "zh": "對我來說這只是個很普通的星期二。",
+          "en": "For me this is a completely ordinary Tuesday.",
+          "distractors": [
+            "salziger",
+            "hölzerner",
+            "kaputter"
+          ]
+        }
+      }
+    ]
+  },
+  "gift": {
+    "senses": [
+      {
+        "zh": "毒；毒藥",
+        "en": "poison",
+        "ex": {
+          "de": "Die Spinne trägt ein starkes {Gift} in sich.",
+          "zh": "這種蜘蛛身上帶有強烈的毒。",
+          "en": "The spider carries a strong poison.",
+          "distractors": [
+            "Papier",
+            "Geschirr",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "giftig": {
+    "senses": [
+      {
+        "zh": "有毒的",
+        "en": "poisonous",
+        "ex": {
+          "de": "Diese roten Beeren sind {giftig}, iss sie bitte nicht.",
+          "zh": "這些紅色的莓果有毒，請不要吃。",
+          "en": "These red berries are poisonous, please don't eat them.",
+          "distractors": [
+            "eckig",
+            "durstig",
+            "leise"
+          ]
+        }
+      }
+    ]
+  },
+  "gitarre": {
+    "senses": [
+      {
+        "zh": "吉他",
+        "en": "guitar",
+        "ex": {
+          "de": "Die {Gitarre} hat nur noch fünf Saiten.",
+          "zh": "這把吉他只剩五根弦了。",
+          "en": "The guitar has only five strings left.",
+          "distractors": [
+            "Zange",
+            "Brücke",
+            "Kerze"
+          ]
+        }
+      }
+    ]
+  },
+  "glace-glace": {
+    "senses": [
+      {
+        "zh": "冰淇淋（瑞士用語）",
+        "en": "ice cream (Swiss)",
+        "ex": {
+          "de": "Im Sommer essen wir gern eine {Glace} am See.",
+          "zh": "夏天我們喜歡在湖邊吃冰淇淋。",
+          "en": "In summer we like to eat an ice cream by the lake.",
+          "distractors": [
+            "Brille",
+            "Tasche",
+            "Schere"
+          ]
+        }
+      }
+    ]
+  },
+  "glas": {
+    "senses": [
+      {
+        "zh": "玻璃杯；玻璃",
+        "en": "glass",
+        "ex": {
+          "de": "Ich trinke jeden Morgen ein {Glas} Wasser.",
+          "zh": "我每天早上喝一杯水。",
+          "en": "I drink a glass of water every morning.",
+          "distractors": [
+            "Messer",
+            "Fenster",
+            "Zimmer"
+          ]
+        }
+      }
+    ]
+  },
+  "glatt": {
+    "senses": [
+      {
+        "zh": "光滑的；滑的",
+        "en": "smooth, slippery",
+        "ex": {
+          "de": "Nach dem Regen war die Straße ganz {glatt}.",
+          "zh": "下雨之後路面變得很滑。",
+          "en": "After the rain the road was really slippery.",
+          "distractors": [
+            "hungrig",
+            "vegetarisch",
+            "verheiratet"
+          ]
+        }
+      }
+    ]
+  },
+  "glauben": {
+    "senses": [
+      {
+        "zh": "相信；認為",
+        "en": "to believe, think",
+        "ex": {
+          "de": "Ich kann das neue Ergebnis kaum {glauben}.",
+          "zh": "我幾乎無法相信這個新結果。",
+          "en": "I can hardly believe the new result.",
+          "distractors": [
+            "mieten",
+            "kochen",
+            "pflanzen"
+          ]
+        }
+      }
+    ]
+  },
+  "gleich": {
+    "senses": [
+      {
+        "zh": "馬上；立刻",
+        "en": "right away, in a moment",
+        "ex": {
+          "de": "Warte kurz, ich komme {gleich} zu dir.",
+          "zh": "稍等一下，我馬上過去找你。",
+          "en": "Wait a moment, I'll come over to you right away.",
+          "distractors": [
+            "gestern",
+            "vorhin",
+            "damals"
+          ]
+        }
+      }
+    ]
+  },
+  "gleichfalls": {
+    "senses": [
+      {
+        "zh": "同樣；彼此彼此",
+        "en": "likewise",
+        "ex": {
+          "de": "Ich wünsche dir ein schönes Wochenende. – Danke, {gleichfalls}!",
+          "zh": "祝你週末愉快。——謝謝，你也是！",
+          "en": "I wish you a nice weekend. – Thanks, likewise!",
+          "distractors": [
+            "gestern",
+            "nirgends",
+            "ziemlich"
+          ]
+        }
+      }
+    ]
+  },
+  "gleichberechtigt": {
+    "senses": [
+      {
+        "zh": "享有平等權利的",
+        "en": "having equal rights",
+        "ex": {
+          "de": "In unserer Familie sind Frauen und Männer {gleichberechtigt}.",
+          "zh": "在我們家，女性和男性享有平等的權利。",
+          "en": "In our family, women and men have equal rights.",
+          "distractors": [
+            "durchsichtig",
+            "wasserdicht",
+            "glutenfrei"
+          ]
+        }
+      }
+    ]
+  },
+  "gleichzeitig": {
+    "senses": [
+      {
+        "zh": "同時",
+        "en": "at the same time",
+        "ex": {
+          "de": "Ich kann nicht {gleichzeitig} kochen und telefonieren.",
+          "zh": "我沒辦法同時煮飯又講電話。",
+          "en": "I can't cook and talk on the phone at the same time.",
+          "distractors": [
+            "gestern",
+            "rückwärts",
+            "nirgendwo"
+          ]
+        }
+      }
+    ]
+  },
+  "gleis": {
+    "senses": [
+      {
+        "zh": "月台；軌道",
+        "en": "platform, track",
+        "ex": {
+          "de": "Der Zug nach Köln steht schon auf dem {Gleis}.",
+          "zh": "往科隆的火車已經停在月台上了。",
+          "en": "The train to Cologne is already standing at the platform.",
+          "distractors": [
+            "Dach",
+            "Bett",
+            "Regal"
+          ]
+        }
+      }
+    ]
+  },
+  "glueck": {
+    "senses": [
+      {
+        "zh": "幸運；幸福",
+        "en": "luck, happiness",
+        "ex": {
+          "de": "Zum {Glück} hat es heute nicht geregnet.",
+          "zh": "幸好今天沒有下雨。",
+          "en": "Luckily it didn't rain today.",
+          "distractors": [
+            "Messer",
+            "Zimmer",
+            "Gepäck"
+          ]
+        }
+      }
+    ]
+  },
+  "gluecklich": {
+    "senses": [
+      {
+        "zh": "快樂的；幸福的",
+        "en": "happy",
+        "ex": {
+          "de": "Die Kinder sind nach dem Ausflug sehr {glücklich}.",
+          "zh": "孩子們在郊遊之後非常開心。",
+          "en": "The children are very happy after the trip.",
+          "distractors": [
+            "eckig",
+            "salzig",
+            "hölzern"
+          ]
+        }
+      }
+    ]
+  },
+  "glueckwunsch": {
+    "senses": [
+      {
+        "zh": "祝賀；恭喜",
+        "en": "congratulations",
+        "ex": {
+          "de": "Herzlichen {Glückwunsch} zu deinem neuen Job!",
+          "zh": "恭喜你找到新工作！",
+          "en": "Congratulations on your new job!",
+          "distractors": [
+            "Kugelschreiber",
+            "Bahnsteig",
+            "Fußboden"
+          ]
+        }
+      }
+    ]
+  },
+  "gold": {
+    "senses": [
+      {
+        "zh": "黃金；金子",
+        "en": "gold",
+        "ex": {
+          "de": "Der Ring ist nicht aus Silber, sondern aus echtem {Gold}.",
+          "zh": "這枚戒指不是銀的，而是真金打造的。",
+          "en": "The ring is not silver but made of real gold.",
+          "distractors": [
+            "Gepäck",
+            "Kino",
+            "Telefon"
+          ]
+        }
+      }
+    ]
+  },
+  "golf": {
+    "senses": [
+      {
+        "zh": "高爾夫球",
+        "en": "golf",
+        "ex": {
+          "de": "Mein Opa spielt jeden Samstag {Golf} mit Freunden.",
+          "zh": "我爺爺每個星期六都和朋友打高爾夫球。",
+          "en": "My grandpa plays golf with friends every Saturday.",
+          "distractors": [
+            "Regen",
+            "Schnee",
+            "Salat"
+          ]
+        }
+      }
+    ]
+  },
+  "gott": {
+    "senses": [
+      {
+        "zh": "神；上帝",
+        "en": "god",
+        "ex": {
+          "de": "Viele Menschen glauben an einen {Gott}.",
+          "zh": "許多人相信有一位神。",
+          "en": "Many people believe in a god.",
+          "distractors": [
+            "Briefkasten",
+            "Fußboden",
+            "Salat"
+          ]
+        }
+      }
+    ]
+  },
+  "grafik": {
+    "senses": [
+      {
+        "zh": "圖表；圖像設計",
+        "en": "graphic, chart",
+        "ex": {
+          "de": "Die {Grafik} im Bericht zeigt die Zahlen sehr klar.",
+          "zh": "報告裡的圖表把數字呈現得很清楚。",
+          "en": "The chart in the report shows the numbers very clearly.",
+          "distractors": [
+            "Tasse",
+            "Mütze",
+            "Straße"
+          ]
+        }
+      }
+    ]
+  },
+  "gras": {
+    "senses": [
+      {
+        "zh": "草；草地",
+        "en": "grass",
+        "ex": {
+          "de": "Die Kinder liegen im {Gras} und schauen in den Himmel.",
+          "zh": "孩子們躺在草地上望著天空。",
+          "en": "The children lie in the grass and look at the sky.",
+          "distractors": [
+            "Regal",
+            "Fenster",
+            "Telefon"
+          ]
+        }
+      }
+    ]
+  },
+  "gratulieren": {
+    "senses": [
+      {
+        "zh": "道賀；祝賀",
+        "en": "to congratulate",
+        "ex": {
+          "de": "Wir möchten Oma zum Geburtstag {gratulieren}.",
+          "zh": "我們想向奶奶祝賀生日快樂。",
+          "en": "We would like to congratulate Grandma on her birthday.",
+          "distractors": [
+            "schlagen",
+            "tauchen",
+            "rasieren"
+          ]
+        }
+      }
+    ]
+  },
+  "gratulation": {
+    "senses": [
+      {
+        "zh": "祝賀；賀詞",
+        "en": "congratulation",
+        "ex": {
+          "de": "Ich habe eine nette {Gratulation} zur Hochzeit bekommen.",
+          "zh": "我收到了一份溫馨的結婚賀詞。",
+          "en": "I received a nice congratulation on the wedding.",
+          "distractors": [
+            "Treppe",
+            "Steckdose",
+            "Zange"
+          ]
+        }
+      }
+    ]
+  },
+  "gratis": {
+    "senses": [
+      {
+        "zh": "免費的",
+        "en": "free of charge",
+        "ex": {
+          "de": "Das Museum ist am Sonntag {gratis} für alle.",
+          "zh": "這間博物館星期天對所有人免費。",
+          "en": "The museum is free for everyone on Sunday.",
+          "distractors": [
+            "gelb",
+            "eckig",
+            "leise"
+          ]
+        }
+      }
+    ]
+  },
+  "greifen": {
+    "senses": [
+      {
+        "zh": "抓；伸手拿",
+        "en": "to grab, reach",
+        "ex": {
+          "de": "Er musste schnell nach dem Seil {greifen}.",
+          "zh": "他得趕快伸手抓住那條繩子。",
+          "en": "He had to quickly reach for the rope.",
+          "distractors": [
+            "schlafen",
+            "schwimmen",
+            "lächeln"
+          ]
+        }
+      }
+    ]
+  },
+  "grenze": {
+    "senses": [
+      {
+        "zh": "邊界；國界",
+        "en": "border",
+        "ex": {
+          "de": "An der {Grenze} kontrolliert die Polizei alle Autos.",
+          "zh": "警察在邊境檢查所有的汽車。",
+          "en": "At the border the police check all the cars.",
+          "distractors": [
+            "Tasse",
+            "Zwiebel",
+            "Karte"
+          ]
+        }
+      }
+    ]
+  },
+  "grillen": {
+    "senses": [
+      {
+        "zh": "烤肉；燒烤",
+        "en": "to grill, barbecue",
+        "ex": {
+          "de": "Am Samstag wollen wir im Park {grillen}.",
+          "zh": "星期六我們想在公園烤肉。",
+          "en": "On Saturday we want to have a barbecue in the park.",
+          "distractors": [
+            "bohren",
+            "tauchen",
+            "schweißen"
+          ]
+        }
+      }
+    ]
+  },
+  "grillieren": {
+    "senses": [
+      {
+        "zh": "烤肉（瑞士用語）",
+        "en": "to grill (Swiss)",
+        "ex": {
+          "de": "Am Sonntag wollen wir am See {grillieren}.",
+          "zh": "星期天我們想在湖邊烤肉。",
+          "en": "On Sunday we want to have a barbecue by the lake.",
+          "distractors": [
+            "kündigen",
+            "bohren",
+            "löten"
+          ]
+        }
+      }
+    ]
+  },
+  "grill": {
+    "senses": [
+      {
+        "zh": "烤肉架；烤爐",
+        "en": "grill, barbecue",
+        "ex": {
+          "de": "Auf dem {Grill} liegen schon Würstchen und Gemüse.",
+          "zh": "烤肉架上已經放著香腸和蔬菜。",
+          "en": "Sausages and vegetables are already on the grill.",
+          "distractors": [
+            "Spiegel",
+            "Bleistift",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "grippe": {
+    "senses": [
+      {
+        "zh": "流行性感冒",
+        "en": "flu",
+        "ex": {
+          "de": "Er hat die {Grippe} und bleibt zu Hause.",
+          "zh": "他得了流感，所以待在家裡。",
+          "en": "He has the flu and is staying at home.",
+          "distractors": [
+            "Kerze",
+            "Tasche",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "gross": {
+    "senses": [
+      {
+        "zh": "大的；高的",
+        "en": "big, tall",
+        "ex": {
+          "de": "Ihr Sohn ist schon so {groß} wie sie.",
+          "zh": "她兒子已經長得和她一樣高了。",
+          "en": "Her son is already as tall as she is.",
+          "distractors": [
+            "blau",
+            "eckig",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "gross-2": {
+    "senses": [
+      {
+        "zh": "大…；祖…（複合詞前綴）",
+        "en": "great-, large- (prefix)",
+        "ex": {
+          "de": "Meine {Groß}eltern wohnen auf dem Land.",
+          "zh": "我的祖父母住在鄉下。",
+          "en": "My grandparents live in the countryside.",
+          "distractors": [
+            "Tisch",
+            "Sonnen",
+            "Wasser"
+          ]
+        }
+      }
+    ]
+  },
+  "groesse": {
+    "senses": [
+      {
+        "zh": "尺寸；大小",
+        "en": "size",
+        "ex": {
+          "de": "Haben Sie diese Jacke auch in einer anderen {Größe}?",
+          "zh": "這件外套有其他尺寸嗎？",
+          "en": "Do you have this jacket in another size as well?",
+          "distractors": [
+            "Wiese",
+            "Treppe",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "gruenden": {
+    "senses": [
+      {
+        "zh": "創立；建立",
+        "en": "to found, establish",
+        "ex": {
+          "de": "Sie wollen nächstes Jahr eine eigene Firma {gründen}.",
+          "zh": "他們打算明年成立自己的公司。",
+          "en": "They want to found their own company next year.",
+          "distractors": [
+            "essen",
+            "verschlafen",
+            "waschen"
+          ]
+        }
+      }
+    ]
+  },
+  "grund": {
+    "senses": [
+      {
+        "zh": "原因；理由",
+        "en": "reason",
+        "ex": {
+          "de": "Was ist der {Grund} für deine gute Laune?",
+          "zh": "你心情這麼好是什麼原因？",
+          "en": "What is the reason for your good mood?",
+          "distractors": [
+            "Kuchen",
+            "Bahnhof",
+            "Hafen"
+          ]
+        }
+      }
+    ]
+  },
+  "gruendlich": {
+    "senses": [
+      {
+        "zh": "徹底地；仔細的",
+        "en": "thoroughly",
+        "ex": {
+          "de": "Vor dem Essen wasche ich mir {gründlich} die Hände.",
+          "zh": "吃飯前我會把手仔細洗乾淨。",
+          "en": "Before eating I wash my hands thoroughly.",
+          "distractors": [
+            "gestern",
+            "rechteckig",
+            "blau"
+          ]
+        }
+      }
+    ]
+  },
+  "grundstueck": {
+    "senses": [
+      {
+        "zh": "土地；地皮",
+        "en": "plot of land",
+        "ex": {
+          "de": "Sie haben ein {Grundstück} am Stadtrand gekauft.",
+          "zh": "他們在市郊買了一塊地。",
+          "en": "They bought a plot of land on the outskirts.",
+          "distractors": [
+            "Gewitter",
+            "Gewissen",
+            "Lächeln"
+          ]
+        }
+      }
+    ]
+  },
+  "gruppe": {
+    "senses": [
+      {
+        "zh": "團體；小組",
+        "en": "group",
+        "ex": {
+          "de": "Unsere {Gruppe} trifft sich jeden Dienstag in der Bibliothek.",
+          "zh": "我們這組每個星期二在圖書館碰面。",
+          "en": "Our group meets every Tuesday in the library.",
+          "distractors": [
+            "Mütze",
+            "Steckdose",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "gruessen": {
+    "senses": [
+      {
+        "zh": "問候；致意",
+        "en": "to greet, say hello to",
+        "ex": {
+          "de": "Bitte {grüßen} Sie Ihre Eltern von mir!",
+          "zh": "請代我向您的父母問好！",
+          "en": "Please give my regards to your parents!",
+          "distractors": [
+            "begraben",
+            "überholen",
+            "malen"
+          ]
+        }
+      }
+    ]
+  },
+  "gruss": {
+    "senses": [
+      {
+        "zh": "問候；致意",
+        "en": "greeting, regards",
+        "ex": {
+          "de": "Viele {Grüße} an deine Familie!",
+          "zh": "代我向你的家人問好！",
+          "en": "Many greetings to your family!",
+          "distractors": [
+            "Bäume",
+            "Hunde",
+            "Röcke"
+          ]
+        }
+      }
+    ]
+  },
+  "gucken": {
+    "senses": [
+      {
+        "zh": "看；瞧",
+        "en": "to look, watch",
+        "ex": {
+          "de": "Wollen wir heute Abend einen Film {gucken}?",
+          "zh": "我們今晚要不要看部電影？",
+          "en": "Shall we watch a film tonight?",
+          "distractors": [
+            "pflücken",
+            "vermieten",
+            "rasieren"
+          ]
+        }
+      }
+    ]
+  },
+  "gueltig": {
+    "senses": [
+      {
+        "zh": "有效的",
+        "en": "valid",
+        "ex": {
+          "de": "Meine Fahrkarte ist leider nur bis morgen {gültig}.",
+          "zh": "我的車票很可惜只到明天有效。",
+          "en": "My ticket is unfortunately only valid until tomorrow.",
+          "distractors": [
+            "bunt",
+            "hungrig",
+            "eckig"
+          ]
+        }
+      }
+    ]
+  },
+  "guenstig": {
+    "senses": [
+      {
+        "zh": "便宜的；划算的",
+        "en": "cheap, favorable",
+        "ex": {
+          "de": "Im Supermarkt ist das Obst heute besonders {günstig}.",
+          "zh": "超市的水果今天特別便宜。",
+          "en": "At the supermarket the fruit is especially cheap today.",
+          "distractors": [
+            "hungrig",
+            "müde",
+            "schüchtern"
+          ]
+        }
+      }
+    ]
+  },
+  "gut": {
+    "senses": [
+      {
+        "zh": "好的；好",
+        "en": "good, well",
+        "ex": {
+          "de": "Die Suppe schmeckt heute richtig {gut}.",
+          "zh": "今天的湯嚐起來真的很好喝。",
+          "en": "The soup tastes really good today.",
+          "distractors": [
+            "laut",
+            "eckig",
+            "nass"
+          ]
+        }
+      }
+    ]
+  }
+}

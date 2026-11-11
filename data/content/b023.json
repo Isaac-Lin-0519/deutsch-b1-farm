@@ -1,0 +1,902 @@
+{
+  "gehoeren": {
+    "senses": [
+      {
+        "zh": "屬於；是…的",
+        "en": "to belong to",
+        "ex": {
+          "de": "Wem {gehört} die Jacke auf dem Stuhl?",
+          "zh": "這件椅子上的外套是誰的？",
+          "en": "Whose jacket is that on the chair?",
+          "distractors": [
+            "bellt",
+            "wächst",
+            "regnet"
+          ]
+        }
+      }
+    ]
+  },
+  "gehsteig": {
+    "senses": [
+      {
+        "zh": "人行道",
+        "en": "pavement, sidewalk",
+        "ex": {
+          "de": "Auf dem {Gehsteig} vor der Schule stehen viele Fahrräder.",
+          "zh": "學校前面的人行道上停了很多腳踏車。",
+          "en": "Many bikes are parked on the pavement in front of the school.",
+          "distractors": [
+            "Flughafen",
+            "Regenschirm",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "geld": {
+    "senses": [
+      {
+        "zh": "錢；金錢",
+        "en": "money",
+        "ex": {
+          "de": "Ich habe leider nicht genug {Geld} für ein neues Handy.",
+          "zh": "我很遺憾沒有足夠的錢買新手機。",
+          "en": "Unfortunately I don't have enough money for a new phone.",
+          "distractors": [
+            "Wetter",
+            "Fieber",
+            "Obst"
+          ]
+        }
+      }
+    ]
+  },
+  "geldautomat": {
+    "senses": [
+      {
+        "zh": "自動提款機",
+        "en": "ATM, cash machine",
+        "ex": {
+          "de": "Ich möchte am {Geldautomaten} hundert Euro abheben.",
+          "zh": "我想在提款機領一百歐元。",
+          "en": "I'd like to withdraw a hundred euros at the cash machine.",
+          "distractors": [
+            "Rucksack",
+            "Kugelschreiber",
+            "Spielplatz"
+          ]
+        }
+      }
+    ]
+  },
+  "geldboerse": {
+    "senses": [
+      {
+        "zh": "錢包",
+        "en": "wallet, purse",
+        "ex": {
+          "de": "In meiner {Geldbörse} sind nur noch zwei Euro.",
+          "zh": "我的錢包裡只剩兩歐元了。",
+          "en": "There are only two euros left in my wallet.",
+          "distractors": [
+            "Treppe",
+            "Sonne",
+            "Tankstelle"
+          ]
+        }
+      }
+    ]
+  },
+  "gelegenheit": {
+    "senses": [
+      {
+        "zh": "機會；場合",
+        "en": "opportunity, occasion",
+        "ex": {
+          "de": "Hast du morgen die {Gelegenheit}, mit dem Chef zu sprechen?",
+          "zh": "你明天有機會跟老闆談談嗎？",
+          "en": "Will you have the chance to talk to the boss tomorrow?",
+          "distractors": [
+            "Zeitung",
+            "Brücke",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "gelingen": {
+    "senses": [
+      {
+        "zh": "成功；順利完成",
+        "en": "to succeed, turn out well",
+        "ex": {
+          "de": "Der Kuchen ist mir leider nicht {gelungen}.",
+          "zh": "我的蛋糕很可惜沒有做成功。",
+          "en": "Unfortunately my cake didn't turn out well.",
+          "distractors": [
+            "gefahren",
+            "gewandert",
+            "eingeschlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "gelten": {
+    "senses": [
+      {
+        "zh": "有效；適用",
+        "en": "to be valid, apply",
+        "ex": {
+          "de": "Diese Fahrkarte {gilt} nur für zwei Stunden.",
+          "zh": "這張車票只有兩小時內有效。",
+          "en": "This ticket is only valid for two hours.",
+          "distractors": [
+            "schmeckt",
+            "wiegt",
+            "blüht"
+          ]
+        }
+      }
+    ]
+  },
+  "gemeinsam": {
+    "senses": [
+      {
+        "zh": "一起；共同的",
+        "en": "together, joint",
+        "ex": {
+          "de": "Am Sonntag kochen wir {gemeinsam} für die ganze Familie.",
+          "zh": "星期天我們一起為全家人煮飯。",
+          "en": "On Sunday we cook together for the whole family.",
+          "distractors": [
+            "gestern",
+            "vorhin",
+            "einst"
+          ]
+        }
+      }
+    ]
+  },
+  "gemeinschaft": {
+    "senses": [
+      {
+        "zh": "團體；共同體",
+        "en": "community",
+        "ex": {
+          "de": "Der Verein ist für viele Menschen eine wichtige {Gemeinschaft}.",
+          "zh": "這個社團對許多人來說是個重要的群體。",
+          "en": "For many people the club is an important community.",
+          "distractors": [
+            "Kreide",
+            "Steckdose",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "gemuese": {
+    "senses": [
+      {
+        "zh": "蔬菜",
+        "en": "vegetables",
+        "ex": {
+          "de": "Zum Mittagessen gibt es heute Reis mit frischem {Gemüse}.",
+          "zh": "今天午餐吃白飯配新鮮蔬菜。",
+          "en": "For lunch today there is rice with fresh vegetables.",
+          "distractors": [
+            "Papier",
+            "Fenster",
+            "Shampoo"
+          ]
+        }
+      }
+    ]
+  },
+  "genau": {
+    "senses": [
+      {
+        "zh": "準確地；正好",
+        "en": "exactly, precisely",
+        "ex": {
+          "de": "Sag mir bitte {genau}, wann der Zug ankommt.",
+          "zh": "請你準確告訴我火車什麼時候到。",
+          "en": "Please tell me exactly when the train arrives.",
+          "distractors": [
+            "selten",
+            "gestern",
+            "links"
+          ]
+        }
+      }
+    ]
+  },
+  "genauso": {
+    "senses": [
+      {
+        "zh": "同樣地；一樣",
+        "en": "just as, equally",
+        "ex": {
+          "de": "Mein Bruder ist {genauso} groß wie unser Vater.",
+          "zh": "我哥哥和我們的爸爸一樣高。",
+          "en": "My brother is just as tall as our father.",
+          "distractors": [
+            "heute",
+            "dort",
+            "früh"
+          ]
+        }
+      }
+    ]
+  },
+  "genehmigen": {
+    "senses": [
+      {
+        "zh": "批准；核准",
+        "en": "to approve, permit",
+        "ex": {
+          "de": "Der Chef hat meinen Urlaub im August {genehmigt}.",
+          "zh": "老闆批准了我八月的假。",
+          "en": "The boss approved my vacation in August.",
+          "distractors": [
+            "gepflanzt",
+            "gesungen",
+            "gewaschen"
+          ]
+        }
+      }
+    ]
+  },
+  "generation": {
+    "senses": [
+      {
+        "zh": "世代；一代",
+        "en": "generation",
+        "ex": {
+          "de": "Drei {Generationen} wohnen bei uns unter einem Dach.",
+          "zh": "我們家三代同堂住在一起。",
+          "en": "Three generations live under one roof at our place.",
+          "distractors": [
+            "Bananen",
+            "Kerzen",
+            "Brücken"
+          ]
+        }
+      }
+    ]
+  },
+  "geniessen": {
+    "senses": [
+      {
+        "zh": "享受；品嚐",
+        "en": "to enjoy",
+        "ex": {
+          "de": "Am Strand will ich einfach die Sonne {genießen}.",
+          "zh": "在海灘上我只想好好享受陽光。",
+          "en": "On the beach I just want to enjoy the sun.",
+          "distractors": [
+            "reparieren",
+            "wechseln",
+            "bezahlen"
+          ]
+        }
+      }
+    ]
+  },
+  "genug": {
+    "senses": [
+      {
+        "zh": "足夠地；夠",
+        "en": "enough",
+        "ex": {
+          "de": "Hast du {genug} Wasser für die lange Wanderung dabei?",
+          "zh": "你有帶足夠的水去這趟長途健行嗎？",
+          "en": "Do you have enough water with you for the long hike?",
+          "distractors": [
+            "wenige",
+            "mehrere",
+            "einige"
+          ]
+        }
+      }
+    ]
+  },
+  "genuegen": {
+    "senses": [
+      {
+        "zh": "足夠；滿足需要",
+        "en": "to be enough",
+        "ex": {
+          "de": "Zwei Eier {genügen} für diesen kleinen Kuchen.",
+          "zh": "這個小蛋糕用兩顆蛋就夠了。",
+          "en": "Two eggs are enough for this small cake.",
+          "distractors": [
+            "wandern",
+            "schlafen",
+            "bellen"
+          ]
+        }
+      }
+    ]
+  },
+  "gepaeck": {
+    "senses": [
+      {
+        "zh": "行李",
+        "en": "luggage, baggage",
+        "ex": {
+          "de": "Der Beamte kontrolliert unser {Gepäck} am Flughafen.",
+          "zh": "官員在機場檢查我們的行李。",
+          "en": "The officer checks our luggage at the airport.",
+          "distractors": [
+            "Rathaus",
+            "Ufer",
+            "Denkmal"
+          ]
+        }
+      }
+    ]
+  },
+  "gerade": {
+    "senses": [
+      {
+        "zh": "現在；剛剛",
+        "en": "right now, just",
+        "ex": {
+          "de": "Psst, das Baby schläft {gerade}!",
+          "zh": "噓，寶寶正在睡覺！",
+          "en": "Shh, the baby is sleeping right now!",
+          "distractors": [
+            "morgen",
+            "bald",
+            "später"
+          ]
+        }
+      }
+    ]
+  },
+  "geradeaus": {
+    "senses": [
+      {
+        "zh": "直走；向前",
+        "en": "straight ahead",
+        "ex": {
+          "de": "Gehen Sie hier {geradeaus} bis zur Ampel.",
+          "zh": "請從這裡一直往前走到紅綠燈。",
+          "en": "Go straight ahead here until the traffic light.",
+          "distractors": [
+            "kostenlos",
+            "neulich",
+            "heiser"
+          ]
+        }
+      }
+    ]
+  },
+  "geraet": {
+    "senses": [
+      {
+        "zh": "裝置；器具",
+        "en": "device, appliance",
+        "ex": {
+          "de": "Dieses {Gerät} misst die Temperatur im Zimmer.",
+          "zh": "這個裝置可以測量房間的溫度。",
+          "en": "This device measures the temperature in the room.",
+          "distractors": [
+            "Hemd",
+            "Brot",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "gerecht": {
+    "senses": [
+      {
+        "zh": "公正的；公平的",
+        "en": "fair, just",
+        "ex": {
+          "de": "Die Lehrerin ist streng, aber immer {gerecht}.",
+          "zh": "這位老師很嚴格，但總是很公正。",
+          "en": "The teacher is strict but always fair.",
+          "distractors": [
+            "gelb",
+            "hölzern",
+            "flüssig"
+          ]
+        }
+      }
+    ]
+  },
+  "gericht": {
+    "senses": [
+      {
+        "zh": "菜餚；一道菜",
+        "en": "dish, meal",
+        "ex": {
+          "de": "Dieses {Gericht} schmeckt nach Zimt und Orangen.",
+          "zh": "這道菜吃起來有肉桂和柳橙的味道。",
+          "en": "This dish tastes of cinnamon and oranges.",
+          "distractors": [
+            "Dach",
+            "Telefon",
+            "Zelt"
+          ]
+        }
+      }
+    ]
+  },
+  "gering": {
+    "senses": [
+      {
+        "zh": "少的；輕微的",
+        "en": "small, slight",
+        "ex": {
+          "de": "Die Unterschiede zwischen den beiden Handys sind sehr {gering}.",
+          "zh": "這兩支手機之間的差異非常小。",
+          "en": "The differences between the two phones are very small.",
+          "distractors": [
+            "heiß",
+            "blau",
+            "laut"
+          ]
+        }
+      }
+    ]
+  },
+  "gern-gerne": {
+    "senses": [
+      {
+        "zh": "樂意地；喜歡",
+        "en": "gladly, with pleasure",
+        "ex": {
+          "de": "Ich helfe dir {gerne} beim Umzug am Samstag.",
+          "zh": "星期六搬家我很樂意幫你。",
+          "en": "I'll gladly help you with the move on Saturday.",
+          "distractors": [
+            "früher",
+            "damals",
+            "vorgestern"
+          ]
+        }
+      }
+    ]
+  },
+  "gesamt-gesamt": {
+    "senses": [
+      {
+        "zh": "全部的；總…（作字首）",
+        "en": "whole, total (prefix)",
+        "ex": {
+          "de": "Die {Gesamt}summe der Rechnung beträgt zweihundert Euro.",
+          "zh": "這張帳單的總金額是兩百歐元。",
+          "en": "The total sum of the bill is two hundred euros.",
+          "distractors": [
+            "Zimmer",
+            "Garten",
+            "Lehrer"
+          ]
+        }
+      }
+    ]
+  },
+  "geschaeft": {
+    "senses": [
+      {
+        "zh": "商店；生意",
+        "en": "shop, business",
+        "ex": {
+          "de": "Das {Geschäft} an der Ecke schließt um sieben Uhr.",
+          "zh": "轉角那間店七點關門。",
+          "en": "The shop on the corner closes at seven.",
+          "distractors": [
+            "Bein",
+            "Heft",
+            "Ohr"
+          ]
+        }
+      }
+    ]
+  },
+  "geschehen": {
+    "senses": [
+      {
+        "zh": "發生",
+        "en": "to happen",
+        "ex": {
+          "de": "Was ist denn auf der Kreuzung {geschehen}?",
+          "zh": "十字路口到底發生了什麼事？",
+          "en": "What on earth happened at the intersection?",
+          "distractors": [
+            "gewandert",
+            "eingeschlafen",
+            "aufgewacht"
+          ]
+        }
+      }
+    ]
+  },
+  "geschenk": {
+    "senses": [
+      {
+        "zh": "禮物",
+        "en": "present, gift",
+        "ex": {
+          "de": "Für Omas Geburtstag habe ich ein schönes {Geschenk} gekauft.",
+          "zh": "我為奶奶的生日買了一份漂亮的禮物。",
+          "en": "I bought a nice present for Grandma's birthday.",
+          "distractors": [
+            "Gewitter",
+            "Fieber",
+            "Schweigen"
+          ]
+        }
+      }
+    ]
+  },
+  "geschichte": {
+    "senses": [
+      {
+        "zh": "故事；歷史",
+        "en": "story; history",
+        "ex": {
+          "de": "Der Opa erzählt den Kindern jeden Abend eine {Geschichte}.",
+          "zh": "爺爺每天晚上都跟孩子們講一個故事。",
+          "en": "Grandpa tells the children a story every evening.",
+          "distractors": [
+            "Nudel",
+            "Mütze",
+            "Schaufel"
+          ]
+        }
+      }
+    ]
+  },
+  "geschieden": {
+    "senses": [
+      {
+        "zh": "離婚的",
+        "en": "divorced",
+        "ex": {
+          "de": "Meine Tante ist seit zwei Jahren {geschieden}.",
+          "zh": "我阿姨已經離婚兩年了。",
+          "en": "My aunt has been divorced for two years.",
+          "distractors": [
+            "kariert",
+            "gestreift",
+            "eckig"
+          ]
+        }
+      }
+    ]
+  },
+  "geschirr": {
+    "senses": [
+      {
+        "zh": "餐具；碗盤",
+        "en": "dishes, tableware",
+        "ex": {
+          "de": "Nach dem Essen spüle ich das {Geschirr} in der Küche.",
+          "zh": "飯後我在廚房洗碗盤。",
+          "en": "After the meal I wash the dishes in the kitchen.",
+          "distractors": [
+            "Kino",
+            "Konzert",
+            "Tal"
+          ]
+        }
+      }
+    ]
+  },
+  "geschlecht": {
+    "senses": [
+      {
+        "zh": "性別",
+        "en": "sex, gender",
+        "ex": {
+          "de": "Bei der Anmeldung müssen Sie Ihr {Geschlecht} angeben.",
+          "zh": "報名時您必須填寫性別。",
+          "en": "When registering you have to state your gender.",
+          "distractors": [
+            "Hähnchen",
+            "Mehl",
+            "Echo"
+          ]
+        }
+      }
+    ]
+  },
+  "geschmack": {
+    "senses": [
+      {
+        "zh": "味道；口味",
+        "en": "taste, flavor",
+        "ex": {
+          "de": "Der Tee hat einen leichten {Geschmack} nach Pfefferminze.",
+          "zh": "這茶有淡淡的薄荷味。",
+          "en": "The tea has a light taste of peppermint.",
+          "distractors": [
+            "Bleistift",
+            "Bahnhof",
+            "Schlüssel"
+          ]
+        }
+      }
+    ]
+  },
+  "geschwindigkeit": {
+    "senses": [
+      {
+        "zh": "速度",
+        "en": "speed",
+        "ex": {
+          "de": "Auf der Autobahn fährt er mit hoher {Geschwindigkeit}.",
+          "zh": "他在高速公路上高速行駛。",
+          "en": "On the motorway he drives at high speed.",
+          "distractors": [
+            "Banane",
+            "Brille",
+            "Kommode"
+          ]
+        }
+      }
+    ]
+  },
+  "geschwindigkeitsbeschraenkung": {
+    "senses": [
+      {
+        "zh": "速限",
+        "en": "speed limit",
+        "ex": {
+          "de": "Hier gilt eine {Geschwindigkeitsbeschränkung} von dreißig Kilometern pro Stunde.",
+          "zh": "這裡的速限是每小時三十公里。",
+          "en": "A speed limit of thirty kilometres per hour applies here.",
+          "distractors": [
+            "Hose",
+            "Kerze",
+            "Torte"
+          ]
+        }
+      }
+    ]
+  },
+  "geschwister": {
+    "senses": [
+      {
+        "zh": "兄弟姊妹",
+        "en": "siblings",
+        "ex": {
+          "de": "Meine {Geschwister} wohnen alle in Hamburg.",
+          "zh": "我的兄弟姊妹都住在漢堡。",
+          "en": "My brothers and sisters all live in Hamburg.",
+          "distractors": [
+            "Tomaten",
+            "Bleistifte",
+            "Mützen"
+          ]
+        }
+      }
+    ]
+  },
+  "gesellschaft": {
+    "senses": [
+      {
+        "zh": "社會；陪伴",
+        "en": "society",
+        "ex": {
+          "de": "In unserer {Gesellschaft} spielen alte Menschen eine wichtige Rolle.",
+          "zh": "在我們的社會裡，老年人扮演重要的角色。",
+          "en": "In our society, old people play an important role.",
+          "distractors": [
+            "Wiese",
+            "Tasche",
+            "Pfanne"
+          ]
+        }
+      }
+    ]
+  },
+  "gesetz": {
+    "senses": [
+      {
+        "zh": "法律；法規",
+        "en": "law",
+        "ex": {
+          "de": "Das neue {Gesetz} gilt ab dem ersten Januar.",
+          "zh": "這項新法律從一月一日起生效。",
+          "en": "The new law applies from the first of January.",
+          "distractors": [
+            "Auto",
+            "Sofa",
+            "Telefon"
+          ]
+        }
+      }
+    ]
+  },
+  "gesicht": {
+    "senses": [
+      {
+        "zh": "臉",
+        "en": "face",
+        "ex": {
+          "de": "Sie hat ein freundliches {Gesicht} und lacht oft.",
+          "zh": "她有一張親切的臉，而且常常笑。",
+          "en": "She has a friendly face and often laughs.",
+          "distractors": [
+            "Ei",
+            "Messer",
+            "Heft"
+          ]
+        }
+      }
+    ]
+  },
+  "gespraech": {
+    "senses": [
+      {
+        "zh": "談話；對話",
+        "en": "conversation",
+        "ex": {
+          "de": "Nach dem langen {Gespräch} mit dem Arzt war ich ruhiger.",
+          "zh": "跟醫生長談之後，我比較安心了。",
+          "en": "After the long conversation with the doctor I felt calmer.",
+          "distractors": [
+            "Fenster",
+            "Obst",
+            "Kissen"
+          ]
+        }
+      }
+    ]
+  },
+  "gestern": {
+    "senses": [
+      {
+        "zh": "昨天",
+        "en": "yesterday",
+        "ex": {
+          "de": "Wir waren {gestern} bis Mitternacht im Kino.",
+          "zh": "我們昨天在電影院待到半夜。",
+          "en": "Yesterday we were at the cinema until midnight.",
+          "distractors": [
+            "übermorgen",
+            "künftig",
+            "nachher"
+          ]
+        }
+      }
+    ]
+  },
+  "gesund": {
+    "senses": [
+      {
+        "zh": "健康的",
+        "en": "healthy",
+        "ex": {
+          "de": "Mein Opa ist schon achtzig, aber noch ganz {gesund}.",
+          "zh": "我爺爺已經八十歲了，但身體還很健康。",
+          "en": "My grandpa is already eighty but still quite healthy.",
+          "distractors": [
+            "viereckig",
+            "wasserdicht",
+            "verschneit"
+          ]
+        }
+      }
+    ]
+  },
+  "gesundheit": {
+    "senses": [
+      {
+        "zh": "健康",
+        "en": "health",
+        "ex": {
+          "de": "Rauchen ist schlecht für die {Gesundheit}.",
+          "zh": "抽菸對健康不好。",
+          "en": "Smoking is bad for your health.",
+          "distractors": [
+            "Kreuzung",
+            "Pizza",
+            "Schublade"
+          ]
+        }
+      }
+    ]
+  },
+  "getraenk": {
+    "senses": [
+      {
+        "zh": "飲料",
+        "en": "drink, beverage",
+        "ex": {
+          "de": "Als {Getränk} nehme ich bitte ein Mineralwasser.",
+          "zh": "飲料我要一瓶礦泉水，謝謝。",
+          "en": "As a drink I'll have a mineral water, please.",
+          "distractors": [
+            "Zelt",
+            "Pferd",
+            "Kino"
+          ]
+        }
+      }
+    ]
+  },
+  "gewalt": {
+    "senses": [
+      {
+        "zh": "暴力；力量",
+        "en": "violence; force",
+        "ex": {
+          "de": "Die Polizei will die {Gewalt} auf der Straße stoppen.",
+          "zh": "警方想制止街頭暴力。",
+          "en": "The police want to stop the violence on the street.",
+          "distractors": [
+            "Suppe",
+            "Jacke",
+            "Lampe"
+          ]
+        }
+      }
+    ]
+  },
+  "gewerkschaft": {
+    "senses": [
+      {
+        "zh": "工會",
+        "en": "trade union",
+        "ex": {
+          "de": "Viele Arbeiter sind Mitglied in der {Gewerkschaft}.",
+          "zh": "許多工人是工會的會員。",
+          "en": "Many workers are members of the trade union.",
+          "distractors": [
+            "Schüssel",
+            "Zahnbürste",
+            "Steckdose"
+          ]
+        }
+      }
+    ]
+  },
+  "gewicht": {
+    "senses": [
+      {
+        "zh": "重量；體重",
+        "en": "weight",
+        "ex": {
+          "de": "Das {Gewicht} des Koffers darf zwanzig Kilo nicht überschreiten.",
+          "zh": "行李箱的重量不可超過二十公斤。",
+          "en": "The weight of the suitcase must not exceed twenty kilos.",
+          "distractors": [
+            "Hotel",
+            "Frühstück",
+            "Zeugnis"
+          ]
+        }
+      }
+    ]
+  },
+  "gewinnen": {
+    "senses": [
+      {
+        "zh": "贏；獲勝",
+        "en": "to win",
+        "ex": {
+          "de": "Unsere Mannschaft will das Spiel unbedingt {gewinnen}.",
+          "zh": "我們的隊伍一定要贏下這場比賽。",
+          "en": "Our team absolutely wants to win the game.",
+          "distractors": [
+            "essen",
+            "trinken",
+            "waschen"
+          ]
+        }
+      }
+    ]
+  }
+}
