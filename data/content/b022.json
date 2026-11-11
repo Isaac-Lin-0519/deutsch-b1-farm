@@ -1,0 +1,902 @@
+{
+  "fussgaengerin": {
+    "senses": [
+      {
+        "zh": "行人（女）",
+        "en": "pedestrian (female)",
+        "ex": {
+          "de": "Eine {Fußgängerin} wartete geduldig an der roten Ampel.",
+          "zh": "一位女行人耐心地在紅燈前等待。",
+          "en": "A female pedestrian waited patiently at the red light.",
+          "distractors": [
+            "Banane",
+            "Brille",
+            "Zwiebel"
+          ]
+        }
+      }
+    ]
+  },
+  "fussgaengerzone": {
+    "senses": [
+      {
+        "zh": "行人徒步區",
+        "en": "pedestrian zone",
+        "ex": {
+          "de": "In der {Fußgängerzone} gibt es viele kleine Cafés.",
+          "zh": "徒步區裡有很多小咖啡館。",
+          "en": "There are many small cafés in the pedestrian zone.",
+          "distractors": [
+            "Badewanne",
+            "Steckdose",
+            "Tastatur"
+          ]
+        }
+      }
+    ]
+  },
+  "fuettern": {
+    "senses": [
+      {
+        "zh": "餵（食）",
+        "en": "to feed",
+        "ex": {
+          "de": "Jeden Morgen muss ich zuerst den Hund {füttern}.",
+          "zh": "我每天早上都得先餵狗。",
+          "en": "Every morning I first have to feed the dog.",
+          "distractors": [
+            "reparieren",
+            "lackieren",
+            "buchstabieren"
+          ]
+        }
+      }
+    ]
+  },
+  "gabel": {
+    "senses": [
+      {
+        "zh": "叉子",
+        "en": "fork",
+        "ex": {
+          "de": "Zum Salat brauche ich noch eine {Gabel}.",
+          "zh": "吃沙拉我還需要一支叉子。",
+          "en": "For the salad I still need a fork.",
+          "distractors": [
+            "Zahnbürste",
+            "Garage",
+            "Tastatur"
+          ]
+        }
+      }
+    ]
+  },
+  "galerie": {
+    "senses": [
+      {
+        "zh": "畫廊；美術館",
+        "en": "gallery",
+        "ex": {
+          "de": "Am Sonntag besuchen wir eine {Galerie} mit moderner Kunst.",
+          "zh": "星期天我們要去參觀一間展出現代藝術的畫廊。",
+          "en": "On Sunday we are visiting a gallery with modern art.",
+          "distractors": [
+            "Tankstelle",
+            "Waschmaschine",
+            "Apotheke"
+          ]
+        }
+      }
+    ]
+  },
+  "gang": {
+    "senses": [
+      {
+        "zh": "走廊；通道",
+        "en": "corridor, hallway",
+        "ex": {
+          "de": "Bitte lass den {Gang} frei, wir brauchen Platz.",
+          "zh": "請不要擋住走道，我們需要空間。",
+          "en": "Please keep the corridor clear, we need space.",
+          "distractors": [
+            "Pullover",
+            "Zucker",
+            "Regenmantel"
+          ]
+        }
+      }
+    ]
+  },
+  "ganz": {
+    "senses": [
+      {
+        "zh": "整個的；全部的",
+        "en": "whole, entire",
+        "ex": {
+          "de": "Wir haben den {ganzen} Tag im Garten gearbeitet.",
+          "zh": "我們整天都在花園裡工作。",
+          "en": "We worked in the garden the whole day.",
+          "distractors": [
+            "rechten",
+            "blonden",
+            "vegetarischen"
+          ]
+        }
+      }
+    ]
+  },
+  "gar": {
+    "senses": [
+      {
+        "zh": "根本（常與 nicht、kein 連用）",
+        "en": "at all (with nicht, kein)",
+        "ex": {
+          "de": "Ich habe {gar} keinen Hunger, danke.",
+          "zh": "我一點也不餓，謝謝。",
+          "en": "I'm not hungry at all, thanks.",
+          "distractors": [
+            "nebenan",
+            "bergab",
+            "rückwärts"
+          ]
+        }
+      }
+    ]
+  },
+  "garage": {
+    "senses": [
+      {
+        "zh": "車庫",
+        "en": "garage",
+        "ex": {
+          "de": "Mein Auto steht nachts immer in der {Garage}.",
+          "zh": "我的車晚上總是停在車庫裡。",
+          "en": "My car always stays in the garage at night.",
+          "distractors": [
+            "Dusche",
+            "Handtasche",
+            "Suppe"
+          ]
+        }
+      }
+    ]
+  },
+  "garantieren": {
+    "senses": [
+      {
+        "zh": "保證",
+        "en": "to guarantee",
+        "ex": {
+          "de": "Die Firma kann uns keine schnelle Lieferung {garantieren}.",
+          "zh": "這家公司無法向我們保證快速出貨。",
+          "en": "The company cannot guarantee us a fast delivery.",
+          "distractors": [
+            "verschlafen",
+            "begraben",
+            "verbrennen"
+          ]
+        }
+      }
+    ]
+  },
+  "garantie": {
+    "senses": [
+      {
+        "zh": "保固；保證",
+        "en": "warranty, guarantee",
+        "ex": {
+          "de": "Auf das Handy bekommst du zwei Jahre {Garantie}.",
+          "zh": "這支手機你可以有兩年保固。",
+          "en": "You get a two-year warranty on the phone.",
+          "distractors": [
+            "Tasche",
+            "Kreide",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "garderobe": {
+    "senses": [
+      {
+        "zh": "衣帽間；衣帽架",
+        "en": "cloakroom, coat rack",
+        "ex": {
+          "de": "Bitte geben Sie Ihre Jacke an der {Garderobe} ab.",
+          "zh": "請把您的外套放在衣帽間。",
+          "en": "Please leave your jacket at the cloakroom.",
+          "distractors": [
+            "Haltestelle",
+            "Tankstelle",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "garten": {
+    "senses": [
+      {
+        "zh": "花園；庭院",
+        "en": "garden",
+        "ex": {
+          "de": "Im {Garten} wachsen Tomaten und Blumen.",
+          "zh": "花園裡長著番茄和花。",
+          "en": "Tomatoes and flowers grow in the garden.",
+          "distractors": [
+            "Aufzug",
+            "Bus",
+            "Koffer"
+          ]
+        }
+      }
+    ]
+  },
+  "gas": {
+    "senses": [
+      {
+        "zh": "瓦斯；氣體",
+        "en": "gas",
+        "ex": {
+          "de": "Unsere Heizung im Keller läuft nur mit {Gas}.",
+          "zh": "我們地下室的暖氣只用瓦斯運轉。",
+          "en": "Our heating in the basement runs only on gas.",
+          "distractors": [
+            "Wetter",
+            "Geld",
+            "Gepäck"
+          ]
+        }
+      }
+    ]
+  },
+  "gast": {
+    "senses": [
+      {
+        "zh": "客人；賓客",
+        "en": "guest",
+        "ex": {
+          "de": "Unser {Gast} schläft heute im Wohnzimmer.",
+          "zh": "我們的客人今天睡在客廳。",
+          "en": "Our guest is sleeping in the living room today.",
+          "distractors": [
+            "Kugelschreiber",
+            "Regenschirm",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "gasthaus": {
+    "senses": [
+      {
+        "zh": "小餐館；客棧",
+        "en": "inn, pub",
+        "ex": {
+          "de": "Das {Gasthaus} an der Ecke serviert jeden Tag Schnitzel.",
+          "zh": "轉角那間餐館每天都供應炸肉排。",
+          "en": "The inn on the corner serves schnitzel every day.",
+          "distractors": [
+            "Fahrrad",
+            "Kopfkissen",
+            "Handy"
+          ]
+        }
+      }
+    ]
+  },
+  "gaststaette": {
+    "senses": [
+      {
+        "zh": "餐館；飲食店",
+        "en": "restaurant, pub",
+        "ex": {
+          "de": "In dieser {Gaststätte} kocht der Chef noch selbst.",
+          "zh": "這間餐館的老闆還是親自下廚。",
+          "en": "In this restaurant the boss still cooks himself.",
+          "distractors": [
+            "Bibliothek",
+            "Haltestelle",
+            "Tiefgarage"
+          ]
+        }
+      }
+    ]
+  },
+  "gebaeude": {
+    "senses": [
+      {
+        "zh": "建築物",
+        "en": "building",
+        "ex": {
+          "de": "Das {Gebäude} neben der Schule ist über hundert Jahre alt.",
+          "zh": "學校旁邊的那棟建築已經有一百多年歷史。",
+          "en": "The building next to the school is over a hundred years old.",
+          "distractors": [
+            "Brötchen",
+            "Gemüse",
+            "Hemd"
+          ]
+        }
+      }
+    ]
+  },
+  "geben": {
+    "senses": [
+      {
+        "zh": "給；提供",
+        "en": "to give",
+        "ex": {
+          "de": "Kannst du mir bitte kurz dein Wörterbuch {geben}?",
+          "zh": "你可以借我一下你的字典嗎？",
+          "en": "Can you give me your dictionary for a moment, please?",
+          "distractors": [
+            "schlafen",
+            "regnen",
+            "wachsen"
+          ]
+        }
+      }
+    ]
+  },
+  "gebaeck": {
+    "senses": [
+      {
+        "zh": "糕點；烘焙點心",
+        "en": "pastries",
+        "ex": {
+          "de": "Zum Kaffee essen wir gern etwas {Gebäck}.",
+          "zh": "配咖啡我們喜歡吃點糕點。",
+          "en": "With coffee we like to eat some pastries.",
+          "distractors": [
+            "Benzin",
+            "Besteck",
+            "Salz"
+          ]
+        }
+      }
+    ]
+  },
+  "gebirge": {
+    "senses": [
+      {
+        "zh": "山脈；山區",
+        "en": "mountains",
+        "ex": {
+          "de": "Der Schnee im {Gebirge} bleibt bis zum Mai liegen.",
+          "zh": "山區的雪會一直留到五月。",
+          "en": "The snow in the mountains stays until May.",
+          "distractors": [
+            "Wohnzimmer",
+            "Badezimmer",
+            "Treppenhaus"
+          ]
+        }
+      }
+    ]
+  },
+  "geboren-werden": {
+    "senses": [
+      {
+        "zh": "出生",
+        "en": "to be born",
+        "ex": {
+          "de": "Unser Baby soll Anfang Mai {geboren} werden.",
+          "zh": "我們的寶寶預計五月初出生。",
+          "en": "Our baby is due to be born in early May.",
+          "distractors": [
+            "gestrichen",
+            "repariert",
+            "verkauft"
+          ]
+        }
+      }
+    ]
+  },
+  "geboren": {
+    "senses": [
+      {
+        "zh": "出生的",
+        "en": "born",
+        "ex": {
+          "de": "Wo wurdest du {geboren}?",
+          "zh": "你是在哪裡出生的？",
+          "en": "Where were you born?",
+          "distractors": [
+            "gesalzen",
+            "frittiert",
+            "lackiert"
+          ]
+        }
+      }
+    ]
+  },
+  "gebrauchen": {
+    "senses": [
+      {
+        "zh": "使用；用得上",
+        "en": "to use, make use of",
+        "ex": {
+          "de": "Dieses alte Radio kann ich leider nicht mehr {gebrauchen}.",
+          "zh": "這台舊收音機我很遺憾已經用不上了。",
+          "en": "I'm afraid I can't use this old radio any more.",
+          "distractors": [
+            "wachsen",
+            "kündigen",
+            "einladen"
+          ]
+        }
+      }
+    ]
+  },
+  "gebrauchsanweisung": {
+    "senses": [
+      {
+        "zh": "使用說明書",
+        "en": "instructions for use",
+        "ex": {
+          "de": "Lies bitte zuerst die {Gebrauchsanweisung}, bevor du die Maschine startest.",
+          "zh": "啟動機器之前，請先讀使用說明書。",
+          "en": "Please read the instructions first before you start the machine.",
+          "distractors": [
+            "Zahnpasta",
+            "Pfanne",
+            "Kartoffel"
+          ]
+        }
+      }
+    ]
+  },
+  "gebuehr": {
+    "senses": [
+      {
+        "zh": "費用；規費",
+        "en": "fee",
+        "ex": {
+          "de": "Für den Reisepass muss man eine {Gebühr} bezahlen.",
+          "zh": "辦護照要繳一筆規費。",
+          "en": "You have to pay a fee for the passport.",
+          "distractors": [
+            "Jahreszeit",
+            "Kreuzung",
+            "Pfütze"
+          ]
+        }
+      }
+    ]
+  },
+  "geburt": {
+    "senses": [
+      {
+        "zh": "出生；分娩",
+        "en": "birth",
+        "ex": {
+          "de": "Nach der {Geburt} bekam die Mutter viele Blumen.",
+          "zh": "寶寶出生後，媽媽收到了很多花。",
+          "en": "After the birth the mother received many flowers.",
+          "distractors": [
+            "Brücke",
+            "Schaukel",
+            "Mütze"
+          ]
+        }
+      }
+    ]
+  },
+  "geburtstag": {
+    "senses": [
+      {
+        "zh": "生日",
+        "en": "birthday",
+        "ex": {
+          "de": "Zu meinem {Geburtstag} kommen alle Cousins aus Köln.",
+          "zh": "我生日時，所有表兄弟姊妹都會從科隆來。",
+          "en": "All my cousins from Cologne are coming to my birthday.",
+          "distractors": [
+            "Staubsauger",
+            "Wasserhahn",
+            "Lastwagen"
+          ]
+        }
+      }
+    ]
+  },
+  "gedicht": {
+    "senses": [
+      {
+        "zh": "詩",
+        "en": "poem",
+        "ex": {
+          "de": "Die Schüler lernen ein kurzes {Gedicht} auswendig.",
+          "zh": "學生們要背一首短詩。",
+          "en": "The students are learning a short poem by heart.",
+          "distractors": [
+            "Mikrofon",
+            "Messer",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "geduld": {
+    "senses": [
+      {
+        "zh": "耐心",
+        "en": "patience",
+        "ex": {
+          "de": "Du brauchst viel {Geduld}, wenn du Klavier lernen willst.",
+          "zh": "想學鋼琴的話，你需要很多耐心。",
+          "en": "You need a lot of patience if you want to learn the piano.",
+          "distractors": [
+            "Butter",
+            "Milch",
+            "Wäsche"
+          ]
+        }
+      }
+    ]
+  },
+  "geehrt": {
+    "senses": [
+      {
+        "zh": "尊敬的（書信稱呼）",
+        "en": "honoured, dear (in letters)",
+        "ex": {
+          "de": "Sehr {geehrte} Frau Berger, vielen Dank für Ihre Mail.",
+          "zh": "敬愛的貝爾格女士，謝謝您的來信。",
+          "en": "Dear Ms Berger, thank you very much for your email.",
+          "distractors": [
+            "gebratene",
+            "verregnete",
+            "hungrige"
+          ]
+        }
+      }
+    ]
+  },
+  "geeignet": {
+    "senses": [
+      {
+        "zh": "適合的",
+        "en": "suitable",
+        "ex": {
+          "de": "Dieser Stuhl ist für kleine Kinder nicht {geeignet}.",
+          "zh": "這張椅子不適合小孩子。",
+          "en": "This chair is not suitable for small children.",
+          "distractors": [
+            "verheiratet",
+            "wolkig",
+            "ehrlich"
+          ]
+        }
+      }
+    ]
+  },
+  "gefahr": {
+    "senses": [
+      {
+        "zh": "危險",
+        "en": "danger",
+        "ex": {
+          "de": "Der Hund ist keine {Gefahr} für die Kinder.",
+          "zh": "這隻狗對孩子們不構成危險。",
+          "en": "The dog is no danger to the children.",
+          "distractors": [
+            "Gurke",
+            "Schere",
+            "Bohne"
+          ]
+        }
+      }
+    ]
+  },
+  "gefaehrlich": {
+    "senses": [
+      {
+        "zh": "危險的",
+        "en": "dangerous",
+        "ex": {
+          "de": "Es ist {gefährlich}, bei Nebel schnell zu fahren.",
+          "zh": "大霧天開快車很危險。",
+          "en": "It is dangerous to drive fast in fog.",
+          "distractors": [
+            "lecker",
+            "salzig",
+            "pünktlich"
+          ]
+        }
+      }
+    ]
+  },
+  "gefallen": {
+    "senses": [
+      {
+        "zh": "討人喜歡；中意",
+        "en": "to please, to like",
+        "ex": {
+          "de": "Diese Jacke hat mir sofort {gefallen}.",
+          "zh": "我一眼就喜歡上這件夾克。",
+          "en": "I liked this jacket right away.",
+          "distractors": [
+            "geschneit",
+            "gewartet",
+            "geregnet"
+          ]
+        }
+      }
+    ]
+  },
+  "etwas-gefallen-lassen": {
+    "senses": [
+      {
+        "zh": "忍受；容忍（某事）",
+        "en": "to put up with",
+        "ex": {
+          "de": "So eine Frechheit muss ich mir nicht {gefallen} lassen.",
+          "zh": "這種無禮的行為我不必忍受。",
+          "en": "I don't have to put up with such cheek.",
+          "distractors": [
+            "waschen",
+            "bauen",
+            "schälen"
+          ]
+        }
+      }
+    ]
+  },
+  "lassen": {
+    "senses": [
+      {
+        "zh": "讓；請人做（某事）",
+        "en": "to have (something) done",
+        "ex": {
+          "de": "Ich möchte mein Fahrrad reparieren {lassen}.",
+          "zh": "我想把腳踏車送修。",
+          "en": "I would like to have my bike repaired.",
+          "distractors": [
+            "essen",
+            "schwimmen",
+            "öffnen"
+          ]
+        }
+      }
+    ]
+  },
+  "gefaengnis": {
+    "senses": [
+      {
+        "zh": "監獄；徒刑",
+        "en": "prison",
+        "ex": {
+          "de": "Der Dieb muss für zwei Jahre ins {Gefängnis}.",
+          "zh": "小偷要入獄兩年。",
+          "en": "The thief has to go to prison for two years.",
+          "distractors": [
+            "Gewürz",
+            "Klavier",
+            "Parfüm"
+          ]
+        }
+      }
+    ]
+  },
+  "gefuehl": {
+    "senses": [
+      {
+        "zh": "感覺；預感",
+        "en": "feeling",
+        "ex": {
+          "de": "Ich habe das {Gefühl}, dass heute etwas Gutes passiert.",
+          "zh": "我有種預感，今天會有好事發生。",
+          "en": "I have a feeling that something good will happen today.",
+          "distractors": [
+            "Fenster",
+            "Geschirr",
+            "Papier"
+          ]
+        }
+      }
+    ]
+  },
+  "gegen": {
+    "senses": [
+      {
+        "zh": "靠著；對著；反對",
+        "en": "against",
+        "ex": {
+          "de": "Bitte stell das Fahrrad nicht {gegen} die Glastür.",
+          "zh": "請不要把腳踏車靠在玻璃門上。",
+          "en": "Please don't lean the bike against the glass door.",
+          "distractors": [
+            "ohne",
+            "für",
+            "bis"
+          ]
+        }
+      }
+    ]
+  },
+  "gegner": {
+    "senses": [
+      {
+        "zh": "對手；反對者",
+        "en": "opponent",
+        "ex": {
+          "de": "Im Finale spielt unser Team gegen einen starken {Gegner}.",
+          "zh": "決賽中我們隊要對上一個強勁的對手。",
+          "en": "In the final our team plays against a strong opponent.",
+          "distractors": [
+            "Löffel",
+            "Bahnhof",
+            "Mantel"
+          ]
+        }
+      }
+    ]
+  },
+  "gegend": {
+    "senses": [
+      {
+        "zh": "地區；一帶",
+        "en": "area, region",
+        "ex": {
+          "de": "In dieser {Gegend} gibt es viele alte Bauernhöfe.",
+          "zh": "這一帶有很多老農舍。",
+          "en": "In this area there are many old farms.",
+          "distractors": [
+            "Tomate",
+            "Tüte",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "gegensatz": {
+    "senses": [
+      {
+        "zh": "對立；相反",
+        "en": "contrast",
+        "ex": {
+          "de": "Im {Gegensatz} zu mir isst mein Bruder gern Fisch.",
+          "zh": "和我不同，我弟弟喜歡吃魚。",
+          "en": "Unlike me, my brother likes to eat fish.",
+          "distractors": [
+            "Zug",
+            "Wald",
+            "Schnee"
+          ]
+        }
+      }
+    ]
+  },
+  "gegenstand": {
+    "senses": [
+      {
+        "zh": "物品；東西",
+        "en": "object, item",
+        "ex": {
+          "de": "In meiner Tasche lag ein harter {Gegenstand}.",
+          "zh": "我的包包裡有個硬硬的東西。",
+          "en": "There was a hard object in my bag.",
+          "distractors": [
+            "Ofen",
+            "Salat",
+            "Wasserfall"
+          ]
+        }
+      }
+    ]
+  },
+  "gegenteil": {
+    "senses": [
+      {
+        "zh": "相反；反面",
+        "en": "opposite",
+        "ex": {
+          "de": "Mein Bruder sagt oft das {Gegenteil} von dem, was ich meine.",
+          "zh": "我弟弟常說出和我的意思正好相反的話。",
+          "en": "My brother often says the opposite of what I mean.",
+          "distractors": [
+            "Ohr",
+            "Kissen",
+            "Glas"
+          ]
+        }
+      }
+    ]
+  },
+  "gegenueber": {
+    "senses": [
+      {
+        "zh": "在…對面",
+        "en": "opposite",
+        "ex": {
+          "de": "Das Café liegt direkt {gegenüber} dem Rathaus.",
+          "zh": "那間咖啡館就在市政廳對面。",
+          "en": "The café is right opposite the town hall.",
+          "distractors": [
+            "seit",
+            "mit",
+            "aus"
+          ]
+        }
+      }
+    ]
+  },
+  "gehalt": {
+    "senses": [
+      {
+        "zh": "薪水；薪資",
+        "en": "salary",
+        "ex": {
+          "de": "Mein {Gehalt} kommt immer am letzten Tag des Monats.",
+          "zh": "我的薪水總是在月底最後一天入帳。",
+          "en": "My salary always arrives on the last day of the month.",
+          "distractors": [
+            "Dach",
+            "Zelt",
+            "Knie"
+          ]
+        }
+      }
+    ]
+  },
+  "geheimnis": {
+    "senses": [
+      {
+        "zh": "祕密",
+        "en": "secret",
+        "ex": {
+          "de": "Kannst du ein {Geheimnis} für dich behalten?",
+          "zh": "你能把一個祕密藏在心裡嗎？",
+          "en": "Can you keep a secret to yourself?",
+          "distractors": [
+            "Erdbeben",
+            "Gewitter",
+            "Hochhaus"
+          ]
+        }
+      }
+    ]
+  },
+  "geheim": {
+    "senses": [
+      {
+        "zh": "祕密的；保密的",
+        "en": "secret",
+        "ex": {
+          "de": "Mein Passwort muss {geheim} bleiben.",
+          "zh": "我的密碼必須保密。",
+          "en": "My password has to stay secret.",
+          "distractors": [
+            "kariert",
+            "durstig",
+            "sonnig"
+          ]
+        }
+      }
+    ]
+  },
+  "gehen": {
+    "senses": [
+      {
+        "zh": "走；去",
+        "en": "to go, walk",
+        "ex": {
+          "de": "Heute Abend möchte ich früh ins Bett {gehen}.",
+          "zh": "今晚我想早點上床睡覺。",
+          "en": "Tonight I want to go to bed early.",
+          "distractors": [
+            "essen",
+            "putzen",
+            "kaufen"
+          ]
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,902 @@
+{
+  "feststellen": {
+    "senses": [
+      {
+        "zh": "發現；確認",
+        "en": "to notice, determine",
+        "ex": {
+          "de": "Der Arzt konnte keine Krankheit {feststellen}.",
+          "zh": "醫生沒能發現任何疾病。",
+          "en": "The doctor could not find any illness.",
+          "distractors": [
+            "verpacken",
+            "waschen",
+            "zeichnen"
+          ]
+        }
+      }
+    ]
+  },
+  "fett": {
+    "senses": [
+      {
+        "zh": "油膩的；肥的",
+        "en": "greasy, fatty",
+        "ex": {
+          "de": "Pommes sind mir heute zu {fett}.",
+          "zh": "薯條今天對我來說太油了。",
+          "en": "Fries are too greasy for me today.",
+          "distractors": [
+            "leise",
+            "pünktlich",
+            "höflich"
+          ]
+        }
+      }
+    ]
+  },
+  "fett-2": {
+    "senses": [
+      {
+        "zh": "脂肪；油脂",
+        "en": "fat",
+        "ex": {
+          "de": "Beim Braten braucht man nur wenig {Fett}.",
+          "zh": "煎東西時只需要一點點油。",
+          "en": "When frying you only need a little fat.",
+          "distractors": [
+            "Fahrrad",
+            "Konto",
+            "Zimmer"
+          ]
+        }
+      }
+    ]
+  },
+  "feucht": {
+    "senses": [
+      {
+        "zh": "潮濕的",
+        "en": "damp, moist",
+        "ex": {
+          "de": "Im Bad bleiben die Handtücher lange {feucht}.",
+          "zh": "浴室裡的毛巾很久都乾不了。",
+          "en": "In the bathroom the towels stay damp for a long time.",
+          "distractors": [
+            "dreieckig",
+            "schwanger",
+            "ledig"
+          ]
+        }
+      }
+    ]
+  },
+  "feuer": {
+    "senses": [
+      {
+        "zh": "火；火焰",
+        "en": "fire",
+        "ex": {
+          "de": "Die Kinder machen am See ein kleines {Feuer}.",
+          "zh": "孩子們在湖邊生了一小堆火。",
+          "en": "The children make a small fire by the lake.",
+          "distractors": [
+            "Gepäck",
+            "Gemüse",
+            "Zeugnis"
+          ]
+        }
+      }
+    ]
+  },
+  "feuerzeug": {
+    "senses": [
+      {
+        "zh": "打火機",
+        "en": "lighter",
+        "ex": {
+          "de": "Hast du ein {Feuerzeug} für die Kerzen?",
+          "zh": "你有打火機可以點蠟燭嗎？",
+          "en": "Do you have a lighter for the candles?",
+          "distractors": [
+            "Lineal",
+            "Mikrofon",
+            "Wörterbuch"
+          ]
+        }
+      }
+    ]
+  },
+  "feuerwehr": {
+    "senses": [
+      {
+        "zh": "消防隊",
+        "en": "fire brigade",
+        "ex": {
+          "de": "Die {Feuerwehr} war in fünf Minuten am Haus.",
+          "zh": "消防隊五分鐘內就到了那棟房子。",
+          "en": "The fire brigade was at the house within five minutes.",
+          "distractors": [
+            "Brille",
+            "Tomate",
+            "Steuer"
+          ]
+        }
+      }
+    ]
+  },
+  "fieber": {
+    "senses": [
+      {
+        "zh": "發燒；體溫過高",
+        "en": "fever",
+        "ex": {
+          "de": "Der Junge hat seit gestern hohes {Fieber}.",
+          "zh": "那個男孩從昨天起一直發高燒。",
+          "en": "The boy has had a high fever since yesterday.",
+          "distractors": [
+            "Messer",
+            "Brot",
+            "Ei"
+          ]
+        }
+      }
+    ]
+  },
+  "figur": {
+    "senses": [
+      {
+        "zh": "人物；身材；雕像",
+        "en": "figure, character",
+        "ex": {
+          "de": "Die {Figur} des Königs ist aus Holz geschnitzt.",
+          "zh": "國王的雕像是用木頭刻成的。",
+          "en": "The figure of the king is carved from wood.",
+          "distractors": [
+            "Suppe",
+            "Rechnung",
+            "Grenze"
+          ]
+        }
+      }
+    ]
+  },
+  "film": {
+    "senses": [
+      {
+        "zh": "電影",
+        "en": "film, movie",
+        "ex": {
+          "de": "Nach dem Abendessen sehen wir einen lustigen {Film}.",
+          "zh": "晚餐後我們看一部好笑的電影。",
+          "en": "After dinner we watch a funny film.",
+          "distractors": [
+            "Kuchen",
+            "Brief",
+            "Hafen"
+          ]
+        }
+      }
+    ]
+  },
+  "finanzieren": {
+    "senses": [
+      {
+        "zh": "出資；資助",
+        "en": "to finance",
+        "ex": {
+          "de": "Seine Eltern wollen ihm das Studium {finanzieren}.",
+          "zh": "他的父母想出錢供他念大學。",
+          "en": "His parents want to finance his studies.",
+          "distractors": [
+            "reparieren",
+            "bestellen",
+            "übersetzen"
+          ]
+        }
+      }
+    ]
+  },
+  "finanziell": {
+    "senses": [
+      {
+        "zh": "財務上的；金錢上的",
+        "en": "financial",
+        "ex": {
+          "de": "Sie braucht {finanzielle} Hilfe für den Umzug.",
+          "zh": "她搬家需要經濟上的協助。",
+          "en": "She needs financial help for the move.",
+          "distractors": [
+            "kalte",
+            "grüne",
+            "laute"
+          ]
+        }
+      }
+    ]
+  },
+  "finden": {
+    "senses": [
+      {
+        "zh": "找到；覺得",
+        "en": "to find; to think",
+        "ex": {
+          "de": "Wo kann ich hier einen guten Arzt {finden}?",
+          "zh": "我在這裡哪裡可以找到好醫生？",
+          "en": "Where can I find a good doctor here?",
+          "distractors": [
+            "tragen",
+            "trinken",
+            "schreiben"
+          ]
+        }
+      }
+    ]
+  },
+  "finger": {
+    "senses": [
+      {
+        "zh": "手指",
+        "en": "finger",
+        "ex": {
+          "de": "Ich habe mir den {Finger} in der Tür geklemmt.",
+          "zh": "我的手指被門夾到了。",
+          "en": "I caught my finger in the door.",
+          "distractors": [
+            "Mittwoch",
+            "Salat",
+            "Wald"
+          ]
+        }
+      }
+    ]
+  },
+  "firma": {
+    "senses": [
+      {
+        "zh": "公司",
+        "en": "company, firm",
+        "ex": {
+          "de": "Meine Schwester arbeitet bei einer kleinen {Firma} in Graz.",
+          "zh": "我姊姊在格拉茨的一間小公司上班。",
+          "en": "My sister works at a small company in Graz.",
+          "distractors": [
+            "Birne",
+            "Tasche",
+            "Nudel"
+          ]
+        }
+      }
+    ]
+  },
+  "flach": {
+    "senses": [
+      {
+        "zh": "平坦的；扁平的",
+        "en": "flat",
+        "ex": {
+          "de": "Die Gegend hier ist sehr {flach}, ideal fürs Radfahren.",
+          "zh": "這一帶很平坦，很適合騎腳踏車。",
+          "en": "The area here is very flat, ideal for cycling.",
+          "distractors": [
+            "durstig",
+            "sauer",
+            "mutig"
+          ]
+        }
+      }
+    ]
+  },
+  "flaeche": {
+    "senses": [
+      {
+        "zh": "面積；平面",
+        "en": "area, surface",
+        "ex": {
+          "de": "Die {Fläche} des Gartens beträgt etwa hundert Quadratmeter.",
+          "zh": "花園的面積大約一百平方公尺。",
+          "en": "The area of the garden is about one hundred square metres.",
+          "distractors": [
+            "Lampe",
+            "Zeitung",
+            "Kurve"
+          ]
+        }
+      }
+    ]
+  },
+  "flasche": {
+    "senses": [
+      {
+        "zh": "瓶子",
+        "en": "bottle",
+        "ex": {
+          "de": "Bring bitte eine {Flasche} Wasser zur Party mit.",
+          "zh": "請帶一瓶水來參加派對。",
+          "en": "Please bring a bottle of water to the party.",
+          "distractors": [
+            "Brücke",
+            "Kirche",
+            "Wiese"
+          ]
+        }
+      }
+    ]
+  },
+  "fleck": {
+    "senses": [
+      {
+        "zh": "污漬；斑點",
+        "en": "stain, spot",
+        "ex": {
+          "de": "Auf meinem weißen Hemd ist ein roter {Fleck}.",
+          "zh": "我的白襯衫上有一塊紅色污漬。",
+          "en": "There is a red stain on my white shirt.",
+          "distractors": [
+            "Stuhl",
+            "Balkon",
+            "Kamm"
+          ]
+        }
+      }
+    ]
+  },
+  "fleisch": {
+    "senses": [
+      {
+        "zh": "肉",
+        "en": "meat",
+        "ex": {
+          "de": "Zum Mittagessen gibt es Kartoffeln und etwas {Fleisch}.",
+          "zh": "午餐有馬鈴薯和一點肉。",
+          "en": "For lunch there are potatoes and some meat.",
+          "distractors": [
+            "Papier",
+            "Benzin",
+            "Silber"
+          ]
+        }
+      }
+    ]
+  },
+  "fleischhauerin": {
+    "senses": [
+      {
+        "zh": "（女）肉販（奧地利，＝Metzgerin）",
+        "en": "butcher (female, Austria)",
+        "ex": {
+          "de": "Die {Fleischhauerin} schneidet mir zwei Scheiben Schinken ab.",
+          "zh": "肉販幫我切了兩片火腿。",
+          "en": "The butcher cuts me two slices of ham.",
+          "distractors": [
+            "Ärztin",
+            "Pilotin",
+            "Sängerin"
+          ]
+        }
+      }
+    ]
+  },
+  "fleissig": {
+    "senses": [
+      {
+        "zh": "勤奮的；用功的",
+        "en": "hard-working, diligent",
+        "ex": {
+          "de": "Mein Bruder lernt jeden Abend {fleißig} für die Prüfung.",
+          "zh": "我弟弟每天晚上都認真準備考試。",
+          "en": "My brother studies diligently for the exam every evening.",
+          "distractors": [
+            "kostenlos",
+            "blond",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "flexibel": {
+    "senses": [
+      {
+        "zh": "靈活的；有彈性的",
+        "en": "flexible",
+        "ex": {
+          "de": "Mit Gleitzeit kann ich meine Arbeitszeit {flexibel} planen.",
+          "zh": "有彈性上班制，我可以靈活安排工作時間。",
+          "en": "With flextime I can plan my working hours flexibly.",
+          "distractors": [
+            "giftig",
+            "schwarz",
+            "kaputt"
+          ]
+        }
+      }
+    ]
+  },
+  "fliegen": {
+    "senses": [
+      {
+        "zh": "飛；搭飛機",
+        "en": "to fly",
+        "ex": {
+          "de": "Im Sommer wollen wir nach Spanien {fliegen}.",
+          "zh": "夏天我們想搭飛機去西班牙。",
+          "en": "In summer we want to fly to Spain.",
+          "distractors": [
+            "wachsen",
+            "sinken",
+            "stolpern"
+          ]
+        }
+      }
+    ]
+  },
+  "fliehen": {
+    "senses": [
+      {
+        "zh": "逃跑；逃離",
+        "en": "to flee",
+        "ex": {
+          "de": "Bei dem Sturm mussten viele Leute aus dem Dorf {fliehen}.",
+          "zh": "暴風雨來時，村裡許多人必須逃離。",
+          "en": "In the storm many people had to flee from the village.",
+          "distractors": [
+            "einschlafen",
+            "aufwachen",
+            "erröten"
+          ]
+        }
+      }
+    ]
+  },
+  "flucht": {
+    "senses": [
+      {
+        "zh": "逃亡；逃跑",
+        "en": "flight, escape",
+        "ex": {
+          "de": "Die {Flucht} über die Grenze dauerte mehrere Tage.",
+          "zh": "越過邊界的逃亡持續了好幾天。",
+          "en": "The escape across the border lasted several days.",
+          "distractors": [
+            "Hitze",
+            "Brille",
+            "Fabrik"
+          ]
+        }
+      }
+    ]
+  },
+  "fliessen": {
+    "senses": [
+      {
+        "zh": "流動",
+        "en": "to flow",
+        "ex": {
+          "de": "Durch das Tal {fließt} ein klarer Bach.",
+          "zh": "一條清澈的小溪流過山谷。",
+          "en": "A clear stream flows through the valley.",
+          "distractors": [
+            "hustet",
+            "parkt",
+            "lächelt"
+          ]
+        }
+      }
+    ]
+  },
+  "fliessend": {
+    "senses": [
+      {
+        "zh": "流利的；流動的",
+        "en": "fluent; flowing",
+        "ex": {
+          "de": "Nach drei Jahren spricht sie {fließend} Deutsch.",
+          "zh": "三年後她說一口流利的德語。",
+          "en": "After three years she speaks fluent German.",
+          "distractors": [
+            "gelb",
+            "hungrig",
+            "mager"
+          ]
+        }
+      }
+    ]
+  },
+  "flohmarkt": {
+    "senses": [
+      {
+        "zh": "跳蚤市場",
+        "en": "flea market",
+        "ex": {
+          "de": "Am Sonntag verkaufe ich alte Bücher auf dem {Flohmarkt}.",
+          "zh": "星期天我要在跳蚤市場賣舊書。",
+          "en": "On Sunday I'm selling old books at the flea market.",
+          "distractors": [
+            "Teller",
+            "Mond",
+            "Montag"
+          ]
+        }
+      }
+    ]
+  },
+  "floete": {
+    "senses": [
+      {
+        "zh": "笛子；長笛",
+        "en": "flute",
+        "ex": {
+          "de": "Die {Flöte} klingt in der kleinen Kirche besonders schön.",
+          "zh": "笛聲在小教堂裡聽起來特別美。",
+          "en": "The flute sounds especially beautiful in the little church.",
+          "distractors": [
+            "Tasche",
+            "Wiese",
+            "Zahl"
+          ]
+        }
+      }
+    ]
+  },
+  "flug": {
+    "senses": [
+      {
+        "zh": "航班；飛行",
+        "en": "flight",
+        "ex": {
+          "de": "Der {Flug} nach Wien hatte zwei Stunden Verspätung.",
+          "zh": "飛往維也納的班機延誤了兩小時。",
+          "en": "The flight to Vienna was two hours late.",
+          "distractors": [
+            "Bart",
+            "Hund",
+            "Gürtel"
+          ]
+        }
+      }
+    ]
+  },
+  "flughafen": {
+    "senses": [
+      {
+        "zh": "機場",
+        "en": "airport",
+        "ex": {
+          "de": "Wir fahren mit der U-Bahn zum {Flughafen}.",
+          "zh": "我們搭地鐵去機場。",
+          "en": "We take the underground to the airport.",
+          "distractors": [
+            "Mond",
+            "Mantel",
+            "Regenschirm"
+          ]
+        }
+      }
+    ]
+  },
+  "flugzeug": {
+    "senses": [
+      {
+        "zh": "飛機",
+        "en": "aeroplane, plane",
+        "ex": {
+          "de": "Das {Flugzeug} landet pünktlich um halb acht.",
+          "zh": "飛機準時在七點半降落。",
+          "en": "The plane lands punctually at half past seven.",
+          "distractors": [
+            "Konto",
+            "Gemüse",
+            "Zimmer"
+          ]
+        }
+      }
+    ]
+  },
+  "flur": {
+    "senses": [
+      {
+        "zh": "走廊；玄關",
+        "en": "hallway",
+        "ex": {
+          "de": "Im {Flur} hängen viele Fotos von unserer Familie.",
+          "zh": "走廊上掛了很多我們家人的照片。",
+          "en": "Many photos of our family hang in the hallway.",
+          "distractors": [
+            "Kuchen",
+            "Bart",
+            "Tee"
+          ]
+        }
+      }
+    ]
+  },
+  "fluss": {
+    "senses": [
+      {
+        "zh": "河；河流",
+        "en": "river",
+        "ex": {
+          "de": "Im Sommer baden die Kinder gern im {Fluss}.",
+          "zh": "夏天孩子們喜歡在河裡游泳。",
+          "en": "In summer the children like to swim in the river.",
+          "distractors": [
+            "Wald",
+            "Keller",
+            "Mantel"
+          ]
+        }
+      }
+    ]
+  },
+  "folgen": {
+    "senses": [
+      {
+        "zh": "跟隨；接著",
+        "en": "to follow",
+        "ex": {
+          "de": "Das Kind ist der Mutter durch den Park {gefolgt}.",
+          "zh": "那個孩子跟著媽媽穿過公園。",
+          "en": "The child followed its mother through the park.",
+          "distractors": [
+            "gestorben",
+            "gelandet",
+            "eingeschlafen"
+          ]
+        }
+      }
+    ]
+  },
+  "folge": {
+    "senses": [
+      {
+        "zh": "（影集的）一集；後果",
+        "en": "episode; consequence",
+        "ex": {
+          "de": "Die nächste {Folge} der Serie läuft morgen Abend.",
+          "zh": "這部影集的下一集明天晚上播出。",
+          "en": "The next episode of the series airs tomorrow evening.",
+          "distractors": [
+            "Birne",
+            "Treppe",
+            "Matratze"
+          ]
+        }
+      }
+    ]
+  },
+  "folgend": {
+    "senses": [
+      {
+        "zh": "接下來的；以下的",
+        "en": "following",
+        "ex": {
+          "de": "Bitte beachten Sie die {folgenden} Regeln im Schwimmbad.",
+          "zh": "請注意游泳池的以下規則。",
+          "en": "Please observe the following rules at the pool.",
+          "distractors": [
+            "warmen",
+            "gelben",
+            "hungrigen"
+          ]
+        }
+      }
+    ]
+  },
+  "fordern": {
+    "senses": [
+      {
+        "zh": "要求",
+        "en": "to demand",
+        "ex": {
+          "de": "Die Arbeiter {fordern} schon lange mehr Lohn.",
+          "zh": "工人們早就在要求更高的薪水。",
+          "en": "The workers have long been demanding higher pay.",
+          "distractors": [
+            "schlafen",
+            "husten",
+            "wandern"
+          ]
+        }
+      }
+    ]
+  },
+  "forderung": {
+    "senses": [
+      {
+        "zh": "要求；訴求",
+        "en": "demand",
+        "ex": {
+          "de": "Die {Forderung} der Mieter wurde endlich erfüllt.",
+          "zh": "房客們的訴求終於被滿足了。",
+          "en": "The tenants' demand was finally met.",
+          "distractors": [
+            "Zwiebel",
+            "Kreuzung",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "foerdern": {
+    "senses": [
+      {
+        "zh": "促進；扶持",
+        "en": "to support, promote",
+        "ex": {
+          "de": "Die Stadt will junge Musiker mit Geld {fördern}.",
+          "zh": "市政府想用資金扶持年輕音樂家。",
+          "en": "The city wants to support young musicians with money.",
+          "distractors": [
+            "fotografieren",
+            "verkleiden",
+            "kitzeln"
+          ]
+        }
+      }
+    ]
+  },
+  "foerderung": {
+    "senses": [
+      {
+        "zh": "補助；扶持",
+        "en": "funding, support",
+        "ex": {
+          "de": "Für das Projekt gibt es eine staatliche {Förderung}.",
+          "zh": "這個計畫有政府的補助。",
+          "en": "The project receives state funding.",
+          "distractors": [
+            "Torte",
+            "Mütze",
+            "Hitze"
+          ]
+        }
+      }
+    ]
+  },
+  "form": {
+    "senses": [
+      {
+        "zh": "形狀；形式",
+        "en": "shape, form",
+        "ex": {
+          "de": "Der Kuchen hat die {Form} eines Herzens.",
+          "zh": "這個蛋糕做成心的形狀。",
+          "en": "The cake has the shape of a heart.",
+          "distractors": [
+            "Rechnung",
+            "Kreide",
+            "Sendung"
+          ]
+        }
+      }
+    ]
+  },
+  "formular": {
+    "senses": [
+      {
+        "zh": "表格",
+        "en": "form",
+        "ex": {
+          "de": "Auf dem {Formular} fehlt noch deine Unterschrift.",
+          "zh": "這張表格上還缺你的簽名。",
+          "en": "Your signature is still missing on the form.",
+          "distractors": [
+            "Fahrrad",
+            "Spielzeug",
+            "Gemüse"
+          ]
+        }
+      }
+    ]
+  },
+  "forschung": {
+    "senses": [
+      {
+        "zh": "研究；科學研究",
+        "en": "research",
+        "ex": {
+          "de": "Die {Forschung} an neuen Medikamenten kostet viel Geld.",
+          "zh": "新藥的研究需要花很多錢。",
+          "en": "Research on new medicines costs a lot of money.",
+          "distractors": [
+            "Dusche",
+            "Schokolade",
+            "Landkarte"
+          ]
+        }
+      }
+    ]
+  },
+  "fortbildung": {
+    "senses": [
+      {
+        "zh": "進修；在職訓練",
+        "en": "further training",
+        "ex": {
+          "de": "Meine Chefin schickt mich im Herbst zu einer {Fortbildung}.",
+          "zh": "我的主管秋天要派我去參加進修課程。",
+          "en": "My boss is sending me on a training course in autumn.",
+          "distractors": [
+            "Zahnpasta",
+            "Kartoffel",
+            "Nachbarin"
+          ]
+        }
+      }
+    ]
+  },
+  "fortschritt": {
+    "senses": [
+      {
+        "zh": "進步；進展",
+        "en": "progress",
+        "ex": {
+          "de": "Im Deutschkurs macht Lena jede Woche einen kleinen {Fortschritt}.",
+          "zh": "在德語課上，蕾娜每週都有一點進步。",
+          "en": "In the German course Lena makes a little progress every week.",
+          "distractors": [
+            "Schuh",
+            "Balkon",
+            "Pilz"
+          ]
+        }
+      }
+    ]
+  },
+  "fortsetzen": {
+    "senses": [
+      {
+        "zh": "繼續；接續",
+        "en": "to continue",
+        "ex": {
+          "de": "Nach der Pause wollen wir das Gespräch {fortsetzen}.",
+          "zh": "休息過後我們想繼續這場談話。",
+          "en": "After the break we want to continue the conversation.",
+          "distractors": [
+            "rasieren",
+            "verpacken",
+            "gießen"
+          ]
+        }
+      }
+    ]
+  },
+  "fortsetzung": {
+    "senses": [
+      {
+        "zh": "續集；後續",
+        "en": "sequel, continuation",
+        "ex": {
+          "de": "Hast du die {Fortsetzung} von diesem Roman schon gelesen?",
+          "zh": "你讀過這本小說的續集了嗎？",
+          "en": "Have you read the sequel to this novel yet?",
+          "distractors": [
+            "Matratze",
+            "Suppe",
+            "Jacke"
+          ]
+        }
+      }
+    ]
+  },
+  "forum": {
+    "senses": [
+      {
+        "zh": "論壇",
+        "en": "forum",
+        "ex": {
+          "de": "Im {Forum} stellen Nutzer Fragen zum Programm.",
+          "zh": "使用者在論壇上提出關於這個程式的問題。",
+          "en": "In the forum users ask questions about the program.",
+          "distractors": [
+            "Gepäck",
+            "Auge",
+            "Ei"
+          ]
+        }
+      }
+    ]
+  }
+}

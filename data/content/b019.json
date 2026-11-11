@@ -1,0 +1,916 @@
+{
+  "fahrbahn": {
+    "senses": [
+      {
+        "zh": "車道；行車道",
+        "en": "roadway",
+        "ex": {
+          "de": "Auf der {Fahrbahn} liegt nach dem Sturm viel Laub.",
+          "zh": "暴風雨過後，車道上有很多落葉。",
+          "en": "After the storm there are lots of leaves on the roadway.",
+          "distractors": [
+            "Banane",
+            "Brille",
+            "Kamera"
+          ]
+        }
+      }
+    ]
+  },
+  "fahrer": {
+    "senses": [
+      {
+        "zh": "駕駛；司機",
+        "en": "driver",
+        "ex": {
+          "de": "Der {Fahrer} hat uns freundlich zum Hotel gebracht.",
+          "zh": "司機親切地把我們載到飯店。",
+          "en": "The driver kindly took us to the hotel.",
+          "distractors": [
+            "Löffel",
+            "Schnee",
+            "Kuchen"
+          ]
+        }
+      }
+    ]
+  },
+  "fahrkarte": {
+    "senses": [
+      {
+        "zh": "車票",
+        "en": "ticket",
+        "ex": {
+          "de": "Ohne gültige {Fahrkarte} darfst du hier nicht einsteigen.",
+          "zh": "沒有有效車票，你不能在這裡上車。",
+          "en": "Without a valid ticket you may not board here.",
+          "distractors": [
+            "Zwiebel",
+            "Gardine",
+            "Seife"
+          ]
+        }
+      }
+    ]
+  },
+  "fahrplan": {
+    "senses": [
+      {
+        "zh": "時刻表",
+        "en": "timetable",
+        "ex": {
+          "de": "Im {Fahrplan} steht, dass der letzte Bus um elf fährt.",
+          "zh": "時刻表上寫著最後一班公車十一點開。",
+          "en": "The timetable says the last bus leaves at eleven.",
+          "distractors": [
+            "Rucksack",
+            "Salat",
+            "Käse"
+          ]
+        }
+      }
+    ]
+  },
+  "fahrrad": {
+    "senses": [
+      {
+        "zh": "腳踏車",
+        "en": "bicycle",
+        "ex": {
+          "de": "Mein {Fahrrad} steht im Keller, weil es draußen regnet.",
+          "zh": "外面在下雨，所以我的腳踏車放在地下室。",
+          "en": "My bike is in the cellar because it is raining outside.",
+          "distractors": [
+            "Fenster",
+            "Hemd",
+            "Brötchen"
+          ]
+        }
+      }
+    ]
+  },
+  "fahrzeug": {
+    "senses": [
+      {
+        "zh": "車輛；交通工具",
+        "en": "vehicle",
+        "ex": {
+          "de": "Dieses {Fahrzeug} ist zu groß für unsere kleine Garage.",
+          "zh": "這輛車對我們的小車庫來說太大了。",
+          "en": "This vehicle is too big for our small garage.",
+          "distractors": [
+            "Obst",
+            "Gemüse",
+            "Gewitter"
+          ]
+        }
+      }
+    ]
+  },
+  "fair": {
+    "senses": [
+      {
+        "zh": "公平的；光明正大的",
+        "en": "fair",
+        "ex": {
+          "de": "Das war nicht {fair}, du hast den Ball mit der Hand genommen.",
+          "zh": "那不公平，你用手拿了球。",
+          "en": "That was not fair; you took the ball with your hand.",
+          "distractors": [
+            "salzig",
+            "blond",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "faktor": {
+    "senses": [
+      {
+        "zh": "因素；要素",
+        "en": "factor",
+        "ex": {
+          "de": "Das Wetter ist ein wichtiger {Faktor} bei unserer Reiseplanung.",
+          "zh": "天氣是我們規劃旅行時的重要因素。",
+          "en": "The weather is an important factor in our travel planning.",
+          "distractors": [
+            "Pinsel",
+            "Bahnhof",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "fall": {
+    "senses": [
+      {
+        "zh": "情況；案件；場合",
+        "en": "case",
+        "ex": {
+          "de": "Im {Fall} eines Feuers müsst ihr das Haus sofort verlassen.",
+          "zh": "萬一發生火災，你們必須立刻離開房子。",
+          "en": "In case of fire you must leave the house immediately.",
+          "distractors": [
+            "Garten",
+            "Keller",
+            "Ofen"
+          ]
+        }
+      }
+    ]
+  },
+  "fallen": {
+    "senses": [
+      {
+        "zh": "掉落；跌倒",
+        "en": "to fall",
+        "ex": {
+          "de": "Im Herbst {fallen} die Blätter von den Bäumen.",
+          "zh": "秋天樹葉從樹上掉下來。",
+          "en": "In autumn the leaves fall from the trees.",
+          "distractors": [
+            "schlafen",
+            "lachen",
+            "schreiben"
+          ]
+        }
+      }
+    ]
+  },
+  "faellig": {
+    "senses": [
+      {
+        "zh": "到期的；應繳的",
+        "en": "due",
+        "ex": {
+          "de": "Die Miete ist morgen {fällig}, vergiss die Überweisung nicht!",
+          "zh": "房租明天到期，別忘了匯款！",
+          "en": "The rent is due tomorrow, don't forget the transfer!",
+          "distractors": [
+            "grün",
+            "höflich",
+            "mutig"
+          ]
+        }
+      }
+    ]
+  },
+  "falls": {
+    "senses": [
+      {
+        "zh": "如果；萬一",
+        "en": "in case, if",
+        "ex": {
+          "de": "Nimm einen Schirm mit, {falls} es später regnet.",
+          "zh": "帶把傘吧，萬一待會下雨。",
+          "en": "Take an umbrella in case it rains later.",
+          "distractors": [
+            "obwohl",
+            "ob",
+            "damit"
+          ]
+        }
+      }
+    ]
+  },
+  "falsch": {
+    "senses": [
+      {
+        "zh": "錯誤的；不對的",
+        "en": "wrong",
+        "ex": {
+          "de": "Dein Ergebnis ist {falsch}, du musst noch einmal rechnen.",
+          "zh": "你的結果是錯的，必須再算一次。",
+          "en": "Your result is wrong; you have to calculate again.",
+          "distractors": [
+            "kalt",
+            "nass",
+            "hungrig"
+          ]
+        }
+      }
+    ]
+  },
+  "familie": {
+    "senses": [
+      {
+        "zh": "家庭；家人",
+        "en": "family",
+        "ex": {
+          "de": "Meine {Familie} wohnt in Taipeh, und ich rufe sie jeden Sonntag an.",
+          "zh": "我的家人住在台北，我每個星期天都打電話給他們。",
+          "en": "My family lives in Taipei, and I call them every Sunday.",
+          "distractors": [
+            "Zeitung",
+            "Brücke",
+            "Zitrone"
+          ]
+        }
+      }
+    ]
+  },
+  "familienstand-personenstand-ch-zivilstand": {
+    "senses": [
+      {
+        "zh": "婚姻狀況；身分狀態",
+        "en": "marital status",
+        "ex": {
+          "de": "Auf dem Formular muss ich meinen {Familienstand} angeben.",
+          "zh": "我必須在表格上填寫我的婚姻狀況。",
+          "en": "On the form I have to state my marital status.",
+          "distractors": [
+            "Handschuh",
+            "Joghurt",
+            "Fußboden"
+          ]
+        }
+      }
+    ]
+  },
+  "fangen": {
+    "senses": [
+      {
+        "zh": "抓住；接住",
+        "en": "to catch",
+        "ex": {
+          "de": "Der Hund kann den Ball in der Luft {fangen}.",
+          "zh": "那隻狗能在空中接住球。",
+          "en": "The dog can catch the ball in the air.",
+          "distractors": [
+            "singen",
+            "bauen",
+            "öffnen"
+          ]
+        }
+      }
+    ]
+  },
+  "fantasie-phantasie": {
+    "senses": [
+      {
+        "zh": "想像力；幻想",
+        "en": "imagination",
+        "ex": {
+          "de": "Kinder haben oft eine sehr lebhafte {Fantasie}.",
+          "zh": "小孩通常有非常活躍的想像力。",
+          "en": "Children often have a very vivid imagination.",
+          "distractors": [
+            "Spülmaschine",
+            "Nudel",
+            "Ampel"
+          ]
+        }
+      }
+    ]
+  },
+  "fantastisch": {
+    "senses": [
+      {
+        "zh": "太棒的；極好的",
+        "en": "fantastic",
+        "ex": {
+          "de": "Das Konzert gestern Abend war wirklich {fantastisch}.",
+          "zh": "昨晚的演唱會真的太棒了。",
+          "en": "The concert last night was really fantastic.",
+          "distractors": [
+            "rechteckig",
+            "schwanger",
+            "hungrig"
+          ]
+        }
+      }
+    ]
+  },
+  "farbe": {
+    "senses": [
+      {
+        "zh": "顏色；油漆",
+        "en": "colour",
+        "ex": {
+          "de": "Welche {Farbe} soll die Wand im Schlafzimmer bekommen?",
+          "zh": "臥室的牆要漆成什麼顏色？",
+          "en": "Which colour should the wall in the bedroom get?",
+          "distractors": [
+            "Hose",
+            "Suppe",
+            "Banane"
+          ]
+        }
+      }
+    ]
+  },
+  "farbig": {
+    "senses": [
+      {
+        "zh": "彩色的；有顏色的",
+        "en": "coloured",
+        "ex": {
+          "de": "Auf dem Markt gibt es viele {farbige} Tücher aus Indien.",
+          "zh": "市場上有很多來自印度的彩色絲巾。",
+          "en": "At the market there are many coloured scarves from India.",
+          "distractors": [
+            "verheiratete",
+            "gesalzene",
+            "hungrige"
+          ]
+        }
+      }
+    ]
+  },
+  "faschierte": {
+    "senses": [
+      {
+        "zh": "絞肉（奧地利用語）",
+        "en": "minced meat (Austrian)",
+        "ex": {
+          "de": "Das {Faschierte} für die Soße ist leider schon schlecht geworden.",
+          "zh": "做醬汁用的絞肉可惜已經壞了。",
+          "en": "The minced meat for the sauce has unfortunately gone bad.",
+          "distractors": [
+            "Fenster",
+            "Klavier",
+            "Handy"
+          ]
+        }
+      }
+    ]
+  },
+  "fasnacht": {
+    "senses": [
+      {
+        "zh": "（瑞士）狂歡節",
+        "en": "carnival (Swiss)",
+        "ex": {
+          "de": "In Basel beginnt die {Fasnacht} früh am Morgen mit Trommeln.",
+          "zh": "在巴塞爾，狂歡節一大早就以擊鼓開始。",
+          "en": "In Basel the carnival starts early in the morning with drums.",
+          "distractors": [
+            "Wäsche",
+            "Bluse",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "fassen": {
+    "senses": [
+      {
+        "zh": "容納；抓住",
+        "en": "to hold; to grab",
+        "ex": {
+          "de": "Der Saal kann etwa zweihundert Personen {fassen}.",
+          "zh": "這個大廳大約能容納兩百人。",
+          "en": "The hall can hold about two hundred people.",
+          "distractors": [
+            "rasieren",
+            "vergessen",
+            "zeichnen"
+          ]
+        }
+      },
+      {
+        "zh": "抓住；逮住",
+        "en": "to grab, seize",
+        "ex": {
+          "de": "Der Polizist wollte den Dieb am Arm {fassen}.",
+          "zh": "警察想抓住小偷的手臂。",
+          "en": "The policeman wanted to grab the thief by the arm.",
+          "distractors": [
+            "kochen",
+            "mieten",
+            "lesen"
+          ]
+        }
+      }
+    ]
+  },
+  "fast": {
+    "senses": [
+      {
+        "zh": "幾乎；差不多",
+        "en": "almost",
+        "ex": {
+          "de": "Es ist {fast} Mitternacht, und ich bin sehr müde.",
+          "zh": "快午夜了，我很累。",
+          "en": "It is almost midnight, and I am very tired.",
+          "distractors": [
+            "gestern",
+            "links",
+            "oben"
+          ]
+        }
+      }
+    ]
+  },
+  "faul": {
+    "senses": [
+      {
+        "zh": "懶惰的；腐壞的",
+        "en": "lazy",
+        "ex": {
+          "de": "Mein Bruder ist so {faul}, dass er nie sein Bett macht.",
+          "zh": "我弟弟懶到從不整理床鋪。",
+          "en": "My brother is so lazy that he never makes his bed.",
+          "distractors": [
+            "blau",
+            "rund",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "faulenzen": {
+    "senses": [
+      {
+        "zh": "偷懶；無所事事",
+        "en": "to laze around",
+        "ex": {
+          "de": "Am Sonntag möchte ich nur auf dem Sofa {faulenzen}.",
+          "zh": "星期天我只想窩在沙發上偷懶。",
+          "en": "On Sunday I just want to laze around on the sofa.",
+          "distractors": [
+            "schwimmen",
+            "joggen",
+            "tauchen"
+          ]
+        }
+      }
+    ]
+  },
+  "fauteuil": {
+    "senses": [
+      {
+        "zh": "扶手椅（奧、瑞用語）",
+        "en": "armchair",
+        "ex": {
+          "de": "Opa schläft nach dem Essen immer im {Fauteuil} ein.",
+          "zh": "爺爺飯後總是在扶手椅上睡著。",
+          "en": "Grandpa always falls asleep in the armchair after eating.",
+          "distractors": [
+            "Kühlschrank",
+            "Backofen",
+            "Briefkasten"
+          ]
+        }
+      }
+    ]
+  },
+  "fehlen": {
+    "senses": [
+      {
+        "zh": "缺少；缺席",
+        "en": "to be missing, absent",
+        "ex": {
+          "de": "Heute {fehlt} unser Lehrer, er ist krank.",
+          "zh": "今天我們的老師沒來，他生病了。",
+          "en": "Our teacher is absent today; he is ill.",
+          "distractors": [
+            "singt",
+            "reist",
+            "tanzt"
+          ]
+        }
+      }
+    ]
+  },
+  "fehler": {
+    "senses": [
+      {
+        "zh": "錯誤；缺點",
+        "en": "mistake",
+        "ex": {
+          "de": "Im Diktat habe ich nur einen einzigen {Fehler} gemacht.",
+          "zh": "聽寫中我只錯了一個地方。",
+          "en": "In the dictation I made only a single mistake.",
+          "distractors": [
+            "Regen",
+            "Zahn",
+            "Stern"
+          ]
+        }
+      }
+    ]
+  },
+  "feiern": {
+    "senses": [
+      {
+        "zh": "慶祝；舉辦慶祝活動",
+        "en": "to celebrate",
+        "ex": {
+          "de": "Wir wollen morgen Abend Julias Geburtstag {feiern}.",
+          "zh": "我們明天晚上想幫茱莉亞慶生。",
+          "en": "Tomorrow evening we want to celebrate Julia's birthday.",
+          "distractors": [
+            "reparieren",
+            "waschen",
+            "rasieren"
+          ]
+        }
+      }
+    ]
+  },
+  "feier": {
+    "senses": [
+      {
+        "zh": "慶祝會；派對",
+        "en": "celebration, party",
+        "ex": {
+          "de": "Die {Feier} im Garten hat bis Mitternacht gedauert.",
+          "zh": "花園裡的慶祝會持續到午夜。",
+          "en": "The party in the garden lasted until midnight.",
+          "distractors": [
+            "Tomate",
+            "Mütze",
+            "Brücke"
+          ]
+        }
+      }
+    ]
+  },
+  "feierabend": {
+    "senses": [
+      {
+        "zh": "下班時間；收工",
+        "en": "end of the working day",
+        "ex": {
+          "de": "Nach dem {Feierabend} gehe ich oft noch kurz ins Fitnessstudio.",
+          "zh": "下班後我常常還會去一下健身房。",
+          "en": "After work I often still go to the gym briefly.",
+          "distractors": [
+            "Regenschirm",
+            "Gartenzaun",
+            "Kugelschreiber"
+          ]
+        }
+      }
+    ]
+  },
+  "feiertag": {
+    "senses": [
+      {
+        "zh": "國定假日",
+        "en": "public holiday",
+        "ex": {
+          "de": "Am nächsten {Feiertag} fahren wir mit dem Zug ans Meer.",
+          "zh": "下一個國定假日我們搭火車去海邊。",
+          "en": "On the next public holiday we are taking the train to the sea.",
+          "distractors": [
+            "Löffel",
+            "Pfannkuchen",
+            "Bleistift"
+          ]
+        }
+      }
+    ]
+  },
+  "feld": {
+    "senses": [
+      {
+        "zh": "田野；欄位",
+        "en": "field",
+        "ex": {
+          "de": "Der Bauer arbeitet den ganzen Tag auf dem {Feld}.",
+          "zh": "農夫整天都在田裡工作。",
+          "en": "The farmer works in the field all day.",
+          "distractors": [
+            "Gemüse",
+            "Frühstück",
+            "Bonbon"
+          ]
+        }
+      }
+    ]
+  },
+  "fenster": {
+    "senses": [
+      {
+        "zh": "窗戶",
+        "en": "window",
+        "ex": {
+          "de": "Bitte mach das {Fenster} zu, es zieht sehr.",
+          "zh": "請把窗戶關上，風吹得很厲害。",
+          "en": "Please close the window, there is a strong draught.",
+          "distractors": [
+            "Ei",
+            "Handtuch",
+            "Hemd"
+          ]
+        }
+      }
+    ]
+  },
+  "ferien": {
+    "senses": [
+      {
+        "zh": "假期（瑞士用語）",
+        "en": "holidays",
+        "ex": {
+          "de": "Die {Ferien} im Sommer verbringen wir immer am See.",
+          "zh": "夏天的假期我們總是在湖邊度過。",
+          "en": "We always spend the summer holidays by the lake.",
+          "distractors": [
+            "Hosen",
+            "Zwiebeln",
+            "Suppen"
+          ]
+        }
+      }
+    ]
+  },
+  "ferien-2": {
+    "senses": [
+      {
+        "zh": "假期的（複合詞前綴）",
+        "en": "holiday (prefix)",
+        "ex": {
+          "de": "Wir haben ein kleines {Ferien}haus in den Bergen gekauft.",
+          "zh": "我們在山裡買了一間小小的度假屋。",
+          "en": "We bought a small holiday home in the mountains.",
+          "distractors": [
+            "Zwiebel",
+            "Socken",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "fernbedienung": {
+    "senses": [
+      {
+        "zh": "遙控器",
+        "en": "remote control",
+        "ex": {
+          "de": "Ich suche überall die {Fernbedienung}, damit ich den Kanal wechseln kann.",
+          "zh": "我到處找遙控器，好換頻道。",
+          "en": "I am looking everywhere for the remote so I can change the channel.",
+          "distractors": [
+            "Bürste",
+            "Münze",
+            "Kartoffel"
+          ]
+        }
+      }
+    ]
+  },
+  "fernsehen": {
+    "senses": [
+      {
+        "zh": "看電視",
+        "en": "to watch TV",
+        "ex": {
+          "de": "Mein kleiner Neffe darf nach dem Abendessen noch {fernsehen}.",
+          "zh": "我的小外甥吃完晚飯後還可以看電視。",
+          "en": "My little nephew may still watch TV after dinner.",
+          "distractors": [
+            "heiraten",
+            "verreisen",
+            "umziehen"
+          ]
+        }
+      }
+    ]
+  },
+  "fernsehen-2": {
+    "senses": [
+      {
+        "zh": "電視；電視節目",
+        "en": "television",
+        "ex": {
+          "de": "Im {Fernsehen} läuft heute Abend ein spannender Krimi.",
+          "zh": "今晚電視上播一部緊張刺激的推理劇。",
+          "en": "Tonight a thrilling crime drama is on television.",
+          "distractors": [
+            "Mehl",
+            "Brot",
+            "Salz"
+          ]
+        }
+      }
+    ]
+  },
+  "fernseher": {
+    "senses": [
+      {
+        "zh": "電視機",
+        "en": "television set",
+        "ex": {
+          "de": "Unser {Fernseher} ist schon zehn Jahre alt, aber er funktioniert noch.",
+          "zh": "我們的電視已經十年了，但還能用。",
+          "en": "Our TV is already ten years old, but it still works.",
+          "distractors": [
+            "Kürbis",
+            "Pilz",
+            "Zaun"
+          ]
+        }
+      }
+    ]
+  },
+  "fertig": {
+    "senses": [
+      {
+        "zh": "完成的；準備好的",
+        "en": "finished, ready",
+        "ex": {
+          "de": "Warte kurz, ich bin gleich {fertig} und dann gehen wir.",
+          "zh": "等一下，我馬上好，然後我們就走。",
+          "en": "Wait a moment, I will be ready soon and then we go.",
+          "distractors": [
+            "quadratisch",
+            "rosa",
+            "glatt"
+          ]
+        }
+      }
+    ]
+  },
+  "fest": {
+    "senses": [
+      {
+        "zh": "牢固地；緊緊地",
+        "en": "firmly",
+        "ex": {
+          "de": "Zieh die Schrauben bitte {fest} an, sonst wackelt der Stuhl.",
+          "zh": "請把螺絲鎖緊，不然椅子會搖晃。",
+          "en": "Please tighten the screws firmly, otherwise the chair wobbles.",
+          "distractors": [
+            "gestern",
+            "selten",
+            "nirgends"
+          ]
+        }
+      }
+    ]
+  },
+  "fest-2": {
+    "senses": [
+      {
+        "zh": "節慶；慶典",
+        "en": "festival, celebration",
+        "ex": {
+          "de": "Das {Fest} in unserem Dorf ist jedes Jahr im August.",
+          "zh": "我們村裡的慶典每年都在八月。",
+          "en": "The festival in our village is every year in August.",
+          "distractors": [
+            "Papier",
+            "Öl",
+            "Gold"
+          ]
+        }
+      }
+    ]
+  },
+  "festplatte": {
+    "senses": [
+      {
+        "zh": "硬碟",
+        "en": "hard drive",
+        "ex": {
+          "de": "Meine {Festplatte} ist voll, ich muss Fotos löschen.",
+          "zh": "我的硬碟滿了，我得刪掉一些照片。",
+          "en": "My hard drive is full; I have to delete photos.",
+          "distractors": [
+            "Tasse",
+            "Badewanne",
+            "Flasche"
+          ]
+        }
+      }
+    ]
+  },
+  "festhalten": {
+    "senses": [
+      {
+        "zh": "抓緊；抓住不放",
+        "en": "to hold on",
+        "ex": {
+          "de": "Im Bus musst du dich gut {festhalten}, wenn er bremst.",
+          "zh": "公車煞車時你要抓緊扶好。",
+          "en": "On the bus you must hold on tight when it brakes.",
+          "distractors": [
+            "rasieren",
+            "bedanken",
+            "entschuldigen"
+          ]
+        }
+      }
+    ]
+  },
+  "festlegen": {
+    "senses": [
+      {
+        "zh": "訂定；確定",
+        "en": "to fix, set",
+        "ex": {
+          "de": "Wir müssen noch einen Termin für das Treffen {festlegen}.",
+          "zh": "我們還得為這次聚會訂個時間。",
+          "en": "We still have to set a date for the meeting.",
+          "distractors": [
+            "waschen",
+            "essen",
+            "tragen"
+          ]
+        }
+      }
+    ]
+  },
+  "festnehmen-nimmt-fest": {
+    "senses": [
+      {
+        "zh": "逮捕；拘留",
+        "en": "to arrest",
+        "ex": {
+          "de": "Die Polizei konnte den Mann noch am selben Abend {festnehmen}.",
+          "zh": "警方當天晚上就逮捕了那名男子。",
+          "en": "The police were able to arrest the man the same evening.",
+          "distractors": [
+            "übersetzen",
+            "pflanzen",
+            "streichen"
+          ]
+        }
+      }
+    ]
+  },
+  "festsetzen": {
+    "senses": [
+      {
+        "zh": "訂定；規定",
+        "en": "to set, determine",
+        "ex": {
+          "de": "Der Vermieter wird die neue Miete im Mai {festsetzen}.",
+          "zh": "房東會在五月訂定新的房租。",
+          "en": "The landlord will set the new rent in May.",
+          "distractors": [
+            "pflücken",
+            "reiten",
+            "impfen"
+          ]
+        }
+      }
+    ]
+  },
+  "feststehen": {
+    "senses": [
+      {
+        "zh": "確定；已定",
+        "en": "to be certain, settled",
+        "ex": {
+          "de": "Ich freue mich, dass der Termin endlich {feststeht}.",
+          "zh": "我很高興日期終於確定了。",
+          "en": "I am glad that the date is finally settled.",
+          "distractors": [
+            "schmeckt",
+            "schwimmt",
+            "blüht"
+          ]
+        }
+      }
+    ]
+  }
+}

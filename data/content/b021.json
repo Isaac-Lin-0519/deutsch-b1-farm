@@ -1,0 +1,902 @@
+{
+  "x": {
+    "senses": [
+      {
+        "zh": "(網路)論壇",
+        "en": "(Internet) forum",
+        "ex": {
+          "de": "Im {Internetforum} schreiben viele Leute über ihre Reisen.",
+          "zh": "在網路論壇裡，很多人分享自己的旅行。",
+          "en": "In the internet forum, many people write about their trips.",
+          "distractors": [
+            "Erdgeschoss",
+            "Schwimmbad",
+            "Fenster"
+          ]
+        }
+      }
+    ]
+  },
+  "fotografieren": {
+    "senses": [
+      {
+        "zh": "拍照；攝影",
+        "en": "to photograph",
+        "ex": {
+          "de": "Mein Onkel will morgen unsere ganze Familie {fotografieren}.",
+          "zh": "我叔叔明天想幫我們全家拍照。",
+          "en": "My uncle wants to photograph our whole family tomorrow.",
+          "distractors": [
+            "reparieren",
+            "tapezieren",
+            "übersetzen"
+          ]
+        }
+      }
+    ]
+  },
+  "foto": {
+    "senses": [
+      {
+        "zh": "照片",
+        "en": "photo",
+        "ex": {
+          "de": "Auf diesem {Foto} sieht meine Oma noch ganz jung aus.",
+          "zh": "在這張照片裡，我奶奶看起來還很年輕。",
+          "en": "In this photo my grandma still looks very young.",
+          "distractors": [
+            "Regal",
+            "Fenster",
+            "Hotel"
+          ]
+        }
+      }
+    ]
+  },
+  "fotoapparat": {
+    "senses": [
+      {
+        "zh": "照相機",
+        "en": "camera",
+        "ex": {
+          "de": "Mit dem neuen {Fotoapparat} mache ich scharfe Bilder.",
+          "zh": "我用這台新相機拍出清晰的照片。",
+          "en": "With the new camera I take sharp pictures.",
+          "distractors": [
+            "Löffel",
+            "Hammer",
+            "Bus"
+          ]
+        }
+      }
+    ]
+  },
+  "fotograf": {
+    "senses": [
+      {
+        "zh": "攝影師",
+        "en": "photographer",
+        "ex": {
+          "de": "Der {Fotograf} bittet alle Gäste, näher zusammenzurücken.",
+          "zh": "攝影師請所有客人靠近一點。",
+          "en": "The photographer asks all the guests to move closer together.",
+          "distractors": [
+            "Regen",
+            "Teller",
+            "Zaun"
+          ]
+        }
+      }
+    ]
+  },
+  "fotografie": {
+    "senses": [
+      {
+        "zh": "照片；攝影（藝術）",
+        "en": "photograph; photography",
+        "ex": {
+          "de": "Meine Tante sammelt alte {Fotografien} aus der Stadt.",
+          "zh": "我阿姨收集這座城市的老照片。",
+          "en": "My aunt collects old photographs of the city.",
+          "distractors": [
+            "Gurken",
+            "Wespen",
+            "Zwiebeln"
+          ]
+        }
+      }
+    ]
+  },
+  "fragen": {
+    "senses": [
+      {
+        "zh": "問",
+        "en": "to ask",
+        "ex": {
+          "de": "Der Tourist will den Polizisten nach dem Weg {fragen}.",
+          "zh": "那位觀光客想向警察問路。",
+          "en": "The tourist wants to ask the policeman for directions.",
+          "distractors": [
+            "bürsten",
+            "pflanzen",
+            "laden"
+          ]
+        }
+      }
+    ]
+  },
+  "frage": {
+    "senses": [
+      {
+        "zh": "問題",
+        "en": "question",
+        "ex": {
+          "de": "Die letzte {Frage} im Test war wirklich schwer.",
+          "zh": "考試的最後一題真的很難。",
+          "en": "The last question on the test was really hard.",
+          "distractors": [
+            "Kerze",
+            "Tasche",
+            "Brille"
+          ]
+        }
+      }
+    ]
+  },
+  "frau": {
+    "senses": [
+      {
+        "zh": "女人；女士；太太",
+        "en": "woman; Mrs.",
+        "ex": {
+          "de": "Die {Frau} neben mir liest im Bus Zeitung.",
+          "zh": "我旁邊的女士在公車上看報紙。",
+          "en": "The woman next to me is reading a newspaper on the bus.",
+          "distractors": [
+            "Tür",
+            "Decke",
+            "Tomate"
+          ]
+        }
+      }
+    ]
+  },
+  "frech": {
+    "senses": [
+      {
+        "zh": "厚臉皮的；沒禮貌的",
+        "en": "cheeky, rude",
+        "ex": {
+          "de": "Der kleine Junge war heute sehr {frech} zu seiner Lehrerin.",
+          "zh": "那個小男孩今天對老師非常沒禮貌。",
+          "en": "The little boy was very cheeky to his teacher today.",
+          "distractors": [
+            "sauber",
+            "kalt",
+            "teuer"
+          ]
+        }
+      }
+    ]
+  },
+  "frei": {
+    "senses": [
+      {
+        "zh": "空閒的；自由的",
+        "en": "free; off",
+        "ex": {
+          "de": "Am Sonntag habe ich {frei} und fahre ans Meer.",
+          "zh": "星期天我休假，要去海邊。",
+          "en": "On Sunday I have the day off and drive to the sea.",
+          "distractors": [
+            "rot",
+            "schwer",
+            "grün"
+          ]
+        }
+      }
+    ]
+  },
+  "im-freien": {
+    "senses": [
+      {
+        "zh": "在戶外",
+        "en": "outdoors",
+        "ex": {
+          "de": "Bei schönem Wetter essen wir gern {im Freien}.",
+          "zh": "天氣好的時候，我們喜歡在戶外吃飯。",
+          "en": "When the weather is nice, we like to eat outdoors.",
+          "distractors": [
+            "im Kühlschrank",
+            "im Aufzug",
+            "im Tresor"
+          ]
+        }
+      }
+    ]
+  },
+  "freiheit": {
+    "senses": [
+      {
+        "zh": "自由",
+        "en": "freedom",
+        "ex": {
+          "de": "Nach der Schule wollte er endlich seine {Freiheit} genießen.",
+          "zh": "放學後他終於想好好享受自己的自由。",
+          "en": "After school he finally wanted to enjoy his freedom.",
+          "distractors": [
+            "Rechnung",
+            "Bluse",
+            "Kreuzung"
+          ]
+        }
+      }
+    ]
+  },
+  "freizeit": {
+    "senses": [
+      {
+        "zh": "空閒時間；休閒",
+        "en": "free time",
+        "ex": {
+          "de": "In meiner {Freizeit} lese ich viele Krimis.",
+          "zh": "我在休閒時間會看很多推理小說。",
+          "en": "In my free time I read a lot of crime novels.",
+          "distractors": [
+            "Schublade",
+            "Waschmaschine",
+            "Hose"
+          ]
+        }
+      }
+    ]
+  },
+  "freiwillig": {
+    "senses": [
+      {
+        "zh": "自願的",
+        "en": "voluntarily",
+        "ex": {
+          "de": "Die Schüler haben {freiwillig} den Park sauber gemacht.",
+          "zh": "學生們自願把公園打掃乾淨。",
+          "en": "The students voluntarily cleaned up the park.",
+          "distractors": [
+            "rechteckig",
+            "schwarz",
+            "salzig"
+          ]
+        }
+      }
+    ]
+  },
+  "fremd": {
+    "senses": [
+      {
+        "zh": "陌生的；外地的",
+        "en": "strange, unfamiliar",
+        "ex": {
+          "de": "Ich bin neu hier, die Stadt ist mir noch {fremd}.",
+          "zh": "我剛來這裡，這座城市對我還很陌生。",
+          "en": "I'm new here; the city is still unfamiliar to me.",
+          "distractors": [
+            "laut",
+            "heiß",
+            "dick"
+          ]
+        }
+      }
+    ]
+  },
+  "fressen": {
+    "senses": [
+      {
+        "zh": "（動物）吃",
+        "en": "to eat (of animals)",
+        "ex": {
+          "de": "Die Kühe {fressen} den ganzen Tag nur Gras.",
+          "zh": "那些牛整天只吃草。",
+          "en": "The cows eat only grass all day long.",
+          "distractors": [
+            "lesen",
+            "malen",
+            "zählen"
+          ]
+        }
+      }
+    ]
+  },
+  "freuen": {
+    "senses": [
+      {
+        "zh": "高興；期待",
+        "en": "to be happy; to look forward",
+        "ex": {
+          "de": "Ich kann mich schon jetzt auf den Sommer {freuen}.",
+          "zh": "我現在就能期待夏天了。",
+          "en": "I can already look forward to the summer now.",
+          "distractors": [
+            "schämen",
+            "verlaufen",
+            "rasieren"
+          ]
+        }
+      }
+    ]
+  },
+  "freude": {
+    "senses": [
+      {
+        "zh": "喜悅；樂趣",
+        "en": "joy",
+        "ex": {
+          "de": "Zu meinem Geburtstag hat sie mir eine große {Freude} gemacht.",
+          "zh": "我生日時，她讓我非常開心。",
+          "en": "For my birthday she made me very happy.",
+          "distractors": [
+            "Kreuzung",
+            "Glühbirne",
+            "Steckdose"
+          ]
+        }
+      }
+    ]
+  },
+  "freund": {
+    "senses": [
+      {
+        "zh": "朋友；男朋友",
+        "en": "friend; boyfriend",
+        "ex": {
+          "de": "Mein bester {Freund} wohnt jetzt in Wien.",
+          "zh": "我最好的朋友現在住在維也納。",
+          "en": "My best friend lives in Vienna now.",
+          "distractors": [
+            "Bleistift",
+            "Fernseher",
+            "Löffel"
+          ]
+        }
+      }
+    ]
+  },
+  "freundlich": {
+    "senses": [
+      {
+        "zh": "友善的；親切的",
+        "en": "friendly",
+        "ex": {
+          "de": "Die Verkäuferin war sehr {freundlich} zu allen Kunden.",
+          "zh": "那位店員對所有客人都很親切。",
+          "en": "The shop assistant was very friendly to all customers.",
+          "distractors": [
+            "grün",
+            "salzig",
+            "rund"
+          ]
+        }
+      }
+    ]
+  },
+  "freundschaft": {
+    "senses": [
+      {
+        "zh": "友誼",
+        "en": "friendship",
+        "ex": {
+          "de": "Unsere {Freundschaft} hält schon seit zwanzig Jahren.",
+          "zh": "我們的友誼已經維持了二十年。",
+          "en": "Our friendship has lasted for twenty years.",
+          "distractors": [
+            "Banane",
+            "Ohrfeige",
+            "Haltestelle"
+          ]
+        }
+      }
+    ]
+  },
+  "friede": {
+    "senses": [
+      {
+        "zh": "和平",
+        "en": "peace",
+        "ex": {
+          "de": "Alle Menschen wünschen sich {Frieden} auf der Welt.",
+          "zh": "所有人都希望世界和平。",
+          "en": "All people wish for peace in the world.",
+          "distractors": [
+            "Zement",
+            "Müll",
+            "Essig"
+          ]
+        }
+      }
+    ]
+  },
+  "frieren": {
+    "senses": [
+      {
+        "zh": "覺得冷；結冰",
+        "en": "to freeze, be cold",
+        "ex": {
+          "de": "Wenn du ohne Jacke gehst, wirst du bestimmt {frieren}.",
+          "zh": "如果你不穿外套出門，一定會冷。",
+          "en": "If you go without a jacket, you will surely be cold.",
+          "distractors": [
+            "bellen",
+            "ertrinken",
+            "explodieren"
+          ]
+        }
+      }
+    ]
+  },
+  "frisch": {
+    "senses": [
+      {
+        "zh": "新鮮的",
+        "en": "fresh",
+        "ex": {
+          "de": "Auf dem Markt kaufe ich immer {frisches} Gemüse.",
+          "zh": "我總是在市場買新鮮的蔬菜。",
+          "en": "At the market I always buy fresh vegetables.",
+          "distractors": [
+            "wütendes",
+            "hölzernes",
+            "singendes"
+          ]
+        }
+      }
+    ]
+  },
+  "friseur": {
+    "senses": [
+      {
+        "zh": "理髮師；髮廊",
+        "en": "hairdresser, barber",
+        "ex": {
+          "de": "Mein {Friseur} schneidet mir die Haare immer kurz.",
+          "zh": "我的理髮師總是把我的頭髮剪得很短。",
+          "en": "My hairdresser always cuts my hair short.",
+          "distractors": [
+            "Tisch",
+            "Mond",
+            "Wecker"
+          ]
+        }
+      }
+    ]
+  },
+  "friseurin": {
+    "senses": [
+      {
+        "zh": "女理髮師；美髮師",
+        "en": "hairdresser (female)",
+        "ex": {
+          "de": "Die {Friseurin} hat mir die Haare gestern blond gefärbt.",
+          "zh": "美髮師昨天把我的頭髮染成了金色。",
+          "en": "The hairdresser dyed my hair blond yesterday.",
+          "distractors": [
+            "Zitrone",
+            "Tonne",
+            "Wespe"
+          ]
+        }
+      }
+    ]
+  },
+  "frisur": {
+    "senses": [
+      {
+        "zh": "髮型",
+        "en": "hairstyle",
+        "ex": {
+          "de": "Mit dieser neuen {Frisur} siehst du viel jünger aus.",
+          "zh": "你剪了這個新髮型，看起來年輕多了。",
+          "en": "With this new hairstyle you look much younger.",
+          "distractors": [
+            "Waage",
+            "Kreide",
+            "Leiter"
+          ]
+        }
+      }
+    ]
+  },
+  "frist": {
+    "senses": [
+      {
+        "zh": "期限",
+        "en": "deadline",
+        "ex": {
+          "de": "Die {Frist} für die Anmeldung endet am Freitag.",
+          "zh": "報名的期限在星期五截止。",
+          "en": "The deadline for registration ends on Friday.",
+          "distractors": [
+            "Pfanne",
+            "Gurke",
+            "Ziege"
+          ]
+        }
+      }
+    ]
+  },
+  "froh": {
+    "senses": [
+      {
+        "zh": "高興的；慶幸的",
+        "en": "glad, happy",
+        "ex": {
+          "de": "Ich bin {froh}, dass der Test vorbei ist.",
+          "zh": "考試結束了，我很慶幸。",
+          "en": "I'm glad that the test is over.",
+          "distractors": [
+            "nass",
+            "spitz",
+            "leer"
+          ]
+        }
+      }
+    ]
+  },
+  "froehlich": {
+    "senses": [
+      {
+        "zh": "開心的；愉快的",
+        "en": "cheerful",
+        "ex": {
+          "de": "Die Kinder singen {fröhlich} auf dem Schulhof.",
+          "zh": "孩子們在操場上開心地唱歌。",
+          "en": "The children sing cheerfully in the schoolyard.",
+          "distractors": [
+            "schwarz",
+            "eckig",
+            "tot"
+          ]
+        }
+      }
+    ]
+  },
+  "frucht": {
+    "senses": [
+      {
+        "zh": "水果；果實",
+        "en": "fruit",
+        "ex": {
+          "de": "Diese {Frucht} schmeckt süß, aber ich kenne ihren Namen nicht.",
+          "zh": "這種水果很甜，但我不知道它的名字。",
+          "en": "This fruit tastes sweet, but I don't know its name.",
+          "distractors": [
+            "Brücke",
+            "Kette",
+            "Schere"
+          ]
+        }
+      }
+    ]
+  },
+  "fruechte": {
+    "senses": [
+      {
+        "zh": "水果（瑞士用法，德國、奧地利說 Obst）",
+        "en": "fruit (Swiss usage)",
+        "ex": {
+          "de": "Im Sommer essen wir viele {Früchte} aus dem Garten.",
+          "zh": "夏天我們吃很多自家花園的水果。",
+          "en": "In summer we eat a lot of fruit from the garden.",
+          "distractors": [
+            "Schuhe",
+            "Briefe",
+            "Reifen"
+          ]
+        }
+      }
+    ]
+  },
+  "frueh": {
+    "senses": [
+      {
+        "zh": "早的；一大早",
+        "en": "early",
+        "ex": {
+          "de": "Mein Bruder steht jeden Morgen sehr {früh} auf.",
+          "zh": "我哥哥每天早上都起得很早。",
+          "en": "My brother gets up very early every morning.",
+          "distractors": [
+            "eng",
+            "rund",
+            "kalt"
+          ]
+        }
+      }
+    ]
+  },
+  "frueher-frueher": {
+    "senses": [
+      {
+        "zh": "以前；較早的",
+        "en": "earlier, formerly",
+        "ex": {
+          "de": "{Früher} habe ich viel Fußball gespielt, jetzt nicht mehr.",
+          "zh": "我以前常踢足球，現在不踢了。",
+          "en": "I used to play a lot of football, but not any more.",
+          "distractors": [
+            "Bald",
+            "Übermorgen",
+            "Demnächst"
+          ]
+        }
+      }
+    ]
+  },
+  "fruehstuecken": {
+    "senses": [
+      {
+        "zh": "吃早餐",
+        "en": "to have breakfast",
+        "ex": {
+          "de": "Am Sonntag wollen wir lange im Bett {frühstücken}.",
+          "zh": "星期天我們想在床上慢慢吃早餐。",
+          "en": "On Sunday we want to have a long breakfast in bed.",
+          "distractors": [
+            "duschen",
+            "joggen",
+            "tanken"
+          ]
+        }
+      }
+    ]
+  },
+  "fruehstueck": {
+    "senses": [
+      {
+        "zh": "早餐",
+        "en": "breakfast",
+        "ex": {
+          "de": "Zum {Frühstück} gibt es bei uns oft Müsli mit Obst.",
+          "zh": "我們的早餐常常是水果穀麥片。",
+          "en": "For breakfast we often have muesli with fruit.",
+          "distractors": [
+            "Gewitter",
+            "Fieber",
+            "Gebirge"
+          ]
+        }
+      }
+    ]
+  },
+  "fuehlen": {
+    "senses": [
+      {
+        "zh": "感覺；覺得",
+        "en": "to feel",
+        "ex": {
+          "de": "Nach dem Schlaf {fühle} ich mich viel besser.",
+          "zh": "睡過一覺後，我覺得好多了。",
+          "en": "After sleeping I feel much better.",
+          "distractors": [
+            "wasche",
+            "setze",
+            "beeile"
+          ]
+        }
+      }
+    ]
+  },
+  "fuehren": {
+    "senses": [
+      {
+        "zh": "通往；帶領；進行",
+        "en": "to lead",
+        "ex": {
+          "de": "Der Weg {führt} direkt durch den Wald zum See.",
+          "zh": "這條路直接穿過森林通到湖邊。",
+          "en": "The path leads straight through the forest to the lake.",
+          "distractors": [
+            "schwimmt",
+            "blüht",
+            "bellt"
+          ]
+        }
+      }
+    ]
+  },
+  "fuehrerausweis": {
+    "senses": [
+      {
+        "zh": "駕照（瑞士用法）",
+        "en": "driving licence (Swiss usage)",
+        "ex": {
+          "de": "Mein {Führerausweis} ist leider seit gestern abgelaufen.",
+          "zh": "我的駕照很不巧從昨天起過期了。",
+          "en": "My driving licence unfortunately expired yesterday.",
+          "distractors": [
+            "Sessel",
+            "Eimer",
+            "Hammer"
+          ]
+        }
+      }
+    ]
+  },
+  "fuehrerschein": {
+    "senses": [
+      {
+        "zh": "駕照",
+        "en": "driving licence",
+        "ex": {
+          "de": "Mit achtzehn Jahren habe ich meinen {Führerschein} gemacht.",
+          "zh": "我十八歲時考了駕照。",
+          "en": "At eighteen I got my driving licence.",
+          "distractors": [
+            "Rucksack",
+            "Kugelschreiber",
+            "Computer"
+          ]
+        }
+      }
+    ]
+  },
+  "fuehrung": {
+    "senses": [
+      {
+        "zh": "導覽；帶領",
+        "en": "guided tour",
+        "ex": {
+          "de": "Wir haben an einer {Führung} durch das Schloss teilgenommen.",
+          "zh": "我們參加了城堡的導覽。",
+          "en": "We took part in a guided tour of the castle.",
+          "distractors": [
+            "Tablette",
+            "Schaukel",
+            "Birne"
+          ]
+        }
+      }
+    ]
+  },
+  "fundbuero": {
+    "senses": [
+      {
+        "zh": "失物招領處",
+        "en": "lost-property office",
+        "ex": {
+          "de": "Meinen Schirm habe ich im {Fundbüro} wieder abgeholt.",
+          "zh": "我的雨傘在失物招領處領回來了。",
+          "en": "I picked up my umbrella again at the lost-property office.",
+          "distractors": [
+            "Aquarium",
+            "Weinglas",
+            "Ei"
+          ]
+        }
+      }
+    ]
+  },
+  "funktionieren": {
+    "senses": [
+      {
+        "zh": "運作；行得通",
+        "en": "to work, function",
+        "ex": {
+          "de": "Der alte Drucker {funktioniert} leider nicht mehr richtig.",
+          "zh": "那台舊印表機很遺憾已經不太能正常運作了。",
+          "en": "The old printer unfortunately no longer works properly.",
+          "distractors": [
+            "schmeckt",
+            "lacht",
+            "weint"
+          ]
+        }
+      }
+    ]
+  },
+  "fuer": {
+    "senses": [
+      {
+        "zh": "為了；給",
+        "en": "for",
+        "ex": {
+          "de": "Ich habe ein kleines Geschenk {für} meine Schwester gekauft.",
+          "zh": "我買了一份小禮物給我妹妹（姊姊）。",
+          "en": "I bought a small present for my sister.",
+          "distractors": [
+            "durch",
+            "um",
+            "bis"
+          ]
+        }
+      }
+    ]
+  },
+  "furchtbar": {
+    "senses": [
+      {
+        "zh": "可怕的；糟糕的",
+        "en": "terrible",
+        "ex": {
+          "de": "Das Wetter war gestern {furchtbar}, es hat nur geregnet.",
+          "zh": "昨天天氣很糟，一直下雨。",
+          "en": "The weather was terrible yesterday; it only rained.",
+          "distractors": [
+            "vegetarisch",
+            "pünktlich",
+            "gesund"
+          ]
+        }
+      }
+    ]
+  },
+  "fuerchten": {
+    "senses": [
+      {
+        "zh": "害怕；擔心",
+        "en": "to fear, be afraid",
+        "ex": {
+          "de": "Viele Kinder {fürchten} sich im Dunkeln vor Gespenstern.",
+          "zh": "很多孩子在黑暗中會怕鬼。",
+          "en": "Many children are afraid of ghosts in the dark.",
+          "distractors": [
+            "beeilen",
+            "setzen",
+            "erkälten"
+          ]
+        }
+      }
+    ]
+  },
+  "fuss": {
+    "senses": [
+      {
+        "zh": "腳；腳掌",
+        "en": "foot",
+        "ex": {
+          "de": "Ich habe mir beim Tanzen den linken {Fuß} verletzt.",
+          "zh": "我跳舞時傷到了左腳。",
+          "en": "I hurt my left foot while dancing.",
+          "distractors": [
+            "Schirm",
+            "Ordner",
+            "Teller"
+          ]
+        }
+      }
+    ]
+  },
+  "fussball": {
+    "senses": [
+      {
+        "zh": "足球",
+        "en": "football, soccer",
+        "ex": {
+          "de": "Der {Fußball} ist leider unter das Auto gerollt.",
+          "zh": "足球很不巧滾到車子底下了。",
+          "en": "The football unfortunately rolled under the car.",
+          "distractors": [
+            "Schneemann",
+            "Kamin",
+            "Eisberg"
+          ]
+        }
+      }
+    ]
+  },
+  "fussgaenger": {
+    "senses": [
+      {
+        "zh": "行人",
+        "en": "pedestrian",
+        "ex": {
+          "de": "Ein {Fußgänger} hat plötzlich die Straße überquert.",
+          "zh": "一名行人突然穿越了馬路。",
+          "en": "A pedestrian suddenly crossed the street.",
+          "distractors": [
+            "Kaktus",
+            "Staubsauger",
+            "Stern"
+          ]
+        }
+      }
+    ]
+  }
+}
