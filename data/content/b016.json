@@ -411,13 +411,13 @@
         "zh": "入場；入場費",
         "en": "entry, admission",
         "ex": {
-          "de": "Der {Eintritt} ins Museum ist für Kinder frei.",
-          "zh": "兒童免費進入博物館。",
-          "en": "Admission to the museum is free for children.",
+          "de": "Kinder unter sechs Jahren haben freien {Eintritt}.",
+          "zh": "六歲以下的小孩可以免費入場。",
+          "en": "Children under six get free admission.",
           "distractors": [
-            "Schrank",
-            "Hafen",
-            "Apfel"
+            "Ärger",
+            "Husten",
+            "Geruch"
           ]
         }
       }
@@ -573,9 +573,9 @@
         "zh": "搬進去",
         "en": "to move in",
         "ex": {
-          "de": "Nächste Woche wollen wir in die neue Wohnung {einziehen}.",
-          "zh": "下週我們要搬進新家。",
-          "en": "Next week we want to move into the new flat.",
+          "de": "Mein Bruder wird im Herbst bei uns {einziehen}.",
+          "zh": "我哥哥秋天會搬來跟我們一起住。",
+          "en": "My brother will move in with us in the autumn.",
           "distractors": [
             "verblühen",
             "erfrieren",
@@ -735,9 +735,9 @@
         "zh": "接待；收到",
         "en": "to receive, welcome",
         "ex": {
-          "de": "Die Gäste wurden vom Bürgermeister herzlich {empfangen}.",
-          "zh": "客人受到市長熱情的接待。",
-          "en": "The guests were warmly welcomed by the mayor.",
+          "de": "Der Direktor hat uns freundlich an der Tür {empfangen}.",
+          "zh": "主任在門口親切地迎接了我們。",
+          "en": "The director welcomed us warmly at the door.",
           "distractors": [
             "gepflückt",
             "gestrichen",
